@@ -1,6 +1,6 @@
 :root{
   --bg:#050b14;--panel:#0c1627;--text:#eef6ff;--muted:#9fb2ca;
-  --accent:#ffd34e;--accent2:#1ab7ff;--ok:#30d158;--bad:#ff4d5e;--line:rgba(255,255,255,.08);
+  --accent:#ffd34e;--accent2:#00e5ff;--ok:#30d158;--bad:#ff4d5e;--line:rgba(255,255,255,.08);
 }
 *{box-sizing:border-box}
 body{margin:0;background:radial-gradient(circle at top,#132641 0,#050b14 45%,#02060b 100%);color:var(--text);font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
@@ -35,9 +35,16 @@ h1,h2,h3,p{margin-top:0}.muted{color:var(--muted)}.small{font-size:13px}.ok{colo
 @media(min-width:420px){.level-grid{grid-template-columns:repeat(3,1fr)}}
 
 
-/* StarQuiz V9 Premium */
+/* StarQuiz V9 Premium FIXED */
 .logo-main{
+  display:block;
+  width:235px;
+  max-width:88%;
+  height:auto;
+  margin:0 auto 14px;
   border-radius:22px;
+  object-fit:contain;
+  background:rgba(3,8,18,.35);
   box-shadow:0 22px 48px rgba(0,0,0,.42),0 0 0 1px rgba(255,211,78,.22);
 }
 .mini-logo{
@@ -46,13 +53,6 @@ h1,h2,h3,p{margin-top:0}.muted{color:var(--muted)}.small{font-size:13px}.ok{colo
 }
 .hero{
   border-color:rgba(255,211,78,.28);
-  box-shadow:0 22px 55px rgba(0,0,0,.32), inset 0 0 40px rgba(255,211,78,.04);
-}
-.brand{
-  letter-spacing:-.5px;
-}
-.primary{
-  box-shadow:0 12px 24px rgba(255,171,46,.16);
 }
 .topic-card{
   background:rgba(255,255,255,.035);
@@ -61,9 +61,7 @@ h1,h2,h3,p{margin-top:0}.muted{color:var(--muted)}.small{font-size:13px}.ok{colo
   padding:10px;
   margin-top:10px;
 }
-.topic-card .topic-btn{
-  margin-top:0;
-}
+.topic-card .topic-btn{margin-top:0}
 .topic-levels{
   display:grid;
   grid-template-columns:repeat(3,1fr);
@@ -79,16 +77,6 @@ h1,h2,h3,p{margin-top:0}.muted{color:var(--muted)}.small{font-size:13px}.ok{colo
   font-weight:800;
   font-size:12px;
 }
-.logo-fallback{
-  background:linear-gradient(135deg,#ffd34e,#00e5ff);
-  color:#06101d;
-  font-weight:900;
-  display:inline-flex;
-  align-items:center;
-  justify-content:center;
-}
 @media(max-width:420px){
   .logo-main{width:210px}
-  .brand{font-size:21px}
-  .card{border-radius:22px;padding:15px}
 }

@@ -1,25 +1,27 @@
-# StarQuiz V9 Premium
+# StarQuiz V9 Premium FIXED
 
-KKTC Kamu Sınavı Hazırlık Uygulaması.
+Bu paket logo görünmeme sorununu düzeltmek için hazırlanmıştır.
 
-## Bu sürümde
+## İçerik
 
-- Gönderilen STARQUIZ logosu resmi logo olarak eklendi
-- Ana sayfa büyük logo güncellendi
-- Üst menü küçük logo güncellendi
-- PWA ikonları 192x192 ve 512x512 hazırlandı
-- Apple touch icon ve favicon eklendi
-- Kolay / Orta / Zor seviyeli test sistemi korundu
-- Konu bazlı seviyeli test başlatma eklendi
-- Akıllı rastgele soru seçimi korundu
+- STARQUIZ logosu `assets/logo.png` içine eklendi
+- Yedek olarak kök dizine `logo.png` da eklendi
+- PWA ikonları güncellendi
+- Favicon eklendi
+- Manifest yolları düzeltildi
+- Service Worker cache sürümü yenilendi
+- Konu bazlı Kolay / Orta / Zor test seçimi eklendi
 - GitHub Pages uyumlu hale getirildi
 
-## GitHub Pages kurulum
+## Yükleme
 
-ZIP içindeki dosyaları StarQuiz reposuna yükle.
-Settings > Pages kısmından main / root seç.
-Yüklemeden sonra tarayıcı cache temizliği için sayfayı birkaç kez yenile.
+ZIP içindeki tüm dosyaları GitHub reposuna olduğu gibi yükle.
+Özellikle `assets` klasörünü silmeden yükle.
 
-## Not
+## Önemli
 
-Telefon ana ekranındaki eski ikon görünürse uygulamayı silip tekrar ana ekrana ekle.
+Yükledikten sonra:
+1. Sayfayı Ctrl + F5 ile yenile.
+2. Telefonda eski ikon varsa ana ekrandan silip tekrar ekle.
+3. Tarayıcıda şu adresi kontrol et:
+   `https://yildiz98.github.io/StarQuiz/assets/logo.png`
