@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192"><rect width="192" height="192" rx="46" fill="#07101d"/><path d="M96 24l17 52 55 1-44 32 16 53-44-32-44 32 16-53-44-32 55-1z" fill="#00d4ff"/><text x="96" y="178" font-family="Arial" font-size="24" font-weight="700" text-anchor="middle" fill="#fff">StarQuiz</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="110" fill="#050b14"/>
+<circle cx="256" cy="256" r="178" fill="#0c1627" stroke="#ffd34e" stroke-width="18"/>
+<path d="M256 82l42 113 120 5-94 74 32 116-100-65-100 65 32-116-94-74 120-5z" fill="#ffd34e"/>
+<text x="256" y="450" font-size="56" text-anchor="middle" fill="#00e5ff" font-family="Arial" font-weight="700">SQ</text>
+</svg>

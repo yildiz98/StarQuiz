@@ -1,117 +1,217 @@
-const LEVELS = [
-  { id:1, name:'Seviye 1', count:10, pass:70, time:8, desc:'Başlangıç - 10 soru' },
-  { id:2, name:'Seviye 2', count:20, pass:75, time:15, desc:'Orta - 20 soru' },
-  { id:3, name:'Seviye 3', count:30, pass:80, time:22, desc:'Zor - 30 soru' }
+const STORE_KEY = "starquiz_v3_state";
+const app = document.getElementById("app");
+let page = "home";
+let activeQuiz = null;
+
+const levels = [
+  { id:1, title:"Seviye 1", count:10, pass:70, xp:100 },
+  { id:2, title:"Seviye 2", count:20, pass:75, xp:180 },
+  { id:3, title:"Seviye 3", count:30, pass:80, xp:300 },
 ];
 
-const QUESTIONS = [
-  {q:'Kuzey Kıbrıs Türk Cumhuriyeti’nin başkenti neresidir?', a:['Girne','Lefkoşa','Gazimağusa','Güzelyurt'], c:1},
-  {q:'KKTC hangi tarihte ilan edilmiştir?', a:['15 Kasım 1983','20 Temmuz 1974','1 Ağustos 1976','29 Ekim 1923'], c:0},
-  {q:'KKTC bayrağında hangi renkler ağırlıklı olarak yer alır?', a:['Mavi ve beyaz','Kırmızı ve beyaz','Yeşil ve beyaz','Siyah ve sarı'], c:1},
-  {q:'Kıbrıs Barış Harekâtı hangi yılda gerçekleşmiştir?', a:['1960','1974','1983','1990'], c:1},
-  {q:'KKTC’nin para birimi günlük kullanımda hangisidir?', a:['Euro','Sterlin','Türk Lirası','Dolar'], c:2},
-  {q:'Girne Kalesi hangi şehirde bulunur?', a:['Girne','Lefkoşa','İskele','Lefke'], c:0},
-  {q:'Kıbrıs adası Akdeniz’in hangi bölgesinde yer alır?', a:['Batı Akdeniz','Doğu Akdeniz','Kuzey Denizi','Ege Denizi'], c:1},
-  {q:'KKTC’de Cumhuriyet Bayramı hangi tarihte kutlanır?', a:['1 Ağustos','20 Temmuz','15 Kasım','23 Nisan'], c:2},
-  {q:'Kapalı Maraş hangi şehir sınırları içerisindedir?', a:['Gazimağusa','Girne','Güzelyurt','Lefkoşa'], c:0},
-  {q:'Lefke hangi özelliğiyle bilinen bir bölgedir?', a:['Narenciye ve doğal güzellikler','Kayak turizmi','Çöl iklimi','Volkanik dağlar'], c:0},
-  {q:'KKTC’de yasama organı hangisidir?', a:['Cumhuriyet Meclisi','Danıştay','Senato','Valilik'], c:0},
-  {q:'20 Temmuz KKTC’de hangi gün olarak kutlanır?', a:['Cumhuriyet Bayramı','Barış ve Özgürlük Bayramı','Zafer Bayramı','Gençlik Bayramı'], c:1},
-  {q:'Kıbrıs’ın en önemli tarihi liman kentlerinden biri hangisidir?', a:['Gazimağusa','Karpaz','Lefke','Değirmenlik'], c:0},
-  {q:'Karpaz Yarımadası daha çok hangi özelliğiyle tanınır?', a:['Altın kumsallar ve doğal yaşam','Sanayi tesisleri','Kayak merkezi','Büyük göller'], c:0},
-  {q:'KKTC’de yürütmenin başında halk tarafından seçilen makam hangisidir?', a:['Cumhurbaşkanı','Kaymakam','Belediye Başkanı','Muhtar'], c:0},
-  {q:'Kıbrıs Türk halkının önemli liderlerinden biri kimdir?', a:['Rauf Denktaş','Mehmet Akif Ersoy','Ziya Gökalp','Namık Kemal'], c:0},
-  {q:'KKTC’nin resmi dili nedir?', a:['Türkçe','İngilizce','Rumca','Arapça'], c:0},
-  {q:'Bellapais Manastırı hangi bölgeye yakındır?', a:['Girne','Güzelyurt','Lefke','İskele'], c:0},
-  {q:'Salamis Antik Kenti hangi şehir yakınlarındadır?', a:['Gazimağusa','Girne','Lefkoşa','Lefke'], c:0},
-  {q:'KKTC’de ilçelerden biri hangisidir?', a:['Mersin','İskele','Alanya','Silifke'], c:1},
-  {q:'Kıbrıs’ta zeytin ağacı hangi alanla ilişkilidir?', a:['Tarım ve kültür','Madencilik','Kutup iklimi','Gemi motoru'], c:0},
-  {q:'KKTC’de üniversite eğitimiyle öne çıkan şehirlerden biri hangisidir?', a:['Lefkoşa','Ağrı','Kars','Tekirdağ'], c:0},
-  {q:'Namık Kemal Zindanı hangi şehirde bulunur?', a:['Gazimağusa','Girne','İskele','Lefke'], c:0},
-  {q:'Kıbrıs mutfağında hellim ne tür bir üründür?', a:['Peynir','Tatlı','İçecek','Baharat'], c:0},
-  {q:'KKTC’de turizm açısından öne çıkan şehirlerden biri hangisidir?', a:['Girne','Kars','Sivas','Edirne'], c:0},
-  {q:'Kıbrıs Türk Federe Devleti hangi yılda ilan edilmiştir?', a:['1975','1983','1960','1998'], c:0},
-  {q:'KKTC’de yerel yönetim birimi olarak hangisi bulunur?', a:['Belediye','Eyalet','Kanton','Prefektörlük'], c:0},
-  {q:'Kıbrıs’ta narenciye üretimiyle bilinen bölge hangisidir?', a:['Güzelyurt','Karpaz','Boğaz','Haspolat'], c:0},
-  {q:'KKTC’de trafik akışı genellikle hangi taraftandır?', a:['Sağdan','Soldan','Ortadan','Tek yön zorunlu'], c:1},
-  {q:'Kıbrıs adasının kuzeyinde hangi devlet yer alır?', a:['KKTC','Malta','Girit','Rodos'], c:0}
-];
+const defaultState = {
+  xp:0, streak:0, levelUnlocked:1, tests:0, total:0, correct:0, wrong:0,
+  wrongQuestions:[], badges:[], history:[]
+};
+let state = load();
 
-let state = JSON.parse(localStorage.getItem('starQuizState') || '{"unlocked":1,"totalSolved":0,"bestScore":0}');
-let currentLevel = 1, currentIndex = 0, answers = [], secondsLeft = 0, timerId = null, autoMoveLock = false;
-const $ = id => document.getElementById(id);
-function save(){ localStorage.setItem('starQuizState', JSON.stringify(state)); }
-function show(view){ document.querySelectorAll('.view').forEach(v=>v.classList.remove('active')); $(view).classList.add('active'); }
+function load(){ try{return {...defaultState, ...(JSON.parse(localStorage.getItem(STORE_KEY))||{})};}catch(e){return {...defaultState};}}
+function save(){ localStorage.setItem(STORE_KEY, JSON.stringify(state)); }
+function shuffle(arr){ return [...arr].sort(()=>Math.random()-0.5); }
+function percent(a,b){ return b ? Math.round((a/b)*100) : 0; }
+function setPage(p){ page=p; activeQuiz=null; document.querySelectorAll(".nav-btn").forEach(b=>b.classList.toggle("active",b.dataset.page===p)); render(); }
+
+document.querySelectorAll(".nav-btn").forEach(btn=>btn.addEventListener("click",()=>setPage(btn.dataset.page)));
+document.getElementById("resetBtn").addEventListener("click",()=>{
+  if(confirm("Tüm StarQuiz ilerlemesi sıfırlansın mı?")){ localStorage.removeItem(STORE_KEY); state=load(); setPage("home");}
+});
+
+function render(){
+  if(page==="home") return renderHome();
+  if(page==="quiz") return renderQuizStart();
+  if(page==="wrong") return renderWrong();
+  if(page==="stats") return renderStats();
+  if(page==="sources") return renderSources();
+}
+
 function renderHome(){
-  $('totalSolved').textContent = state.totalSolved || 0; $('bestScore').textContent = Math.round(state.bestScore||0); $('openLevel').textContent = state.unlocked || 1;
-  $('levels').innerHTML = LEVELS.map(l=>{
-    const locked = l.id > state.unlocked;
-    return `<div class="card level-card ${locked?'locked':''}"><div class="level-left"><div class="level-mark">${locked?'🔒':'★'}</div><div><h3>${l.name}</h3><p>${l.desc} • Geçiş: ${l.pass} puan</p></div></div><button ${locked?'disabled':''} onclick="startQuiz(${l.id})">${locked?'Kilitli':'Başla'}</button></div>`;
-  }).join('');
+  const rate = percent(state.correct,state.total);
+  app.innerHTML = `
+    <section class="card hero">
+      <h1>Bilgini Test Et, Seviyeni Yükselt!</h1>
+      <p class="muted">KKTC genel kültür için 500 soruluk genişletilebilir soru bankası.</p>
+      <div class="grid">
+        <div class="stat">⭐ XP <b>${state.xp}</b></div>
+        <div class="stat">🏆 Açık Seviye <b>${state.levelUnlocked}</b></div>
+        <div class="stat">📊 Başarı <b>%${rate}</b></div>
+        <div class="stat">📚 Soru Bankası <b>${QUESTIONS.length}</b></div>
+      </div>
+      <button class="primary" onclick="setPage('quiz')">Teste Başla</button>
+    </section>
+    <section class="card">
+      <h2>Seviyeler</h2>
+      <div class="levels">
+        ${levels.map(l=>`
+          <div class="level-card ${state.levelUnlocked<l.id?'locked':''}">
+            <div>
+              <b>${state.levelUnlocked>=l.id?'✅':'🔒'} ${l.title}</b>
+              <div class="muted small">${l.count} soru · Geçiş: %${l.pass} · Ödül: ${l.xp} XP</div>
+            </div>
+            <span class="badge ${l.id===1?'gold':''}">${l.count}</span>
+          </div>`).join("")}
+      </div>
+    </section>
+    <section class="card">
+      <h2>Rozetler</h2>
+      <p>${getBadges().join(" ") || "Henüz rozet yok. İlk testini çözerek başla."}</p>
+    </section>
+  `;
 }
+
+function renderQuizStart(){
+  app.innerHTML = `
+    <section class="card">
+      <h2>Test Seç</h2>
+      <p class="muted">Sorular 500 soruluk havuzdan rastgele gelir. Seçeneğe dokununca otomatik diğer soruya geçer.</p>
+      ${levels.map(l=>`
+        <button class="${state.levelUnlocked>=l.id?'primary':'secondary'}" ${state.levelUnlocked>=l.id?`onclick="startQuiz(${l.id})"`:"disabled"}>
+          ${state.levelUnlocked>=l.id?'▶':'🔒'} ${l.title} — ${l.count} Soru
+        </button>`).join("")}
+    </section>`;
+}
+
 function startQuiz(levelId){
-  currentLevel = levelId; currentIndex = 0; autoMoveLock = false; const level = LEVELS[levelId-1]; answers = Array(level.count).fill(null); secondsLeft = level.time*60;
-  clearInterval(timerId); timerId=setInterval(()=>{secondsLeft--; renderTimer(); if(secondsLeft<=0) finishQuiz();},1000);
-  $('quizLevelBadge').textContent = level.name; $('quizTitle').textContent = `${level.count} Soruluk Genel Kültür Testi`; show('quizView'); renderQuestion(); renderTimer();
-}
-function renderTimer(){ const m=String(Math.floor(secondsLeft/60)).padStart(2,'0'), s=String(secondsLeft%60).padStart(2,'0'); $('timer').textContent=`${m}:${s}`; }
-function renderQuestion(){
-  const level = LEVELS[currentLevel-1], q = QUESTIONS[currentIndex];
-  $('questionMeta').textContent = `Soru ${currentIndex+1} / ${level.count}`; $('questionText').textContent = q.q;
-  $('answers').innerHTML = q.a.map((x,i)=>`<button class="answer ${answers[currentIndex]===i?'selected':''}" onclick="selectAnswer(${i})">${String.fromCharCode(65+i)}) ${x}</button>`).join('');
-  $('progressBar').style.width = `${((currentIndex+1)/level.count)*100}%`; $('prevBtn').disabled = currentIndex===0; $('nextBtn').textContent = currentIndex===level.count-1 ? 'Bitir' : 'İleri';
-}
-function selectAnswer(i){
-  if(autoMoveLock) return;
-  answers[currentIndex]=i;
+  const lvl = levels.find(x=>x.id===levelId);
+  activeQuiz = { level:lvl, index:0, answers:[], questions:shuffle(QUESTIONS).slice(0,lvl.count), locked:false };
   renderQuestion();
-  const level = LEVELS[currentLevel-1];
-  autoMoveLock = true;
-  setTimeout(()=>{
-    autoMoveLock = false;
-    if(currentIndex < level.count-1){
-      currentIndex++;
-      renderQuestion();
-    } else {
-      finishQuiz();
-    }
-  }, 450);
 }
-function renderWrongReview(level){
-  const wrongItems = [];
-  for(let i=0;i<level.count;i++){
-    const q = QUESTIONS[i];
-    if(answers[i] !== q.c){
-      const userAnswer = answers[i] === null ? 'Boş bırakıldı' : q.a[answers[i]];
-      wrongItems.push(`
-        <div class="wrong-item">
-          <div class="wrong-q">${i+1}. ${q.q}</div>
-          <div class="wrong-a"><span>Senin cevabın:</span> ${userAnswer}</div>
-          <div class="right-a"><span>Doğru cevap:</span> ${q.a[q.c]}</div>
-        </div>
-      `);
-    }
-  }
-  if(!wrongItems.length){
-    $('wrongReview').innerHTML = `<div class="perfect-box">⭐ Harika! Yanlış cevabın yok.</div>`;
+
+function renderQuestion(){
+  const q = activeQuiz.questions[activeQuiz.index];
+  const done = activeQuiz.index;
+  app.innerHTML = `
+    <section class="card">
+      <div class="quiz-head">
+        <span>Soru ${activeQuiz.index+1} / ${activeQuiz.level.count}</span>
+        <span>${q.category} · ${q.difficulty}</span>
+      </div>
+      <div class="progress"><div style="width:${(done/activeQuiz.level.count)*100}%"></div></div>
+      <div class="question">${q.question}</div>
+      ${q.options.map(opt=>`<button class="choice" onclick="answerQuestion('${String(opt).replace(/'/g,"\\'")}')">${opt}</button>`).join("")}
+    </section>`;
+}
+
+window.answerQuestion = function(answer){
+  if(!activeQuiz || activeQuiz.locked) return;
+  activeQuiz.locked = true;
+  const q = activeQuiz.questions[activeQuiz.index];
+  const isCorrect = answer === q.answer;
+  activeQuiz.answers.push({ ...q, userAnswer:answer, isCorrect });
+  document.querySelectorAll(".choice").forEach(btn=>{
+    if(btn.textContent===q.answer) btn.classList.add("correct");
+    if(btn.textContent===answer && !isCorrect) btn.classList.add("wrong");
+    btn.disabled = true;
+  });
+  setTimeout(()=>{
+    activeQuiz.index++;
+    activeQuiz.locked = false;
+    if(activeQuiz.index >= activeQuiz.questions.length) finishQuiz();
+    else renderQuestion();
+  }, 520);
+}
+
+function finishQuiz(){
+  const correct = activeQuiz.answers.filter(a=>a.isCorrect).length;
+  const total = activeQuiz.answers.length;
+  const wrongs = activeQuiz.answers.filter(a=>!a.isCorrect);
+  const score = Math.round((correct/total)*100);
+  const passed = score >= activeQuiz.level.pass;
+  const earned = passed ? activeQuiz.level.xp : Math.round(activeQuiz.level.xp * (score/100) * .55);
+  state.tests++; state.total += total; state.correct += correct; state.wrong += wrongs.length; state.xp += earned;
+  state.wrongQuestions = [...wrongs, ...state.wrongQuestions].slice(0,100);
+  state.history.unshift({date:new Date().toLocaleString("tr-TR"), level:activeQuiz.level.id, score, correct, total});
+  if(passed && state.levelUnlocked < activeQuiz.level.id + 1 && activeQuiz.level.id < 3) state.levelUnlocked = activeQuiz.level.id + 1;
+  save();
+  app.innerHTML = `
+    <section class="card hero">
+      <div class="result-stars">${score>=90?"⭐⭐⭐⭐⭐":score>=75?"⭐⭐⭐⭐☆":score>=60?"⭐⭐⭐☆☆":"⭐⭐☆☆☆"}</div>
+      <h2>Test Sonucu</h2>
+      <div class="grid">
+        <div class="stat">✅ Doğru <b>${correct}</b></div>
+        <div class="stat">❌ Yanlış <b>${wrongs.length}</b></div>
+        <div class="stat">📊 Başarı <b>%${score}</b></div>
+        <div class="stat">⭐ XP <b>+${earned}</b></div>
+      </div>
+      <p class="${passed?'ok':'bad'}">${passed ? "Seviye başarıyla tamamlandı." : "Geçiş puanı yetmedi, tekrar dene."}</p>
+      <button class="primary" onclick="setPage('wrong')">Yanlışları İncele</button>
+      <button class="secondary" onclick="setPage('quiz')">Tekrar Çöz</button>
+      <button class="secondary" onclick="setPage('home')">Ana Menü</button>
+    </section>`;
+  activeQuiz = null;
+}
+
+function renderWrong(){
+  if(!state.wrongQuestions.length){
+    app.innerHTML = `<section class="card"><h2>Yanlışlarım</h2><p class="muted">Henüz yanlış yapılan soru yok.</p><button class="primary" onclick="setPage('quiz')">Test Çöz</button></section>`;
     return;
   }
-  $('wrongReview').innerHTML = `<h3>Yanlış / Boş Sorular</h3>${wrongItems.join('')}`;
+  app.innerHTML = `
+    <section class="card">
+      <h2>Yanlışlarım</h2>
+      <p class="muted">Son 100 yanlış kaydedilir. Doğru cevap ve açıklama gösterilir.</p>
+      ${state.wrongQuestions.map(w=>`
+        <div class="wrong-item">
+          <b>${w.question}</b>
+          <p class="small"><span class="bad">Senin cevabın:</span> ${w.userAnswer}</p>
+          <p class="small"><span class="ok">Doğru cevap:</span> ${w.answer}</p>
+          <p class="muted small">${w.explanation}</p>
+        </div>`).join("")}
+    </section>`;
 }
-function finishQuiz(){
-  clearInterval(timerId); const level=LEVELS[currentLevel-1]; let correct=0, empty=0;
-  for(let i=0;i<level.count;i++){ if(answers[i]===null) empty++; else if(answers[i]===QUESTIONS[i].c) correct++; }
-  const wrong = level.count-correct-empty; const score = Math.round((correct/level.count)*100);
-  state.totalSolved=(state.totalSolved||0)+1; state.bestScore=Math.max(state.bestScore||0, score);
-  const passed = score >= level.pass; if(passed && currentLevel < LEVELS.length) state.unlocked=Math.max(state.unlocked,currentLevel+1); save();
-  $('correctCount').textContent=correct; $('wrongCount').textContent=wrong; $('emptyCount').textContent=empty; $('scoreCount').textContent=score;
-  $('resultSummary').textContent = `${level.name} tamamlandı. Başarı oranı %${score}.`;
-  $('passMessage').innerHTML = passed ? `<strong class="pass">Tebrikler!</strong> Seviyeyi geçtin.` : `<strong class="fail">Tekrar dene.</strong> Geçmek için en az ${level.pass} puan gerekli.`;
-  renderWrongReview(level);
-  $('nextLevelBtn').style.display = passed && currentLevel < LEVELS.length ? 'block':'none'; show('resultView');
+
+function renderStats(){
+  const rate = percent(state.correct,state.total);
+  app.innerHTML = `
+    <section class="card hero">
+      <h2>İstatistikler</h2>
+      <div class="grid">
+        <div class="stat">Toplam Test <b>${state.tests}</b></div>
+        <div class="stat">Toplam Soru <b>${state.total}</b></div>
+        <div class="stat">Doğru <b>${state.correct}</b></div>
+        <div class="stat">Yanlış <b>${state.wrong}</b></div>
+      </div>
+      <p class="muted">Genel başarı oranı: <b>%${rate}</b></p>
+      <div class="progress"><div style="width:${rate}%"></div></div>
+    </section>
+    <section class="card">
+      <h2>Son Testler</h2>
+      ${state.history.length ? state.history.slice(0,8).map(h=>`<p class="small">Seviye ${h.level} · ${h.correct}/${h.total} · %${h.score} · ${h.date}</p>`).join("") : `<p class="muted">Henüz test çözülmedi.</p>`}
+    </section>`;
 }
-$('nextBtn').onclick=()=>{ const level=LEVELS[currentLevel-1]; if(currentIndex<level.count-1){currentIndex++; renderQuestion();} else finishQuiz(); };
-$('prevBtn').onclick=()=>{ if(currentIndex>0){currentIndex--; renderQuestion();} };
-$('retryBtn').onclick=()=>startQuiz(currentLevel); $('nextLevelBtn').onclick=()=>startQuiz(currentLevel+1); $('homeBtn').onclick=()=>{renderHome(); show('homeView');};
-$('resetBtn').onclick=()=>{ if(confirm('Tüm ilerleme silinsin mi?')){localStorage.removeItem('starQuizState'); state={unlocked:1,totalSolved:0,bestScore:0}; renderHome(); show('homeView'); }};
-renderHome();
+
+function renderSources(){
+  app.innerHTML = `
+    <section class="card">
+      <h2>Kaynak Notu</h2>
+      <p class="muted">Bu V3 paketi, 500 soruluk StarQuiz altyapısını ve KKTC genel kültür başlangıç soru havuzunu içerir. Soru bankası JSON formatında genişletilebilir.</p>
+      <ul class="source-list">
+        <li>KKTC Enformasyon Dairesi: Genel Bilgi, Coğrafi Bilgiler, Tarih ve kültür başlıkları.</li>
+        <li>KKTC resmi kurum sayfaları: Resmi günler, kurumlar ve devlet yapısı bilgileri.</li>
+        <li>Üniversite ve kurumların genel tanıtım bilgileri.</li>
+      </ul>
+      <p class="small muted">Not: Kamu sınavına dönük nihai sürümde sorular tek tek kontrol edilip “onaylı soru bankası” haline getirilmelidir.</p>
+    </section>`;
+}
+
+function getBadges(){
+  const badges=[];
+  if(state.tests>=1) badges.push("🥉 İlk Test");
+  if(state.correct>=100) badges.push("🥈 100 Doğru");
+  if(state.correct>=500) badges.push("🥇 500 Doğru");
+  if(state.xp>=1000) badges.push("🧠 Bilge");
+  if(percent(state.correct,state.total)>=85 && state.total>=50) badges.push("👑 KKTC Uzmanı");
+  return badges;
+}
+
+render();
+if("serviceWorker" in navigator){ window.addEventListener("load",()=>navigator.serviceWorker.register("./service-worker.js").catch(()=>{})); }

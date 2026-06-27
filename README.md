@@ -1,15 +1,42 @@
-# StarQuiz
+# StarQuiz V3
 
-Kamu sınavları için mobil uyumlu PWA test uygulaması.
+KKTC Genel Kültür odaklı, mobil uyumlu PWA test uygulaması.
 
-## İlk Sürüm
-- Genel Kültür / KKTC odaklı soru bankası
-- Seviye 1: 10 soru
-- Seviye 2: 20 soru
-- Seviye 3: 30 soru
-- Her seviye 100 puan üzerinden hesaplanır
-- LocalStorage ile ilerleme kaydı
-- PWA olarak telefona eklenebilir
+## Özellikler
+
+- 500 soruluk başlangıç soru havuzu
+- 10 / 20 / 30 soruluk seviye testleri
+- Rastgele soru seçimi
+- Seçenek seçince otomatik sonraki soruya geçme
+- Test sonunda doğru / yanlış / başarı / XP
+- Yanlışlarım ekranı
+- İstatistikler
+- Rozet sistemi
+- GitHub Pages uyumlu
+- PWA / telefona eklenebilir yapı
 
 ## GitHub Pages
-Settings > Pages > Deploy from branch > main > /root seçin.
+
+1. Dosyaları GitHub'da `StarQuiz` reposuna yükle.
+2. Settings > Pages bölümüne gir.
+3. Source: Deploy from a branch
+4. Branch: main / root seç.
+5. Link: `https://kullaniciadiniz.github.io/StarQuiz/`
+
+## Soru Ekleme
+
+Sorular `questions.js` dosyasındadır.
+Her soru şu formattadır:
+
+```js
+{
+  id: "kktc-001",
+  category: "Temel Bilgiler",
+  difficulty: "Kolay",
+  question: "KKTC'nin başkenti neresidir?",
+  options: ["Lefkoşa", "Girne", "Gazimağusa", "Güzelyurt"],
+  answer: "Lefkoşa",
+  explanation: "Lefkoşa, KKTC'nin başkenti ve idari merkezidir.",
+  source: "KKTC Enformasyon Dairesi"
+}
+```
