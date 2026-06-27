@@ -1,0 +1,9 @@
+{
+  "name":"StarQuiz",
+  "short_name":"StarQuiz",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#07101d",
+  "theme_color":"#09111f",
+  "icons":[{"src":"icon.svg","sizes":"192x192","type":"image/svg+xml"}]
+}
