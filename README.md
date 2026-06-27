@@ -1,45 +1,33 @@
-# StarQuiz V3.1
+# StarQuiz V4
 
 KKTC Genel Kültür odaklı, mobil uyumlu PWA test uygulaması.
 
-## Özellikler
+## V4 Özellikleri
 
-- 500 soruluk başlangıç soru havuzu
-- Akıllı rastgele seçim: aynı testte tekrar soru yok
-- Son çıkan soruları geçici olarak tekrar göstermeme
-- Her testte şıkları yeniden karıştırma
-- 10 / 20 / 30 soruluk seviye testleri
-- Rastgele soru seçimi
-- Seçenek seçince otomatik sonraki soruya geçme
-- Test sonunda doğru / yanlış / başarı / XP
+- 500 soruluk KKTC genel kültür soru bankası
+- Birebir tekrar eden soru metinleri temizlendi
+- Aynı testte aynı soru ve aynı soru metni tekrar etmez
+- Aynı cevapların test içinde yığılması azaltıldı
+- Sorular ve şıklar her testte karışır
+- Son çözülen sorular bir süre tekrar gösterilmez
+- StarQuiz logosu ana ekrana, sonuç ekranına, manifest dosyasına ve uygulama ikonlarına eklendi
+- 10 / 20 / 30 soruluk seviye sistemi
 - Yanlışlarım ekranı
-- İstatistikler
-- Rozet sistemi
-- GitHub Pages uyumlu
-- PWA / telefona eklenebilir yapı
+- XP, rozet ve istatistikler
+- GitHub Pages ve PWA uyumlu
 
-## GitHub Pages
+## Dosya Yapısı
 
-1. Dosyaları GitHub'da `StarQuiz` reposuna yükle.
-2. Settings > Pages bölümüne gir.
-3. Source: Deploy from a branch
-4. Branch: main / root seç.
-5. Link: `https://kullaniciadiniz.github.io/StarQuiz/`
+- index.html
+- style.css
+- app.js
+- questions.js
+- manifest.json
+- service-worker.js
+- assets/logo.png
+- assets/icon-192.png
+- assets/icon-512.png
 
-## Soru Ekleme
+## Not
 
-Sorular `questions.js` dosyasındadır.
-Her soru şu formattadır:
-
-```js
-{
-  id: "kktc-001",
-  category: "Temel Bilgiler",
-  difficulty: "Kolay",
-  question: "KKTC'nin başkenti neresidir?",
-  options: ["Lefkoşa", "Girne", "Gazimağusa", "Güzelyurt"],
-  answer: "Lefkoşa",
-  explanation: "Lefkoşa, KKTC'nin başkenti ve idari merkezidir.",
-  source: "KKTC Enformasyon Dairesi"
-}
-```
+Bu sürüm profesyonel altyapı ve temizlenmiş başlangıç soru bankasıdır. Gerçek kamu sınavı sürümünde her soru ayrıca resmi kaynak kontrolünden geçirilmelidir.

@@ -1,4 +1,4 @@
-const STORE_KEY = "starquiz_v31_state";
+const STORE_KEY = "starquiz_v4_state";
 const app = document.getElementById("app");
 let page = "home";
 let activeQuiz = null;
@@ -18,11 +18,7 @@ let state = load();
 function load(){ try{return {...defaultState, ...(JSON.parse(localStorage.getItem(STORE_KEY))||{})};}catch(e){return {...defaultState};}}
 function save(){ localStorage.setItem(STORE_KEY, JSON.stringify(state)); }
 function randInt(n){ return Math.floor(Math.random()*n); }
-function shuffle(arr){
-  const a=[...arr];
-  for(let i=a.length-1;i>0;i--){ const j=randInt(i+1); [a[i],a[j]]=[a[j],a[i]]; }
-  return a;
-}
+function shuffle(arr){ const a=[...arr]; for(let i=a.length-1;i>0;i--){const j=randInt(i+1);[a[i],a[j]]=[a[j],a[i]];} return a; }
 function percent(a,b){ return b ? Math.round((a/b)*100) : 0; }
 function setPage(p){ page=p; activeQuiz=null; document.querySelectorAll(".nav-btn").forEach(b=>b.classList.toggle("active",b.dataset.page===p)); render(); }
 
@@ -31,44 +27,41 @@ document.getElementById("resetBtn").addEventListener("click",()=>{
   if(confirm("Tüm StarQuiz ilerlemesi sıfırlansın mı?")){ localStorage.removeItem(STORE_KEY); state=load(); setPage("home");}
 });
 
-// Akıllı soru seçimi:
-// 1) Aynı testte aynı soru asla gelmez.
-// 2) Son çözülen sorular mümkün oldukça tekrar gelmez.
-// 3) Aynı kategori/aynı cevap üst üste yığılmaz.
-// 4) Test her açıldığında şıklar yeniden karışır.
 function pickSmartQuestions(count){
   const recent = new Set(state.recentQuestionIds || []);
   let pool = QUESTIONS.filter(q => !recent.has(q.id));
-  if(pool.length < count) pool = [...QUESTIONS]; // havuz yetmezse sıfırdan kullan
-
+  if(pool.length < count) pool = [...QUESTIONS];
   pool = shuffle(pool);
 
   const selected = [];
   const usedIds = new Set();
+  const usedStems = new Set();
   const topicCount = {};
   const categoryCount = {};
+  const answerCount = {};
 
   function score(q){
     const topic = q.topic || (q.category+"::"+q.answer);
     let s = Math.random();
-    s += (topicCount[topic] || 0) * 8;      // aynı cevap/konu tekrarını cezalandır
-    s += (categoryCount[q.category] || 0) * 1.7; // aynı kategori yığılmasını azalt
-    if(recent.has(q.id)) s += 20;
+    s += (topicCount[topic] || 0) * 12;
+    s += (answerCount[q.answer] || 0) * 10;
+    s += (categoryCount[q.category] || 0) * 1.5;
+    if(recent.has(q.id)) s += 30;
     return s;
   }
 
   while(selected.length < count && pool.length){
     pool.sort((a,b)=>score(a)-score(b));
     const q = pool.shift();
-    if(!q || usedIds.has(q.id)) continue;
+    if(!q || usedIds.has(q.id) || usedStems.has(q.question)) continue;
     selected.push(q);
     usedIds.add(q.id);
+    usedStems.add(q.question);
     const topic = q.topic || (q.category+"::"+q.answer);
     topicCount[topic] = (topicCount[topic] || 0) + 1;
     categoryCount[q.category] = (categoryCount[q.category] || 0) + 1;
+    answerCount[q.answer] = (answerCount[q.answer] || 0) + 1;
   }
-
-  // Her sorunun şıklarını test başında ayrı karıştır
   return selected.map(q => ({...q, options: shuffle(q.options)}));
 }
 
@@ -84,8 +77,9 @@ function renderHome(){
   const rate = percent(state.correct,state.total);
   app.innerHTML = `
     <section class="card hero">
+      <img class="logo-main" src="assets/logo.png" alt="StarQuiz Logo">
       <h1>Bilgini Test Et, Seviyeni Yükselt!</h1>
-      <p class="muted">KKTC genel kültür için 500 soruluk genişletilebilir soru bankası.</p>
+      <p class="muted">KKTC genel kültür için tekrarları temizlenmiş 500 soruluk V4 soru bankası.</p>
       <div class="grid">
         <div class="stat">⭐ XP <b>${state.xp}</b></div>
         <div class="stat">🏆 Açık Seviye <b>${state.levelUnlocked}</b></div>
@@ -95,8 +89,8 @@ function renderHome(){
       <button class="primary" onclick="setPage('quiz')">Teste Başla</button>
     </section>
     <section class="card">
-      <h2>Karışık Test Sistemi</h2>
-      <p class="muted">V3.1 ile aynı testte tekrar soru gelmez. Son çıkan sorular da mümkün olduğunca sonraki testlerde bekletilir.</p>
+      <h2>V4 Yenilikleri</h2>
+      <p class="muted">Birebir tekrar eden soru metinleri temizlendi. Aynı testte aynı soru, aynı metin ve aynı cevap yığılması engellendi.</p>
     </section>
     <section class="card">
       <h2>Seviyeler</h2>
@@ -122,7 +116,7 @@ function renderQuizStart(){
   app.innerHTML = `
     <section class="card">
       <h2>Test Seç</h2>
-      <p class="muted">Sorular akıllı karışır. Aynı test içinde tekrar soru çıkmaz, seçeneklerin sırası da her testte değişir.</p>
+      <p class="muted">Sorular ve şıklar her testte karışır. Son çözülen sorular mümkün olduğunca tekrar gösterilmez.</p>
       ${levels.map(l=>`
         <button class="${state.levelUnlocked>=l.id?'primary':'secondary'}" ${state.levelUnlocked>=l.id?`onclick="startQuiz(${l.id})"`:"disabled"}>
           ${state.levelUnlocked>=l.id?'▶':'🔒'} ${l.title} — ${l.count} Soru
@@ -134,7 +128,7 @@ function renderQuizStart(){
 window.clearRecent = function(){
   state.recentQuestionIds = [];
   save();
-  alert("Son çıkan soru hafızası sıfırlandı. Yeni test tamamen karışık gelecek.");
+  alert("Son çıkan soru hafızası sıfırlandı.");
 }
 
 function startQuiz(levelId){
@@ -191,13 +185,14 @@ function finishQuiz(){
 
   const solvedIds = activeQuiz.questions.map(q=>q.id);
   state.recentQuestionIds = [...solvedIds, ...(state.recentQuestionIds||[])];
-  state.recentQuestionIds = [...new Set(state.recentQuestionIds)].slice(0,180); // son 180 soru tekrar etmesin
+  state.recentQuestionIds = [...new Set(state.recentQuestionIds)].slice(0,220);
 
   if(passed && state.levelUnlocked < activeQuiz.level.id + 1 && activeQuiz.level.id < 3) state.levelUnlocked = activeQuiz.level.id + 1;
   save();
 
   app.innerHTML = `
     <section class="card hero">
+      <img class="logo-main" src="assets/logo.png" alt="StarQuiz Logo">
       <div class="result-stars">${score>=90?"⭐⭐⭐⭐⭐":score>=75?"⭐⭐⭐⭐☆":score>=60?"⭐⭐⭐☆☆":"⭐⭐☆☆☆"}</div>
       <h2>Test Sonucu</h2>
       <div class="grid">
@@ -237,6 +232,7 @@ function renderStats(){
   const rate = percent(state.correct,state.total);
   app.innerHTML = `
     <section class="card hero">
+      <img class="logo-main" src="assets/logo.png" alt="StarQuiz Logo">
       <h2>İstatistikler</h2>
       <div class="grid">
         <div class="stat">Toplam Test <b>${state.tests}</b></div>
@@ -258,13 +254,13 @@ function renderSources(){
   app.innerHTML = `
     <section class="card">
       <h2>Kaynak Notu</h2>
-      <p class="muted">Bu V3.1 paketi, akıllı karışık test sistemi ve 500 soruluk genişletilebilir KKTC genel kültür altyapısını içerir.</p>
+      <p class="muted">Bu V4 paketi, tekrarları temizlenmiş 500 soruluk KKTC genel kültür başlangıç bankası ve StarQuiz logosu entegrasyonu içerir.</p>
       <ul class="source-list">
-        <li>KKTC Enformasyon Dairesi: Genel Bilgi, Coğrafi Bilgiler, Tarih ve kültür başlıkları.</li>
+        <li>KKTC Enformasyon Dairesi: Genel bilgi, coğrafi bilgiler, tarih ve kültür başlıkları.</li>
         <li>KKTC resmi kurum sayfaları: Resmi günler, kurumlar ve devlet yapısı bilgileri.</li>
         <li>Üniversite ve kurumların genel tanıtım bilgileri.</li>
       </ul>
-      <p class="small muted">Not: Kamu sınavına dönük nihai sürümde sorular tek tek kontrol edilip “onaylı soru bankası” haline getirilmelidir.</p>
+      <p class="small muted">Not: Nihai sınav sürümünde sorular tek tek kontrol edilip onaylı soru bankası haline getirilmelidir.</p>
     </section>`;
 }
 
