@@ -2,21 +2,24 @@
 
 KKTC Kamu Sınavı Hazırlık Uygulaması.
 
-## Güncellemeler
+## Bu sürümde
 
-- Yeni premium StarQuiz logosu
-- 192x192 ve 512x512 PWA ikonları
-- Logo görünmeme sorunu için gerçek `assets` klasörü eklendi
-- Kolay / Orta / Zor / Karışık test sistemi
-- Konu bazlı testlerde seviye seçimi
-- Aynı testte soru tekrarını engelleyen seçim
-- Akıllı son çıkan soru hafızası
-- Mobil uyumlu modern kart tasarımı
-- GitHub Pages uyumlu
+- Gönderilen STARQUIZ logosu resmi logo olarak eklendi
+- Ana sayfa büyük logo güncellendi
+- Üst menü küçük logo güncellendi
+- PWA ikonları 192x192 ve 512x512 hazırlandı
+- Apple touch icon ve favicon eklendi
+- Kolay / Orta / Zor seviyeli test sistemi korundu
+- Konu bazlı seviyeli test başlatma eklendi
+- Akıllı rastgele soru seçimi korundu
+- GitHub Pages uyumlu hale getirildi
 
-## Kurulum
+## GitHub Pages kurulum
 
-ZIP içindeki tüm dosyaları GitHub reposunun ana dizinine yükle.
-GitHub Pages: Settings > Pages > main / root seç.
+ZIP içindeki dosyaları StarQuiz reposuna yükle.
+Settings > Pages kısmından main / root seç.
+Yüklemeden sonra tarayıcı cache temizliği için sayfayı birkaç kez yenile.
 
-Yükledikten sonra telefonda tarayıcı önbelleğini temizle veya sayfayı birkaç kez yenile.
+## Not
+
+Telefon ana ekranındaki eski ikon görünürse uygulamayı silip tekrar ana ekrana ekle.

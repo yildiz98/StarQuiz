@@ -67,7 +67,7 @@ function renderHome(){
    <button class="secondary" onclick="setPage('exam')">Seviyeli Test Başlat</button>
    <button class="secondary" onclick="setPage('topics')">Konu Bazlı Çalış</button>
  </section>
- <section class="card"><h2>V9 Premium Yenilikleri</h2><p class="muted">Premium logo ve ikonlar eklendi. Kolay / Orta / Zor / Karışık seviyeli testler, konu içinde seviye seçimi ve akıllı soru tekrarı engelleme geliştirildi.</p></section>`;
+ <section class="card"><h2>V9 Premium</h2><p class="muted">Premium STARQUIZ logosu, modern mobil görünüm, Kolay / Orta / Zor testler, akıllı rastgele seçim ve PWA ikonları güncellendi.</p></section>`;
 }
 function renderExam(){
  const counts = Object.fromEntries(difficultyCounts());
@@ -85,25 +85,25 @@ function renderExam(){
 window.clearRecent=()=>{state.recentQuestionIds=[];save();alert("Son çıkan soru hafızası temizlendi.");}
 function renderTopics(){
  const cats=uniqueCategories();
- app.innerHTML=`<section class="card"><h2>Konu Bazlı Test</h2><p class="muted">İstediğin konudan çalış. Konu kartı üzerinden Karışık, Kolay, Orta veya Zor test başlatabilirsin.</p>
+ app.innerHTML=`<section class="card"><h2>Konu Bazlı Test</h2><p class="muted">İstediğin konudan karışık veya seviyeli test başlat.</p>
  ${cats.map(([c,n])=>{
-   const safe=safeAttr(c);
    const counts=Object.fromEntries(difficultyCounts(c));
-   return `<div class="topic-card"><div class="topic-title"><b>${c}</b><span>${n} soru</span></div>
-   <div class="topic-levels">
-     <button onclick="startQuiz(Math.min(20, ${n}), '${safe}')">Karışık</button>
-     <button onclick="startQuiz(Math.min(20, ${counts.Kolay||0}), '${safe}', 'Kolay')">Kolay ${counts.Kolay||0}</button>
-     <button onclick="startQuiz(Math.min(20, ${counts.Orta||0}), '${safe}', 'Orta')">Orta ${counts.Orta||0}</button>
-     <button onclick="startQuiz(Math.min(20, ${counts.Zor||0}), '${safe}', 'Zor')">Zor ${counts.Zor||0}</button>
-   </div></div>`;
+   const sc=safeAttr(c);
+   return `<div class="topic-card">
+     <button class="topic-btn" onclick="startQuiz(Math.min(20, ${n}), '${sc}')">${c}<span class="topic-count">${n}</span></button>
+     <div class="topic-levels">
+       <button onclick="startQuiz(Math.min(10, ${counts.Kolay||0}), '${sc}', 'Kolay')">Kolay ${counts.Kolay||0}</button>
+       <button onclick="startQuiz(Math.min(10, ${counts.Orta||0}), '${sc}', 'Orta')">Orta ${counts.Orta||0}</button>
+       <button onclick="startQuiz(Math.min(10, ${counts.Zor||0}), '${sc}', 'Zor')">Zor ${counts.Zor||0}</button>
+     </div>
+   </div>`;
  }).join("")}
  </section>`;
 }
 function startQuiz(count, category=null, difficulty=null){
- difficulty = normalizeDifficulty(difficulty);
  const questions = pickQuestions(count, category, difficulty);
  if(!questions.length){
-   app.innerHTML=`<section class="card"><h2>Soru Bulunamadı</h2><p class="muted">Bu seçim için soru yok. Farklı seviye veya konu seç.</p><button class="secondary" onclick="setPage('exam')">Denemeye Dön</button></section>`;
+   alert("Bu seçimde yeterli soru bulunamadı.");
    return;
  }
  activeQuiz={index:0, questions, answers:[], locked:false, category, difficulty};
@@ -113,7 +113,7 @@ function renderQuestion(){
  const q=activeQuiz.questions[activeQuiz.index];
  app.innerHTML=`<section class="card">
  <div class="quiz-head"><span>Soru ${activeQuiz.index+1}/${activeQuiz.questions.length}</span><span>${q.category} · ${q.difficulty}</span></div>
- <div class="progress"><div style="width:${((activeQuiz.index+1)/activeQuiz.questions.length)*100}%"></div></div>
+ <div class="progress"><div style="width:${(activeQuiz.index/activeQuiz.questions.length)*100}%"></div></div>
  <div class="question">${q.question}</div>
  ${q.options.map(o=>`<button class="choice" onclick="answerQuestion('${String(o).replace(/'/g,"\\'")}')">${o}</button>`).join("")}
  <div class="small muted" style="margin-top:12px">Konu: ${q.topic}</div>
@@ -158,7 +158,6 @@ function renderStats(){
  const byCat={}; QUESTIONS.forEach(q=>byCat[q.category]=(byCat[q.category]||0)+1);
  app.innerHTML=`<section class="card hero"><img class="logo-main" src="assets/logo.png" alt="StarQuiz" onerror="this.outerHTML='<div class=\'logo-fallback\'>SQ</div>'"><h2>Analiz</h2><div class="grid"><div class="stat">Toplam Soru <b>${state.total}</b></div><div class="stat">Doğru <b>${state.correct}</b></div><div class="stat">Yanlış <b>${state.wrong}</b></div><div class="stat">Başarı <b>%${rate}</b></div></div></section>
  <section class="card"><h2>Konu Dağılımı</h2>${Object.entries(byCat).sort((a,b)=>b[1]-a[1]).map(([c,n])=>`<p class="small">${c}: <b>${n}</b> soru</p>`).join("")}</section>
- <section class="card"><h2>Seviye Dağılımı</h2>${difficultyCounts().map(([l,n])=>`<p class="small">${l}: <b>${n}</b> soru</p>`).join("")}</section>
  <section class="card"><h2>Son Testler</h2>${state.history.slice(0,10).map(h=>`<p class="small">${h.category} · ${h.correct}/${h.total} · %${h.score} · ${h.date}</p>`).join("")||"<p class='muted'>Henüz test yok.</p>"}</section>`;
 }
 render();
