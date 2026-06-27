@@ -1,8002 +1,2916 @@
 const QUESTIONS = [
   {
-    "id": "kktc-001",
-    "category": "Temel Bilgiler",
+    "id": "sqv7-001",
+    "category": "Coğrafya",
+    "topic": "Burunlar",
     "difficulty": "Kolay",
-    "question": "KKTC'nin başkenti hangisidir?",
+    "question": "Kıbrıs’ın en güney burnu neresidir?",
     "options": [
-      "İstanbul",
-      "Ankara",
-      "Gazimağusa",
-      "Lefkoşa"
+      "Zafer Burnu",
+      "Doğan Burnu",
+      "Arnavut Burnu",
+      "Poyraz Burnu",
+      "Koruçam Burnu"
     ],
-    "answer": "Lefkoşa",
-    "explanation": "KKTC'nin başkenti bilgisi için doğru cevap Lefkoşa olarak kabul edilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
+    "answer": "Doğan Burnu",
+    "answerLetter": "B",
+    "explanation": "Doğan Burnu, Kıbrıs’ın en güney burnu olarak bilinir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-002",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Genel kültür açısından 'Lefkoşa' aşağıdakilerden hangisiyle ilişkilidir?",
-    "options": [
-      "KKTC'nin para birimi olarak yaygın kullanılan resmi para",
-      "KKTC'nin bulunduğu ada",
-      "KKTC'nin başkenti",
-      "KKTC'nin yaklaşık yüzölçümü"
-    ],
-    "answer": "KKTC'nin başkenti",
-    "explanation": "Lefkoşa, KKTC'nin başkenti ile ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::KKTC'nin başkenti"
-  },
-  {
-    "id": "kktc-003",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "KKTC'nin yaklaşık yüzölçümü hangisidir?",
-    "options": [
-      "Ankara",
-      "Gazimağusa",
-      "İstanbul",
-      "3.248 km²"
-    ],
-    "answer": "3.248 km²",
-    "explanation": "KKTC'nin yaklaşık yüzölçümü bilgisi için doğru cevap 3.248 km² olarak kabul edilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::3.248 km²"
-  },
-  {
-    "id": "kktc-004",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Genel kültür açısından '3.248 km²' aşağıdakilerden hangisiyle ilişkilidir?",
-    "options": [
-      "KKTC'nin başkenti",
-      "KKTC'nin bulunduğu ada",
-      "KKTC'nin yaklaşık yüzölçümü",
-      "KKTC'nin para birimi olarak yaygın kullanılan resmi para"
-    ],
-    "answer": "KKTC'nin yaklaşık yüzölçümü",
-    "explanation": "3.248 km², KKTC'nin yaklaşık yüzölçümü ile ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::KKTC'nin yaklaşık yüzölçümü"
-  },
-  {
-    "id": "kktc-005",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "KKTC'nin bulunduğu ada hangisidir?",
-    "options": [
-      "Ankara",
-      "İstanbul",
-      "Gazimağusa",
-      "Kıbrıs"
-    ],
-    "answer": "Kıbrıs",
-    "explanation": "KKTC'nin bulunduğu ada bilgisi için doğru cevap Kıbrıs olarak kabul edilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Kıbrıs"
-  },
-  {
-    "id": "kktc-006",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Genel kültür açısından 'Kıbrıs' aşağıdakilerden hangisiyle ilişkilidir?",
-    "options": [
-      "KKTC'nin başkenti",
-      "KKTC'nin para birimi olarak yaygın kullanılan resmi para",
-      "KKTC'nin yaklaşık yüzölçümü",
-      "KKTC'nin bulunduğu ada"
-    ],
-    "answer": "KKTC'nin bulunduğu ada",
-    "explanation": "Kıbrıs, KKTC'nin bulunduğu ada ile ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::KKTC'nin bulunduğu ada"
-  },
-  {
-    "id": "kktc-007",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "KKTC'nin para birimi olarak yaygın kullanılan resmi para hangisidir?",
-    "options": [
-      "İstanbul",
-      "Ankara",
-      "Türk Lirası",
-      "Gazimağusa"
-    ],
-    "answer": "Türk Lirası",
-    "explanation": "KKTC'nin para birimi olarak yaygın kullanılan resmi para bilgisi için doğru cevap Türk Lirası olarak kabul edilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Türk Lirası"
-  },
-  {
-    "id": "kktc-008",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Genel kültür açısından 'Türk Lirası' aşağıdakilerden hangisiyle ilişkilidir?",
-    "options": [
-      "KKTC'nin başkenti",
-      "KKTC'nin bulunduğu ada",
-      "KKTC'nin para birimi olarak yaygın kullanılan resmi para",
-      "KKTC'nin yaklaşık yüzölçümü"
-    ],
-    "answer": "KKTC'nin para birimi olarak yaygın kullanılan resmi para",
-    "explanation": "Türk Lirası, KKTC'nin para birimi olarak yaygın kullanılan resmi para ile ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::KKTC'nin para birimi olarak yaygın kullanılan resmi para"
-  },
-  {
-    "id": "kktc-009",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "KKTC'nin resmi dili hangisidir?",
-    "options": [
-      "Türkçe",
-      "İstanbul",
-      "Ankara",
-      "Gazimağusa"
-    ],
-    "answer": "Türkçe",
-    "explanation": "KKTC'nin resmi dili bilgisi için doğru cevap Türkçe olarak kabul edilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Türkçe"
-  },
-  {
-    "id": "kktc-010",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Genel kültür açısından 'Türkçe' aşağıdakilerden hangisiyle ilişkilidir?",
-    "options": [
-      "KKTC'nin yaklaşık yüzölçümü",
-      "KKTC'nin bulunduğu ada",
-      "KKTC'nin resmi dili",
-      "KKTC'nin başkenti"
-    ],
-    "answer": "KKTC'nin resmi dili",
-    "explanation": "Türkçe, KKTC'nin resmi dili ile ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::KKTC'nin resmi dili"
-  },
-  {
-    "id": "kktc-011",
-    "category": "İlçeler",
-    "difficulty": "Kolay",
-    "question": "Lefkoşa KKTC'de hangi idari başlık altında değerlendirilir?",
-    "options": [
-      "Üniversite",
-      "Bakanlık",
-      "Gazete",
-      "İlçe"
-    ],
-    "answer": "İlçe",
-    "explanation": "Lefkoşa, KKTC'nin ilçeleri arasında yer alır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "İlçeler::İlçe"
-  },
-  {
-    "id": "kktc-012",
-    "category": "İlçeler",
-    "difficulty": "Kolay",
-    "question": "Aşağıdakilerden hangisi KKTC ilçelerinden biridir? (Lefkoşa odaklı)",
-    "options": [
-      "Baf",
-      "Limasol",
-      "Larnaka",
-      "Lefkoşa"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Lefkoşa, KKTC ilçelerinden biridir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "İlçeler::Lefkoşa"
-  },
-  {
-    "id": "kktc-013",
-    "category": "İlçeler",
-    "difficulty": "Kolay",
-    "question": "Lefkoşa hangi ülkenin idari yerleşimleri arasında yer alır?",
-    "options": [
-      "Yunanistan",
-      "Türkiye",
-      "KKTC",
-      "Güney Kıbrıs"
-    ],
-    "answer": "KKTC",
-    "explanation": "Lefkoşa, KKTC sınırları içinde bilinen bir ilçedir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "İlçeler::KKTC"
-  },
-  {
-    "id": "kktc-014",
-    "category": "İlçeler",
-    "difficulty": "Kolay",
-    "question": "Gazimağusa KKTC'de hangi idari başlık altında değerlendirilir?",
-    "options": [
-      "Üniversite",
-      "Gazete",
-      "Bakanlık",
-      "İlçe"
-    ],
-    "answer": "İlçe",
-    "explanation": "Gazimağusa, KKTC'nin ilçeleri arasında yer alır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "İlçeler::İlçe"
-  },
-  {
-    "id": "kktc-015",
-    "category": "İlçeler",
-    "difficulty": "Kolay",
-    "question": "Aşağıdakilerden hangisi KKTC ilçelerinden biridir? (Gazimağusa odaklı)",
-    "options": [
-      "Gazimağusa",
-      "Larnaka",
-      "Baf",
-      "Limasol"
-    ],
-    "answer": "Gazimağusa",
-    "explanation": "Gazimağusa, KKTC ilçelerinden biridir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "İlçeler::Gazimağusa"
-  },
-  {
-    "id": "kktc-016",
-    "category": "İlçeler",
-    "difficulty": "Kolay",
-    "question": "Gazimağusa hangi ülkenin idari yerleşimleri arasında yer alır?",
-    "options": [
-      "Yunanistan",
-      "KKTC",
-      "Güney Kıbrıs",
-      "Türkiye"
-    ],
-    "answer": "KKTC",
-    "explanation": "Gazimağusa, KKTC sınırları içinde bilinen bir ilçedir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "İlçeler::KKTC"
-  },
-  {
-    "id": "kktc-017",
-    "category": "İlçeler",
-    "difficulty": "Kolay",
-    "question": "Girne KKTC'de hangi idari başlık altında değerlendirilir?",
-    "options": [
-      "Bakanlık",
-      "Gazete",
-      "Üniversite",
-      "İlçe"
-    ],
-    "answer": "İlçe",
-    "explanation": "Girne, KKTC'nin ilçeleri arasında yer alır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "İlçeler::İlçe"
-  },
-  {
-    "id": "kktc-018",
-    "category": "İlçeler",
-    "difficulty": "Kolay",
-    "question": "Aşağıdakilerden hangisi KKTC ilçelerinden biridir? (Girne odaklı)",
-    "options": [
-      "Larnaka",
-      "Baf",
-      "Girne",
-      "Limasol"
-    ],
-    "answer": "Girne",
-    "explanation": "Girne, KKTC ilçelerinden biridir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "İlçeler::Girne"
-  },
-  {
-    "id": "kktc-019",
-    "category": "İlçeler",
-    "difficulty": "Kolay",
-    "question": "Girne hangi ülkenin idari yerleşimleri arasında yer alır?",
-    "options": [
-      "Yunanistan",
-      "Güney Kıbrıs",
-      "Türkiye",
-      "KKTC"
-    ],
-    "answer": "KKTC",
-    "explanation": "Girne, KKTC sınırları içinde bilinen bir ilçedir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "İlçeler::KKTC"
-  },
-  {
-    "id": "kktc-020",
-    "category": "İlçeler",
-    "difficulty": "Kolay",
-    "question": "Güzelyurt KKTC'de hangi idari başlık altında değerlendirilir?",
-    "options": [
-      "İlçe",
-      "Bakanlık",
-      "Üniversite",
-      "Gazete"
-    ],
-    "answer": "İlçe",
-    "explanation": "Güzelyurt, KKTC'nin ilçeleri arasında yer alır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "İlçeler::İlçe"
-  },
-  {
-    "id": "kktc-021",
-    "category": "İlçeler",
-    "difficulty": "Kolay",
-    "question": "Aşağıdakilerden hangisi KKTC ilçelerinden biridir? (Güzelyurt odaklı)",
-    "options": [
-      "Güzelyurt",
-      "Limasol",
-      "Baf",
-      "Larnaka"
-    ],
-    "answer": "Güzelyurt",
-    "explanation": "Güzelyurt, KKTC ilçelerinden biridir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "İlçeler::Güzelyurt"
-  },
-  {
-    "id": "kktc-022",
-    "category": "İlçeler",
-    "difficulty": "Kolay",
-    "question": "Güzelyurt hangi ülkenin idari yerleşimleri arasında yer alır?",
-    "options": [
-      "KKTC",
-      "Yunanistan",
-      "Güney Kıbrıs",
-      "Türkiye"
-    ],
-    "answer": "KKTC",
-    "explanation": "Güzelyurt, KKTC sınırları içinde bilinen bir ilçedir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "İlçeler::KKTC"
-  },
-  {
-    "id": "kktc-023",
-    "category": "İlçeler",
-    "difficulty": "Kolay",
-    "question": "İskele KKTC'de hangi idari başlık altında değerlendirilir?",
-    "options": [
-      "Bakanlık",
-      "Gazete",
-      "Üniversite",
-      "İlçe"
-    ],
-    "answer": "İlçe",
-    "explanation": "İskele, KKTC'nin ilçeleri arasında yer alır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "İlçeler::İlçe"
-  },
-  {
-    "id": "kktc-024",
-    "category": "İlçeler",
-    "difficulty": "Kolay",
-    "question": "Aşağıdakilerden hangisi KKTC ilçelerinden biridir? (İskele odaklı)",
-    "options": [
-      "Limasol",
-      "Baf",
-      "İskele",
-      "Larnaka"
-    ],
-    "answer": "İskele",
-    "explanation": "İskele, KKTC ilçelerinden biridir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "İlçeler::İskele"
-  },
-  {
-    "id": "kktc-025",
-    "category": "İlçeler",
-    "difficulty": "Kolay",
-    "question": "İskele hangi ülkenin idari yerleşimleri arasında yer alır?",
-    "options": [
-      "Güney Kıbrıs",
-      "KKTC",
-      "Türkiye",
-      "Yunanistan"
-    ],
-    "answer": "KKTC",
-    "explanation": "İskele, KKTC sınırları içinde bilinen bir ilçedir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "İlçeler::KKTC"
-  },
-  {
-    "id": "kktc-026",
-    "category": "İlçeler",
-    "difficulty": "Kolay",
-    "question": "Lefke KKTC'de hangi idari başlık altında değerlendirilir?",
-    "options": [
-      "Bakanlık",
-      "Gazete",
-      "İlçe",
-      "Üniversite"
-    ],
-    "answer": "İlçe",
-    "explanation": "Lefke, KKTC'nin ilçeleri arasında yer alır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "İlçeler::İlçe"
-  },
-  {
-    "id": "kktc-027",
-    "category": "İlçeler",
-    "difficulty": "Kolay",
-    "question": "Aşağıdakilerden hangisi KKTC ilçelerinden biridir? (Lefke odaklı)",
-    "options": [
-      "Baf",
-      "Limasol",
-      "Larnaka",
-      "Lefke"
-    ],
-    "answer": "Lefke",
-    "explanation": "Lefke, KKTC ilçelerinden biridir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "İlçeler::Lefke"
-  },
-  {
-    "id": "kktc-028",
-    "category": "İlçeler",
-    "difficulty": "Kolay",
-    "question": "Lefke hangi ülkenin idari yerleşimleri arasında yer alır?",
-    "options": [
-      "Türkiye",
-      "Yunanistan",
-      "KKTC",
-      "Güney Kıbrıs"
-    ],
-    "answer": "KKTC",
-    "explanation": "Lefke, KKTC sınırları içinde bilinen bir ilçedir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "İlçeler::KKTC"
-  },
-  {
-    "id": "kktc-029",
-    "category": "İlçeler",
+    "id": "sqv7-002",
+    "category": "Tarih",
+    "topic": "1974 Barış Harekâtı",
     "difficulty": "Orta",
-    "question": "Aşağıdakilerden hangisi KKTC ilçesi değildir? (Larnaka odaklı)",
+    "question": "1974 Kıbrıs Barış Harekâtı sırasında Türkiye Cumhuriyeti Başbakan Yardımcısı kimdi?",
     "options": [
-      "Girne",
-      "Lefkoşa",
-      "Larnaka",
-      "Gazimağusa"
+      "Necmettin Erbakan",
+      "Semih Sancar",
+      "Bülent Ecevit",
+      "Fahri Korutürk",
+      "Turan Güneş"
     ],
-    "answer": "Larnaka",
-    "explanation": "Larnaka, KKTC'nin ilçeleri arasında değildir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "İlçeler::Larnaka"
+    "answer": "Necmettin Erbakan",
+    "answerLetter": "A",
+    "explanation": "1974 döneminde Başbakan Yardımcısı Necmettin Erbakan’dır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-030",
-    "category": "İlçeler",
+    "id": "sqv7-003",
+    "category": "Osmanlı Dönemi",
+    "topic": "Fetih",
+    "difficulty": "Kolay",
+    "question": "Kıbrıs’ın fethi sırasında ordu komutanı kimdi?",
+    "options": [
+      "Lala Mustafa Paşa",
+      "Piyale Paşa",
+      "Osmanlı Şeyhülislamı",
+      "Hz. Osman",
+      "II. Selim"
+    ],
+    "answer": "Lala Mustafa Paşa",
+    "answerLetter": "A",
+    "explanation": "Kıbrıs’ın fethinde serdar/ordu komutanı Lala Mustafa Paşa’dır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-004",
+    "category": "Osmanlı Dönemi",
+    "topic": "Fetih",
+    "difficulty": "Kolay",
+    "question": "Kıbrıs’ın fethi sırasında donanma komutanı kimdi?",
+    "options": [
+      "Lala Mustafa Paşa",
+      "Piyale Paşa",
+      "Osmanlı Şeyhülislamı",
+      "Hz. Osman",
+      "II. Selim"
+    ],
+    "answer": "Piyale Paşa",
+    "answerLetter": "B",
+    "explanation": "Kıbrıs seferinde donanma komutanı Piyale Paşa’dır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-005",
+    "category": "Maden",
+    "topic": "Bakır",
     "difficulty": "Orta",
-    "question": "Aşağıdakilerden hangisi KKTC ilçesi değildir? (Limasol odaklı)",
+    "question": "Tunç Dönemi’nde Troodos Dağları’ndaki bakır madeninin Kıbrıs’ta ilk çıktığı köyün Rumca adı nedir?",
+    "options": [
+      "Ambeligu (Bağlıköy)",
+      "Poli",
+      "Piroyi",
+      "Afanya",
+      "Neohorio"
+    ],
+    "answer": "Ambeligu (Bağlıköy)",
+    "answerLetter": "A",
+    "explanation": "Soru bankası cevabına göre doğru cevap Ambeligu yani Bağlıköy’dür.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-006",
+    "category": "Coğrafya",
+    "topic": "Dünya’nın Dönüşü",
+    "difficulty": "Kolay",
+    "question": "Güneş doğudan doğup batıdan batmaktadır. Buna göre Dünya’nın dönüş yönü nedir?",
+    "options": [
+      "Doğudan batıya doğru",
+      "Kuzeyden güneye doğru",
+      "Batıdan doğuya doğru",
+      "Kuzey batıdan güney doğuya",
+      "Kuzey doğudan batıya"
+    ],
+    "answer": "Batıdan doğuya doğru",
+    "answerLetter": "C",
+    "explanation": "Dünya batıdan doğuya doğru döner.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-007",
+    "category": "Kültür",
+    "topic": "Maronitler",
+    "difficulty": "Kolay",
+    "question": "Kıbrıs’ta Maronitler nerede yaşamaktadır?",
+    "options": [
+      "Koruçam",
+      "Yeniceköy",
+      "Gaziköy",
+      "Kaleburnu",
+      "Gayretköy"
+    ],
+    "answer": "Koruçam",
+    "answerLetter": "A",
+    "explanation": "Maronitlerin Kıbrıs’ta bilinen yerleşimi Koruçam’dır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-008",
+    "category": "Turizm",
+    "topic": "Müzeler",
+    "difficulty": "Orta",
+    "question": "Batık gemi nerede sergilenir?",
+    "options": [
+      "Kıbrıs Müzesi",
+      "Barbarlık Müzesi",
+      "Girne Kalesi Müzesi",
+      "Mevlevi Tekkesi Müzesi",
+      "Kıbrıs Doğa Tarihi Müzesi"
+    ],
+    "answer": "Girne Kalesi Müzesi",
+    "answerLetter": "C",
+    "explanation": "Girne batığı, Girne Kalesi Müzesi ile ilişkilidir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-009",
+    "category": "Siyasi Coğrafya",
+    "topic": "İngiliz Üsleri",
+    "difficulty": "Orta",
+    "question": "Ağrotur üssü günümüzde hangi ilçeye bağlıdır?",
     "options": [
       "Limasol",
+      "Larnaka",
       "Lefkoşa",
-      "Gazimağusa",
+      "Baf",
       "Girne"
     ],
     "answer": "Limasol",
-    "explanation": "Limasol, KKTC'nin ilçeleri arasında değildir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "İlçeler::Limasol"
+    "answerLetter": "A",
+    "explanation": "Ağrotur üssü Limasol bölgesiyle ilişkilidir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-031",
-    "category": "İlçeler",
-    "difficulty": "Orta",
-    "question": "Aşağıdakilerden hangisi KKTC ilçesi değildir? (Baf odaklı)",
+    "id": "sqv7-010",
+    "category": "Coğrafya",
+    "topic": "Komşular",
+    "difficulty": "Kolay",
+    "question": "Kıbrıs’ın güney komşusu hangi ülkedir?",
     "options": [
-      "Gazimağusa",
-      "Baf",
+      "Türkiye",
+      "Mısır",
+      "Yunanistan",
+      "Suriye",
+      "İsrail"
+    ],
+    "answer": "Mısır",
+    "answerLetter": "B",
+    "explanation": "Kıbrıs’ın güneyinde Mısır yer alır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-011",
+    "category": "Coğrafya",
+    "topic": "Yüzölçümü",
+    "difficulty": "Kolay",
+    "question": "Kıbrıs’ın yüzölçümü nedir?",
+    "options": [
+      "9250 km²",
+      "9251 km²",
+      "9252 km²",
+      "3242 km²",
+      "5509 km²"
+    ],
+    "answer": "9251 km²",
+    "answerLetter": "B",
+    "explanation": "Kıbrıs adasının toplam yüzölçümü 9251 km² olarak verilmiştir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-012",
+    "category": "Devlet Yapısı",
+    "topic": "KTFD",
+    "difficulty": "Orta",
+    "question": "Kıbrıs Türk Federe Devleti’nin ilk devlet başkanı ve KKTC’nin ilk cumhurbaşkanı olan kişi kimdir?",
+    "options": [
+      "Rauf Raif Denktaş",
+      "Nejat Konuk",
+      "Derviş Eroğlu",
+      "Dr. Fazıl Küçük",
+      "Hakkı Atun"
+    ],
+    "answer": "Rauf Raif Denktaş",
+    "answerLetter": "A",
+    "explanation": "Rauf Raif Denktaş hem KTFD’nin ilk devlet başkanı hem de KKTC’nin kurucu cumhurbaşkanıdır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-013",
+    "category": "Devlet Yapısı",
+    "topic": "KTFD",
+    "difficulty": "Orta",
+    "question": "Kıbrıs Türk Federe Devleti’nin ilk başbakanı kimdir?",
+    "options": [
+      "Nejat Konuk",
+      "Mustafa Çağatay",
+      "Derviş Eroğlu",
+      "Dr. Fazıl Küçük",
+      "Hakkı Atun"
+    ],
+    "answer": "Nejat Konuk",
+    "answerLetter": "A",
+    "explanation": "KTFD’nin ilk başbakanı Nejat Konuk’tur.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-014",
+    "category": "TMT",
+    "topic": "Kuruluş",
+    "difficulty": "Kolay",
+    "question": "TMT hangi tarihte kuruldu?",
+    "options": [
+      "1 Ağustos 1958",
+      "1 Ağustos 1957",
+      "1 Ağustos 1959",
+      "1 Ağustos 1960",
+      "1 Ağustos 1968"
+    ],
+    "answer": "1 Ağustos 1958",
+    "answerLetter": "A",
+    "explanation": "Türk Mukavemet Teşkilatı 1 Ağustos 1958’de kurulmuştur.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-015",
+    "category": "Coğrafya",
+    "topic": "İklim",
+    "difficulty": "Kolay",
+    "question": "Kıbrıs adası hangi iklim kuşağında yer almaktadır?",
+    "options": [
+      "Kutup Kuşağı",
+      "Orta Kuşak",
+      "Tropikal Kuşak",
+      "Ekvatoral Kuşak",
+      "Soğuk Kuşak"
+    ],
+    "answer": "Orta Kuşak",
+    "answerLetter": "B",
+    "explanation": "Kıbrıs matematik iklim kuşağı bakımından orta kuşakta yer alır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-016",
+    "category": "Coğrafya",
+    "topic": "İklim",
+    "difficulty": "Kolay",
+    "question": "Kıbrıs adası hangi sıcaklık kuşağında yer almaktadır?",
+    "options": [
+      "Soğuk Kuşak",
+      "Ilıman Kuşak",
+      "Sıcak Kuşak",
+      "Tropikal Kuşak",
+      "Kutup Kuşağı"
+    ],
+    "answer": "Ilıman Kuşak",
+    "answerLetter": "B",
+    "explanation": "Kıbrıs sıcaklık kuşağı bakımından ılıman kuşakta yer alır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-017",
+    "category": "Osmanlı Dönemi",
+    "topic": "Fetih",
+    "difficulty": "Kolay",
+    "question": "Osmanlılar Kıbrıs’ı kimden almıştır?",
+    "options": [
+      "Venedik",
+      "Lüzinyan",
+      "Hitit",
+      "Asurlular",
+      "Haçlılar"
+    ],
+    "answer": "Venedik",
+    "answerLetter": "A",
+    "explanation": "Osmanlılar Kıbrıs’ı Venediklilerden almıştır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-018",
+    "category": "Sınır Kapıları",
+    "topic": "Yaya Geçişi",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi sadece yaya geçişlerine açık sınır kapısıdır?",
+    "options": [
+      "Metehan",
+      "Bostancı",
+      "Akyar",
+      "Beyarmudu",
+      "Lokmacı"
+    ],
+    "answer": "Lokmacı",
+    "answerLetter": "E",
+    "explanation": "Lokmacı sınır kapısı yaya geçişiyle bilinir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-019",
+    "category": "Turizm",
+    "topic": "Selimiye Camii",
+    "difficulty": "Kolay",
+    "question": "Selimiye Camii’nin eski ismi nedir?",
+    "options": [
+      "St. Sophia Katedrali",
+      "St. Nicholas Katedrali",
+      "St. Barnabas Manastırı",
+      "Bufavento Kalesi",
+      "Aziz Nikolas Katedrali"
+    ],
+    "answer": "St. Sophia Katedrali",
+    "answerLetter": "A",
+    "explanation": "Selimiye Camii’nin eski adı St. Sophia Katedrali’dir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-020",
+    "category": "Kurumlar",
+    "topic": "Evkaf",
+    "difficulty": "Orta",
+    "question": "Evkaf hangi yılda Türklere devredildi?",
+    "options": [
+      "6 Şubat 1955",
+      "19 Mart 1955",
+      "2 Temmuz 1955",
+      "22 Temmuz 1955",
+      "15 Nisan 1956"
+    ],
+    "answer": "15 Nisan 1956",
+    "answerLetter": "E",
+    "explanation": "Cevap anahtarına göre doğru cevap 15 Nisan 1956’dır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-021",
+    "category": "Edebiyat",
+    "topic": "Namık Kemal",
+    "difficulty": "Kolay",
+    "question": "Namık Kemal’in sürgün edildiği bölge neresidir?",
+    "options": [
+      "Mağusa",
       "Girne",
-      "Lefkoşa"
+      "Güzelyurt",
+      "İskele",
+      "Lefke"
+    ],
+    "answer": "Mağusa",
+    "answerLetter": "A",
+    "explanation": "Namık Kemal Mağusa’ya sürgün edilmiştir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-022",
+    "category": "Tarih",
+    "topic": "Egemenlik",
+    "difficulty": "Kolay",
+    "question": "Lüzinyanlılardan sonra ada kimlerin eline geçmiştir?",
+    "options": [
+      "İngilizler",
+      "Yunanlılar",
+      "Venedikliler",
+      "Mevleviler",
+      "Mısırlılar"
+    ],
+    "answer": "Venedikliler",
+    "answerLetter": "C",
+    "explanation": "Lüzinyanlılardan sonra ada Venediklilerin hâkimiyetine geçmiştir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-023",
+    "category": "Hayvanlar",
+    "topic": "Muflon",
+    "difficulty": "Kolay",
+    "question": "Nesli tükenmek üzere olan ve Troodos Dağları’nda yaşam alanı bulunan hayvan hangisidir?",
+    "options": [
+      "Muflon",
+      "Kıbrıs İshakkuşu",
+      "Pullu Ötleğen",
+      "Kıbrıs Kuyrukkakanı",
+      "Caretta caretta"
+    ],
+    "answer": "Muflon",
+    "answerLetter": "A",
+    "explanation": "Muflon, Troodos Dağları’nda yaşayan ve sembol olarak kullanılan türdür.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-024",
+    "category": "1974 Barış Harekâtı",
+    "topic": "Türkiye",
+    "difficulty": "Orta",
+    "question": "1974 I. Barış Harekâtı’nda Türkiye Cumhuriyeti Cumhurbaşkanı kimdi?",
+    "options": [
+      "Bülent Ecevit",
+      "Necmettin Erbakan",
+      "Fahri Korutürk",
+      "Semih Sancar",
+      "Tarık Yavuz Sokollu"
+    ],
+    "answer": "Fahri Korutürk",
+    "answerLetter": "C",
+    "explanation": "1974 Barış Harekâtı döneminde Cumhurbaşkanı Fahri Korutürk’tür.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-025",
+    "category": "1974 Barış Harekâtı",
+    "topic": "Türkiye",
+    "difficulty": "Orta",
+    "question": "1974 I. Barış Harekâtı’nda Türkiye Cumhuriyeti Başbakanı kimdi?",
+    "options": [
+      "Bülent Ecevit",
+      "Necmettin Erbakan",
+      "Fahri Korutürk",
+      "Semih Sancar",
+      "Yavuz Sokollu"
+    ],
+    "answer": "Bülent Ecevit",
+    "answerLetter": "A",
+    "explanation": "1974 Barış Harekâtı döneminde Başbakan Bülent Ecevit’tir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-026",
+    "category": "Coğrafya",
+    "topic": "Burunlar",
+    "difficulty": "Kolay",
+    "question": "Doğan Burnu Kıbrıs’ın hangi yönünde yer alır?",
+    "options": [
+      "Güney",
+      "Kuzey",
+      "Doğu",
+      "Batı",
+      "Güney doğu"
+    ],
+    "answer": "Güney",
+    "answerLetter": "A",
+    "explanation": "Doğan Burnu Kıbrıs’ın güney burnudur.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-027",
+    "category": "Tarih",
+    "topic": "Egemenlik",
+    "difficulty": "Orta",
+    "question": "Çeşitli tarihî dönemlerde hangi uygarlık Kıbrıs’a üç kez egemen olmuştur?",
+    "options": [
+      "Mısır",
+      "İran",
+      "Pers",
+      "Roma",
+      "İngiliz"
+    ],
+    "answer": "Mısır",
+    "answerLetter": "A",
+    "explanation": "Soru bankası cevabına göre Mısır üç kez egemen olan uygarlıktır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-028",
+    "category": "Turizm",
+    "topic": "Hala Sultan",
+    "difficulty": "Kolay",
+    "question": "Hala Sultan Türbesi hangi ilçede yer almaktadır?",
+    "options": [
+      "Limasol",
+      "Larnaka",
+      "Lefkoşa",
+      "Girne",
+      "Güzelyurt"
+    ],
+    "answer": "Larnaka",
+    "answerLetter": "B",
+    "explanation": "Hala Sultan Türbesi Larnaka’dadır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-029",
+    "category": "Afetler",
+    "topic": "Deprem",
+    "difficulty": "Orta",
+    "question": "Kıbrıs adasında 1953 yılında meydana gelen ve 40 kişinin ölümüne neden olan deprem hangi ilçede meydana gelmiştir?",
+    "options": [
+      "Lefkoşa",
+      "Larnaka",
+      "Baf",
+      "Limasol",
+      "Girne"
     ],
     "answer": "Baf",
-    "explanation": "Baf, KKTC'nin ilçeleri arasında değildir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "İlçeler::Baf"
+    "answerLetter": "C",
+    "explanation": "1953 depremi Baf ile ilişkilidir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-032",
-    "category": "İlçeler",
-    "difficulty": "Orta",
-    "question": "Aşağıdakilerden hangisi KKTC ilçesi değildir? (Ankara odaklı)",
-    "options": [
-      "Ankara",
-      "Girne",
-      "Gazimağusa",
-      "Lefkoşa"
-    ],
-    "answer": "Ankara",
-    "explanation": "Ankara, KKTC'nin ilçeleri arasında değildir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "İlçeler::Ankara"
-  },
-  {
-    "id": "kktc-033",
-    "category": "İlçeler",
-    "difficulty": "Orta",
-    "question": "Aşağıdakilerden hangisi KKTC ilçesi değildir? (Mersin odaklı)",
-    "options": [
-      "Mersin",
-      "Lefkoşa",
-      "Gazimağusa",
-      "Girne"
-    ],
-    "answer": "Mersin",
-    "explanation": "Mersin, KKTC'nin ilçeleri arasında değildir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "İlçeler::Mersin"
-  },
-  {
-    "id": "kktc-034",
-    "category": "İlçeler",
-    "difficulty": "Orta",
-    "question": "Aşağıdakilerden hangisi KKTC ilçesi değildir? (Antalya odaklı)",
-    "options": [
-      "Lefkoşa",
-      "Girne",
-      "Antalya",
-      "Gazimağusa"
-    ],
-    "answer": "Antalya",
-    "explanation": "Antalya, KKTC'nin ilçeleri arasında değildir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "İlçeler::Antalya"
-  },
-  {
-    "id": "kktc-035",
-    "category": "Resmi Günler",
+    "id": "sqv7-030",
+    "category": "TMT",
+    "topic": "Kod İsimler",
     "difficulty": "Kolay",
-    "question": "1 Ocak KKTC resmi günleri içinde hangi bayram/gün ile ilişkilidir?",
+    "question": "Türkiye’den silah getiren TMT mensuplarına hangi isim veriliyordu?",
     "options": [
-      "Ulusal Egemenlik ve Çocuk Bayramı",
-      "İşçi ve Bahar Bayramı",
-      "Yılbaşı",
-      "Gençlik ve Spor Bayramı"
+      "Bozpetek",
+      "Bereketçi",
+      "Bayraktar",
+      "Taksim",
+      "Direnişçi"
     ],
-    "answer": "Yılbaşı",
-    "explanation": "1 Ocak, Yılbaşı olarak bilinir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Yılbaşı"
+    "answer": "Bereketçi",
+    "answerLetter": "B",
+    "explanation": "Silahları taşıyıp teslim edenler 'Bereketçi' kod adıyla anılmıştır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-036",
-    "category": "Resmi Günler",
+    "id": "sqv7-031",
+    "category": "Coğrafya",
+    "topic": "Komşular",
     "difficulty": "Kolay",
-    "question": "Yılbaşı hangi tarihte kutlanır?",
+    "question": "Kıbrıs’ın en uzak komşusu hangisidir?",
     "options": [
-      "23 Nisan",
-      "1 Mayıs",
-      "19 Mayıs",
-      "1 Ocak"
+      "Türkiye",
+      "Yunanistan",
+      "Suriye",
+      "Libya",
+      "Mısır"
     ],
-    "answer": "1 Ocak",
-    "explanation": "Yılbaşı, 1 Ocak tarihinde kutlanır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::1 Ocak"
+    "answer": "Yunanistan",
+    "answerLetter": "B",
+    "explanation": "Kıbrıs’ın en uzak komşusu Yunanistan olarak verilmiştir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-037",
-    "category": "Resmi Günler",
-    "difficulty": "Orta",
-    "question": "Yılbaşı konusu hangi genel kültür başlığına girer?",
-    "options": [
-      "Coğrafya",
-      "Resmi Günler",
-      "Üniversiteler",
-      "Mutfak Kültürü"
-    ],
-    "answer": "Resmi Günler",
-    "explanation": "Yılbaşı, resmi günler başlığı altında değerlendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Resmi Günler"
-  },
-  {
-    "id": "kktc-038",
-    "category": "Resmi Günler",
+    "id": "sqv7-032",
+    "category": "Genel Kültür",
+    "topic": "NATO",
     "difficulty": "Kolay",
-    "question": "23 Nisan KKTC resmi günleri içinde hangi bayram/gün ile ilişkilidir?",
+    "question": "NATO genel merkezi nerededir?",
     "options": [
-      "Ulusal Egemenlik ve Çocuk Bayramı",
-      "İşçi ve Bahar Bayramı",
-      "Yılbaşı",
-      "Gençlik ve Spor Bayramı"
+      "Washington",
+      "Londra",
+      "New York",
+      "Brüksel",
+      "Amsterdam"
     ],
-    "answer": "Ulusal Egemenlik ve Çocuk Bayramı",
-    "explanation": "23 Nisan, Ulusal Egemenlik ve Çocuk Bayramı olarak bilinir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Ulusal Egemenlik ve Çocuk Bayramı"
+    "answer": "Brüksel",
+    "answerLetter": "D",
+    "explanation": "NATO’nun genel merkezi Brüksel’dedir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-039",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Ulusal Egemenlik ve Çocuk Bayramı hangi tarihte kutlanır?",
-    "options": [
-      "1 Ocak",
-      "23 Nisan",
-      "19 Mayıs",
-      "1 Mayıs"
-    ],
-    "answer": "23 Nisan",
-    "explanation": "Ulusal Egemenlik ve Çocuk Bayramı, 23 Nisan tarihinde kutlanır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::23 Nisan"
-  },
-  {
-    "id": "kktc-040",
-    "category": "Resmi Günler",
-    "difficulty": "Orta",
-    "question": "Ulusal Egemenlik ve Çocuk Bayramı konusu hangi genel kültür başlığına girer?",
-    "options": [
-      "Mutfak Kültürü",
-      "Coğrafya",
-      "Üniversiteler",
-      "Resmi Günler"
-    ],
-    "answer": "Resmi Günler",
-    "explanation": "Ulusal Egemenlik ve Çocuk Bayramı, resmi günler başlığı altında değerlendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Resmi Günler"
-  },
-  {
-    "id": "kktc-041",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "1 Mayıs KKTC resmi günleri içinde hangi bayram/gün ile ilişkilidir?",
-    "options": [
-      "Gençlik ve Spor Bayramı",
-      "Yılbaşı",
-      "İşçi ve Bahar Bayramı",
-      "Ulusal Egemenlik ve Çocuk Bayramı"
-    ],
-    "answer": "İşçi ve Bahar Bayramı",
-    "explanation": "1 Mayıs, İşçi ve Bahar Bayramı olarak bilinir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::İşçi ve Bahar Bayramı"
-  },
-  {
-    "id": "kktc-042",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "İşçi ve Bahar Bayramı hangi tarihte kutlanır?",
-    "options": [
-      "23 Nisan",
-      "1 Ocak",
-      "1 Mayıs",
-      "19 Mayıs"
-    ],
-    "answer": "1 Mayıs",
-    "explanation": "İşçi ve Bahar Bayramı, 1 Mayıs tarihinde kutlanır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::1 Mayıs"
-  },
-  {
-    "id": "kktc-043",
-    "category": "Resmi Günler",
-    "difficulty": "Orta",
-    "question": "İşçi ve Bahar Bayramı konusu hangi genel kültür başlığına girer?",
-    "options": [
-      "Mutfak Kültürü",
-      "Coğrafya",
-      "Üniversiteler",
-      "Resmi Günler"
-    ],
-    "answer": "Resmi Günler",
-    "explanation": "İşçi ve Bahar Bayramı, resmi günler başlığı altında değerlendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Resmi Günler"
-  },
-  {
-    "id": "kktc-044",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "19 Mayıs KKTC resmi günleri içinde hangi bayram/gün ile ilişkilidir?",
-    "options": [
-      "İşçi ve Bahar Bayramı",
-      "Gençlik ve Spor Bayramı",
-      "Ulusal Egemenlik ve Çocuk Bayramı",
-      "Yılbaşı"
-    ],
-    "answer": "Gençlik ve Spor Bayramı",
-    "explanation": "19 Mayıs, Gençlik ve Spor Bayramı olarak bilinir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Gençlik ve Spor Bayramı"
-  },
-  {
-    "id": "kktc-045",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Gençlik ve Spor Bayramı hangi tarihte kutlanır?",
-    "options": [
-      "1 Ocak",
-      "19 Mayıs",
-      "1 Mayıs",
-      "23 Nisan"
-    ],
-    "answer": "19 Mayıs",
-    "explanation": "Gençlik ve Spor Bayramı, 19 Mayıs tarihinde kutlanır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::19 Mayıs"
-  },
-  {
-    "id": "kktc-046",
-    "category": "Resmi Günler",
-    "difficulty": "Orta",
-    "question": "Gençlik ve Spor Bayramı konusu hangi genel kültür başlığına girer?",
-    "options": [
-      "Üniversiteler",
-      "Resmi Günler",
-      "Mutfak Kültürü",
-      "Coğrafya"
-    ],
-    "answer": "Resmi Günler",
-    "explanation": "Gençlik ve Spor Bayramı, resmi günler başlığı altında değerlendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Resmi Günler"
-  },
-  {
-    "id": "kktc-047",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "20 Temmuz KKTC resmi günleri içinde hangi bayram/gün ile ilişkilidir?",
-    "options": [
-      "İşçi ve Bahar Bayramı",
-      "Yılbaşı",
-      "Ulusal Egemenlik ve Çocuk Bayramı",
-      "Barış ve Özgürlük Bayramı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "20 Temmuz, Barış ve Özgürlük Bayramı olarak bilinir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-048",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Barış ve Özgürlük Bayramı hangi tarihte kutlanır?",
-    "options": [
-      "1 Ocak",
-      "23 Nisan",
-      "20 Temmuz",
-      "1 Mayıs"
-    ],
-    "answer": "20 Temmuz",
-    "explanation": "Barış ve Özgürlük Bayramı, 20 Temmuz tarihinde kutlanır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::20 Temmuz"
-  },
-  {
-    "id": "kktc-049",
-    "category": "Resmi Günler",
-    "difficulty": "Orta",
-    "question": "Barış ve Özgürlük Bayramı konusu hangi genel kültür başlığına girer?",
-    "options": [
-      "Mutfak Kültürü",
-      "Resmi Günler",
-      "Coğrafya",
-      "Üniversiteler"
-    ],
-    "answer": "Resmi Günler",
-    "explanation": "Barış ve Özgürlük Bayramı, resmi günler başlığı altında değerlendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Resmi Günler"
-  },
-  {
-    "id": "kktc-050",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "1 Ağustos KKTC resmi günleri içinde hangi bayram/gün ile ilişkilidir?",
-    "options": [
-      "Yılbaşı",
-      "Ulusal Egemenlik ve Çocuk Bayramı",
-      "İşçi ve Bahar Bayramı",
-      "Toplumsal Direniş Bayramı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "1 Ağustos, Toplumsal Direniş Bayramı olarak bilinir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-051",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Toplumsal Direniş Bayramı hangi tarihte kutlanır?",
-    "options": [
-      "1 Mayıs",
-      "1 Ocak",
-      "23 Nisan",
-      "1 Ağustos"
-    ],
-    "answer": "1 Ağustos",
-    "explanation": "Toplumsal Direniş Bayramı, 1 Ağustos tarihinde kutlanır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::1 Ağustos"
-  },
-  {
-    "id": "kktc-052",
-    "category": "Resmi Günler",
-    "difficulty": "Orta",
-    "question": "Toplumsal Direniş Bayramı konusu hangi genel kültür başlığına girer?",
-    "options": [
-      "Coğrafya",
-      "Mutfak Kültürü",
-      "Üniversiteler",
-      "Resmi Günler"
-    ],
-    "answer": "Resmi Günler",
-    "explanation": "Toplumsal Direniş Bayramı, resmi günler başlığı altında değerlendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Resmi Günler"
-  },
-  {
-    "id": "kktc-053",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "30 Ağustos KKTC resmi günleri içinde hangi bayram/gün ile ilişkilidir?",
-    "options": [
-      "Zafer Bayramı",
-      "İşçi ve Bahar Bayramı",
-      "Ulusal Egemenlik ve Çocuk Bayramı",
-      "Yılbaşı"
-    ],
-    "answer": "Zafer Bayramı",
-    "explanation": "30 Ağustos, Zafer Bayramı olarak bilinir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Zafer Bayramı"
-  },
-  {
-    "id": "kktc-054",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Zafer Bayramı hangi tarihte kutlanır?",
-    "options": [
-      "30 Ağustos",
-      "23 Nisan",
-      "1 Mayıs",
-      "1 Ocak"
-    ],
-    "answer": "30 Ağustos",
-    "explanation": "Zafer Bayramı, 30 Ağustos tarihinde kutlanır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::30 Ağustos"
-  },
-  {
-    "id": "kktc-055",
-    "category": "Resmi Günler",
-    "difficulty": "Orta",
-    "question": "Zafer Bayramı konusu hangi genel kültür başlığına girer?",
-    "options": [
-      "Mutfak Kültürü",
-      "Resmi Günler",
-      "Üniversiteler",
-      "Coğrafya"
-    ],
-    "answer": "Resmi Günler",
-    "explanation": "Zafer Bayramı, resmi günler başlığı altında değerlendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Resmi Günler"
-  },
-  {
-    "id": "kktc-056",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "29 Ekim KKTC resmi günleri içinde hangi bayram/gün ile ilişkilidir?",
-    "options": [
-      "Türkiye Cumhuriyet Bayramı",
-      "İşçi ve Bahar Bayramı",
-      "Yılbaşı",
-      "Ulusal Egemenlik ve Çocuk Bayramı"
-    ],
-    "answer": "Türkiye Cumhuriyet Bayramı",
-    "explanation": "29 Ekim, Türkiye Cumhuriyet Bayramı olarak bilinir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Türkiye Cumhuriyet Bayramı"
-  },
-  {
-    "id": "kktc-057",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Türkiye Cumhuriyet Bayramı hangi tarihte kutlanır?",
-    "options": [
-      "29 Ekim",
-      "1 Ocak",
-      "23 Nisan",
-      "1 Mayıs"
-    ],
-    "answer": "29 Ekim",
-    "explanation": "Türkiye Cumhuriyet Bayramı, 29 Ekim tarihinde kutlanır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::29 Ekim"
-  },
-  {
-    "id": "kktc-058",
-    "category": "Resmi Günler",
-    "difficulty": "Orta",
-    "question": "Türkiye Cumhuriyet Bayramı konusu hangi genel kültür başlığına girer?",
-    "options": [
-      "Coğrafya",
-      "Üniversiteler",
-      "Mutfak Kültürü",
-      "Resmi Günler"
-    ],
-    "answer": "Resmi Günler",
-    "explanation": "Türkiye Cumhuriyet Bayramı, resmi günler başlığı altında değerlendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Resmi Günler"
-  },
-  {
-    "id": "kktc-059",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "15 Kasım KKTC resmi günleri içinde hangi bayram/gün ile ilişkilidir?",
-    "options": [
-      "Ulusal Egemenlik ve Çocuk Bayramı",
-      "İşçi ve Bahar Bayramı",
-      "Yılbaşı",
-      "KKTC Cumhuriyet Bayramı"
-    ],
-    "answer": "KKTC Cumhuriyet Bayramı",
-    "explanation": "15 Kasım, KKTC Cumhuriyet Bayramı olarak bilinir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::KKTC Cumhuriyet Bayramı"
-  },
-  {
-    "id": "kktc-060",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "KKTC Cumhuriyet Bayramı hangi tarihte kutlanır?",
-    "options": [
-      "1 Mayıs",
-      "15 Kasım",
-      "23 Nisan",
-      "1 Ocak"
-    ],
-    "answer": "15 Kasım",
-    "explanation": "KKTC Cumhuriyet Bayramı, 15 Kasım tarihinde kutlanır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::15 Kasım"
-  },
-  {
-    "id": "kktc-061",
-    "category": "Resmi Günler",
-    "difficulty": "Orta",
-    "question": "KKTC Cumhuriyet Bayramı konusu hangi genel kültür başlığına girer?",
-    "options": [
-      "Coğrafya",
-      "Üniversiteler",
-      "Mutfak Kültürü",
-      "Resmi Günler"
-    ],
-    "answer": "Resmi Günler",
-    "explanation": "KKTC Cumhuriyet Bayramı, resmi günler başlığı altında değerlendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Resmi Günler"
-  },
-  {
-    "id": "kktc-062",
+    "id": "sqv7-033",
     "category": "Tarih",
-    "difficulty": "Kolay",
-    "question": "KKTC'nin ilanı hangi tarihle ilişkilidir?",
-    "options": [
-      "1 Ağustos",
-      "20 Temmuz",
-      "15 Kasım 1983",
-      "20 Temmuz 1974"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "KKTC'nin ilanı, 15 Kasım 1983 tarihiyle ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-063",
-    "category": "Tarih",
-    "difficulty": "Kolay",
-    "question": "15 Kasım 1983 tarihi KKTC/Kıbrıs Türk tarihi açısından hangi olayla ilişkilidir?",
-    "options": [
-      "Kıbrıs Barış Harekâtı",
-      "Toplumsal Direniş Bayramı",
-      "KKTC'nin ilanı",
-      "Barış ve Özgürlük Bayramı"
-    ],
-    "answer": "KKTC'nin ilanı",
-    "explanation": "15 Kasım 1983, KKTC'nin ilanı ile ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::KKTC'nin ilanı"
-  },
-  {
-    "id": "kktc-064",
-    "category": "Tarih",
+    "topic": "İnebahtı",
     "difficulty": "Orta",
-    "question": "'KKTC'nin ilanı' sorusu hangi kategoriye aittir?",
+    "question": "Kıbrıs seferinden dönmekte olan Osmanlı donanması hangi deniz savaşında yakalanmıştır?",
     "options": [
-      "Tarih",
-      "Coğrafya",
-      "Medya",
-      "Mutfak"
+      "Bafra",
+      "Baf",
+      "İnebahtı",
+      "Limasol",
+      "Akdeniz"
     ],
-    "answer": "Tarih",
-    "explanation": "KKTC'nin ilanı, tarih başlığı altında yer alır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::Tarih"
+    "answer": "İnebahtı",
+    "answerLetter": "C",
+    "explanation": "İnebahtı Deniz Savaşı bu bağlamda sorulur.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-065",
-    "category": "Tarih",
-    "difficulty": "Kolay",
-    "question": "Kıbrıs Barış Harekâtı hangi tarihle ilişkilidir?",
-    "options": [
-      "1 Ağustos",
-      "20 Temmuz 1974",
-      "20 Temmuz",
-      "15 Kasım 1983"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Kıbrıs Barış Harekâtı, 20 Temmuz 1974 tarihiyle ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-066",
-    "category": "Tarih",
-    "difficulty": "Kolay",
-    "question": "20 Temmuz 1974 tarihi KKTC/Kıbrıs Türk tarihi açısından hangi olayla ilişkilidir?",
-    "options": [
-      "Barış ve Özgürlük Bayramı",
-      "KKTC'nin ilanı",
-      "Kıbrıs Barış Harekâtı",
-      "Toplumsal Direniş Bayramı"
-    ],
-    "answer": "Kıbrıs Barış Harekâtı",
-    "explanation": "20 Temmuz 1974, Kıbrıs Barış Harekâtı ile ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::Kıbrıs Barış Harekâtı"
-  },
-  {
-    "id": "kktc-067",
-    "category": "Tarih",
+    "id": "sqv7-034",
+    "category": "Siyasi Örgütler",
+    "topic": "KATAK",
     "difficulty": "Orta",
-    "question": "'Kıbrıs Barış Harekâtı' sorusu hangi kategoriye aittir?",
+    "question": "Kıbrıs Adası Türk Azınlığı Kurumu (KATAK) hangi yılda kurulur?",
     "options": [
-      "Coğrafya",
-      "Mutfak",
-      "Tarih",
-      "Medya"
+      "1943",
+      "1954",
+      "1941",
+      "1934",
+      "1960"
     ],
-    "answer": "Tarih",
-    "explanation": "Kıbrıs Barış Harekâtı, tarih başlığı altında yer alır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::Tarih"
+    "answer": "1943",
+    "answerLetter": "A",
+    "explanation": "KATAK 1943 yılında kurulmuştur.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-068",
-    "category": "Tarih",
+    "id": "sqv7-035",
+    "category": "Tarım",
+    "topic": "Üzüm",
     "difficulty": "Kolay",
-    "question": "Barış ve Özgürlük Bayramı hangi tarihle ilişkilidir?",
+    "question": "Kıbrıs’ın en eski tarım ürünlerinden biri olan üzüm için her yıl hangi yerleşim yerinde üzüm festivali yapılmaktadır?",
     "options": [
-      "1 Ağustos",
-      "15 Kasım 1983",
-      "20 Temmuz 1974",
-      "20 Temmuz"
+      "Mehmetçik",
+      "Ozanköy",
+      "Tepebaşı",
+      "Büyükkonuk",
+      "Hisarköy"
     ],
-    "answer": "20 Temmuz",
-    "explanation": "Barış ve Özgürlük Bayramı, 20 Temmuz tarihiyle ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz"
+    "answer": "Mehmetçik",
+    "answerLetter": "A",
+    "explanation": "Mehmetçik üzüm festivaliyle bilinir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-069",
-    "category": "Tarih",
-    "difficulty": "Kolay",
-    "question": "20 Temmuz tarihi KKTC/Kıbrıs Türk tarihi açısından hangi olayla ilişkilidir?",
-    "options": [
-      "Barış ve Özgürlük Bayramı",
-      "Toplumsal Direniş Bayramı",
-      "KKTC'nin ilanı",
-      "Kıbrıs Barış Harekâtı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "20 Temmuz, Barış ve Özgürlük Bayramı ile ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-070",
-    "category": "Tarih",
+    "id": "sqv7-036",
+    "category": "Jeoloji",
+    "topic": "Fay Hattı",
     "difficulty": "Orta",
-    "question": "'Barış ve Özgürlük Bayramı' sorusu hangi kategoriye aittir?",
+    "question": "Kıbrıs’taki depremlerin esas kaynağı adanın güney-güneybatısından geçen hangi fay hattıdır?",
     "options": [
-      "Coğrafya",
-      "Tarih",
-      "Mutfak",
-      "Medya"
+      "Doğu Akdeniz yayı",
+      "Batı Akdeniz yayı",
+      "Kıbrıs yayı",
+      "Kıbrıs fayı",
+      "Kuzey Akdeniz fayı"
     ],
-    "answer": "Tarih",
-    "explanation": "Barış ve Özgürlük Bayramı, tarih başlığı altında yer alır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::Tarih"
+    "answer": "Kıbrıs yayı",
+    "answerLetter": "C",
+    "explanation": "Kıbrıs yayı adadaki depremlerle ilişkilendirilir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-071",
-    "category": "Tarih",
+    "id": "sqv7-037",
+    "category": "Coğrafya",
+    "topic": "Dağlar",
     "difficulty": "Kolay",
-    "question": "Toplumsal Direniş Bayramı hangi tarihle ilişkilidir?",
+    "question": "Kıbrıs’ın en yüksek dağlık kütlesi hangisidir?",
     "options": [
-      "20 Temmuz 1974",
-      "15 Kasım 1983",
-      "20 Temmuz",
-      "1 Ağustos"
+      "Karpaz Dağları",
+      "Toros Dağları",
+      "Troodos Dağları",
+      "Girne Dağları",
+      "Beşparmak Dağları"
     ],
-    "answer": "1 Ağustos",
-    "explanation": "Toplumsal Direniş Bayramı, 1 Ağustos tarihiyle ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::1 Ağustos"
+    "answer": "Troodos Dağları",
+    "answerLetter": "C",
+    "explanation": "Adanın en yüksek kütlesi Troodos Dağlarıdır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-072",
+    "id": "sqv7-038",
     "category": "Tarih",
+    "topic": "Kıbrıs Cumhuriyeti",
+    "difficulty": "Orta",
+    "question": "Rumların Enosis hedefi ve Rum-Türk çıkarlarının ayrılığı hangi tarihli Kıbrıs Cumhuriyeti’nin kurulmasıyla sonuçlanır?",
+    "options": [
+      "15 Ağustos 1974",
+      "12 Temmuz 1958",
+      "10 Ağustos 1966",
+      "16 Ağustos 1960",
+      "11 Ağustos 1983"
+    ],
+    "answer": "16 Ağustos 1960",
+    "answerLetter": "D",
+    "explanation": "Kıbrıs Cumhuriyeti 16 Ağustos 1960’ta kurulmuştur.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-039",
+    "category": "Tarım",
+    "topic": "Sulama",
     "difficulty": "Kolay",
-    "question": "1 Ağustos tarihi KKTC/Kıbrıs Türk tarihi açısından hangi olayla ilişkilidir?",
+    "question": "KKTC’de ekilen tarım arazilerinin ne kadarlık bölümünde sulu tarım yapılmaktadır?",
     "options": [
-      "KKTC'nin ilanı",
-      "Barış ve Özgürlük Bayramı",
-      "Toplumsal Direniş Bayramı",
-      "Kıbrıs Barış Harekâtı"
+      "%8",
+      "%13",
+      "%10",
+      "%15",
+      "%18"
     ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "1 Ağustos, Toplumsal Direniş Bayramı ile ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::Toplumsal Direniş Bayramı"
+    "answer": "%8",
+    "answerLetter": "A",
+    "explanation": "Cevap anahtarına göre sulu tarım oranı %8’dir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-073",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "'Toplumsal Direniş Bayramı' sorusu hangi kategoriye aittir?",
+    "id": "sqv7-040",
+    "category": "Orman",
+    "topic": "Arazi",
+    "difficulty": "Kolay",
+    "question": "KKTC’de toplam arazinin ne kadarı orman arazisidir?",
     "options": [
-      "Mutfak",
-      "Medya",
-      "Tarih",
-      "Coğrafya"
+      "%22.5",
+      "%35.5",
+      "%30",
+      "%25.8",
+      "%19.5"
     ],
-    "answer": "Tarih",
-    "explanation": "Toplumsal Direniş Bayramı, tarih başlığı altında yer alır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::Tarih"
+    "answer": "%19.5",
+    "answerLetter": "E",
+    "explanation": "Cevap anahtarına göre orman arazisi oranı %19.5’tir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-074",
-    "category": "Kültür ve Turizm",
+    "id": "sqv7-041",
+    "category": "Osmanlı Dönemi",
+    "topic": "Beylerbeyi",
+    "difficulty": "Kolay",
+    "question": "Osmanlı Kıbrıs’ı fethettikten sonra adaya atanan ilk beylerbeyi kimdir?",
+    "options": [
+      "II. Selim",
+      "Lala Mustafa Paşa",
+      "Piyale Paşa",
+      "Muzaffer Paşa"
+    ],
+    "answer": "Muzaffer Paşa",
+    "answerLetter": "D",
+    "explanation": "Osmanlı döneminde ilk beylerbeyi Muzaffer Paşa’dır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-042",
+    "category": "Osmanlı Dönemi",
+    "topic": "Fetih",
     "difficulty": "Orta",
-    "question": "Antik Liman ifadesi en çok hangi KKTC bölgesiyle ilişkilidir?",
+    "question": "Osmanlıların Lefkoşa kalesini almasından sonra kendiliğinden teslim olan kaleler hangi seçenekte doğru verilmiştir?",
+    "options": [
+      "Mağusa – Limasol",
+      "Girne – Baf",
+      "Baf – Mağusa",
+      "Girne – Mağusa"
+    ],
+    "answer": "Girne – Baf",
+    "answerLetter": "B",
+    "explanation": "Lefkoşa’dan sonra Girne ve Baf savaşsız teslim olmuştur.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-043",
+    "category": "Genel Kültür",
+    "topic": "BM",
+    "difficulty": "Kolay",
+    "question": "Birleşmiş Milletler genel merkezi nerededir?",
+    "options": [
+      "Brüksel",
+      "New York",
+      "Washington",
+      "Lahey",
+      "Londra"
+    ],
+    "answer": "New York",
+    "answerLetter": "B",
+    "explanation": "BM genel merkezi New York’tadır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-044",
+    "category": "Genel Kültür",
+    "topic": "NATO",
+    "difficulty": "Orta",
+    "question": "NATO’ya üye olan son ülke hangisidir?",
+    "options": [
+      "Kuzey Makedonya",
+      "Finlandiya",
+      "İsviçre",
+      "Kanada",
+      "İsveç"
+    ],
+    "answer": "İsveç",
+    "answerLetter": "E",
+    "explanation": "Soru bankası cevabına göre doğru cevap İsveç’tir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-045",
+    "category": "Edebiyat",
+    "topic": "Namık Kemal",
+    "difficulty": "Kolay",
+    "question": "Vatan Yahut Silistre eseri nedeniyle Mağusa kalesine sürgüne gönderilen şair kimdir?",
+    "options": [
+      "Ziya Paşa",
+      "Namık Kemal",
+      "Said Paşa",
+      "Kamil Paşa",
+      "Dr. Behiç"
+    ],
+    "answer": "Namık Kemal",
+    "answerLetter": "B",
+    "explanation": "Namık Kemal, Vatan Yahut Silistre nedeniyle Mağusa’ya sürgün edilmiştir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-046",
+    "category": "Osmanlı Dönemi",
+    "topic": "Lefkoşa",
+    "difficulty": "Orta",
+    "question": "Osmanlı Devleti Lefkoşa’yı fethedince Türk bayrağını astıkları burcun adı nedir?",
+    "options": [
+      "Arsenal",
+      "Konstanza",
+      "Pedokataro",
+      "Quirini",
+      "Barbaro"
+    ],
+    "answer": "Konstanza",
+    "answerLetter": "B",
+    "explanation": "Osmanlı Lefkoşa’ya Konstanza burcundan girmiştir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-047",
+    "category": "Lefkoşa",
+    "topic": "Surlar",
+    "difficulty": "Kolay",
+    "question": "Lefkoşa surları kaç burçtan oluşmaktadır?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "15"
+    ],
+    "answer": "11",
+    "answerLetter": "B",
+    "explanation": "Lefkoşa surları 11 burçtan oluşur.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-048",
+    "category": "Bitki Örtüsü",
+    "topic": "Ayrelli",
+    "difficulty": "Orta",
+    "question": "Halk arasında ayrelli olarak bilinen bitkinin diğer adı nedir?",
+    "options": [
+      "Kuşkonmaz",
+      "Şinya",
+      "Defne",
+      "Laden",
+      "Gömeç"
+    ],
+    "answer": "Kuşkonmaz",
+    "answerLetter": "A",
+    "explanation": "Ayrelli, kuşkonmaz olarak da bilinir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-049",
+    "category": "Bitki Örtüsü",
+    "topic": "Okaliptüs",
+    "difficulty": "Kolay",
+    "question": "Adaya İngilizler döneminde bataklıkları kurutmak amacıyla hangi ağaç getirilmiştir?",
+    "options": [
+      "Alev ağacı",
+      "Palmiye",
+      "Okaliptüs",
+      "Hurma",
+      "Zeytin"
+    ],
+    "answer": "Okaliptüs",
+    "answerLetter": "C",
+    "explanation": "Bataklıkları kurutmak için okaliptüs getirilmiştir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-050",
+    "category": "Coğrafya",
+    "topic": "Girne Dağları",
+    "difficulty": "Orta",
+    "question": "KKTC’nin en yüksek noktası Birkan Uzun Selvili Tepe, Girne dağlarının hangi bölümünde yer alır?",
+    "options": [
+      "Kayalar Dağları",
+      "Lapta Dağları",
+      "Beşparmak Dağları",
+      "Kantara Dağı",
+      "Troodos Dağı"
+    ],
+    "answer": "Lapta Dağları",
+    "answerLetter": "B",
+    "explanation": "Birkan Uzun Selvili Tepe Lapta Dağları üzerindedir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-051",
+    "category": "Turizm",
+    "topic": "Bufavento",
+    "difficulty": "Orta",
+    "question": "Bufavento Kalesi hangi dağ üzerinde yer almaktadır?",
+    "options": [
+      "Kayalar dağları",
+      "Lapta dağı",
+      "Beşparmak dağları",
+      "Kantara dağı",
+      "Troodos dağı"
+    ],
+    "answer": "Beşparmak dağları",
+    "answerLetter": "C",
+    "explanation": "Bufavento Kalesi Beşparmak Dağları üzerindedir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-052",
+    "category": "İklim",
+    "topic": "Sarı Toz",
+    "difficulty": "Orta",
+    "question": "Yaz aylarında zaman zaman hangi kıta üzerinden gelen çöl kumları Kıbrıs’ta sarı tozlu günlere neden olur?",
+    "options": [
+      "Avrupa",
+      "Afrika",
+      "Asya",
+      "Kuzey Amerika",
+      "Güney Amerika"
+    ],
+    "answer": "Afrika",
+    "answerLetter": "B",
+    "explanation": "Sarı toz olayında Afrika’dan gelen çöl tozları etkilidir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-053",
+    "category": "Sular",
+    "topic": "Su Temini",
+    "difficulty": "Orta",
+    "question": "KKTC Su Temini Projesi’nde Türkiye’den gelen su hangi barajdan gelip KKTC’de hangi baraja aktarılmaktadır?",
+    "options": [
+      "Alaköprü Barajı – Alayköy Barajı",
+      "Keban Barajı – Alaköprü Barajı",
+      "Hirfanlı Barajı – Geçitköy Barajı",
+      "Alaköprü Barajı – Geçitköy Barajı",
+      "Lefke Barajı – Güzelyurt Barajı"
+    ],
+    "answer": "Alaköprü Barajı – Geçitköy Barajı",
+    "answerLetter": "D",
+    "explanation": "Türkiye’den Alaköprü Barajı’ndan gelen su KKTC’de Geçitköy Barajı’na aktarılır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-054",
+    "category": "Sanayi",
+    "topic": "Elektrik",
+    "difficulty": "Kolay",
+    "question": "Kalecik köyü yakınlarındaki elektrik santrali hangi ilçe sınırları içerisindedir?",
     "options": [
       "Lefkoşa",
+      "Mağusa",
       "Girne",
       "Güzelyurt",
-      "Gazimağusa"
+      "İskele"
     ],
-    "answer": "Girne",
-    "explanation": "Girne, Antik Liman özelliğiyle bilinir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür ve Turizm::Girne"
+    "answer": "İskele",
+    "answerLetter": "E",
+    "explanation": "Kalecik santrali İskele ilçesiyle ilişkilidir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-075",
-    "category": "Kültür ve Turizm",
-    "difficulty": "Orta",
-    "question": "Girne için aşağıdaki ifadelerden hangisi daha uygundur?",
+    "id": "sqv7-055",
+    "category": "Osmanlı Dönemi",
+    "topic": "Eserler",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi Osmanlılar döneminde yapılan tarihi eserlerden biridir?",
     "options": [
-      "narenciye üretimiyle bilinen bölge",
-      "Antik Liman",
-      "surlarla çevrili tarihi kent dokusu",
-      "başkent ve idari merkez"
+      "Limasol Kalesi",
+      "Baf Kalesi",
+      "Girne Kalesi",
+      "Selimiye Camii",
+      "Lala Mustafa Paşa Camii"
     ],
-    "answer": "Antik Liman",
-    "explanation": "Girne, Antik Liman özelliğiyle anılır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür ve Turizm::Antik Liman"
+    "answer": "Baf Kalesi",
+    "answerLetter": "B",
+    "explanation": "Cevap anahtarına göre doğru cevap B şıkkıdır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-076",
-    "category": "Kültür ve Turizm",
+    "id": "sqv7-056",
+    "category": "Kıbrıs Cumhuriyeti",
+    "topic": "Bakanlar",
     "difficulty": "Orta",
-    "question": "surlarla çevrili tarihi kent dokusu ifadesi en çok hangi KKTC bölgesiyle ilişkilidir?",
+    "question": "1960’ta kurulan Kıbrıs Cumhuriyeti’nde Tarım ve Doğal Kaynaklar Bakanı kimdir?",
     "options": [
-      "Lefkoşa",
-      "Güzelyurt",
+      "Fazıl Plümer",
+      "Süleyman Uluçamgil",
+      "Dr. Fazıl Küçük",
+      "Osman Örek",
+      "Ali Nesim"
+    ],
+    "answer": "Fazıl Plümer",
+    "answerLetter": "A",
+    "explanation": "Tarım ve Doğal Kaynaklar Bakanı Fazıl Plümer olarak verilmiştir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-057",
+    "category": "Turizm",
+    "topic": "Selimiye Camii",
+    "difficulty": "Orta",
+    "question": "Lefkoşa’da Lüzinyan döneminden kalma, sonradan Selimiye Camii adını alan katedralin eski ismi nedir?",
+    "options": [
+      "St. Catharine",
+      "St. Sophia",
+      "St. Augustinian",
+      "St. Nicholas",
+      "St. Barnabas"
+    ],
+    "answer": "St. Sophia",
+    "answerLetter": "B",
+    "explanation": "Selimiye Camii’nin eski adı St. Sophia’dır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-058",
+    "category": "Liderler",
+    "topic": "Dr. Fazıl Küçük",
+    "difficulty": "Orta",
+    "question": "Toplum liderimiz Dr. Fazıl Küçük hangi tarihte vefat etmiştir?",
+    "options": [
+      "10 Kasım 1984",
+      "15 Kasım 1983",
+      "5 Mayıs 1985",
+      "15 Ocak 1984",
+      "15 Ekim 1985"
+    ],
+    "answer": "15 Ocak 1984",
+    "answerLetter": "D",
+    "explanation": "Cevap anahtarına göre Dr. Fazıl Küçük’ün vefat tarihi 15 Ocak 1984’tür.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-059",
+    "category": "Lefkoşa",
+    "topic": "Surlar",
+    "difficulty": "Orta",
+    "question": "Osmanlı tehlikesine karşı 16. yüzyılda inşa edilen Lefkoşa surları hangi dönemde inşa edilmiştir?",
+    "options": [
+      "Venedik",
+      "Lüzinyan",
+      "Osmanlı",
+      "Bizans",
+      "Ceneviz"
+    ],
+    "answer": "Venedik",
+    "answerLetter": "A",
+    "explanation": "Lefkoşa surları Venedik döneminde yapılmıştır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-060",
+    "category": "Tarih",
+    "topic": "Hitit",
+    "difficulty": "Zor",
+    "question": "Kıbrıs’taki Hitit egemenliğinin kanıtı olan tablet, bugünkü Tuzla yakınlarındaki hangi antik şehirde bulunmuştur?",
+    "options": [
+      "Enkomi",
+      "Dikelya",
+      "Salamis",
+      "Khirokitia",
+      "Baf"
+    ],
+    "answer": "Enkomi",
+    "answerLetter": "A",
+    "explanation": "Boynuzlu Tanrı Heykeli ve tablet buluntuları Enkomi ile ilişkilendirilir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-061",
+    "category": "Tarih Öncesi",
+    "topic": "Yerleşim",
+    "difficulty": "Zor",
+    "question": "Yeşilırmak kuzeyinde, kıyıdan 80 metre uzakta bulunan ve Kıbrıs’ta ilk kez bilimsel kazı yapılan ilk yerleşim yerlerinden biri hangisidir?",
+    "options": [
+      "Karmi",
+      "Vrysi",
+      "Tenta",
+      "Petra tou limnidi",
+      "Salamis"
+    ],
+    "answer": "Petra tou limnidi",
+    "answerLetter": "D",
+    "explanation": "Cevap anahtarına göre doğru cevap Petra tou Limnidi’dir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-062",
+    "category": "Antlaşmalar",
+    "topic": "İngiliz Dönemi",
+    "difficulty": "Orta",
+    "question": "Osmanlı hükümeti hangi antlaşmayla Kıbrıs’ın İngiliz toprağı olduğunu kabul etmiştir?",
+    "options": [
+      "Londra Antlaşması",
+      "1960 Antlaşmaları",
+      "Lozan Barış Antlaşması",
+      "Paris Barış Antlaşması",
+      "Sevr Antlaşması"
+    ],
+    "answer": "Sevr Antlaşması",
+    "answerLetter": "E",
+    "explanation": "Cevap anahtarına göre doğru cevap Sevr Antlaşması’dır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-063",
+    "category": "Mücadele Tarihi",
+    "topic": "Erenköy",
+    "difficulty": "Orta",
+    "question": "Türkiye’den gelen silahların saklanıp Türk öğrencilerin savunduğu yerleşim yeri hangisidir?",
+    "options": [
+      "Mağusa",
+      "Serdarlı",
+      "Erenköy",
       "Girne",
-      "Gazimağusa"
+      "Limasol"
     ],
-    "answer": "Gazimağusa",
-    "explanation": "Gazimağusa, surlarla çevrili tarihi kent dokusu özelliğiyle bilinir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür ve Turizm::Gazimağusa"
+    "answer": "Erenköy",
+    "answerLetter": "C",
+    "explanation": "Erenköy, 1963-1974 döneminde kritik direniş noktalarından biridir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-077",
-    "category": "Kültür ve Turizm",
-    "difficulty": "Orta",
-    "question": "Gazimağusa için aşağıdaki ifadelerden hangisi daha uygundur?",
+    "id": "sqv7-064",
+    "category": "Osmanlı Dönemi",
+    "topic": "Sancaklar",
+    "difficulty": "Zor",
+    "question": "Kıbrıs fethedildikten sonra başkentin dışında oluşturulan sancaklar hangileridir?",
     "options": [
-      "Antik Liman",
-      "narenciye üretimiyle bilinen bölge",
-      "başkent ve idari merkez",
-      "surlarla çevrili tarihi kent dokusu"
+      "Değirmenlik, Baf, Tuzla",
+      "Omorfo, Girne, Mağusa",
+      "Tuzla, Baf, Mağusa",
+      "Baf, Girne, Mesarya",
+      "Mağusa, Girne, Baf"
     ],
-    "answer": "surlarla çevrili tarihi kent dokusu",
-    "explanation": "Gazimağusa, surlarla çevrili tarihi kent dokusu özelliğiyle anılır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür ve Turizm::surlarla çevrili tarihi kent dokusu"
+    "answer": "Mağusa, Girne, Baf",
+    "answerLetter": "E",
+    "explanation": "Lefkoşa merkez dışında Mağusa, Girne ve Baf sancakları verilmiştir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-078",
-    "category": "Kültür ve Turizm",
+    "id": "sqv7-065",
+    "category": "Maden",
+    "topic": "CMC",
     "difficulty": "Orta",
-    "question": "başkent ve idari merkez ifadesi en çok hangi KKTC bölgesiyle ilişkilidir?",
+    "question": "Kıbrıs’ın en önemli çevre sorunu olan CMC atıkları hangi madenin yoğun çıkarılmasıyla oluşmuştur?",
+    "options": [
+      "Çinko",
+      "Bakır",
+      "Bor",
+      "Kalay",
+      "Demir"
+    ],
+    "answer": "Bakır",
+    "answerLetter": "B",
+    "explanation": "CMC sorunu bakır madeniyle ilişkilidir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-066",
+    "category": "Osmanlı Dönemi",
+    "topic": "Rus Harbi",
+    "difficulty": "Orta",
+    "question": "Osmanlı Devleti hangi devletle yaptığı savaş sonunda Kıbrıs’ı İngiltere’ye kiralamak zorunda kalmıştır?",
+    "options": [
+      "Avusturya",
+      "İngiltere",
+      "Almanya",
+      "Rusya",
+      "İran"
+    ],
+    "answer": "Rusya",
+    "answerLetter": "D",
+    "explanation": "1877-1878 Osmanlı-Rus Harbi sonrası Kıbrıs İngiltere’ye kiralanmıştır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-067",
+    "category": "Medya",
+    "topic": "Bayrak Radyosu",
+    "difficulty": "Orta",
+    "question": "Bayrak Radyosu’nun kuruluş tarihi aşağıdakilerden hangisidir?",
+    "options": [
+      "20 Temmuz 1974",
+      "25 Aralık 1963",
+      "21 Aralık 1963",
+      "27 Aralık 1963",
+      "16 Ağustos 1974"
+    ],
+    "answer": "25 Aralık 1963",
+    "answerLetter": "B",
+    "explanation": "Cevap anahtarına göre Bayrak Radyosu 25 Aralık 1963’te kurulmuştur.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-068",
+    "category": "Maden",
+    "topic": "Bakır",
+    "difficulty": "Kolay",
+    "question": "CMC tarafından işletilen bakır madeni hangi limandan yurt dışına gönderiliyordu?",
+    "options": [
+      "Yeşilyurt",
+      "Gemikonağı",
+      "Gaziveren",
+      "Yeşilırmak",
+      "Güneşköy"
+    ],
+    "answer": "Gemikonağı",
+    "answerLetter": "B",
+    "explanation": "Bakır madeni Gemikonağı Limanı’ndan gönderiliyordu.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-069",
+    "category": "Afetler",
+    "topic": "Meteoroloji",
+    "difficulty": "Kolay",
+    "question": "KKTC’de deprem gözlemleri ve ölçümleri hangi kurum tarafından yapılmaktadır?",
+    "options": [
+      "Ulaştırma Bakanlığı",
+      "Meteoroloji Dairesi",
+      "Şehir Planlama Dairesi",
+      "Jeoloji ve Maden Dairesi",
+      "Belediyeler"
+    ],
+    "answer": "Meteoroloji Dairesi",
+    "answerLetter": "B",
+    "explanation": "Deprem gözlemleri Meteoroloji Dairesi ile ilişkilendirilmiştir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-070",
+    "category": "Coğrafya",
+    "topic": "Burunlar",
+    "difficulty": "Zor",
+    "question": "Kıbrıs’ın en kuzeyi ve en doğusu Zafer; en güneyi Doğan; en batısı hangi burundur?",
+    "options": [
+      "Arnavut Burnu",
+      "Doğan Burnu",
+      "İkizler Burnu",
+      "Zafer Burnu",
+      "Koruçam Burnu"
+    ],
+    "answer": "Arnavut Burnu",
+    "answerLetter": "A",
+    "explanation": "En batı burun Arnavut Burnu olarak verilir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-071",
+    "category": "Kıbrıs Cumhuriyeti",
+    "topic": "Bakanlar",
+    "difficulty": "Zor",
+    "question": "1960 Kıbrıs Cumhuriyeti’nde Kıbrıslı Türklere ayrılan Savunma, Sağlık ve Tarım bakanlıklarında sırasıyla kimler görev yapmıştır?",
+    "options": [
+      "Osman Örek, Dr. Burhan Nalbantoğlu, M. Fazıl Plümer",
+      "Osman Örek, Niyazi Manyera, M. Fazıl Plümer",
+      "Niyazi Manyera, Mehmet Zeka, Osman Örek",
+      "Rauf Raif Denktaş, Osman Örek, Niyazi Manyera",
+      "Necati Özkan, Dr. Burhan Nalbantoğlu, Osman Örek"
+    ],
+    "answer": "Osman Örek, Niyazi Manyera, M. Fazıl Plümer",
+    "answerLetter": "B",
+    "explanation": "Cevap anahtarına göre sıralama Osman Örek, Niyazi Manyera, M. Fazıl Plümer’dir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-072",
+    "category": "İslam Tarihi",
+    "topic": "Akınlar",
+    "difficulty": "Orta",
+    "question": "Kıbrıs’a ilk İslam akınları hangi halife döneminde başladı?",
+    "options": [
+      "Hz. Ömer",
+      "Hz. Ebu Bekir",
+      "Hz. Osman",
+      "Hz. Ali",
+      "Hz. Hüseyin"
+    ],
+    "answer": "Hz. Osman",
+    "answerLetter": "C",
+    "explanation": "İlk İslam akınları Hz. Osman döneminde başlamıştır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-073",
+    "category": "Meclis",
+    "topic": "Görevler",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisi KKTC Cumhuriyet Meclisi Başkan Yardımcısıdır?",
+    "options": [
+      "Zorlu Töre",
+      "Fazilet Özdenefe",
+      "Yasemin Öztürk",
+      "Erhan Arıklı",
+      "Özdemir Berova"
+    ],
+    "answer": "Fazilet Özdenefe",
+    "answerLetter": "B",
+    "explanation": "Cevap anahtarına göre Meclis Başkan Yardımcısı Fazilet Özdenefe’dir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-074",
+    "category": "Meclis",
+    "topic": "Görevler",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisi KKTC Cumhuriyet Meclisi Başkanıdır?",
+    "options": [
+      "Zorlu Töre",
+      "Fazilet Özdenefe",
+      "Yasemin Öztürk",
+      "Erhan Arıklı",
+      "Özdemir Berova"
+    ],
+    "answer": "Zorlu Töre",
+    "answerLetter": "A",
+    "explanation": "Cevap anahtarına göre Meclis Başkanı Zorlu Töre’dir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-075",
+    "category": "Meclis",
+    "topic": "Görevler",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisi KKTC Cumhuriyet Meclisi idare amiridir?",
+    "options": [
+      "Zorlu Töre",
+      "Fazilet Özdenefe",
+      "Yasemin Öztürk",
+      "Erhan Arıklı",
+      "Özdemir Berova"
+    ],
+    "answer": "Yasemin Öztürk",
+    "answerLetter": "C",
+    "explanation": "Cevap anahtarına göre Meclis idare amiri Yasemin Öztürk’tür.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-076",
+    "category": "Coğrafya",
+    "topic": "Adalar",
+    "difficulty": "Orta",
+    "question": "Akdeniz’deki adalar büyükten küçüğe doğru hangi seçenekte doğru sıralanmıştır?",
+    "options": [
+      "Kıbrıs-Sicilya-Korsika-Girit-Rodos",
+      "Sicilya-Kıbrıs-Girit-Rodos-Sardinya",
+      "Sicilya-Sardinya-Kıbrıs-Korsika-Girit",
+      "Rodos-Sardinya-Sicilya-Kıbrıs-Girit",
+      "Girit-Sardinya-Sicilya-Kıbrıs-Rodos"
+    ],
+    "answer": "Sicilya-Sardinya-Kıbrıs-Korsika-Girit",
+    "answerLetter": "C",
+    "explanation": "Büyüklük sıralaması Sicilya, Sardinya, Kıbrıs, Korsika, Girit şeklindedir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-077",
+    "category": "Coğrafya",
+    "topic": "Adalar",
+    "difficulty": "Kolay",
+    "question": "Kıbrıs Akdeniz’in kaçıncı büyük adasıdır?",
+    "options": [
+      "Birinci",
+      "Üçüncü",
+      "İkinci",
+      "Beşinci",
+      "Altıncı"
+    ],
+    "answer": "Üçüncü",
+    "answerLetter": "B",
+    "explanation": "Kıbrıs Akdeniz’in üçüncü büyük adasıdır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-078",
+    "category": "Medya",
+    "topic": "TAK",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi Türk Ajansı Kıbrıs’ın kuruluş tarihidir?",
+    "options": [
+      "21 Aralık 1973",
+      "21 Aralık 1974",
+      "21 Aralık 1975",
+      "21 Aralık 1976",
+      "21 Aralık 1983"
+    ],
+    "answer": "21 Aralık 1973",
+    "answerLetter": "A",
+    "explanation": "TAK 21 Aralık 1973’te faaliyete geçmiştir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-079",
+    "category": "Sınır Kapıları",
+    "topic": "Akyar",
+    "difficulty": "Kolay",
+    "question": "Gazimağusa’da yer alan iki buçuk mil sınır kapısının diğer adı nedir?",
+    "options": [
+      "Pergama",
+      "Akyar",
+      "Derinya",
+      "Metehan",
+      "Yeşilırmak"
+    ],
+    "answer": "Akyar",
+    "answerLetter": "B",
+    "explanation": "İki buçuk mil sınır kapısı Akyar olarak bilinir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-080",
+    "category": "Müzeler",
+    "topic": "Modern Sanat",
+    "difficulty": "Kolay",
+    "question": "KKTC Modern Sanat Müzesi hangi ilçededir?",
     "options": [
       "Girne",
       "Gazimağusa",
+      "Lefkoşa",
       "Güzelyurt",
-      "Lefkoşa"
+      "İskele"
     ],
     "answer": "Lefkoşa",
-    "explanation": "Lefkoşa, başkent ve idari merkez özelliğiyle bilinir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür ve Turizm::Lefkoşa"
+    "answerLetter": "C",
+    "explanation": "KKTC Modern Sanat Müzesi Lefkoşa’dadır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-079",
-    "category": "Kültür ve Turizm",
-    "difficulty": "Orta",
-    "question": "Lefkoşa için aşağıdaki ifadelerden hangisi daha uygundur?",
+    "id": "sqv7-081",
+    "category": "Osmanlı Dönemi",
+    "topic": "Fetih",
+    "difficulty": "Kolay",
+    "question": "Osmanlı Devleti Kıbrıs’ın fethini hangi tarihte tamamlamıştır?",
     "options": [
-      "başkent ve idari merkez",
-      "surlarla çevrili tarihi kent dokusu",
-      "Antik Liman",
-      "narenciye üretimiyle bilinen bölge"
+      "1 Ağustos 1570",
+      "1 Ağustos 1571",
+      "2 Temmuz 1572",
+      "4 Temmuz 1571",
+      "12 Eylül 1571"
     ],
-    "answer": "başkent ve idari merkez",
-    "explanation": "Lefkoşa, başkent ve idari merkez özelliğiyle anılır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür ve Turizm::başkent ve idari merkez"
+    "answer": "1 Ağustos 1571",
+    "answerLetter": "B",
+    "explanation": "Osmanlı Kıbrıs’ın fethini 1 Ağustos 1571’de tamamlamıştır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-080",
-    "category": "Kültür ve Turizm",
-    "difficulty": "Orta",
-    "question": "narenciye üretimiyle bilinen bölge ifadesi en çok hangi KKTC bölgesiyle ilişkilidir?",
+    "id": "sqv7-082",
+    "category": "Osmanlı Dönemi",
+    "topic": "Fetih Sırası",
+    "difficulty": "Zor",
+    "question": "Osmanlı Devleti Kıbrıs’ı fethederken ele geçirdiği şehirlerin doğru sıralaması hangisidir?",
     "options": [
-      "Gazimağusa",
+      "Limasol – Larnaka – Girne – Baf – Lefkoşa – Mağusa",
+      "Larnaka – Limasol – Lefkoşa – Girne – Baf – Mağusa",
+      "Limasol – Larnaka – Lefkoşa – Girne – Baf – Mağusa",
+      "Limasol – Larnaka – Mağusa – Girne – Baf",
+      "Lefkoşa – Limasol – Larnaka – Girne – Baf – Mağusa"
+    ],
+    "answer": "Limasol – Larnaka – Lefkoşa – Girne – Baf – Mağusa",
+    "answerLetter": "C",
+    "explanation": "Soru bankası cevabına göre doğru sıra C seçeneğidir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-083",
+    "category": "Jeoloji",
+    "topic": "Oluşum",
+    "difficulty": "Zor",
+    "question": "Kıbrıs’ın oluşumu sırasında önce deniz yüzeyine çıkan yeryüzü şekilleri hangileridir?",
+    "options": [
+      "Troodos Dağları ve Karpaz Dağları",
+      "Panha Tortulları ve Girne Dağları",
+      "Troodos Dağları ve Girne Dağları",
+      "Lapta Dağları ve Kantara Dağları",
+      "Kayalar Dağları ve Beşparmak Dağları"
+    ],
+    "answer": "Troodos Dağları ve Girne Dağları",
+    "answerLetter": "C",
+    "explanation": "Önce Troodos ve Girne Dağları deniz yüzeyine çıkmıştır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-084",
+    "category": "Jeoloji",
+    "topic": "Levhalar",
+    "difficulty": "Orta",
+    "question": "Kıbrıs hangi iki kıtanın/levhanın birbirine yaklaşması sonucu ortaya çıkmıştır?",
+    "options": [
+      "Avrasya ve Afrika",
+      "Avrupa ve Afrika",
+      "Avrupa ve Asya",
+      "Amerika ve Avrupa",
+      "Sibirya - Alp Orojenezi"
+    ],
+    "answer": "Avrasya ve Afrika",
+    "answerLetter": "A",
+    "explanation": "Kıbrıs Avrasya ve Afrika levhalarının yaklaşması sonucu oluşmuştur.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-085",
+    "category": "Coğrafya",
+    "topic": "İsim Kökeni",
+    "difficulty": "Orta",
+    "question": "Kıbrıs günümüzdeki adını aşağıdakilerden hangisinden almıştır?",
+    "options": [
+      "Zeytin yaprağı",
+      "Bakır",
+      "Sedir ağacı",
+      "Verimli ovaları",
+      "Sahilleri"
+    ],
+    "answer": "Bakır",
+    "answerLetter": "B",
+    "explanation": "Kıbrıs adı bakırla ilişkilendirilir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-086",
+    "category": "1974 Barış Harekâtı",
+    "topic": "Tarihler",
+    "difficulty": "Kolay",
+    "question": "I. ve II. Barış Harekâtı’nın başlangıç tarihleri hangi seçenekte doğru verilmiştir?",
+    "options": [
+      "20 Temmuz 1974 – 14 Ağustos 1974",
+      "15 Temmuz 1974 – 8 Ağustos 1974",
+      "20 Temmuz 1975 – 30 Ağustos 1975",
+      "15 Kasım 1967 – 15 Haziran 1974",
+      "1 Haziran 1976 – 1 Nisan 1978"
+    ],
+    "answer": "20 Temmuz 1974 – 14 Ağustos 1974",
+    "answerLetter": "A",
+    "explanation": "I. Harekât 20 Temmuz 1974, II. Harekât 14 Ağustos 1974’te başlamıştır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-087",
+    "category": "Medya",
+    "topic": "TAK",
+    "difficulty": "Kolay",
+    "question": "Sait Terzioğlu tarafından 21 Aralık 1973’te kurulan haber ajansı hangisidir?",
+    "options": [
+      "BRT",
+      "BRTK",
+      "İHA",
+      "TAK",
+      "KTHA"
+    ],
+    "answer": "TAK",
+    "answerLetter": "D",
+    "explanation": "Sait Terzioğlu’nun kurduğu kurum Türk Ajansı Kıbrıs’tır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-088",
+    "category": "Mücadele Tarihi",
+    "topic": "Erenköy",
+    "difficulty": "Orta",
+    "question": "8 Ağustos 1964 Erenköy çarpışmalarında uçağı düşürülerek şehit olan pilot kimdir?",
+    "options": [
+      "Turgut Sunalp",
+      "Fehmi Ercan",
+      "Cengiz Topel",
+      "Semih Sancar",
+      "Cemal Gürsel"
+    ],
+    "answer": "Cengiz Topel",
+    "answerLetter": "C",
+    "explanation": "Erenköy çarpışmalarında şehit olan pilot Cengiz Topel’dir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-089",
+    "category": "Ulaşım",
+    "topic": "Tren Yolu",
+    "difficulty": "Orta",
+    "question": "Kıbrıs’ta İngiliz sömürge yönetimi döneminde ilk tren seferinin başlama ve sona erme tarihi hangisidir?",
+    "options": [
+      "1901 - 1915",
+      "1905 - 1950",
+      "1905 – 1951",
+      "1915 – 1951",
+      "1900 – 1960"
+    ],
+    "answer": "1905 – 1951",
+    "answerLetter": "C",
+    "explanation": "Kıbrıs tren yolu 1905-1951 yılları arasında kullanılmıştır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-090",
+    "category": "İngiliz Dönemi",
+    "topic": "Kazalar",
+    "difficulty": "Orta",
+    "question": "Kıbrıs, İngilizler döneminde kazalara ayrılmıştır. Aşağıdakilerden hangisi bu kazalardan biridir?",
+    "options": [
+      "Omorfo",
+      "Lefke",
+      "Karpaz",
+      "Girne",
+      "Hirsofu"
+    ],
+    "answer": "Girne",
+    "answerLetter": "D",
+    "explanation": "Cevap anahtarına göre İngiliz dönemindeki kazalardan biri Girne’dir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-091",
+    "category": "Kıbrıs Cumhuriyeti",
+    "topic": "Antlaşmalar",
+    "difficulty": "Orta",
+    "question": "Askeri İttifak Antlaşması hangi şehirde imzalanmıştır?",
+    "options": [
+      "Zürih",
+      "Londra",
+      "Cenevre",
+      "Berlin",
+      "Sofya"
+    ],
+    "answer": "Cenevre",
+    "answerLetter": "C",
+    "explanation": "Cevap anahtarına göre Askeri İttifak Antlaşması Cenevre’de imzalanmıştır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-092",
+    "category": "Kıbrıs Cumhuriyeti",
+    "topic": "Antlaşmalar",
+    "difficulty": "Orta",
+    "question": "Askeri İttifak Antlaşması hangi ülkede imzalanmıştır?",
+    "options": [
+      "İsveç",
+      "İngiltere",
+      "İsviçre",
+      "Türkiye",
+      "Yunanistan"
+    ],
+    "answer": "İsviçre",
+    "answerLetter": "C",
+    "explanation": "Cenevre İsviçre’dedir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-093",
+    "category": "Bakanlıklar",
+    "topic": "Güncel",
+    "difficulty": "Orta",
+    "question": "Aşağıdaki bakanlıklardan hangisinin adı yanlış yazılmıştır?",
+    "options": [
+      "Tarım ve Doğal Kaynaklar Bakanlığı",
+      "Çalışma ve Sosyal Güvenlik Bakanlığı",
+      "Milli Eğitim Bakanlığı",
+      "Ekonomi ve Çevre Bakanlığı",
+      "Bayındırlık ve Ulaştırma Bakanlığı"
+    ],
+    "answer": "Ekonomi ve Çevre Bakanlığı",
+    "answerLetter": "D",
+    "explanation": "Cevap anahtarına göre yanlış yazılan bakanlık D seçeneğidir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-094",
+    "category": "Maden",
+    "topic": "CMC",
+    "difficulty": "Kolay",
+    "question": "CMC tarafından çıkarılan bakır madeni hangi limandan yurt dışına gönderiliyordu?",
+    "options": [
+      "Girne",
+      "Kumyalı",
+      "Erenköy",
+      "Gemikonağı",
+      "İskele"
+    ],
+    "answer": "Gemikonağı",
+    "answerLetter": "D",
+    "explanation": "Bakır madeni Gemikonağı limanından gönderilirdi.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-095",
+    "category": "İngiliz Dönemi",
+    "topic": "Kazalar",
+    "difficulty": "Orta",
+    "question": "Kıbrıs, İngilizler döneminde kazalara ayrılmıştır. Aşağıdakilerden hangisi bu kazalardan değildir?",
+    "options": [
       "Güzelyurt",
+      "Larnaka",
+      "Mağusa",
+      "Limasol",
+      "Lefkoşa"
+    ],
+    "answer": "Güzelyurt",
+    "answerLetter": "A",
+    "explanation": "İngiliz döneminde Güzelyurt adıyla bir kaza bulunmamaktadır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-096",
+    "category": "Siyasi Örgütlenmeler",
+    "topic": "Genel Komite",
+    "difficulty": "Orta",
+    "question": "1963-1967 yılları arasında var olan siyasi örgütlenme hangisidir?",
+    "options": [
+      "Kıbrıs Türk Federe Devleti",
+      "Genel Komite",
+      "Geçici Kıbrıs Türk Yönetimi",
+      "Kıbrıs Türk Yönetimi",
+      "Otonom Kıbrıs Türk Yönetimi"
+    ],
+    "answer": "Genel Komite",
+    "answerLetter": "B",
+    "explanation": "1963-1967 dönemi Genel Komite dönemidir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-097",
+    "category": "Siyasi Örgütlenmeler",
+    "topic": "Otonom Yönetim",
+    "difficulty": "Orta",
+    "question": "1974-1975 yılları arasında var olan siyasi örgütlenme hangisidir?",
+    "options": [
+      "Kıbrıs Türk Federe Devleti",
+      "Genel Komite",
+      "Geçici Kıbrıs Türk Yönetimi",
+      "Kıbrıs Türk Yönetimi",
+      "Otonom Kıbrıs Türk Yönetimi"
+    ],
+    "answer": "Otonom Kıbrıs Türk Yönetimi",
+    "answerLetter": "E",
+    "explanation": "1974-1975 arası Otonom Kıbrıs Türk Yönetimi dönemidir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-098",
+    "category": "Siyasi Örgütlenmeler",
+    "topic": "KTFD",
+    "difficulty": "Orta",
+    "question": "1975-1983 yılları arasında var olan siyasi örgütlenme hangisidir?",
+    "options": [
+      "Kıbrıs Türk Federe Devleti",
+      "Genel Komite",
+      "Geçici Kıbrıs Türk Yönetimi",
+      "Kıbrıs Türk Yönetimi",
+      "Otonom Kıbrıs Türk Yönetimi"
+    ],
+    "answer": "Kıbrıs Türk Federe Devleti",
+    "answerLetter": "A",
+    "explanation": "1975-1983 arası Kıbrıs Türk Federe Devleti dönemidir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-099",
+    "category": "Siyasi Örgütlenmeler",
+    "topic": "Kıbrıs Türk Yönetimi",
+    "difficulty": "Orta",
+    "question": "1971-1974 yılları arasında var olan siyasi örgütlenme hangisidir?",
+    "options": [
+      "Kıbrıs Türk Federe Devleti",
+      "Genel Komite",
+      "Geçici Kıbrıs Türk Yönetimi",
+      "Kıbrıs Türk Yönetimi",
+      "Otonom Kıbrıs Türk Yönetimi"
+    ],
+    "answer": "Kıbrıs Türk Yönetimi",
+    "answerLetter": "D",
+    "explanation": "1971-1974 arası Kıbrıs Türk Yönetimi dönemidir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-100",
+    "category": "Siyasi Örgütlenmeler",
+    "topic": "Geçici Yönetim",
+    "difficulty": "Orta",
+    "question": "1967-1971 yılları arasında var olan siyasi örgütlenme hangisidir?",
+    "options": [
+      "Kıbrıs Türk Federe Devleti",
+      "Genel Komite",
+      "Geçici Kıbrıs Türk Yönetimi",
+      "Kıbrıs Türk Yönetimi",
+      "Otonom Kıbrıs Türk Yönetimi"
+    ],
+    "answer": "Geçici Kıbrıs Türk Yönetimi",
+    "answerLetter": "C",
+    "explanation": "1967-1971 arası Geçici Kıbrıs Türk Yönetimi dönemidir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-101",
+    "category": "Osmanlı Dönemi",
+    "topic": "Fetih",
+    "difficulty": "Orta",
+    "question": "Kıbrıs’ın fethinin İslam hukuku açısından uygunluğunu içeren fetvayı veren şeyhülislam kimdir?",
+    "options": [
+      "Molla Hacı Hafız Efendi",
+      "Sokullu Mehmet Paşa",
+      "Ebu Suud Efendi",
+      "Durizzade Hafız Efendi",
+      "Molla Gürani"
+    ],
+    "answer": "Ebu Suud Efendi",
+    "answerLetter": "C",
+    "explanation": "Kıbrıs’ın fethi için fetva veren şeyhülislam Ebu Suud Efendi’dir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-102",
+    "category": "Osmanlı Dönemi",
+    "topic": "Fetih",
+    "difficulty": "Orta",
+    "question": "Osmanlı Devleti Kıbrıs’ın fethine 2 Temmuz 1570’te hangi şehri alarak başlamış, 1 Ağustos 1571’de hangi şehirle tamamlamıştır?",
+    "options": [
+      "Limasol – Mağusa",
+      "Larnaka – Mağusa",
+      "Larnaka – Lefkoşa",
+      "Limasol – Girne",
+      "Mağusa – Lefkoşa"
+    ],
+    "answer": "Limasol – Mağusa",
+    "answerLetter": "A",
+    "explanation": "Fetih Limasol ile başlayıp Mağusa ile tamamlanmıştır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-103",
+    "category": "Osmanlı Dönemi",
+    "topic": "Fetih",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi Kıbrıs’ın fethi sırasında serdardır?",
+    "options": [
+      "II. Selim",
+      "Lala Mustafa Paşa",
+      "Ebusuud Efendi",
+      "Sokullu Mehmet Paşa",
+      "Yavuz Sultan Selim"
+    ],
+    "answer": "Lala Mustafa Paşa",
+    "answerLetter": "B",
+    "explanation": "Serdar/ordu komutanı Lala Mustafa Paşa’dır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-104",
+    "category": "Devlet Yapısı",
+    "topic": "İlçeler",
+    "difficulty": "Kolay",
+    "question": "KKTC’de kaç ilçe vardır?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "2",
+      "7"
+    ],
+    "answer": "6",
+    "answerLetter": "C",
+    "explanation": "KKTC’de 6 ilçe vardır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-105",
+    "category": "Devlet Yapısı",
+    "topic": "Bakanlıklar",
+    "difficulty": "Orta",
+    "question": "KKTC’de kaç bakanlık vardır?",
+    "options": [
+      "9",
+      "11",
+      "10",
+      "8",
+      "12"
+    ],
+    "answer": "10",
+    "answerLetter": "C",
+    "explanation": "Cevap anahtarına göre bakanlık sayısı 10’dur.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-106",
+    "category": "Kıbrıs Cumhuriyeti",
+    "topic": "Antlaşmalar",
+    "difficulty": "Kolay",
+    "question": "Kıbrıs Cumhuriyeti’nin netlik kazandığı antlaşma hangisidir?",
+    "options": [
+      "Zürih Antlaşması",
+      "Garanti Antlaşması",
+      "Londra Antlaşması",
+      "Askeri İttifak Antlaşması",
+      "Sevr Antlaşması"
+    ],
+    "answer": "Londra Antlaşması",
+    "answerLetter": "C",
+    "explanation": "Cevap anahtarına göre doğru cevap Londra Antlaşması’dır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-107",
+    "category": "Kıbrıs Cumhuriyeti",
+    "topic": "Antlaşmalar",
+    "difficulty": "Kolay",
+    "question": "Londra Antlaşması’nın tarihi nedir?",
+    "options": [
+      "19 Şubat 1979",
+      "20 Şubat 1959",
+      "19 Şubat 1959",
+      "16 Ağustos 1960",
+      "21 Şubat 1959"
+    ],
+    "answer": "19 Şubat 1959",
+    "answerLetter": "C",
+    "explanation": "Londra Antlaşması 19 Şubat 1959’dur.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-108",
+    "category": "Osmanlı Dönemi",
+    "topic": "Fetih",
+    "difficulty": "Kolay",
+    "question": "Osmanlı’nın son fethettiği şehir hangisidir?",
+    "options": [
+      "Girne",
+      "Baf",
+      "Limasol",
+      "Mağusa",
+      "Larnaka"
+    ],
+    "answer": "Mağusa",
+    "answerLetter": "D",
+    "explanation": "Kıbrıs’ın fethi Mağusa’nın alınmasıyla tamamlanmıştır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-109",
+    "category": "Turizm",
+    "topic": "Bufavento",
+    "difficulty": "Kolay",
+    "question": "Bufavento Kalesi hangi dağ üzerinde yer almaktadır?",
+    "options": [
+      "Lapta dağları",
+      "Beşparmak dağları",
+      "Kantara dağları",
+      "Karpaz dağları",
+      "Kayalar dağları"
+    ],
+    "answer": "Beşparmak dağları",
+    "answerLetter": "B",
+    "explanation": "Bufavento Beşparmak Dağları üzerindedir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-110",
+    "category": "Devlet Yapısı",
+    "topic": "KKTC Öncesi",
+    "difficulty": "Orta",
+    "question": "KKTC kurulmadan önceki yönetimin adı hangisidir?",
+    "options": [
+      "Genel Komite",
+      "Kıbrıs Türk Federe Devleti",
+      "Otonom Türk Yönetimi",
+      "Geçici Kıbrıs Türk Yönetimi",
+      "Kıbrıs Türk Yönetimi"
+    ],
+    "answer": "Kıbrıs Türk Federe Devleti",
+    "answerLetter": "B",
+    "explanation": "KKTC’den önceki yapı Kıbrıs Türk Federe Devleti’dir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-111",
+    "category": "Dış Temsilcilik",
+    "topic": "Genel Kültür",
+    "difficulty": "Orta",
+    "question": "Aşağıdaki ülkelerin hangisinde temsilciliğimiz yoktur?",
+    "options": [
+      "ABD",
+      "İtalya",
+      "Belçika",
+      "Çin",
+      "Kırgızistan"
+    ],
+    "answer": "Çin",
+    "answerLetter": "D",
+    "explanation": "Cevap anahtarına göre Çin’de temsilcilik yoktur.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-112",
+    "category": "Coğrafya",
+    "topic": "Komşular",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi Kıbrıs’ın kuzey komşusudur?",
+    "options": [
+      "Türkiye",
+      "Yunanistan",
+      "Suriye",
+      "Libya",
+      "Mısır"
+    ],
+    "answer": "Türkiye",
+    "answerLetter": "A",
+    "explanation": "Kıbrıs’ın kuzeyinde Türkiye yer alır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-113",
+    "category": "Coğrafya",
+    "topic": "Komşular",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi Kıbrıs’ın güneydoğu komşusudur?",
+    "options": [
+      "Türkiye",
+      "Yunanistan",
+      "Suriye",
+      "İsrail",
+      "Mısır"
+    ],
+    "answer": "İsrail",
+    "answerLetter": "D",
+    "explanation": "Kıbrıs’ın güneydoğu komşusu İsrail olarak verilmiştir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-114",
+    "category": "Coğrafya",
+    "topic": "Komşular",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi Kıbrıs’ın güney komşusudur?",
+    "options": [
+      "Türkiye",
+      "Yunanistan",
+      "Suriye",
+      "Libya",
+      "Mısır"
+    ],
+    "answer": "Mısır",
+    "answerLetter": "E",
+    "explanation": "Kıbrıs’ın güney komşusu Mısır’dır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-115",
+    "category": "Coğrafya",
+    "topic": "Komşular",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi Kıbrıs’ın güneybatı komşusudur?",
+    "options": [
+      "Türkiye",
+      "Yunanistan",
+      "Suriye",
+      "Libya",
+      "Mısır"
+    ],
+    "answer": "Libya",
+    "answerLetter": "D",
+    "explanation": "Kıbrıs’ın güneybatı komşusu Libya olarak verilmiştir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-116",
+    "category": "Coğrafya",
+    "topic": "Komşular",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi Kıbrıs’ın kuzeybatı komşusudur?",
+    "options": [
+      "Türkiye",
+      "Yunanistan",
+      "Suriye",
+      "Libya",
+      "Mısır"
+    ],
+    "answer": "Yunanistan",
+    "answerLetter": "B",
+    "explanation": "Kıbrıs’ın kuzeybatı komşusu Yunanistan’dır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-117",
+    "category": "Coğrafya",
+    "topic": "Yüzölçümü",
+    "difficulty": "Kolay",
+    "question": "Kıbrıs’ın toplam yüzölçümü kaç kilometrekaredir?",
+    "options": [
+      "3242",
+      "9251",
+      "5509",
+      "244",
+      "256"
+    ],
+    "answer": "9251",
+    "answerLetter": "B",
+    "explanation": "Kıbrıs adasının toplam yüzölçümü 9251 km²’dir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-118",
+    "category": "Coğrafya",
+    "topic": "Yüzölçümü",
+    "difficulty": "Kolay",
+    "question": "KKTC’nin toplam yüzölçümü kaç km²’dir?",
+    "options": [
+      "3242",
+      "9251",
+      "5509",
+      "244",
+      "256"
+    ],
+    "answer": "3242",
+    "answerLetter": "A",
+    "explanation": "KKTC’nin yüzölçümü yaklaşık 3242 km² olarak verilmiştir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-119",
+    "category": "Siyasi Coğrafya",
+    "topic": "İngiliz Üsleri",
+    "difficulty": "Orta",
+    "question": "Adadaki İngiliz üslerinin yüzölçümü kaç km²’dir?",
+    "options": [
+      "244",
+      "256",
+      "288",
+      "9251",
+      "123"
+    ],
+    "answer": "256",
+    "answerLetter": "B",
+    "explanation": "İngiliz üsleri için 256 km² bilgisi verilmiştir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-120",
+    "category": "Siyasi Coğrafya",
+    "topic": "Ara Bölge",
+    "difficulty": "Orta",
+    "question": "Adadaki ara bölgenin yüzölçümü kaç km²’dir?",
+    "options": [
+      "244",
+      "256",
+      "288",
+      "9251",
+      "123"
+    ],
+    "answer": "244",
+    "answerLetter": "A",
+    "explanation": "Ara bölgenin yüzölçümü 244 km² olarak verilmiştir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-121",
+    "category": "Festival",
+    "topic": "Bağ Bozumu",
+    "difficulty": "Orta",
+    "question": "Bağ bozumu festivali nerede yapılmaktadır?",
+    "options": [
+      "Yeşilırmak",
+      "Mehmetçik",
+      "Bağlıköy",
+      "Sipahi",
+      "Beyarmudu"
+    ],
+    "answer": "Mehmetçik",
+    "answerLetter": "B",
+    "explanation": "Mehmetçik üzüm ve bağ bozumu festivaliyle bilinir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-122",
+    "category": "Turizm",
+    "topic": "Selimiye Camii",
+    "difficulty": "Kolay",
+    "question": "Eski adıyla St. Sophia Katedrali olan yerin günümüzdeki adı nedir?",
+    "options": [
+      "Lala Mustafa Paşa Camii",
+      "Selimiye Camii",
+      "St. Barnabas Manastırı",
+      "Hala Sultan Camii",
+      "St. Mamas Manastırı"
+    ],
+    "answer": "Selimiye Camii",
+    "answerLetter": "B",
+    "explanation": "St. Sophia Katedrali günümüzde Selimiye Camii olarak bilinir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-123",
+    "category": "Sınır Kapıları",
+    "topic": "Akyar",
+    "difficulty": "Kolay",
+    "question": "Akyar sınır kapısı hangi ilçeye bağlıdır?",
+    "options": [
+      "Güzelyurt",
+      "Lefke",
+      "Gazimağusa",
       "Lefkoşa",
       "Girne"
     ],
-    "answer": "Güzelyurt",
-    "explanation": "Güzelyurt, narenciye üretimiyle bilinen bölge özelliğiyle bilinir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür ve Turizm::Güzelyurt"
+    "answer": "Gazimağusa",
+    "answerLetter": "C",
+    "explanation": "Akyar sınır kapısı Gazimağusa bölgesiyle ilişkilidir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-081",
-    "category": "Kültür ve Turizm",
-    "difficulty": "Orta",
-    "question": "Güzelyurt için aşağıdaki ifadelerden hangisi daha uygundur?",
+    "id": "sqv7-124",
+    "category": "Devlet Yapısı",
+    "topic": "İlçeler",
+    "difficulty": "Kolay",
+    "question": "En son ilçe olarak kabul edilen bölge hangisidir?",
     "options": [
-      "surlarla çevrili tarihi kent dokusu",
-      "narenciye üretimiyle bilinen bölge",
-      "başkent ve idari merkez",
-      "Antik Liman"
+      "Güzelyurt",
+      "Bostancı",
+      "Pile",
+      "Beyarmudu",
+      "Lefke"
     ],
-    "answer": "narenciye üretimiyle bilinen bölge",
-    "explanation": "Güzelyurt, narenciye üretimiyle bilinen bölge özelliğiyle anılır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür ve Turizm::narenciye üretimiyle bilinen bölge"
+    "answer": "Lefke",
+    "answerLetter": "E",
+    "explanation": "Lefke son ilçe olarak kabul edilmiştir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-082",
-    "category": "Kültür ve Turizm",
+    "id": "sqv7-125",
+    "category": "1974 Barış Harekâtı",
+    "topic": "Tarih",
     "difficulty": "Orta",
-    "question": "Karpaz bölgesine yakın ilçe ifadesi en çok hangi KKTC bölgesiyle ilişkilidir?",
+    "question": "20 Temmuz Barış Harekâtı’ndan sonraki ilk taarruz hangi tarihte yapılmıştır?",
+    "options": [
+      "28 Temmuz",
+      "1 Ağustos",
+      "8 Ağustos",
+      "14 Ağustos",
+      "21 Ağustos"
+    ],
+    "answer": "14 Ağustos",
+    "answerLetter": "D",
+    "explanation": "İkinci harekât/taarruz 14 Ağustos ile ilişkilendirilir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-126",
+    "category": "Osmanlı Dönemi",
+    "topic": "İnebahtı",
+    "difficulty": "Kolay",
+    "question": "Osmanlı’nın Kıbrıs fethi dönüşü gerçekleşen deniz savaşı hangisidir?",
+    "options": [
+      "İnebahtı",
+      "Bozcaada",
+      "Beyrut",
+      "Hürmüz",
+      "Korfu"
+    ],
+    "answer": "İnebahtı",
+    "answerLetter": "A",
+    "explanation": "İnebahtı Deniz Savaşı bu bağlamda sorulur.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-127",
+    "category": "Ulaşım",
+    "topic": "Ercan",
+    "difficulty": "Orta",
+    "question": "Ercan Havaalanı hangi belediyeye bağlıdır?",
+    "options": [
+      "Paşaköy",
+      "Lefkoşa",
+      "Akdoğan",
+      "Meriç",
+      "Değirmenlik"
+    ],
+    "answer": "Değirmenlik",
+    "answerLetter": "E",
+    "explanation": "Cevap anahtarına göre Ercan Havaalanı Değirmenlik belediyesine bağlıdır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-128",
+    "category": "Kültür",
+    "topic": "Maronitler",
+    "difficulty": "Kolay",
+    "question": "Maronitler günümüzde hangi köyde yaşamlarını sürdürmektedir?",
+    "options": [
+      "Koruçam",
+      "Sadrazamköy",
+      "Akdeniz",
+      "Kayalar",
+      "Geçitköy"
+    ],
+    "answer": "Koruçam",
+    "answerLetter": "A",
+    "explanation": "Maronitlerin önemli yerleşimi Koruçam’dır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-129",
+    "category": "Turizm",
+    "topic": "St. Barnabas",
+    "difficulty": "Kolay",
+    "question": "St. Barnabas Manastırı hangi ilçededir?",
     "options": [
       "İskele",
       "Gazimağusa",
-      "Girne",
-      "Lefkoşa"
+      "Lefkoşa",
+      "Lefke",
+      "Girne"
+    ],
+    "answer": "Gazimağusa",
+    "answerLetter": "B",
+    "explanation": "St. Barnabas Manastırı Gazimağusa’dadır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-130",
+    "category": "İngiliz Dönemi",
+    "topic": "Valiler",
+    "difficulty": "Orta",
+    "question": "Adanın ilk İngiliz valisi kimdir?",
+    "options": [
+      "Stefan Zurer",
+      "Xi Ghin",
+      "Ohail Zalu",
+      "Malcolm Stevenson",
+      "Hristofou Hristou"
+    ],
+    "answer": "Malcolm Stevenson",
+    "answerLetter": "D",
+    "explanation": "İlk İngiliz valisi Malcolm Stevenson olarak verilmiştir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-131",
+    "category": "Tarım",
+    "topic": "Kuru Tarım",
+    "difficulty": "Kolay",
+    "question": "Ülkemizde en fazla yetiştirilen kuru tarım ürünü hangisidir?",
+    "options": [
+      "Buğday",
+      "Bezelye",
+      "Arpa",
+      "Nohut",
+      "Patates"
+    ],
+    "answer": "Arpa",
+    "answerLetter": "C",
+    "explanation": "Arpa en çok ekilen tahıl/kuru tarım ürünü olarak verilmiştir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-132",
+    "category": "Turizm",
+    "topic": "Othello",
+    "difficulty": "Kolay",
+    "question": "Othello Kalesi hangi ilçededir?",
+    "options": [
+      "Lefkoşa",
+      "Gazimağusa",
+      "Güzelyurt",
+      "Lefke",
+      "İskele"
+    ],
+    "answer": "Gazimağusa",
+    "answerLetter": "B",
+    "explanation": "Othello Kalesi Gazimağusa’dadır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-133",
+    "category": "1974 Barış Harekâtı",
+    "topic": "Türkiye",
+    "difficulty": "Kolay",
+    "question": "Barış Harekâtı’nda başbakan yardımcısı olarak kim görev yapmaktaydı?",
+    "options": [
+      "Bülent Ecevit",
+      "Tansu Çiller",
+      "Necmettin Erbakan",
+      "Adnan Necdet",
+      "İsmail Safa"
+    ],
+    "answer": "Necmettin Erbakan",
+    "answerLetter": "C",
+    "explanation": "Başbakan yardımcısı Necmettin Erbakan’dır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-134",
+    "category": "1974 Barış Harekâtı",
+    "topic": "Türkiye",
+    "difficulty": "Kolay",
+    "question": "1974 Barış Harekâtı döneminde Türkiye’de Genelkurmay Başkanı kimdir?",
+    "options": [
+      "Turan Güneş",
+      "Hasan Fehmi Güneş",
+      "Semih Sancar",
+      "Necmettin Erbakan",
+      "Deniz Baykal"
+    ],
+    "answer": "Semih Sancar",
+    "answerLetter": "C",
+    "explanation": "Genelkurmay Başkanı Semih Sancar’dır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-135",
+    "category": "Lefkoşa",
+    "topic": "Surlar",
+    "difficulty": "Kolay",
+    "question": "Lefkoşa surları kaç burçtan oluşur?",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "answer": "11",
+    "answerLetter": "A",
+    "explanation": "Lefkoşa surları 11 burçtan oluşur.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-136",
+    "category": "Turizm",
+    "topic": "Kantara",
+    "difficulty": "Kolay",
+    "question": "Kantara Kalesi hangi bölgededir?",
+    "options": [
+      "İskele",
+      "Mağusa",
+      "Lefke",
+      "Lefkoşa",
+      "Güzelyurt"
     ],
     "answer": "İskele",
-    "explanation": "İskele, Karpaz bölgesine yakın ilçe özelliğiyle bilinir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür ve Turizm::İskele"
+    "answerLetter": "A",
+    "explanation": "Kantara Kalesi İskele/Karpaz bölgesiyle ilişkilidir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-083",
-    "category": "Kültür ve Turizm",
+    "id": "sqv7-137",
+    "category": "Antlaşmalar",
+    "topic": "Zürih",
     "difficulty": "Orta",
-    "question": "İskele için aşağıdaki ifadelerden hangisi daha uygundur?",
+    "question": "Zürih Antlaşması hangi tarihte imzalandı?",
     "options": [
-      "Karpaz bölgesine yakın ilçe",
-      "başkent ve idari merkez",
-      "Antik Liman",
-      "surlarla çevrili tarihi kent dokusu"
+      "11 Şubat 1959",
+      "19 Şubat 1959",
+      "21 Şubat 1959",
+      "14 Ağustos 1974",
+      "16 Ağustos 1974"
     ],
-    "answer": "Karpaz bölgesine yakın ilçe",
-    "explanation": "İskele, Karpaz bölgesine yakın ilçe özelliğiyle anılır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür ve Turizm::Karpaz bölgesine yakın ilçe"
+    "answer": "11 Şubat 1959",
+    "answerLetter": "A",
+    "explanation": "Cevap anahtarına göre Zürih Antlaşması 11 Şubat 1959’dur.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-084",
-    "category": "Kültür ve Turizm",
+    "id": "sqv7-138",
+    "category": "Antlaşmalar",
+    "topic": "Londra",
     "difficulty": "Orta",
-    "question": "batıdaki tarihi ve doğal dokusuyla bilinen ilçe ifadesi en çok hangi KKTC bölgesiyle ilişkilidir?",
+    "question": "Londra Antlaşması hangi tarihte imzalandı?",
     "options": [
-      "Gazimağusa",
-      "Lefkoşa",
-      "Lefke",
-      "Girne"
+      "11 Şubat 1959",
+      "19 Şubat 1959",
+      "21 Şubat 1959",
+      "14 Ağustos 1974",
+      "16 Ağustos 1974"
     ],
-    "answer": "Lefke",
-    "explanation": "Lefke, batıdaki tarihi ve doğal dokusuyla bilinen ilçe özelliğiyle bilinir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür ve Turizm::Lefke"
+    "answer": "19 Şubat 1959",
+    "answerLetter": "B",
+    "explanation": "Londra Antlaşması 19 Şubat 1959’da imzalanmıştır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-085",
-    "category": "Kültür ve Turizm",
+    "id": "sqv7-139",
+    "category": "Coğrafya",
+    "topic": "Girne Dağları",
     "difficulty": "Orta",
-    "question": "Lefke için aşağıdaki ifadelerden hangisi daha uygundur?",
+    "question": "Selvili Tepe hangi dağ üzerindedir?",
     "options": [
-      "başkent ve idari merkez",
-      "surlarla çevrili tarihi kent dokusu",
-      "batıdaki tarihi ve doğal dokusuyla bilinen ilçe",
-      "Antik Liman"
+      "Lapta Dağları",
+      "Kantara Dağları",
+      "Beşparmak Dağları",
+      "Karpaz Dağları",
+      "Troodos Dağları"
     ],
-    "answer": "batıdaki tarihi ve doğal dokusuyla bilinen ilçe",
-    "explanation": "Lefke, batıdaki tarihi ve doğal dokusuyla bilinen ilçe özelliğiyle anılır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür ve Turizm::batıdaki tarihi ve doğal dokusuyla bilinen ilçe"
+    "answer": "Lapta Dağları",
+    "answerLetter": "A",
+    "explanation": "Selvili/Birkan Uzun Selvili Tepe Lapta Dağları üzerindedir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-086",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Kıbrıs mutfağıyla özdeşleşen peynir hangisidir?",
-    "options": [
-      "Şeftali kebabı",
-      "Bulla",
-      "Hellim",
-      "Molehiya"
-    ],
-    "answer": "Hellim",
-    "explanation": "Hellim, Kıbrıs kültürü ve mutfağıyla ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Hellim"
-  },
-  {
-    "id": "kktc-087",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Hellim daha çok hangi alanla ilişkilidir?",
-    "options": [
-      "Seçim sistemi",
-      "Kıbrıs kültürü ve mutfağı",
-      "Denizcilik mevzuatı",
-      "İmar planı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Hellim, Kıbrıs kültürü ve mutfağı içinde bilinir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-088",
-    "category": "Kültür",
+    "id": "sqv7-140",
+    "category": "Liderler",
+    "topic": "Rauf Denktaş",
     "difficulty": "Orta",
-    "question": "Kıbrıs mutfağı sorularında 'Hellim' hangi tür bilgiye örnektir?",
+    "question": "Rauf Raif Denktaş’ın ölüm yıldönümü hangi tarihtir?",
     "options": [
-      "Yasama",
-      "Para politikası",
-      "Seçim",
-      "Yerel kültür"
+      "13 Ocak 2012",
+      "14 Ocak 2012",
+      "13 Ocak 2013",
+      "14 Ocak 2014",
+      "12 Ocak 2015"
     ],
-    "answer": "Yerel kültür",
-    "explanation": "Hellim, yerel kültür ve mutfak bilgisidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Yerel kültür"
+    "answer": "13 Ocak 2012",
+    "answerLetter": "A",
+    "explanation": "Rauf Raif Denktaş 13 Ocak 2012’de vefat etmiştir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-089",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Kıbrıs mutfağına özgü kebap hangisidir?",
-    "options": [
-      "Bulla",
-      "Molehiya",
-      "Şeftali kebabı",
-      "Hellim"
-    ],
-    "answer": "Şeftali kebabı",
-    "explanation": "Şeftali kebabı, Kıbrıs kültürü ve mutfağıyla ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Şeftali kebabı"
-  },
-  {
-    "id": "kktc-090",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Şeftali kebabı daha çok hangi alanla ilişkilidir?",
-    "options": [
-      "Denizcilik mevzuatı",
-      "Kıbrıs kültürü ve mutfağı",
-      "İmar planı",
-      "Seçim sistemi"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Şeftali kebabı, Kıbrıs kültürü ve mutfağı içinde bilinir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-091",
-    "category": "Kültür",
+    "id": "sqv7-141",
+    "category": "Bakanlıklar",
+    "topic": "Güncel",
     "difficulty": "Orta",
-    "question": "Kıbrıs mutfağı sorularında 'Şeftali kebabı' hangi tür bilgiye örnektir?",
+    "question": "Aşağıda verilen bakanlık isimlerinden hangisi yanlıştır?",
     "options": [
-      "Para politikası",
-      "Yerel kültür",
-      "Seçim",
-      "Yasama"
-    ],
-    "answer": "Yerel kültür",
-    "explanation": "Şeftali kebabı, yerel kültür ve mutfak bilgisidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Yerel kültür"
-  },
-  {
-    "id": "kktc-092",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Kıbrıs mutfağında bilinen geleneksel yemek hangisidir?",
-    "options": [
-      "Bulla",
-      "Şeftali kebabı",
-      "Hellim",
-      "Molehiya"
-    ],
-    "answer": "Molehiya",
-    "explanation": "Molehiya, Kıbrıs kültürü ve mutfağıyla ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Molehiya"
-  },
-  {
-    "id": "kktc-093",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Molehiya daha çok hangi alanla ilişkilidir?",
-    "options": [
-      "İmar planı",
-      "Seçim sistemi",
-      "Kıbrıs kültürü ve mutfağı",
-      "Denizcilik mevzuatı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Molehiya, Kıbrıs kültürü ve mutfağı içinde bilinir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-094",
-    "category": "Kültür",
-    "difficulty": "Orta",
-    "question": "Kıbrıs mutfağı sorularında 'Molehiya' hangi tür bilgiye örnektir?",
-    "options": [
-      "Yerel kültür",
-      "Seçim",
-      "Para politikası",
-      "Yasama"
-    ],
-    "answer": "Yerel kültür",
-    "explanation": "Molehiya, yerel kültür ve mutfak bilgisidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Yerel kültür"
-  },
-  {
-    "id": "kktc-095",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Kıbrıs mutfağında bilinen hamur işi hangisidir?",
-    "options": [
-      "Bulla",
-      "Molehiya",
-      "Şeftali kebabı",
-      "Hellim"
-    ],
-    "answer": "Bulla",
-    "explanation": "Bulla, Kıbrıs kültürü ve mutfağıyla ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Bulla"
-  },
-  {
-    "id": "kktc-096",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Bulla daha çok hangi alanla ilişkilidir?",
-    "options": [
-      "Denizcilik mevzuatı",
-      "Kıbrıs kültürü ve mutfağı",
-      "Seçim sistemi",
-      "İmar planı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Bulla, Kıbrıs kültürü ve mutfağı içinde bilinir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-097",
-    "category": "Kültür",
-    "difficulty": "Orta",
-    "question": "Kıbrıs mutfağı sorularında 'Bulla' hangi tür bilgiye örnektir?",
-    "options": [
-      "Seçim",
-      "Para politikası",
-      "Yasama",
-      "Yerel kültür"
-    ],
-    "answer": "Yerel kültür",
-    "explanation": "Bulla, yerel kültür ve mutfak bilgisidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Yerel kültür"
-  },
-  {
-    "id": "kktc-098",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Kıbrıs kültüründe ikram edilen tatlı türü hangisidir?",
-    "options": [
-      "Hellim",
-      "Molehiya",
-      "Şeftali kebabı",
-      "Macun"
-    ],
-    "answer": "Macun",
-    "explanation": "Macun, Kıbrıs kültürü ve mutfağıyla ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Macun"
-  },
-  {
-    "id": "kktc-099",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Macun daha çok hangi alanla ilişkilidir?",
-    "options": [
-      "İmar planı",
-      "Seçim sistemi",
-      "Kıbrıs kültürü ve mutfağı",
-      "Denizcilik mevzuatı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Macun, Kıbrıs kültürü ve mutfağı içinde bilinir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-100",
-    "category": "Kültür",
-    "difficulty": "Orta",
-    "question": "Kıbrıs mutfağı sorularında 'Macun' hangi tür bilgiye örnektir?",
-    "options": [
-      "Seçim",
-      "Yasama",
-      "Para politikası",
-      "Yerel kültür"
-    ],
-    "answer": "Yerel kültür",
-    "explanation": "Macun, yerel kültür ve mutfak bilgisidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Yerel kültür"
-  },
-  {
-    "id": "kktc-101",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Kıbrıs kültüründe bilinen geleneksel içki hangisidir?",
-    "options": [
-      "Molehiya",
-      "Hellim",
-      "Zivaniya",
-      "Şeftali kebabı"
-    ],
-    "answer": "Zivaniya",
-    "explanation": "Zivaniya, Kıbrıs kültürü ve mutfağıyla ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Zivaniya"
-  },
-  {
-    "id": "kktc-102",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Zivaniya daha çok hangi alanla ilişkilidir?",
-    "options": [
-      "Seçim sistemi",
-      "Kıbrıs kültürü ve mutfağı",
-      "İmar planı",
-      "Denizcilik mevzuatı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Zivaniya, Kıbrıs kültürü ve mutfağı içinde bilinir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-103",
-    "category": "Kültür",
-    "difficulty": "Orta",
-    "question": "Kıbrıs mutfağı sorularında 'Zivaniya' hangi tür bilgiye örnektir?",
-    "options": [
-      "Yasama",
-      "Yerel kültür",
-      "Para politikası",
-      "Seçim"
-    ],
-    "answer": "Yerel kültür",
-    "explanation": "Zivaniya, yerel kültür ve mutfak bilgisidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Yerel kültür"
-  },
-  {
-    "id": "kktc-104",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Cumhuriyet Meclisi hangi alanla ilişkilidir?",
-    "options": [
-      "hükümetin yürütme merkezi",
-      "yasama",
-      "seçimlerin yürütülmesi ve denetlenmesi",
-      "devletin temsili"
-    ],
-    "answer": "yasama",
-    "explanation": "Cumhuriyet Meclisi, yasama alanıyla ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::yasama"
-  },
-  {
-    "id": "kktc-105",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Aşağıdaki kurumlardan hangisi KKTC devlet yapısıyla ilişkilidir? (Cumhuriyet Meclisi odaklı)",
-    "options": [
-      "TBMM",
-      "Ankara Büyükşehir Belediyesi",
-      "Avrupa Parlamentosu",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Cumhuriyet Meclisi, KKTC resmi kurum yapısı içinde bilinen bir addır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-106",
-    "category": "Devlet Yapısı",
-    "difficulty": "Zor",
-    "question": "yasama ifadesi aşağıdaki kurumlardan hangisini daha iyi tanımlar?",
-    "options": [
-      "Yüksek Seçim Kurulu",
-      "Cumhuriyet Meclisi",
-      "Cumhurbaşkanlığı",
-      "Başbakanlık"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "yasama, Cumhuriyet Meclisi ile ilişkilendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-107",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Cumhurbaşkanlığı hangi alanla ilişkilidir?",
-    "options": [
-      "seçimlerin yürütülmesi ve denetlenmesi",
-      "yasama",
-      "devletin temsili",
-      "hükümetin yürütme merkezi"
-    ],
-    "answer": "devletin temsili",
-    "explanation": "Cumhurbaşkanlığı, devletin temsili alanıyla ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::devletin temsili"
-  },
-  {
-    "id": "kktc-108",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Aşağıdaki kurumlardan hangisi KKTC devlet yapısıyla ilişkilidir? (Cumhurbaşkanlığı odaklı)",
-    "options": [
-      "Avrupa Parlamentosu",
-      "Cumhurbaşkanlığı",
-      "TBMM",
-      "Ankara Büyükşehir Belediyesi"
-    ],
-    "answer": "Cumhurbaşkanlığı",
-    "explanation": "Cumhurbaşkanlığı, KKTC resmi kurum yapısı içinde bilinen bir addır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhurbaşkanlığı"
-  },
-  {
-    "id": "kktc-109",
-    "category": "Devlet Yapısı",
-    "difficulty": "Zor",
-    "question": "devletin temsili ifadesi aşağıdaki kurumlardan hangisini daha iyi tanımlar?",
-    "options": [
-      "Yüksek Seçim Kurulu",
-      "Cumhuriyet Meclisi",
-      "Başbakanlık",
-      "Cumhurbaşkanlığı"
-    ],
-    "answer": "Cumhurbaşkanlığı",
-    "explanation": "devletin temsili, Cumhurbaşkanlığı ile ilişkilendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhurbaşkanlığı"
-  },
-  {
-    "id": "kktc-110",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Başbakanlık hangi alanla ilişkilidir?",
-    "options": [
-      "yasama",
-      "seçimlerin yürütülmesi ve denetlenmesi",
-      "hükümetin yürütme merkezi",
-      "devletin temsili"
-    ],
-    "answer": "hükümetin yürütme merkezi",
-    "explanation": "Başbakanlık, hükümetin yürütme merkezi alanıyla ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::hükümetin yürütme merkezi"
-  },
-  {
-    "id": "kktc-111",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Aşağıdaki kurumlardan hangisi KKTC devlet yapısıyla ilişkilidir? (Başbakanlık odaklı)",
-    "options": [
-      "Ankara Büyükşehir Belediyesi",
-      "TBMM",
-      "Başbakanlık",
-      "Avrupa Parlamentosu"
-    ],
-    "answer": "Başbakanlık",
-    "explanation": "Başbakanlık, KKTC resmi kurum yapısı içinde bilinen bir addır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Başbakanlık"
-  },
-  {
-    "id": "kktc-112",
-    "category": "Devlet Yapısı",
-    "difficulty": "Zor",
-    "question": "hükümetin yürütme merkezi ifadesi aşağıdaki kurumlardan hangisini daha iyi tanımlar?",
-    "options": [
-      "Başbakanlık",
-      "Yüksek Seçim Kurulu",
-      "Cumhurbaşkanlığı",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Başbakanlık",
-    "explanation": "hükümetin yürütme merkezi, Başbakanlık ile ilişkilendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Başbakanlık"
-  },
-  {
-    "id": "kktc-113",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Yüksek Seçim Kurulu hangi alanla ilişkilidir?",
-    "options": [
-      "yasama",
-      "seçimlerin yürütülmesi ve denetlenmesi",
-      "devletin temsili",
-      "hükümetin yürütme merkezi"
-    ],
-    "answer": "seçimlerin yürütülmesi ve denetlenmesi",
-    "explanation": "Yüksek Seçim Kurulu, seçimlerin yürütülmesi ve denetlenmesi alanıyla ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::seçimlerin yürütülmesi ve denetlenmesi"
-  },
-  {
-    "id": "kktc-114",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Aşağıdaki kurumlardan hangisi KKTC devlet yapısıyla ilişkilidir? (Yüksek Seçim Kurulu odaklı)",
-    "options": [
-      "TBMM",
-      "Avrupa Parlamentosu",
-      "Ankara Büyükşehir Belediyesi",
-      "Yüksek Seçim Kurulu"
-    ],
-    "answer": "Yüksek Seçim Kurulu",
-    "explanation": "Yüksek Seçim Kurulu, KKTC resmi kurum yapısı içinde bilinen bir addır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Yüksek Seçim Kurulu"
-  },
-  {
-    "id": "kktc-115",
-    "category": "Devlet Yapısı",
-    "difficulty": "Zor",
-    "question": "seçimlerin yürütülmesi ve denetlenmesi ifadesi aşağıdaki kurumlardan hangisini daha iyi tanımlar?",
-    "options": [
-      "Cumhurbaşkanlığı",
-      "Başbakanlık",
-      "Cumhuriyet Meclisi",
-      "Yüksek Seçim Kurulu"
-    ],
-    "answer": "Yüksek Seçim Kurulu",
-    "explanation": "seçimlerin yürütülmesi ve denetlenmesi, Yüksek Seçim Kurulu ile ilişkilendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Yüksek Seçim Kurulu"
-  },
-  {
-    "id": "kktc-116",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Dışişleri Bakanlığı hangi alanla ilişkilidir?",
-    "options": [
-      "yasama",
-      "devletin temsili",
-      "dış politika ve konsolosluk hizmetleri",
-      "hükümetin yürütme merkezi"
-    ],
-    "answer": "dış politika ve konsolosluk hizmetleri",
-    "explanation": "Dışişleri Bakanlığı, dış politika ve konsolosluk hizmetleri alanıyla ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::dış politika ve konsolosluk hizmetleri"
-  },
-  {
-    "id": "kktc-117",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Aşağıdaki kurumlardan hangisi KKTC devlet yapısıyla ilişkilidir? (Dışişleri Bakanlığı odaklı)",
-    "options": [
-      "Ankara Büyükşehir Belediyesi",
+      "Tarım ve Doğal Kaynaklar Bakanlığı",
+      "Ekonomi ve Enerji Bakanlığı",
       "Dışişleri Bakanlığı",
-      "TBMM",
-      "Avrupa Parlamentosu"
+      "Milli Eğitim ve Kültür Bakanlığı",
+      "İçişleri Bakanlığı"
     ],
-    "answer": "Dışişleri Bakanlığı",
-    "explanation": "Dışişleri Bakanlığı, KKTC resmi kurum yapısı içinde bilinen bir addır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Dışişleri Bakanlığı"
+    "answer": "Milli Eğitim ve Kültür Bakanlığı",
+    "answerLetter": "D",
+    "explanation": "Cevap anahtarına göre yanlış olan D seçeneğidir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-118",
-    "category": "Devlet Yapısı",
-    "difficulty": "Zor",
-    "question": "dış politika ve konsolosluk hizmetleri ifadesi aşağıdaki kurumlardan hangisini daha iyi tanımlar?",
+    "id": "sqv7-142",
+    "category": "İngiliz Dönemi",
+    "topic": "Kazalar",
+    "difficulty": "Kolay",
+    "question": "Kıbrıs İngiliz idaresindeyken kaç kazaya ayrılmıştı?",
     "options": [
-      "Cumhuriyet Meclisi",
-      "Başbakanlık",
-      "Dışişleri Bakanlığı",
-      "Cumhurbaşkanlığı"
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
     ],
-    "answer": "Dışişleri Bakanlığı",
-    "explanation": "dış politika ve konsolosluk hizmetleri, Dışişleri Bakanlığı ile ilişkilendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Dışişleri Bakanlığı"
+    "answer": "6",
+    "answerLetter": "E",
+    "explanation": "İngilizler adayı 6 kazaya ayırmıştır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-119",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Enformasyon Dairesi hangi alanla ilişkilidir?",
-    "options": [
-      "hükümetin yürütme merkezi",
-      "devletin temsili",
-      "yasama",
-      "kamusal bilgilendirme ve tanıtım"
-    ],
-    "answer": "kamusal bilgilendirme ve tanıtım",
-    "explanation": "Enformasyon Dairesi, kamusal bilgilendirme ve tanıtım alanıyla ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::kamusal bilgilendirme ve tanıtım"
-  },
-  {
-    "id": "kktc-120",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Aşağıdaki kurumlardan hangisi KKTC devlet yapısıyla ilişkilidir? (Enformasyon Dairesi odaklı)",
-    "options": [
-      "Ankara Büyükşehir Belediyesi",
-      "Avrupa Parlamentosu",
-      "Enformasyon Dairesi",
-      "TBMM"
-    ],
-    "answer": "Enformasyon Dairesi",
-    "explanation": "Enformasyon Dairesi, KKTC resmi kurum yapısı içinde bilinen bir addır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Enformasyon Dairesi"
-  },
-  {
-    "id": "kktc-121",
-    "category": "Devlet Yapısı",
-    "difficulty": "Zor",
-    "question": "kamusal bilgilendirme ve tanıtım ifadesi aşağıdaki kurumlardan hangisini daha iyi tanımlar?",
-    "options": [
-      "Cumhurbaşkanlığı",
-      "Enformasyon Dairesi",
-      "Başbakanlık",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Enformasyon Dairesi",
-    "explanation": "kamusal bilgilendirme ve tanıtım, Enformasyon Dairesi ile ilişkilendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Enformasyon Dairesi"
-  },
-  {
-    "id": "kktc-122",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Polis Genel Müdürlüğü hangi alanla ilişkilidir?",
-    "options": [
-      "güvenlik hizmetleri",
-      "hükümetin yürütme merkezi",
-      "devletin temsili",
-      "yasama"
-    ],
-    "answer": "güvenlik hizmetleri",
-    "explanation": "Polis Genel Müdürlüğü, güvenlik hizmetleri alanıyla ilişkilidir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::güvenlik hizmetleri"
-  },
-  {
-    "id": "kktc-123",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Aşağıdaki kurumlardan hangisi KKTC devlet yapısıyla ilişkilidir? (Polis Genel Müdürlüğü odaklı)",
-    "options": [
-      "TBMM",
-      "Polis Genel Müdürlüğü",
-      "Avrupa Parlamentosu",
-      "Ankara Büyükşehir Belediyesi"
-    ],
-    "answer": "Polis Genel Müdürlüğü",
-    "explanation": "Polis Genel Müdürlüğü, KKTC resmi kurum yapısı içinde bilinen bir addır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Polis Genel Müdürlüğü"
-  },
-  {
-    "id": "kktc-124",
-    "category": "Devlet Yapısı",
-    "difficulty": "Zor",
-    "question": "güvenlik hizmetleri ifadesi aşağıdaki kurumlardan hangisini daha iyi tanımlar?",
-    "options": [
-      "Cumhuriyet Meclisi",
-      "Başbakanlık",
-      "Polis Genel Müdürlüğü",
-      "Cumhurbaşkanlığı"
-    ],
-    "answer": "Polis Genel Müdürlüğü",
-    "explanation": "güvenlik hizmetleri, Polis Genel Müdürlüğü ile ilişkilendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Polis Genel Müdürlüğü"
-  },
-  {
-    "id": "kktc-125",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "BRT kısaltması hangi kurumla ilişkilidir?",
-    "options": [
-      "Cumhuriyet Meclisi",
-      "Türk Ajansı Kıbrıs",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Yüksek Seçim Kurulu"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "BRT, Bayrak Radyo Televizyon Kurumu kurumunun kısaltması olarak bilinir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-126",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Bayrak Radyo Televizyon Kurumu için kullanılan kısa ad hangisidir?",
-    "options": [
-      "YSK",
-      "PGM",
-      "BRT",
-      "TAK"
-    ],
-    "answer": "BRT",
-    "explanation": "Bayrak Radyo Televizyon Kurumu için BRT kısaltması kullanılır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::BRT"
-  },
-  {
-    "id": "kktc-127",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "TAK kısaltması hangi kurumla ilişkilidir?",
-    "options": [
-      "Yüksek Seçim Kurulu",
-      "Türk Ajansı Kıbrıs",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "TAK, Türk Ajansı Kıbrıs kurumunun kısaltması olarak bilinir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-128",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Türk Ajansı Kıbrıs için kullanılan kısa ad hangisidir?",
-    "options": [
-      "PGM",
-      "YSK",
-      "TAK",
-      "BRT"
-    ],
-    "answer": "TAK",
-    "explanation": "Türk Ajansı Kıbrıs için TAK kısaltması kullanılır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::TAK"
-  },
-  {
-    "id": "kktc-129",
-    "category": "Eğitim",
-    "difficulty": "Orta",
-    "question": "Yakın Doğu Üniversitesi hangi şehir/bölge ile ilişkilidir?",
-    "options": [
-      "Lefkoşa",
-      "Girne",
-      "Gazimağusa",
-      "Güzelyurt"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Yakın Doğu Üniversitesi, genel olarak Lefkoşa ile ilişkilendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Eğitim::Lefkoşa"
-  },
-  {
-    "id": "kktc-130",
-    "category": "Eğitim",
-    "difficulty": "Orta",
-    "question": "Lefkoşa ile ilişkilendirilen yükseköğretim kurumlarından biri hangisidir? (Yakın Doğu Üniversitesi)",
-    "options": [
-      "Lefke Avrupa Üniversitesi",
-      "Girne Amerikan Üniversitesi",
-      "Doğu Akdeniz Üniversitesi",
-      "Yakın Doğu Üniversitesi"
-    ],
-    "answer": "Yakın Doğu Üniversitesi",
-    "explanation": "Yakın Doğu Üniversitesi, Lefkoşa ile ilişkilendirilen üniversitelerden biridir.",
-    "source": "Üniversite kurumsal bilgileri ve genel kültür kaynakları",
-    "topic": "Eğitim::Yakın Doğu Üniversitesi"
-  },
-  {
-    "id": "kktc-131",
-    "category": "Eğitim",
-    "difficulty": "Orta",
-    "question": "Doğu Akdeniz Üniversitesi hangi şehir/bölge ile ilişkilidir?",
-    "options": [
-      "Gazimağusa",
-      "Lefkoşa",
-      "Girne",
-      "Güzelyurt"
-    ],
-    "answer": "Gazimağusa",
-    "explanation": "Doğu Akdeniz Üniversitesi, genel olarak Gazimağusa ile ilişkilendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Eğitim::Gazimağusa"
-  },
-  {
-    "id": "kktc-132",
-    "category": "Eğitim",
-    "difficulty": "Orta",
-    "question": "Gazimağusa ile ilişkilendirilen yükseköğretim kurumlarından biri hangisidir? (Doğu Akdeniz Üniversitesi)",
-    "options": [
-      "Girne Amerikan Üniversitesi",
-      "Yakın Doğu Üniversitesi",
-      "Lefke Avrupa Üniversitesi",
-      "Doğu Akdeniz Üniversitesi"
-    ],
-    "answer": "Doğu Akdeniz Üniversitesi",
-    "explanation": "Doğu Akdeniz Üniversitesi, Gazimağusa ile ilişkilendirilen üniversitelerden biridir.",
-    "source": "Üniversite kurumsal bilgileri ve genel kültür kaynakları",
-    "topic": "Eğitim::Doğu Akdeniz Üniversitesi"
-  },
-  {
-    "id": "kktc-133",
-    "category": "Eğitim",
-    "difficulty": "Orta",
-    "question": "Girne Amerikan Üniversitesi hangi şehir/bölge ile ilişkilidir?",
-    "options": [
-      "Girne",
-      "Güzelyurt",
-      "Gazimağusa",
-      "Lefkoşa"
-    ],
-    "answer": "Girne",
-    "explanation": "Girne Amerikan Üniversitesi, genel olarak Girne ile ilişkilendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Eğitim::Girne"
-  },
-  {
-    "id": "kktc-134",
-    "category": "Eğitim",
-    "difficulty": "Orta",
-    "question": "Girne ile ilişkilendirilen yükseköğretim kurumlarından biri hangisidir? (Girne Amerikan Üniversitesi)",
-    "options": [
-      "Doğu Akdeniz Üniversitesi",
-      "Yakın Doğu Üniversitesi",
-      "Lefke Avrupa Üniversitesi",
-      "Girne Amerikan Üniversitesi"
-    ],
-    "answer": "Girne Amerikan Üniversitesi",
-    "explanation": "Girne Amerikan Üniversitesi, Girne ile ilişkilendirilen üniversitelerden biridir.",
-    "source": "Üniversite kurumsal bilgileri ve genel kültür kaynakları",
-    "topic": "Eğitim::Girne Amerikan Üniversitesi"
-  },
-  {
-    "id": "kktc-135",
-    "category": "Eğitim",
-    "difficulty": "Orta",
-    "question": "Lefke Avrupa Üniversitesi hangi şehir/bölge ile ilişkilidir?",
-    "options": [
-      "Lefke",
-      "Lefkoşa",
-      "Girne",
-      "Gazimağusa"
-    ],
-    "answer": "Lefke",
-    "explanation": "Lefke Avrupa Üniversitesi, genel olarak Lefke ile ilişkilendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Eğitim::Lefke"
-  },
-  {
-    "id": "kktc-136",
-    "category": "Eğitim",
-    "difficulty": "Orta",
-    "question": "Lefke ile ilişkilendirilen yükseköğretim kurumlarından biri hangisidir? (Lefke Avrupa Üniversitesi)",
-    "options": [
-      "Yakın Doğu Üniversitesi",
-      "Lefke Avrupa Üniversitesi",
-      "Doğu Akdeniz Üniversitesi",
-      "Girne Amerikan Üniversitesi"
-    ],
-    "answer": "Lefke Avrupa Üniversitesi",
-    "explanation": "Lefke Avrupa Üniversitesi, Lefke ile ilişkilendirilen üniversitelerden biridir.",
-    "source": "Üniversite kurumsal bilgileri ve genel kültür kaynakları",
-    "topic": "Eğitim::Lefke Avrupa Üniversitesi"
-  },
-  {
-    "id": "kktc-137",
-    "category": "Eğitim",
-    "difficulty": "Orta",
-    "question": "Uluslararası Kıbrıs Üniversitesi hangi şehir/bölge ile ilişkilidir?",
-    "options": [
-      "Gazimağusa",
-      "Lefkoşa",
-      "Girne",
-      "Güzelyurt"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Uluslararası Kıbrıs Üniversitesi, genel olarak Lefkoşa ile ilişkilendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Eğitim::Lefkoşa"
-  },
-  {
-    "id": "kktc-138",
-    "category": "Eğitim",
-    "difficulty": "Orta",
-    "question": "Lefkoşa ile ilişkilendirilen yükseköğretim kurumlarından biri hangisidir? (Uluslararası Kıbrıs Üniversitesi)",
-    "options": [
-      "Girne Amerikan Üniversitesi",
-      "Yakın Doğu Üniversitesi",
-      "Uluslararası Kıbrıs Üniversitesi",
-      "Doğu Akdeniz Üniversitesi"
-    ],
-    "answer": "Uluslararası Kıbrıs Üniversitesi",
-    "explanation": "Uluslararası Kıbrıs Üniversitesi, Lefkoşa ile ilişkilendirilen üniversitelerden biridir.",
-    "source": "Üniversite kurumsal bilgileri ve genel kültür kaynakları",
-    "topic": "Eğitim::Uluslararası Kıbrıs Üniversitesi"
-  },
-  {
-    "id": "kktc-139",
-    "category": "Eğitim",
-    "difficulty": "Orta",
-    "question": "Kıbrıs İlim Üniversitesi hangi şehir/bölge ile ilişkilidir?",
-    "options": [
-      "Lefkoşa",
-      "Güzelyurt",
-      "Gazimağusa",
-      "Girne"
-    ],
-    "answer": "Girne",
-    "explanation": "Kıbrıs İlim Üniversitesi, genel olarak Girne ile ilişkilendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Eğitim::Girne"
-  },
-  {
-    "id": "kktc-140",
-    "category": "Eğitim",
-    "difficulty": "Orta",
-    "question": "Girne ile ilişkilendirilen yükseköğretim kurumlarından biri hangisidir? (Kıbrıs İlim Üniversitesi)",
-    "options": [
-      "Girne Amerikan Üniversitesi",
-      "Kıbrıs İlim Üniversitesi",
-      "Yakın Doğu Üniversitesi",
-      "Doğu Akdeniz Üniversitesi"
-    ],
-    "answer": "Kıbrıs İlim Üniversitesi",
-    "explanation": "Kıbrıs İlim Üniversitesi, Girne ile ilişkilendirilen üniversitelerden biridir.",
-    "source": "Üniversite kurumsal bilgileri ve genel kültür kaynakları",
-    "topic": "Eğitim::Kıbrıs İlim Üniversitesi"
-  },
-  {
-    "id": "kktc-141",
+    "id": "sqv7-143",
     "category": "Turizm",
-    "difficulty": "Orta",
-    "question": "St. Hilarion Kalesi hangi bölgeyle ilişkilidir?",
+    "topic": "Othello",
+    "difficulty": "Kolay",
+    "question": "Shakespeare’in Othello oyununa konu olan ve Othello Kalesi olarak da bilinen yer nerededir?",
     "options": [
+      "Mağusa",
       "Girne",
       "Lefkoşa",
       "Güzelyurt",
-      "Gazimağusa"
+      "Lefke"
     ],
-    "answer": "Girne",
-    "explanation": "St. Hilarion Kalesi, genel kültürde Girne çevresiyle ilişkilendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Turizm::Girne"
+    "answer": "Mağusa",
+    "answerLetter": "A",
+    "explanation": "Othello Kalesi Gazimağusa’dadır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-142",
-    "category": "Turizm",
+    "id": "sqv7-144",
+    "category": "Kültür",
+    "topic": "Eserler",
     "difficulty": "Zor",
-    "question": "Girne denildiğinde aşağıdaki tarihi/turistik yerlerden hangisi doğru bir örnektir? (St. Hilarion Kalesi)",
-    "options": [
-      "Bellapais Manastırı",
-      "Othello Kalesi",
-      "Salamis Antik Kenti",
-      "St. Hilarion Kalesi"
-    ],
-    "answer": "St. Hilarion Kalesi",
-    "explanation": "St. Hilarion Kalesi, Girne ile ilişkilendirilen önemli noktalardandır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Turizm::St. Hilarion Kalesi"
-  },
-  {
-    "id": "kktc-143",
-    "category": "Turizm",
-    "difficulty": "Orta",
-    "question": "Othello Kalesi hangi bölgeyle ilişkilidir?",
-    "options": [
-      "Gazimağusa",
-      "Lefkoşa",
-      "Güzelyurt",
-      "Girne"
-    ],
-    "answer": "Gazimağusa",
-    "explanation": "Othello Kalesi, genel kültürde Gazimağusa çevresiyle ilişkilendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Turizm::Gazimağusa"
-  },
-  {
-    "id": "kktc-144",
-    "category": "Turizm",
-    "difficulty": "Zor",
-    "question": "Gazimağusa denildiğinde aşağıdaki tarihi/turistik yerlerden hangisi doğru bir örnektir? (Othello Kalesi)",
-    "options": [
-      "Othello Kalesi",
-      "Bellapais Manastırı",
-      "St. Hilarion Kalesi",
-      "Salamis Antik Kenti"
-    ],
-    "answer": "Othello Kalesi",
-    "explanation": "Othello Kalesi, Gazimağusa ile ilişkilendirilen önemli noktalardandır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Turizm::Othello Kalesi"
-  },
-  {
-    "id": "kktc-145",
-    "category": "Turizm",
-    "difficulty": "Orta",
-    "question": "Salamis Antik Kenti hangi bölgeyle ilişkilidir?",
-    "options": [
-      "Girne",
-      "Güzelyurt",
-      "Gazimağusa",
-      "Lefkoşa"
-    ],
-    "answer": "Gazimağusa",
-    "explanation": "Salamis Antik Kenti, genel kültürde Gazimağusa çevresiyle ilişkilendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Turizm::Gazimağusa"
-  },
-  {
-    "id": "kktc-146",
-    "category": "Turizm",
-    "difficulty": "Zor",
-    "question": "Gazimağusa denildiğinde aşağıdaki tarihi/turistik yerlerden hangisi doğru bir örnektir? (Salamis Antik Kenti)",
-    "options": [
-      "St. Hilarion Kalesi",
-      "Salamis Antik Kenti",
-      "Othello Kalesi",
-      "Bellapais Manastırı"
-    ],
-    "answer": "Salamis Antik Kenti",
-    "explanation": "Salamis Antik Kenti, Gazimağusa ile ilişkilendirilen önemli noktalardandır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Turizm::Salamis Antik Kenti"
-  },
-  {
-    "id": "kktc-147",
-    "category": "Turizm",
-    "difficulty": "Orta",
-    "question": "Bellapais Manastırı hangi bölgeyle ilişkilidir?",
-    "options": [
-      "Güzelyurt",
-      "Girne",
-      "Lefkoşa",
-      "Gazimağusa"
-    ],
-    "answer": "Girne",
-    "explanation": "Bellapais Manastırı, genel kültürde Girne çevresiyle ilişkilendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Turizm::Girne"
-  },
-  {
-    "id": "kktc-148",
-    "category": "Turizm",
-    "difficulty": "Zor",
-    "question": "Girne denildiğinde aşağıdaki tarihi/turistik yerlerden hangisi doğru bir örnektir? (Bellapais Manastırı)",
-    "options": [
-      "Salamis Antik Kenti",
-      "Bellapais Manastırı",
-      "St. Hilarion Kalesi",
-      "Othello Kalesi"
-    ],
-    "answer": "Bellapais Manastırı",
-    "explanation": "Bellapais Manastırı, Girne ile ilişkilendirilen önemli noktalardandır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Turizm::Bellapais Manastırı"
-  },
-  {
-    "id": "kktc-149",
-    "category": "Turizm",
-    "difficulty": "Orta",
-    "question": "Büyük Han hangi bölgeyle ilişkilidir?",
-    "options": [
-      "Lefkoşa",
-      "Gazimağusa",
-      "Girne",
-      "Güzelyurt"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Büyük Han, genel kültürde Lefkoşa çevresiyle ilişkilendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Turizm::Lefkoşa"
-  },
-  {
-    "id": "kktc-150",
-    "category": "Turizm",
-    "difficulty": "Zor",
-    "question": "Lefkoşa denildiğinde aşağıdaki tarihi/turistik yerlerden hangisi doğru bir örnektir? (Büyük Han)",
+    "question": "Aşağıdaki eserlerden hangisi KKTC sınırları içinde yer almaz?",
     "options": [
       "Büyük Han",
-      "Othello Kalesi",
+      "Mevlevi Tekkesi",
+      "Derviş Paşa Konağı",
+      "Hala Sultan Tekkesi",
+      "Lala Mustafa Paşa Camii"
+    ],
+    "answer": "Hala Sultan Tekkesi",
+    "answerLetter": "D",
+    "explanation": "Hala Sultan Tekkesi Larnaka’dadır ve KKTC sınırlarında değildir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-145",
+    "category": "Çevre",
+    "topic": "CMC",
+    "difficulty": "Orta",
+    "question": "CMC atıklarıyla karşı karşıya kalan yerleşim yeri hangisidir?",
+    "options": [
+      "Haspolat – Lefkoşa",
+      "Çayırova – İskele",
+      "Gemikonağı – Lefke",
+      "Çatalköy – Girne",
+      "Bostancı – Güzelyurt"
+    ],
+    "answer": "Gemikonağı – Lefke",
+    "answerLetter": "C",
+    "explanation": "CMC sorunu Gemikonağı-Lefke ile ilişkilidir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-146",
+    "category": "Turizm",
+    "topic": "Girne",
+    "difficulty": "Orta",
+    "question": "Aşağıdaki mekanlardan hangisi Girne ilçesi sınırları içinde değildir?",
+    "options": [
+      "Hz. Ömer Tekkesi",
       "St. Hilarion Kalesi",
-      "Salamis Antik Kenti"
-    ],
-    "answer": "Büyük Han",
-    "explanation": "Büyük Han, Lefkoşa ile ilişkilendirilen önemli noktalardandır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Turizm::Büyük Han"
-  },
-  {
-    "id": "kktc-151",
-    "category": "Turizm",
-    "difficulty": "Orta",
-    "question": "Soli Antik Kenti hangi bölgeyle ilişkilidir?",
-    "options": [
-      "Lefke",
-      "Girne",
-      "Gazimağusa",
-      "Lefkoşa"
-    ],
-    "answer": "Lefke",
-    "explanation": "Soli Antik Kenti, genel kültürde Lefke çevresiyle ilişkilendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Turizm::Lefke"
-  },
-  {
-    "id": "kktc-152",
-    "category": "Turizm",
-    "difficulty": "Zor",
-    "question": "Lefke denildiğinde aşağıdaki tarihi/turistik yerlerden hangisi doğru bir örnektir? (Soli Antik Kenti)",
-    "options": [
-      "Salamis Antik Kenti",
-      "Soli Antik Kenti",
-      "Othello Kalesi",
-      "St. Hilarion Kalesi"
-    ],
-    "answer": "Soli Antik Kenti",
-    "explanation": "Soli Antik Kenti, Lefke ile ilişkilendirilen önemli noktalardandır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Turizm::Soli Antik Kenti"
-  },
-  {
-    "id": "kktc-153",
-    "category": "Turizm",
-    "difficulty": "Orta",
-    "question": "Vuni Sarayı hangi bölgeyle ilişkilidir?",
-    "options": [
-      "Lefke",
-      "Lefkoşa",
-      "Girne",
-      "Gazimağusa"
-    ],
-    "answer": "Lefke",
-    "explanation": "Vuni Sarayı, genel kültürde Lefke çevresiyle ilişkilendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Turizm::Lefke"
-  },
-  {
-    "id": "kktc-154",
-    "category": "Turizm",
-    "difficulty": "Zor",
-    "question": "Lefke denildiğinde aşağıdaki tarihi/turistik yerlerden hangisi doğru bir örnektir? (Vuni Sarayı)",
-    "options": [
-      "Othello Kalesi",
-      "St. Hilarion Kalesi",
-      "Salamis Antik Kenti",
-      "Vuni Sarayı"
-    ],
-    "answer": "Vuni Sarayı",
-    "explanation": "Vuni Sarayı, Lefke ile ilişkilendirilen önemli noktalardandır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Turizm::Vuni Sarayı"
-  },
-  {
-    "id": "kktc-155",
-    "category": "Turizm",
-    "difficulty": "Orta",
-    "question": "Apostolos Andreas Manastırı hangi bölgeyle ilişkilidir?",
-    "options": [
-      "Girne",
-      "Gazimağusa",
-      "Karpaz",
-      "Lefkoşa"
-    ],
-    "answer": "Karpaz",
-    "explanation": "Apostolos Andreas Manastırı, genel kültürde Karpaz çevresiyle ilişkilendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Turizm::Karpaz"
-  },
-  {
-    "id": "kktc-156",
-    "category": "Turizm",
-    "difficulty": "Zor",
-    "question": "Karpaz denildiğinde aşağıdaki tarihi/turistik yerlerden hangisi doğru bir örnektir? (Apostolos Andreas Manastırı)",
-    "options": [
-      "St. Hilarion Kalesi",
-      "Othello Kalesi",
-      "Salamis Antik Kenti",
-      "Apostolos Andreas Manastırı"
-    ],
-    "answer": "Apostolos Andreas Manastırı",
-    "explanation": "Apostolos Andreas Manastırı, Karpaz ile ilişkilendirilen önemli noktalardandır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Turizm::Apostolos Andreas Manastırı"
-  },
-  {
-    "id": "kktc-157",
-    "category": "Turizm",
-    "difficulty": "Orta",
-    "question": "Mavi Köşk hangi bölgeyle ilişkilidir?",
-    "options": [
-      "Lefkoşa",
-      "Güzelyurt",
-      "Gazimağusa",
-      "Girne"
-    ],
-    "answer": "Güzelyurt",
-    "explanation": "Mavi Köşk, genel kültürde Güzelyurt çevresiyle ilişkilendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Turizm::Güzelyurt"
-  },
-  {
-    "id": "kktc-158",
-    "category": "Turizm",
-    "difficulty": "Zor",
-    "question": "Güzelyurt denildiğinde aşağıdaki tarihi/turistik yerlerden hangisi doğru bir örnektir? (Mavi Köşk)",
-    "options": [
-      "Othello Kalesi",
       "Mavi Köşk",
-      "St. Hilarion Kalesi",
-      "Salamis Antik Kenti"
+      "Kantara Kalesi",
+      "Bufavento Kalesi"
     ],
-    "answer": "Mavi Köşk",
-    "explanation": "Mavi Köşk, Güzelyurt ile ilişkilendirilen önemli noktalardandır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Turizm::Mavi Köşk"
+    "answer": "Kantara Kalesi",
+    "answerLetter": "D",
+    "explanation": "Kantara Kalesi Girne’de değildir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-159",
-    "category": "Turizm",
+    "id": "sqv7-147",
+    "category": "İngiliz Dönemi",
+    "topic": "Valiler",
     "difficulty": "Orta",
-    "question": "Namık Kemal Zindanı hangi bölgeyle ilişkilidir?",
+    "question": "İngiltere adına 1957-1960 yılları arasında Kıbrıs’ta görev yapan son sömürge valisi kimdir?",
     "options": [
-      "Gazimağusa",
-      "Girne",
-      "Lefkoşa",
-      "Güzelyurt"
+      "Garnet Joseph Wolseley",
+      "Malcolm Stevenson",
+      "Sir Hugh Foot",
+      "Mac Millan",
+      "John Eugene Clauson"
     ],
-    "answer": "Gazimağusa",
-    "explanation": "Namık Kemal Zindanı, genel kültürde Gazimağusa çevresiyle ilişkilendirilir.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Turizm::Gazimağusa"
+    "answer": "Sir Hugh Foot",
+    "answerLetter": "C",
+    "explanation": "Son İngiliz valisi Sir Hugh Foot’tur.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-160",
-    "category": "Turizm",
-    "difficulty": "Zor",
-    "question": "Gazimağusa denildiğinde aşağıdaki tarihi/turistik yerlerden hangisi doğru bir örnektir? (Namık Kemal Zindanı)",
-    "options": [
-      "Salamis Antik Kenti",
-      "Othello Kalesi",
-      "Namık Kemal Zindanı",
-      "St. Hilarion Kalesi"
-    ],
-    "answer": "Namık Kemal Zindanı",
-    "explanation": "Namık Kemal Zindanı, Gazimağusa ile ilişkilendirilen önemli noktalardandır.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Turizm::Namık Kemal Zindanı"
-  },
-  {
-    "id": "kktc-161",
-    "category": "Temel Bilgiler",
+    "id": "sqv7-148",
+    "category": "Siyasi Örgütlenmeler",
+    "topic": "KTFD",
     "difficulty": "Kolay",
-    "question": "StarQuiz denemesinde 'KKTC'nin başkenti' için hangi cevap doğru olur?",
+    "question": "1975’ten 1983’e kadar Kıbrıs Türklerinin oluşturduğu siyasi örgütlenme hangisidir?",
     "options": [
-      "Gazimağusa",
-      "Güzelyurt",
-      "Girne",
-      "Lefkoşa"
+      "Genel Komite",
+      "Kıbrıs Türk Yönetimi",
+      "Kıbrıs Türk Federe Devleti",
+      "Otonom Kıbrıs Türk Yönetimi",
+      "Kuzey Kıbrıs Türk Cumhuriyeti"
     ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
+    "answer": "Kıbrıs Türk Federe Devleti",
+    "answerLetter": "C",
+    "explanation": "1975-1983 arası Kıbrıs Türk Federe Devleti dönemidir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-162",
-    "category": "Temel Bilgiler",
+    "id": "sqv7-149",
+    "category": "Bayrak",
+    "topic": "KKTC Bayrağı",
     "difficulty": "Kolay",
-    "question": "Kamu sınavı hazırlığında 'KKTC'nin ilan tarihi' için hangi cevap doğru olur?",
+    "question": "KKTC bayrağı kim tarafından çizilmiştir?",
     "options": [
-      "15 Kasım 1983",
-      "1 Ağustos 1976",
-      "29 Ekim 1923",
-      "20 Temmuz 1974"
+      "İsmet Vehit Güney",
+      "Emin Çizenel",
+      "Necmettin Erbakan",
+      "Abdülmecid",
+      "Selahaddin Eyyubi"
     ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
+    "answer": "Emin Çizenel",
+    "answerLetter": "B",
+    "explanation": "KKTC bayrağı Emin Çizenel tarafından çizilmiştir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-163",
+    "id": "sqv7-150",
+    "category": "Coğrafya",
+    "topic": "Boğazlar",
+    "difficulty": "Orta",
+    "question": "En batıda yer alan boğaz hangisidir?",
+    "options": [
+      "Geçitköy (Panagra) Boğazı",
+      "Girne Boğazı",
+      "Mersinlik Geçidi",
+      "Lapta Dağları",
+      "Kayalar Dağları"
+    ],
+    "answer": "Geçitköy (Panagra) Boğazı",
+    "answerLetter": "A",
+    "explanation": "En batıdaki boğaz Geçitköy/Panagra Boğazı’dır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-151",
+    "category": "İklim",
+    "topic": "Troodos",
+    "difficulty": "Orta",
+    "question": "Troodos Dağları iklimi aşağıdakilerden hangisidir?",
+    "options": [
+      "Girne Dağları İklimi",
+      "Mesarya (İçova) İklimi",
+      "Akdeniz Yakını Dağ İklimi",
+      "Cephe Yağışları",
+      "Yamaç İklimi"
+    ],
+    "answer": "Akdeniz Yakını Dağ İklimi",
+    "answerLetter": "C",
+    "explanation": "Troodos’ta yükselti nedeniyle Akdeniz yakını dağ iklimi görülür.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-152",
+    "category": "Siyasi Coğrafya",
+    "topic": "Yeşil Hat",
+    "difficulty": "Orta",
+    "question": "Yeşil Hat ismi kim tarafından verilmiştir?",
+    "options": [
+      "Rauf Raif Denktaş",
+      "Cengiz Topel",
+      "İngiliz General Peter Young",
+      "Makarios",
+      "Kemal Tunç"
+    ],
+    "answer": "İngiliz General Peter Young",
+    "answerLetter": "C",
+    "explanation": "Yeşil Hat ismi İngiliz General Peter Young ile ilişkilidir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-153",
+    "category": "Basın",
+    "topic": "Halkın Sesi",
+    "difficulty": "Orta",
+    "question": "Halkın Sesi gazetesi 14 Mart 1942 tarihinde kim tarafından kurulmuştur?",
+    "options": [
+      "Rauf Raif Denktaş",
+      "Dr. Fazıl Küçük",
+      "Faiz Kaymak",
+      "Necati Özkan",
+      "Ali Rıza Vuruşkan"
+    ],
+    "answer": "Dr. Fazıl Küçük",
+    "answerLetter": "B",
+    "explanation": "Halkın Sesi gazetesi Dr. Fazıl Küçük tarafından kurulmuştur.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-154",
     "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "KKTC genel kültür çalışmasında 'KKTC'de yasama organı' için hangi cevap doğru olur?",
+    "topic": "Meclis",
+    "difficulty": "Kolay",
+    "question": "KKTC Meclisi kaç milletvekilinden oluşmaktadır?",
     "options": [
-      "Başbakanlık",
-      "TAK",
-      "BRT",
-      "Cumhuriyet Meclisi"
+      "30",
+      "50",
+      "25",
+      "60",
+      "100"
     ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
+    "answer": "50",
+    "answerLetter": "B",
+    "explanation": "KKTC Cumhuriyet Meclisi 50 milletvekilinden oluşur.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-164",
+    "id": "sqv7-155",
+    "category": "Tarım",
+    "topic": "Organik",
+    "difficulty": "Kolay",
+    "question": "Hiçbir kimyasal ilaç kullanılmadan yapılan tarıma ne ad verilir?",
+    "options": [
+      "Turfanda tarım",
+      "Seracılık",
+      "Organik tarım",
+      "Sulu tarım",
+      "Kuru tarım"
+    ],
+    "answer": "Organik tarım",
+    "answerLetter": "C",
+    "explanation": "Kimyasal ilaç kullanılmadan yapılan tarım organik tarımdır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "sqv7-156",
     "category": "Coğrafya",
+    "topic": "İlçeler",
     "difficulty": "Kolay",
-    "question": "Hızlı tekrar bölümünde 'KKTC ilçesi olmayan yer' için hangi cevap doğru olur?",
+    "question": "Kıbrıs adasında toplam kaç ilçe vardır?",
     "options": [
-      "Gazimağusa",
-      "Girne",
-      "Lefkoşa",
-      "Larnaka"
+      "6",
+      "3",
+      "9",
+      "5",
+      "10"
     ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
+    "answer": "9",
+    "answerLetter": "C",
+    "explanation": "Cevap anahtarına göre ada genelinde toplam 9 ilçe vardır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-165",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Seviye testinde 'KKTC ilçeleri içinde yer alan ilçe' için hangi cevap doğru olur?",
-    "options": [
-      "Lefke",
-      "Larnaka",
-      "Limasol",
-      "Baf"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-166",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Bilgi pekiştirme sorusunda '20 Temmuz'un karşılığı' için hangi cevap doğru olur?",
-    "options": [
-      "Barış ve Özgürlük Bayramı",
-      "Zafer Bayramı",
-      "Yılbaşı",
-      "Cumhuriyet Bayramı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-167",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Adayın bilmesi gereken temel bilgide '1 Ağustos'un karşılığı' için hangi cevap doğru olur?",
-    "options": [
-      "Zafer Bayramı",
-      "Yılbaşı",
-      "Toplumsal Direniş Bayramı",
-      "Türkiye Cumhuriyet Bayramı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-168",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Genel tekrar kartında 'Hellim'in ait olduğu alan' için hangi cevap doğru olur?",
-    "options": [
-      "Japon mutfağı",
-      "Kıbrıs kültürü ve mutfağı",
-      "İskandinav mutfağı",
-      "Meksika mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-169",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Mini deneme sorusunda 'Şeftali kebabının ait olduğu mutfak' için hangi cevap doğru olur?",
-    "options": [
-      "Kıbrıs mutfağı",
-      "İtalyan mutfağı",
-      "Çin mutfağı",
-      "Fransız mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-170",
-    "category": "Tarih",
+    "id": "sqv7-157",
+    "category": "Genel Kültür",
+    "topic": "Türk Devletleri Teşkilatı",
     "difficulty": "Orta",
-    "question": "Konu kontrol sorusunda 'Kıbrıs Barış Harekâtı tarihi' için hangi cevap doğru olur?",
+    "question": "Aşağıdakilerden hangisi Türk Devletleri Teşkilatı’na üye değildir?",
     "options": [
-      "20 Temmuz 1974",
-      "29 Ekim 1923",
-      "1 Ocak 2000",
-      "15 Kasım 1983"
+      "Türkiye",
+      "Azerbaycan",
+      "Özbekistan",
+      "Kazakistan",
+      "Türkmenistan"
     ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
+    "answer": "Türkmenistan",
+    "answerLetter": "E",
+    "explanation": "Türkmenistan üye değil, gözlemci statüsündedir.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-171",
-    "category": "Medya",
+    "id": "sqv7-158",
+    "category": "Meteoroloji",
+    "topic": "Bakanlık",
     "difficulty": "Orta",
-    "question": "Kültür tarama testinde 'BRT açılımı' için hangi cevap doğru olur?",
+    "question": "Meteoroloji Dairesi hangi bakanlığa bağlıdır?",
     "options": [
-      "Yüksek Seçim Kurulu",
-      "Türk Ajansı Kıbrıs",
-      "Cumhuriyet Meclisi",
-      "Bayrak Radyo Televizyon Kurumu"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-172",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Pratik bilgi sorusunda 'TAK açılımı' için hangi cevap doğru olur?",
-    "options": [
-      "Türk Ajansı Kıbrıs",
-      "Cumhuriyet Meclisi",
-      "Dışişleri Bakanlığı",
-      "Bayrak Radyo Televizyon Kurumu"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-173",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Hazırlık testinin bu maddesinde 'KKTC'nin başkenti' için hangi cevap doğru olur?",
-    "options": [
-      "Girne",
-      "Lefkoşa",
-      "Güzelyurt",
-      "Gazimağusa"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-174",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Sınav öncesi tekrar için 'KKTC'nin ilan tarihi' için hangi cevap doğru olur?",
-    "options": [
-      "1 Ağustos 1976",
-      "29 Ekim 1923",
-      "15 Kasım 1983",
-      "20 Temmuz 1974"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-175",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Kısa bilgi kontrolünde 'KKTC'de yasama organı' için hangi cevap doğru olur?",
-    "options": [
-      "Başbakanlık",
-      "Cumhuriyet Meclisi",
-      "BRT",
-      "TAK"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-176",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Temel kavram sorusunda 'KKTC ilçesi olmayan yer' için hangi cevap doğru olur?",
-    "options": [
-      "Gazimağusa",
-      "Girne",
-      "Larnaka",
-      "Lefkoşa"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-177",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Öğrenme kartı testinde 'KKTC ilçeleri içinde yer alan ilçe' için hangi cevap doğru olur?",
-    "options": [
-      "Lefke",
-      "Limasol",
-      "Larnaka",
-      "Baf"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-178",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "StarQuiz denemesinde '20 Temmuz'un karşılığı' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Zafer Bayramı",
-      "Yılbaşı",
-      "Barış ve Özgürlük Bayramı",
-      "Cumhuriyet Bayramı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-179",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Kamu sınavı hazırlığında '1 Ağustos'un karşılığı' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Zafer Bayramı",
-      "Toplumsal Direniş Bayramı",
-      "Yılbaşı",
-      "Türkiye Cumhuriyet Bayramı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-180",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "KKTC genel kültür çalışmasında 'Hellim'in ait olduğu alan' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Japon mutfağı",
-      "Kıbrıs kültürü ve mutfağı",
-      "İskandinav mutfağı",
-      "Meksika mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-181",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Hızlı tekrar bölümünde 'Şeftali kebabının ait olduğu mutfak' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Kıbrıs mutfağı",
-      "Çin mutfağı",
-      "İtalyan mutfağı",
-      "Fransız mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-182",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Seviye testinde 'Kıbrıs Barış Harekâtı tarihi' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "15 Kasım 1983",
-      "20 Temmuz 1974",
-      "29 Ekim 1923",
-      "1 Ocak 2000"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-183",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Bilgi pekiştirme sorusunda 'BRT açılımı' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Cumhuriyet Meclisi",
-      "Türk Ajansı Kıbrıs",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Yüksek Seçim Kurulu"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-184",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Adayın bilmesi gereken temel bilgide 'TAK açılımı' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Cumhuriyet Meclisi",
-      "Türk Ajansı Kıbrıs",
-      "Bayrak Radyo Televizyon Kurumu",
+      "Bayındırlık ve Ulaştırma Bakanlığı",
+      "İçişleri Bakanlığı",
+      "Ekonomi ve Enerji Bakanlığı",
+      "Milli Eğitim Bakanlığı",
       "Dışişleri Bakanlığı"
     ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
+    "answer": "Bayındırlık ve Ulaştırma Bakanlığı",
+    "answerLetter": "A",
+    "explanation": "Cevap anahtarına göre Meteoroloji Dairesi Bayındırlık ve Ulaştırma Bakanlığı’na bağlıdır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-185",
-    "category": "Temel Bilgiler",
+    "id": "sqv7-159",
+    "category": "Toprak",
+    "topic": "Mesarya",
     "difficulty": "Kolay",
-    "question": "Genel tekrar kartında 'KKTC'nin başkenti' için hangi seçenek işaretlenmelidir?",
+    "question": "Mesarya Ovası’nda görülen toprak çeşidi hangisidir?",
     "options": [
-      "Lefkoşa",
-      "Gazimağusa",
-      "Girne",
-      "Güzelyurt"
+      "Step toprağı",
+      "Kahverengi orman toprağı",
+      "Alüvyal toprak",
+      "Kırmızı renkli Akdeniz toprağı",
+      "Çernezyum topraklar"
     ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
+    "answer": "Step toprağı",
+    "answerLetter": "A",
+    "explanation": "Mesarya’da kestane/step toprakları yaygındır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-186",
-    "category": "Temel Bilgiler",
+    "id": "sqv7-160",
+    "category": "Toprak",
+    "topic": "Ada Geneli",
     "difficulty": "Kolay",
-    "question": "Mini deneme sorusunda 'KKTC'nin ilan tarihi' için hangi seçenek işaretlenmelidir?",
+    "question": "Ada genelinde iklime bağlı olarak en yaygın görülen toprak çeşidi hangisidir?",
     "options": [
-      "29 Ekim 1923",
-      "15 Kasım 1983",
-      "1 Ağustos 1976",
-      "20 Temmuz 1974"
+      "Step toprağı",
+      "Kahverengi orman toprağı",
+      "Alüvyal toprak",
+      "Kırmızı renkli Akdeniz toprağı",
+      "Çernezyum topraklar"
     ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
+    "answer": "Kırmızı renkli Akdeniz toprağı",
+    "answerLetter": "D",
+    "explanation": "Ada genelinde kırmızı renkli Akdeniz toprağı yaygındır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-187",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Konu kontrol sorusunda 'KKTC'de yasama organı' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "BRT",
-      "TAK",
-      "Başbakanlık",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-188",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Kültür tarama testinde 'KKTC ilçesi olmayan yer' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Girne",
-      "Lefkoşa",
-      "Gazimağusa",
-      "Larnaka"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-189",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Pratik bilgi sorusunda 'KKTC ilçeleri içinde yer alan ilçe' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Limasol",
-      "Lefke",
-      "Baf",
-      "Larnaka"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-190",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Hazırlık testinin bu maddesinde '20 Temmuz'un karşılığı' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Cumhuriyet Bayramı",
-      "Yılbaşı",
-      "Zafer Bayramı",
-      "Barış ve Özgürlük Bayramı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-191",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Sınav öncesi tekrar için '1 Ağustos'un karşılığı' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Türkiye Cumhuriyet Bayramı",
-      "Yılbaşı",
-      "Toplumsal Direniş Bayramı",
-      "Zafer Bayramı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-192",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Kısa bilgi kontrolünde 'Hellim'in ait olduğu alan' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Kıbrıs kültürü ve mutfağı",
-      "Meksika mutfağı",
-      "İskandinav mutfağı",
-      "Japon mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-193",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Temel kavram sorusunda 'Şeftali kebabının ait olduğu mutfak' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Kıbrıs mutfağı",
-      "Çin mutfağı",
-      "İtalyan mutfağı",
-      "Fransız mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-194",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Öğrenme kartı testinde 'Kıbrıs Barış Harekâtı tarihi' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "29 Ekim 1923",
-      "1 Ocak 2000",
-      "15 Kasım 1983",
-      "20 Temmuz 1974"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-195",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "StarQuiz denemesinde 'BRT açılımı' için doğru eşleştirme hangisidir?",
-    "options": [
-      "Cumhuriyet Meclisi",
-      "Yüksek Seçim Kurulu",
-      "Türk Ajansı Kıbrıs",
-      "Bayrak Radyo Televizyon Kurumu"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-196",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Kamu sınavı hazırlığında 'TAK açılımı' için doğru eşleştirme hangisidir?",
-    "options": [
-      "Bayrak Radyo Televizyon Kurumu",
-      "Dışişleri Bakanlığı",
-      "Cumhuriyet Meclisi",
-      "Türk Ajansı Kıbrıs"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-197",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "KKTC genel kültür çalışmasında 'KKTC'nin başkenti' için doğru eşleştirme hangisidir?",
-    "options": [
-      "Girne",
-      "Gazimağusa",
-      "Güzelyurt",
-      "Lefkoşa"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-198",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Hızlı tekrar bölümünde 'KKTC'nin ilan tarihi' için doğru eşleştirme hangisidir?",
-    "options": [
-      "20 Temmuz 1974",
-      "1 Ağustos 1976",
-      "29 Ekim 1923",
-      "15 Kasım 1983"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-199",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Seviye testinde 'KKTC'de yasama organı' için doğru eşleştirme hangisidir?",
-    "options": [
-      "BRT",
-      "TAK",
-      "Cumhuriyet Meclisi",
-      "Başbakanlık"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-200",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Bilgi pekiştirme sorusunda 'KKTC ilçesi olmayan yer' için doğru eşleştirme hangisidir?",
-    "options": [
-      "Lefkoşa",
-      "Girne",
-      "Gazimağusa",
-      "Larnaka"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-201",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Adayın bilmesi gereken temel bilgide 'KKTC ilçeleri içinde yer alan ilçe' için doğru eşleştirme hangisidir?",
-    "options": [
-      "Lefke",
-      "Larnaka",
-      "Limasol",
-      "Baf"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-202",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Genel tekrar kartında '20 Temmuz'un karşılığı' için doğru eşleştirme hangisidir?",
-    "options": [
-      "Zafer Bayramı",
-      "Cumhuriyet Bayramı",
-      "Barış ve Özgürlük Bayramı",
-      "Yılbaşı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-203",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Mini deneme sorusunda '1 Ağustos'un karşılığı' için doğru eşleştirme hangisidir?",
-    "options": [
-      "Zafer Bayramı",
-      "Toplumsal Direniş Bayramı",
-      "Türkiye Cumhuriyet Bayramı",
-      "Yılbaşı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-204",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Konu kontrol sorusunda 'Hellim'in ait olduğu alan' için doğru eşleştirme hangisidir?",
-    "options": [
-      "Meksika mutfağı",
-      "Japon mutfağı",
-      "İskandinav mutfağı",
-      "Kıbrıs kültürü ve mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-205",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Kültür tarama testinde 'Şeftali kebabının ait olduğu mutfak' için doğru eşleştirme hangisidir?",
-    "options": [
-      "İtalyan mutfağı",
-      "Kıbrıs mutfağı",
-      "Fransız mutfağı",
-      "Çin mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-206",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Pratik bilgi sorusunda 'Kıbrıs Barış Harekâtı tarihi' için doğru eşleştirme hangisidir?",
-    "options": [
-      "15 Kasım 1983",
-      "1 Ocak 2000",
-      "29 Ekim 1923",
-      "20 Temmuz 1974"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-207",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Hazırlık testinin bu maddesinde 'BRT açılımı' için doğru eşleştirme hangisidir?",
-    "options": [
-      "Yüksek Seçim Kurulu",
-      "Türk Ajansı Kıbrıs",
-      "Cumhuriyet Meclisi",
-      "Bayrak Radyo Televizyon Kurumu"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-208",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Sınav öncesi tekrar için 'TAK açılımı' için doğru eşleştirme hangisidir?",
-    "options": [
-      "Bayrak Radyo Televizyon Kurumu",
-      "Dışişleri Bakanlığı",
-      "Cumhuriyet Meclisi",
-      "Türk Ajansı Kıbrıs"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-209",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Kısa bilgi kontrolünde 'KKTC'nin başkenti' için doğru eşleştirme hangisidir?",
-    "options": [
-      "Lefkoşa",
-      "Girne",
-      "Güzelyurt",
-      "Gazimağusa"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-210",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Temel kavram sorusunda 'KKTC'nin ilan tarihi' için doğru eşleştirme hangisidir?",
-    "options": [
-      "1 Ağustos 1976",
-      "20 Temmuz 1974",
-      "15 Kasım 1983",
-      "29 Ekim 1923"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-211",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Öğrenme kartı testinde 'KKTC'de yasama organı' için doğru eşleştirme hangisidir?",
-    "options": [
-      "TAK",
-      "BRT",
-      "Başbakanlık",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-212",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "StarQuiz denemesinde 'KKTC ilçesi olmayan yer' için hangi bilgi kabul edilir?",
-    "options": [
-      "Girne",
-      "Gazimağusa",
-      "Lefkoşa",
-      "Larnaka"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-213",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Kamu sınavı hazırlığında 'KKTC ilçeleri içinde yer alan ilçe' için hangi bilgi kabul edilir?",
-    "options": [
-      "Larnaka",
-      "Lefke",
-      "Limasol",
-      "Baf"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-214",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "KKTC genel kültür çalışmasında '20 Temmuz'un karşılığı' için hangi bilgi kabul edilir?",
-    "options": [
-      "Yılbaşı",
-      "Zafer Bayramı",
-      "Barış ve Özgürlük Bayramı",
-      "Cumhuriyet Bayramı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-215",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Hızlı tekrar bölümünde '1 Ağustos'un karşılığı' için hangi bilgi kabul edilir?",
-    "options": [
-      "Toplumsal Direniş Bayramı",
-      "Zafer Bayramı",
-      "Yılbaşı",
-      "Türkiye Cumhuriyet Bayramı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-216",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Seviye testinde 'Hellim'in ait olduğu alan' için hangi bilgi kabul edilir?",
-    "options": [
-      "Meksika mutfağı",
-      "Kıbrıs kültürü ve mutfağı",
-      "İskandinav mutfağı",
-      "Japon mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-217",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Bilgi pekiştirme sorusunda 'Şeftali kebabının ait olduğu mutfak' için hangi bilgi kabul edilir?",
-    "options": [
-      "Çin mutfağı",
-      "Fransız mutfağı",
-      "İtalyan mutfağı",
-      "Kıbrıs mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-218",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Adayın bilmesi gereken temel bilgide 'Kıbrıs Barış Harekâtı tarihi' için hangi bilgi kabul edilir?",
-    "options": [
-      "20 Temmuz 1974",
-      "29 Ekim 1923",
-      "1 Ocak 2000",
-      "15 Kasım 1983"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-219",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Genel tekrar kartında 'BRT açılımı' için hangi bilgi kabul edilir?",
-    "options": [
-      "Yüksek Seçim Kurulu",
-      "Türk Ajansı Kıbrıs",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-220",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Mini deneme sorusunda 'TAK açılımı' için hangi bilgi kabul edilir?",
-    "options": [
-      "Dışişleri Bakanlığı",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Türk Ajansı Kıbrıs",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-221",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Konu kontrol sorusunda 'KKTC'nin başkenti' için hangi bilgi kabul edilir?",
-    "options": [
-      "Lefkoşa",
-      "Gazimağusa",
-      "Güzelyurt",
-      "Girne"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-222",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Kültür tarama testinde 'KKTC'nin ilan tarihi' için hangi bilgi kabul edilir?",
-    "options": [
-      "15 Kasım 1983",
-      "1 Ağustos 1976",
-      "20 Temmuz 1974",
-      "29 Ekim 1923"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-223",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Pratik bilgi sorusunda 'KKTC'de yasama organı' için hangi bilgi kabul edilir?",
-    "options": [
-      "Başbakanlık",
-      "TAK",
-      "BRT",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-224",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Hazırlık testinin bu maddesinde 'KKTC ilçesi olmayan yer' için hangi bilgi kabul edilir?",
-    "options": [
-      "Gazimağusa",
-      "Lefkoşa",
-      "Girne",
-      "Larnaka"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-225",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Sınav öncesi tekrar için 'KKTC ilçeleri içinde yer alan ilçe' için hangi bilgi kabul edilir?",
-    "options": [
-      "Larnaka",
-      "Lefke",
-      "Limasol",
-      "Baf"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-226",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Kısa bilgi kontrolünde '20 Temmuz'un karşılığı' için hangi bilgi kabul edilir?",
-    "options": [
-      "Barış ve Özgürlük Bayramı",
-      "Zafer Bayramı",
-      "Yılbaşı",
-      "Cumhuriyet Bayramı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-227",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Temel kavram sorusunda '1 Ağustos'un karşılığı' için hangi bilgi kabul edilir?",
-    "options": [
-      "Yılbaşı",
-      "Zafer Bayramı",
-      "Toplumsal Direniş Bayramı",
-      "Türkiye Cumhuriyet Bayramı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-228",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Öğrenme kartı testinde 'Hellim'in ait olduğu alan' için hangi bilgi kabul edilir?",
-    "options": [
-      "Meksika mutfağı",
-      "İskandinav mutfağı",
-      "Kıbrıs kültürü ve mutfağı",
-      "Japon mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-229",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "StarQuiz denemesinde 'Şeftali kebabının ait olduğu mutfak' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Kıbrıs mutfağı",
-      "Fransız mutfağı",
-      "Çin mutfağı",
-      "İtalyan mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-230",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Kamu sınavı hazırlığında 'Kıbrıs Barış Harekâtı tarihi' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "20 Temmuz 1974",
-      "15 Kasım 1983",
-      "29 Ekim 1923",
-      "1 Ocak 2000"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-231",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "KKTC genel kültür çalışmasında 'BRT açılımı' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Bayrak Radyo Televizyon Kurumu",
-      "Türk Ajansı Kıbrıs",
-      "Cumhuriyet Meclisi",
-      "Yüksek Seçim Kurulu"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-232",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Hızlı tekrar bölümünde 'TAK açılımı' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Türk Ajansı Kıbrıs",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Dışişleri Bakanlığı",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-233",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Seviye testinde 'KKTC'nin başkenti' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Lefkoşa",
-      "Güzelyurt",
-      "Girne",
-      "Gazimağusa"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-234",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Bilgi pekiştirme sorusunda 'KKTC'nin ilan tarihi' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "1 Ağustos 1976",
-      "29 Ekim 1923",
-      "15 Kasım 1983",
-      "20 Temmuz 1974"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-235",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Adayın bilmesi gereken temel bilgide 'KKTC'de yasama organı' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Başbakanlık",
-      "TAK",
-      "Cumhuriyet Meclisi",
-      "BRT"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-236",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Genel tekrar kartında 'KKTC ilçesi olmayan yer' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Gazimağusa",
-      "Girne",
-      "Larnaka",
-      "Lefkoşa"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-237",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Mini deneme sorusunda 'KKTC ilçeleri içinde yer alan ilçe' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Lefke",
-      "Larnaka",
-      "Baf",
-      "Limasol"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-238",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Konu kontrol sorusunda '20 Temmuz'un karşılığı' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Yılbaşı",
-      "Zafer Bayramı",
-      "Cumhuriyet Bayramı",
-      "Barış ve Özgürlük Bayramı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-239",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Kültür tarama testinde '1 Ağustos'un karşılığı' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Zafer Bayramı",
-      "Toplumsal Direniş Bayramı",
-      "Türkiye Cumhuriyet Bayramı",
-      "Yılbaşı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-240",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Pratik bilgi sorusunda 'Hellim'in ait olduğu alan' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "İskandinav mutfağı",
-      "Meksika mutfağı",
-      "Kıbrıs kültürü ve mutfağı",
-      "Japon mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-241",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Hazırlık testinin bu maddesinde 'Şeftali kebabının ait olduğu mutfak' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "İtalyan mutfağı",
-      "Çin mutfağı",
-      "Kıbrıs mutfağı",
-      "Fransız mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-242",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Sınav öncesi tekrar için 'Kıbrıs Barış Harekâtı tarihi' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "15 Kasım 1983",
-      "20 Temmuz 1974",
-      "1 Ocak 2000",
-      "29 Ekim 1923"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-243",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Kısa bilgi kontrolünde 'BRT açılımı' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Türk Ajansı Kıbrıs",
-      "Cumhuriyet Meclisi",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Yüksek Seçim Kurulu"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-244",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Temel kavram sorusunda 'TAK açılımı' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Türk Ajansı Kıbrıs",
-      "Dışişleri Bakanlığı",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-245",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Öğrenme kartı testinde 'KKTC'nin başkenti' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Gazimağusa",
-      "Lefkoşa",
-      "Girne",
-      "Güzelyurt"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-246",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "StarQuiz denemesinde 'KKTC'nin ilan tarihi' için en uygun yanıt hangisidir?",
-    "options": [
-      "1 Ağustos 1976",
-      "29 Ekim 1923",
-      "20 Temmuz 1974",
-      "15 Kasım 1983"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-247",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Kamu sınavı hazırlığında 'KKTC'de yasama organı' için en uygun yanıt hangisidir?",
-    "options": [
-      "BRT",
-      "Başbakanlık",
-      "TAK",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-248",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "KKTC genel kültür çalışmasında 'KKTC ilçesi olmayan yer' için en uygun yanıt hangisidir?",
-    "options": [
-      "Lefkoşa",
-      "Gazimağusa",
-      "Larnaka",
-      "Girne"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-249",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Hızlı tekrar bölümünde 'KKTC ilçeleri içinde yer alan ilçe' için en uygun yanıt hangisidir?",
-    "options": [
-      "Limasol",
-      "Baf",
-      "Lefke",
-      "Larnaka"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-250",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Seviye testinde '20 Temmuz'un karşılığı' için en uygun yanıt hangisidir?",
-    "options": [
-      "Zafer Bayramı",
-      "Yılbaşı",
-      "Cumhuriyet Bayramı",
-      "Barış ve Özgürlük Bayramı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-251",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Bilgi pekiştirme sorusunda '1 Ağustos'un karşılığı' için en uygun yanıt hangisidir?",
-    "options": [
-      "Yılbaşı",
-      "Toplumsal Direniş Bayramı",
-      "Zafer Bayramı",
-      "Türkiye Cumhuriyet Bayramı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-252",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Adayın bilmesi gereken temel bilgide 'Hellim'in ait olduğu alan' için en uygun yanıt hangisidir?",
-    "options": [
-      "Kıbrıs kültürü ve mutfağı",
-      "Japon mutfağı",
-      "İskandinav mutfağı",
-      "Meksika mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-253",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Genel tekrar kartında 'Şeftali kebabının ait olduğu mutfak' için en uygun yanıt hangisidir?",
-    "options": [
-      "Kıbrıs mutfağı",
-      "İtalyan mutfağı",
-      "Çin mutfağı",
-      "Fransız mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-254",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Mini deneme sorusunda 'Kıbrıs Barış Harekâtı tarihi' için en uygun yanıt hangisidir?",
-    "options": [
-      "15 Kasım 1983",
-      "20 Temmuz 1974",
-      "1 Ocak 2000",
-      "29 Ekim 1923"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-255",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Konu kontrol sorusunda 'BRT açılımı' için en uygun yanıt hangisidir?",
-    "options": [
-      "Türk Ajansı Kıbrıs",
-      "Cumhuriyet Meclisi",
-      "Yüksek Seçim Kurulu",
-      "Bayrak Radyo Televizyon Kurumu"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-256",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Kültür tarama testinde 'TAK açılımı' için en uygun yanıt hangisidir?",
-    "options": [
-      "Bayrak Radyo Televizyon Kurumu",
-      "Türk Ajansı Kıbrıs",
-      "Dışişleri Bakanlığı",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-257",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Pratik bilgi sorusunda 'KKTC'nin başkenti' için en uygun yanıt hangisidir?",
-    "options": [
-      "Güzelyurt",
-      "Gazimağusa",
-      "Lefkoşa",
-      "Girne"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-258",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Hazırlık testinin bu maddesinde 'KKTC'nin ilan tarihi' için en uygun yanıt hangisidir?",
-    "options": [
-      "20 Temmuz 1974",
-      "29 Ekim 1923",
-      "1 Ağustos 1976",
-      "15 Kasım 1983"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-259",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Sınav öncesi tekrar için 'KKTC'de yasama organı' için en uygun yanıt hangisidir?",
-    "options": [
-      "Cumhuriyet Meclisi",
-      "BRT",
-      "Başbakanlık",
-      "TAK"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-260",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Kısa bilgi kontrolünde 'KKTC ilçesi olmayan yer' için en uygun yanıt hangisidir?",
-    "options": [
-      "Lefkoşa",
-      "Girne",
-      "Larnaka",
-      "Gazimağusa"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-261",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Temel kavram sorusunda 'KKTC ilçeleri içinde yer alan ilçe' için en uygun yanıt hangisidir?",
-    "options": [
-      "Lefke",
-      "Larnaka",
-      "Baf",
-      "Limasol"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-262",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Öğrenme kartı testinde '20 Temmuz'un karşılığı' için en uygun yanıt hangisidir?",
-    "options": [
-      "Zafer Bayramı",
-      "Yılbaşı",
-      "Barış ve Özgürlük Bayramı",
-      "Cumhuriyet Bayramı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-263",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "StarQuiz denemesinde '1 Ağustos'un karşılığı' için hangi seçenek öne çıkar?",
-    "options": [
-      "Yılbaşı",
-      "Toplumsal Direniş Bayramı",
-      "Türkiye Cumhuriyet Bayramı",
-      "Zafer Bayramı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-264",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Kamu sınavı hazırlığında 'Hellim'in ait olduğu alan' için hangi seçenek öne çıkar?",
-    "options": [
-      "İskandinav mutfağı",
-      "Japon mutfağı",
-      "Kıbrıs kültürü ve mutfağı",
-      "Meksika mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-265",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "KKTC genel kültür çalışmasında 'Şeftali kebabının ait olduğu mutfak' için hangi seçenek öne çıkar?",
-    "options": [
-      "Fransız mutfağı",
-      "Kıbrıs mutfağı",
-      "Çin mutfağı",
-      "İtalyan mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-266",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Hızlı tekrar bölümünde 'Kıbrıs Barış Harekâtı tarihi' için hangi seçenek öne çıkar?",
-    "options": [
-      "15 Kasım 1983",
-      "29 Ekim 1923",
-      "1 Ocak 2000",
-      "20 Temmuz 1974"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-267",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Seviye testinde 'BRT açılımı' için hangi seçenek öne çıkar?",
-    "options": [
-      "Bayrak Radyo Televizyon Kurumu",
-      "Türk Ajansı Kıbrıs",
-      "Yüksek Seçim Kurulu",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-268",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Bilgi pekiştirme sorusunda 'TAK açılımı' için hangi seçenek öne çıkar?",
-    "options": [
-      "Cumhuriyet Meclisi",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Türk Ajansı Kıbrıs",
-      "Dışişleri Bakanlığı"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-269",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Adayın bilmesi gereken temel bilgide 'KKTC'nin başkenti' için hangi seçenek öne çıkar?",
-    "options": [
-      "Lefkoşa",
-      "Girne",
-      "Güzelyurt",
-      "Gazimağusa"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-270",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Genel tekrar kartında 'KKTC'nin ilan tarihi' için hangi seçenek öne çıkar?",
-    "options": [
-      "15 Kasım 1983",
-      "20 Temmuz 1974",
-      "1 Ağustos 1976",
-      "29 Ekim 1923"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-271",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Mini deneme sorusunda 'KKTC'de yasama organı' için hangi seçenek öne çıkar?",
-    "options": [
-      "Başbakanlık",
-      "BRT",
-      "Cumhuriyet Meclisi",
-      "TAK"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-272",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Konu kontrol sorusunda 'KKTC ilçesi olmayan yer' için hangi seçenek öne çıkar?",
-    "options": [
-      "Larnaka",
-      "Lefkoşa",
-      "Gazimağusa",
-      "Girne"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-273",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Kültür tarama testinde 'KKTC ilçeleri içinde yer alan ilçe' için hangi seçenek öne çıkar?",
-    "options": [
-      "Larnaka",
-      "Baf",
-      "Lefke",
-      "Limasol"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-274",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Pratik bilgi sorusunda '20 Temmuz'un karşılığı' için hangi seçenek öne çıkar?",
-    "options": [
-      "Cumhuriyet Bayramı",
-      "Barış ve Özgürlük Bayramı",
-      "Yılbaşı",
-      "Zafer Bayramı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-275",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Hazırlık testinin bu maddesinde '1 Ağustos'un karşılığı' için hangi seçenek öne çıkar?",
-    "options": [
-      "Yılbaşı",
-      "Toplumsal Direniş Bayramı",
-      "Türkiye Cumhuriyet Bayramı",
-      "Zafer Bayramı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-276",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Sınav öncesi tekrar için 'Hellim'in ait olduğu alan' için hangi seçenek öne çıkar?",
-    "options": [
-      "Kıbrıs kültürü ve mutfağı",
-      "Japon mutfağı",
-      "Meksika mutfağı",
-      "İskandinav mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-277",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Kısa bilgi kontrolünde 'Şeftali kebabının ait olduğu mutfak' için hangi seçenek öne çıkar?",
-    "options": [
-      "Çin mutfağı",
-      "İtalyan mutfağı",
-      "Kıbrıs mutfağı",
-      "Fransız mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-278",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Temel kavram sorusunda 'Kıbrıs Barış Harekâtı tarihi' için hangi seçenek öne çıkar?",
-    "options": [
-      "29 Ekim 1923",
-      "15 Kasım 1983",
-      "20 Temmuz 1974",
-      "1 Ocak 2000"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-279",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Öğrenme kartı testinde 'BRT açılımı' için hangi seçenek öne çıkar?",
-    "options": [
-      "Bayrak Radyo Televizyon Kurumu",
-      "Yüksek Seçim Kurulu",
-      "Türk Ajansı Kıbrıs",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-280",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "StarQuiz denemesinde 'TAK açılımı' için doğru karşılık hangisidir?",
-    "options": [
-      "Bayrak Radyo Televizyon Kurumu",
-      "Türk Ajansı Kıbrıs",
-      "Dışişleri Bakanlığı",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-281",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Kamu sınavı hazırlığında 'KKTC'nin başkenti' için doğru karşılık hangisidir?",
-    "options": [
-      "Lefkoşa",
-      "Gazimağusa",
-      "Güzelyurt",
-      "Girne"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-282",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "KKTC genel kültür çalışmasında 'KKTC'nin ilan tarihi' için doğru karşılık hangisidir?",
-    "options": [
-      "15 Kasım 1983",
-      "29 Ekim 1923",
-      "20 Temmuz 1974",
-      "1 Ağustos 1976"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-283",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Hızlı tekrar bölümünde 'KKTC'de yasama organı' için doğru karşılık hangisidir?",
-    "options": [
-      "BRT",
-      "TAK",
-      "Başbakanlık",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-284",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Seviye testinde 'KKTC ilçesi olmayan yer' için doğru karşılık hangisidir?",
-    "options": [
-      "Larnaka",
-      "Girne",
-      "Lefkoşa",
-      "Gazimağusa"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-285",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Bilgi pekiştirme sorusunda 'KKTC ilçeleri içinde yer alan ilçe' için doğru karşılık hangisidir?",
-    "options": [
-      "Limasol",
-      "Baf",
-      "Larnaka",
-      "Lefke"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-286",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Adayın bilmesi gereken temel bilgide '20 Temmuz'un karşılığı' için doğru karşılık hangisidir?",
-    "options": [
-      "Yılbaşı",
-      "Barış ve Özgürlük Bayramı",
-      "Zafer Bayramı",
-      "Cumhuriyet Bayramı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-287",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Genel tekrar kartında '1 Ağustos'un karşılığı' için doğru karşılık hangisidir?",
-    "options": [
-      "Toplumsal Direniş Bayramı",
-      "Türkiye Cumhuriyet Bayramı",
-      "Zafer Bayramı",
-      "Yılbaşı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-288",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Mini deneme sorusunda 'Hellim'in ait olduğu alan' için doğru karşılık hangisidir?",
-    "options": [
-      "Kıbrıs kültürü ve mutfağı",
-      "İskandinav mutfağı",
-      "Japon mutfağı",
-      "Meksika mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-289",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Konu kontrol sorusunda 'Şeftali kebabının ait olduğu mutfak' için doğru karşılık hangisidir?",
-    "options": [
-      "Fransız mutfağı",
-      "İtalyan mutfağı",
-      "Çin mutfağı",
-      "Kıbrıs mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-290",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Kültür tarama testinde 'Kıbrıs Barış Harekâtı tarihi' için doğru karşılık hangisidir?",
-    "options": [
-      "20 Temmuz 1974",
-      "29 Ekim 1923",
-      "1 Ocak 2000",
-      "15 Kasım 1983"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-291",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Pratik bilgi sorusunda 'BRT açılımı' için doğru karşılık hangisidir?",
-    "options": [
-      "Türk Ajansı Kıbrıs",
-      "Cumhuriyet Meclisi",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Yüksek Seçim Kurulu"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-292",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Hazırlık testinin bu maddesinde 'TAK açılımı' için doğru karşılık hangisidir?",
-    "options": [
-      "Dışişleri Bakanlığı",
-      "Türk Ajansı Kıbrıs",
-      "Cumhuriyet Meclisi",
-      "Bayrak Radyo Televizyon Kurumu"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-293",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Sınav öncesi tekrar için 'KKTC'nin başkenti' için doğru karşılık hangisidir?",
-    "options": [
-      "Girne",
-      "Lefkoşa",
-      "Güzelyurt",
-      "Gazimağusa"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-294",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Kısa bilgi kontrolünde 'KKTC'nin ilan tarihi' için doğru karşılık hangisidir?",
-    "options": [
-      "20 Temmuz 1974",
-      "29 Ekim 1923",
-      "15 Kasım 1983",
-      "1 Ağustos 1976"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-295",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Temel kavram sorusunda 'KKTC'de yasama organı' için doğru karşılık hangisidir?",
-    "options": [
-      "BRT",
-      "TAK",
-      "Başbakanlık",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-296",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Öğrenme kartı testinde 'KKTC ilçesi olmayan yer' için doğru karşılık hangisidir?",
-    "options": [
-      "Larnaka",
-      "Gazimağusa",
-      "Girne",
-      "Lefkoşa"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-297",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "StarQuiz denemesinde 'KKTC ilçeleri içinde yer alan ilçe' için hangi ifade seçilmelidir?",
-    "options": [
-      "Lefke",
-      "Baf",
-      "Larnaka",
-      "Limasol"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-298",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Kamu sınavı hazırlığında '20 Temmuz'un karşılığı' için hangi ifade seçilmelidir?",
-    "options": [
-      "Yılbaşı",
-      "Zafer Bayramı",
-      "Barış ve Özgürlük Bayramı",
-      "Cumhuriyet Bayramı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-299",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "KKTC genel kültür çalışmasında '1 Ağustos'un karşılığı' için hangi ifade seçilmelidir?",
-    "options": [
-      "Zafer Bayramı",
-      "Toplumsal Direniş Bayramı",
-      "Türkiye Cumhuriyet Bayramı",
-      "Yılbaşı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-300",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Hızlı tekrar bölümünde 'Hellim'in ait olduğu alan' için hangi ifade seçilmelidir?",
-    "options": [
-      "Japon mutfağı",
-      "Meksika mutfağı",
-      "Kıbrıs kültürü ve mutfağı",
-      "İskandinav mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-301",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Seviye testinde 'Şeftali kebabının ait olduğu mutfak' için hangi ifade seçilmelidir?",
-    "options": [
-      "Kıbrıs mutfağı",
-      "Fransız mutfağı",
-      "İtalyan mutfağı",
-      "Çin mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-302",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Bilgi pekiştirme sorusunda 'Kıbrıs Barış Harekâtı tarihi' için hangi ifade seçilmelidir?",
-    "options": [
-      "1 Ocak 2000",
-      "29 Ekim 1923",
-      "15 Kasım 1983",
-      "20 Temmuz 1974"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-303",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Adayın bilmesi gereken temel bilgide 'BRT açılımı' için hangi ifade seçilmelidir?",
-    "options": [
-      "Cumhuriyet Meclisi",
-      "Türk Ajansı Kıbrıs",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Yüksek Seçim Kurulu"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-304",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Genel tekrar kartında 'TAK açılımı' için hangi ifade seçilmelidir?",
-    "options": [
-      "Türk Ajansı Kıbrıs",
-      "Cumhuriyet Meclisi",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Dışişleri Bakanlığı"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-305",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Mini deneme sorusunda 'KKTC'nin başkenti' için hangi ifade seçilmelidir?",
-    "options": [
-      "Lefkoşa",
-      "Gazimağusa",
-      "Girne",
-      "Güzelyurt"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-306",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Konu kontrol sorusunda 'KKTC'nin ilan tarihi' için hangi ifade seçilmelidir?",
-    "options": [
-      "1 Ağustos 1976",
-      "15 Kasım 1983",
-      "29 Ekim 1923",
-      "20 Temmuz 1974"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-307",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Kültür tarama testinde 'KKTC'de yasama organı' için hangi ifade seçilmelidir?",
-    "options": [
-      "BRT",
-      "Başbakanlık",
-      "Cumhuriyet Meclisi",
-      "TAK"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-308",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Pratik bilgi sorusunda 'KKTC ilçesi olmayan yer' için hangi ifade seçilmelidir?",
-    "options": [
-      "Girne",
-      "Gazimağusa",
-      "Lefkoşa",
-      "Larnaka"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-309",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Hazırlık testinin bu maddesinde 'KKTC ilçeleri içinde yer alan ilçe' için hangi ifade seçilmelidir?",
-    "options": [
-      "Limasol",
-      "Lefke",
-      "Larnaka",
-      "Baf"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-310",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Sınav öncesi tekrar için '20 Temmuz'un karşılığı' için hangi ifade seçilmelidir?",
-    "options": [
-      "Zafer Bayramı",
-      "Yılbaşı",
-      "Barış ve Özgürlük Bayramı",
-      "Cumhuriyet Bayramı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-311",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Kısa bilgi kontrolünde '1 Ağustos'un karşılığı' için hangi ifade seçilmelidir?",
-    "options": [
-      "Türkiye Cumhuriyet Bayramı",
-      "Yılbaşı",
-      "Toplumsal Direniş Bayramı",
-      "Zafer Bayramı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-312",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Temel kavram sorusunda 'Hellim'in ait olduğu alan' için hangi ifade seçilmelidir?",
-    "options": [
-      "Meksika mutfağı",
-      "İskandinav mutfağı",
-      "Japon mutfağı",
-      "Kıbrıs kültürü ve mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-313",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Öğrenme kartı testinde 'Şeftali kebabının ait olduğu mutfak' için hangi ifade seçilmelidir?",
-    "options": [
-      "İtalyan mutfağı",
-      "Çin mutfağı",
-      "Fransız mutfağı",
-      "Kıbrıs mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-314",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "StarQuiz denemesinde 'Kıbrıs Barış Harekâtı tarihi' için hangi cevap doğru olur?",
-    "options": [
-      "15 Kasım 1983",
-      "20 Temmuz 1974",
-      "29 Ekim 1923",
-      "1 Ocak 2000"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-315",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Kamu sınavı hazırlığında 'BRT açılımı' için hangi cevap doğru olur?",
-    "options": [
-      "Yüksek Seçim Kurulu",
-      "Cumhuriyet Meclisi",
-      "Türk Ajansı Kıbrıs",
-      "Bayrak Radyo Televizyon Kurumu"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-316",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "KKTC genel kültür çalışmasında 'TAK açılımı' için hangi cevap doğru olur?",
-    "options": [
-      "Türk Ajansı Kıbrıs",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Dışişleri Bakanlığı",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-317",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Hızlı tekrar bölümünde 'KKTC'nin başkenti' için hangi cevap doğru olur?",
-    "options": [
-      "Güzelyurt",
-      "Gazimağusa",
-      "Girne",
-      "Lefkoşa"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-318",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Seviye testinde 'KKTC'nin ilan tarihi' için hangi cevap doğru olur?",
-    "options": [
-      "15 Kasım 1983",
-      "20 Temmuz 1974",
-      "1 Ağustos 1976",
-      "29 Ekim 1923"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-319",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Bilgi pekiştirme sorusunda 'KKTC'de yasama organı' için hangi cevap doğru olur?",
-    "options": [
-      "Başbakanlık",
-      "TAK",
-      "BRT",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-320",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Adayın bilmesi gereken temel bilgide 'KKTC ilçesi olmayan yer' için hangi cevap doğru olur?",
-    "options": [
-      "Larnaka",
-      "Girne",
-      "Gazimağusa",
-      "Lefkoşa"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-321",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Genel tekrar kartında 'KKTC ilçeleri içinde yer alan ilçe' için hangi cevap doğru olur?",
-    "options": [
-      "Baf",
-      "Lefke",
-      "Limasol",
-      "Larnaka"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-322",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Mini deneme sorusunda '20 Temmuz'un karşılığı' için hangi cevap doğru olur?",
-    "options": [
-      "Zafer Bayramı",
-      "Yılbaşı",
-      "Barış ve Özgürlük Bayramı",
-      "Cumhuriyet Bayramı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-323",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Konu kontrol sorusunda '1 Ağustos'un karşılığı' için hangi cevap doğru olur?",
-    "options": [
-      "Zafer Bayramı",
-      "Yılbaşı",
-      "Toplumsal Direniş Bayramı",
-      "Türkiye Cumhuriyet Bayramı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-324",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Kültür tarama testinde 'Hellim'in ait olduğu alan' için hangi cevap doğru olur?",
-    "options": [
-      "Japon mutfağı",
-      "İskandinav mutfağı",
-      "Meksika mutfağı",
-      "Kıbrıs kültürü ve mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-325",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Pratik bilgi sorusunda 'Şeftali kebabının ait olduğu mutfak' için hangi cevap doğru olur?",
-    "options": [
-      "Çin mutfağı",
-      "Fransız mutfağı",
-      "İtalyan mutfağı",
-      "Kıbrıs mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-326",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Hazırlık testinin bu maddesinde 'Kıbrıs Barış Harekâtı tarihi' için hangi cevap doğru olur?",
-    "options": [
-      "1 Ocak 2000",
-      "20 Temmuz 1974",
-      "15 Kasım 1983",
-      "29 Ekim 1923"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-327",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Sınav öncesi tekrar için 'BRT açılımı' için hangi cevap doğru olur?",
-    "options": [
-      "Bayrak Radyo Televizyon Kurumu",
-      "Yüksek Seçim Kurulu",
-      "Cumhuriyet Meclisi",
-      "Türk Ajansı Kıbrıs"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-328",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Kısa bilgi kontrolünde 'TAK açılımı' için hangi cevap doğru olur?",
-    "options": [
-      "Dışişleri Bakanlığı",
-      "Cumhuriyet Meclisi",
-      "Türk Ajansı Kıbrıs",
-      "Bayrak Radyo Televizyon Kurumu"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-329",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Temel kavram sorusunda 'KKTC'nin başkenti' için hangi cevap doğru olur?",
-    "options": [
-      "Güzelyurt",
-      "Girne",
-      "Gazimağusa",
-      "Lefkoşa"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-330",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Öğrenme kartı testinde 'KKTC'nin ilan tarihi' için hangi cevap doğru olur?",
-    "options": [
-      "29 Ekim 1923",
-      "15 Kasım 1983",
-      "1 Ağustos 1976",
-      "20 Temmuz 1974"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-331",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "StarQuiz denemesinde 'KKTC'de yasama organı' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Cumhuriyet Meclisi",
-      "BRT",
-      "TAK",
-      "Başbakanlık"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-332",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Kamu sınavı hazırlığında 'KKTC ilçesi olmayan yer' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Gazimağusa",
-      "Larnaka",
-      "Lefkoşa",
-      "Girne"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-333",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "KKTC genel kültür çalışmasında 'KKTC ilçeleri içinde yer alan ilçe' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Limasol",
-      "Lefke",
-      "Larnaka",
-      "Baf"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-334",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Hızlı tekrar bölümünde '20 Temmuz'un karşılığı' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Cumhuriyet Bayramı",
-      "Yılbaşı",
-      "Zafer Bayramı",
-      "Barış ve Özgürlük Bayramı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-335",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Seviye testinde '1 Ağustos'un karşılığı' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Toplumsal Direniş Bayramı",
-      "Yılbaşı",
-      "Türkiye Cumhuriyet Bayramı",
-      "Zafer Bayramı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-336",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Bilgi pekiştirme sorusunda 'Hellim'in ait olduğu alan' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Kıbrıs kültürü ve mutfağı",
-      "Meksika mutfağı",
-      "İskandinav mutfağı",
-      "Japon mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-337",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Adayın bilmesi gereken temel bilgide 'Şeftali kebabının ait olduğu mutfak' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Kıbrıs mutfağı",
-      "Fransız mutfağı",
-      "Çin mutfağı",
-      "İtalyan mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-338",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Genel tekrar kartında 'Kıbrıs Barış Harekâtı tarihi' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "29 Ekim 1923",
-      "15 Kasım 1983",
-      "1 Ocak 2000",
-      "20 Temmuz 1974"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-339",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Mini deneme sorusunda 'BRT açılımı' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Bayrak Radyo Televizyon Kurumu",
-      "Türk Ajansı Kıbrıs",
-      "Yüksek Seçim Kurulu",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-340",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Konu kontrol sorusunda 'TAK açılımı' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Dışişleri Bakanlığı",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Türk Ajansı Kıbrıs",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-341",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Kültür tarama testinde 'KKTC'nin başkenti' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Girne",
-      "Güzelyurt",
-      "Lefkoşa",
-      "Gazimağusa"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-342",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Pratik bilgi sorusunda 'KKTC'nin ilan tarihi' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "29 Ekim 1923",
-      "15 Kasım 1983",
-      "20 Temmuz 1974",
-      "1 Ağustos 1976"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-343",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Hazırlık testinin bu maddesinde 'KKTC'de yasama organı' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Başbakanlık",
-      "TAK",
-      "Cumhuriyet Meclisi",
-      "BRT"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-344",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Sınav öncesi tekrar için 'KKTC ilçesi olmayan yer' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Lefkoşa",
-      "Larnaka",
-      "Girne",
-      "Gazimağusa"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-345",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Kısa bilgi kontrolünde 'KKTC ilçeleri içinde yer alan ilçe' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Larnaka",
-      "Baf",
-      "Limasol",
-      "Lefke"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-346",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Temel kavram sorusunda '20 Temmuz'un karşılığı' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Cumhuriyet Bayramı",
-      "Barış ve Özgürlük Bayramı",
-      "Zafer Bayramı",
-      "Yılbaşı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-347",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Öğrenme kartı testinde '1 Ağustos'un karşılığı' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Yılbaşı",
-      "Toplumsal Direniş Bayramı",
-      "Türkiye Cumhuriyet Bayramı",
-      "Zafer Bayramı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-348",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "StarQuiz denemesinde 'Hellim'in ait olduğu alan' için doğru eşleştirme hangisidir?",
-    "options": [
-      "Meksika mutfağı",
-      "Japon mutfağı",
-      "İskandinav mutfağı",
-      "Kıbrıs kültürü ve mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-349",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Kamu sınavı hazırlığında 'Şeftali kebabının ait olduğu mutfak' için doğru eşleştirme hangisidir?",
-    "options": [
-      "İtalyan mutfağı",
-      "Fransız mutfağı",
-      "Kıbrıs mutfağı",
-      "Çin mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-350",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "KKTC genel kültür çalışmasında 'Kıbrıs Barış Harekâtı tarihi' için doğru eşleştirme hangisidir?",
-    "options": [
-      "20 Temmuz 1974",
-      "1 Ocak 2000",
-      "29 Ekim 1923",
-      "15 Kasım 1983"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-351",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Hızlı tekrar bölümünde 'BRT açılımı' için doğru eşleştirme hangisidir?",
-    "options": [
-      "Yüksek Seçim Kurulu",
-      "Türk Ajansı Kıbrıs",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-352",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Seviye testinde 'TAK açılımı' için doğru eşleştirme hangisidir?",
-    "options": [
-      "Türk Ajansı Kıbrıs",
-      "Cumhuriyet Meclisi",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Dışişleri Bakanlığı"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-353",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Bilgi pekiştirme sorusunda 'KKTC'nin başkenti' için doğru eşleştirme hangisidir?",
-    "options": [
-      "Gazimağusa",
-      "Güzelyurt",
-      "Girne",
-      "Lefkoşa"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-354",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Adayın bilmesi gereken temel bilgide 'KKTC'nin ilan tarihi' için doğru eşleştirme hangisidir?",
-    "options": [
-      "29 Ekim 1923",
-      "1 Ağustos 1976",
-      "15 Kasım 1983",
-      "20 Temmuz 1974"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-355",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Genel tekrar kartında 'KKTC'de yasama organı' için doğru eşleştirme hangisidir?",
-    "options": [
-      "TAK",
-      "Başbakanlık",
-      "Cumhuriyet Meclisi",
-      "BRT"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-356",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Mini deneme sorusunda 'KKTC ilçesi olmayan yer' için doğru eşleştirme hangisidir?",
-    "options": [
-      "Gazimağusa",
-      "Girne",
-      "Lefkoşa",
-      "Larnaka"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-357",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Konu kontrol sorusunda 'KKTC ilçeleri içinde yer alan ilçe' için doğru eşleştirme hangisidir?",
-    "options": [
-      "Lefke",
-      "Limasol",
-      "Larnaka",
-      "Baf"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-358",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Kültür tarama testinde '20 Temmuz'un karşılığı' için doğru eşleştirme hangisidir?",
-    "options": [
-      "Barış ve Özgürlük Bayramı",
-      "Zafer Bayramı",
-      "Yılbaşı",
-      "Cumhuriyet Bayramı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-359",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Pratik bilgi sorusunda '1 Ağustos'un karşılığı' için doğru eşleştirme hangisidir?",
-    "options": [
-      "Yılbaşı",
-      "Türkiye Cumhuriyet Bayramı",
-      "Zafer Bayramı",
-      "Toplumsal Direniş Bayramı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-360",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Hazırlık testinin bu maddesinde 'Hellim'in ait olduğu alan' için doğru eşleştirme hangisidir?",
-    "options": [
-      "Japon mutfağı",
-      "İskandinav mutfağı",
-      "Kıbrıs kültürü ve mutfağı",
-      "Meksika mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-361",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Sınav öncesi tekrar için 'Şeftali kebabının ait olduğu mutfak' için doğru eşleştirme hangisidir?",
-    "options": [
-      "Çin mutfağı",
-      "Kıbrıs mutfağı",
-      "Fransız mutfağı",
-      "İtalyan mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-362",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Kısa bilgi kontrolünde 'Kıbrıs Barış Harekâtı tarihi' için doğru eşleştirme hangisidir?",
-    "options": [
-      "20 Temmuz 1974",
-      "15 Kasım 1983",
-      "29 Ekim 1923",
-      "1 Ocak 2000"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-363",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Temel kavram sorusunda 'BRT açılımı' için doğru eşleştirme hangisidir?",
-    "options": [
-      "Türk Ajansı Kıbrıs",
-      "Cumhuriyet Meclisi",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Yüksek Seçim Kurulu"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-364",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Öğrenme kartı testinde 'TAK açılımı' için doğru eşleştirme hangisidir?",
-    "options": [
-      "Cumhuriyet Meclisi",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Dışişleri Bakanlığı",
-      "Türk Ajansı Kıbrıs"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-365",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "StarQuiz denemesinde 'KKTC'nin başkenti' için hangi bilgi kabul edilir?",
-    "options": [
-      "Girne",
-      "Gazimağusa",
-      "Lefkoşa",
-      "Güzelyurt"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-366",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Kamu sınavı hazırlığında 'KKTC'nin ilan tarihi' için hangi bilgi kabul edilir?",
-    "options": [
-      "1 Ağustos 1976",
-      "15 Kasım 1983",
-      "29 Ekim 1923",
-      "20 Temmuz 1974"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-367",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "KKTC genel kültür çalışmasında 'KKTC'de yasama organı' için hangi bilgi kabul edilir?",
-    "options": [
-      "Cumhuriyet Meclisi",
-      "BRT",
-      "Başbakanlık",
-      "TAK"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-368",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Hızlı tekrar bölümünde 'KKTC ilçesi olmayan yer' için hangi bilgi kabul edilir?",
-    "options": [
-      "Lefkoşa",
-      "Larnaka",
-      "Gazimağusa",
-      "Girne"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-369",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Seviye testinde 'KKTC ilçeleri içinde yer alan ilçe' için hangi bilgi kabul edilir?",
-    "options": [
-      "Larnaka",
-      "Lefke",
-      "Limasol",
-      "Baf"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-370",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Bilgi pekiştirme sorusunda '20 Temmuz'un karşılığı' için hangi bilgi kabul edilir?",
-    "options": [
-      "Barış ve Özgürlük Bayramı",
-      "Zafer Bayramı",
-      "Yılbaşı",
-      "Cumhuriyet Bayramı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-371",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Adayın bilmesi gereken temel bilgide '1 Ağustos'un karşılığı' için hangi bilgi kabul edilir?",
-    "options": [
-      "Türkiye Cumhuriyet Bayramı",
-      "Yılbaşı",
-      "Toplumsal Direniş Bayramı",
-      "Zafer Bayramı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-372",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Genel tekrar kartında 'Hellim'in ait olduğu alan' için hangi bilgi kabul edilir?",
-    "options": [
-      "Kıbrıs kültürü ve mutfağı",
-      "Japon mutfağı",
-      "Meksika mutfağı",
-      "İskandinav mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-373",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Mini deneme sorusunda 'Şeftali kebabının ait olduğu mutfak' için hangi bilgi kabul edilir?",
-    "options": [
-      "Fransız mutfağı",
-      "Kıbrıs mutfağı",
-      "Çin mutfağı",
-      "İtalyan mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-374",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Konu kontrol sorusunda 'Kıbrıs Barış Harekâtı tarihi' için hangi bilgi kabul edilir?",
-    "options": [
-      "20 Temmuz 1974",
-      "15 Kasım 1983",
-      "1 Ocak 2000",
-      "29 Ekim 1923"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-375",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Kültür tarama testinde 'BRT açılımı' için hangi bilgi kabul edilir?",
-    "options": [
-      "Yüksek Seçim Kurulu",
-      "Cumhuriyet Meclisi",
-      "Türk Ajansı Kıbrıs",
-      "Bayrak Radyo Televizyon Kurumu"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-376",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Pratik bilgi sorusunda 'TAK açılımı' için hangi bilgi kabul edilir?",
-    "options": [
-      "Cumhuriyet Meclisi",
-      "Dışişleri Bakanlığı",
-      "Türk Ajansı Kıbrıs",
-      "Bayrak Radyo Televizyon Kurumu"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-377",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Hazırlık testinin bu maddesinde 'KKTC'nin başkenti' için hangi bilgi kabul edilir?",
-    "options": [
-      "Girne",
-      "Güzelyurt",
-      "Gazimağusa",
-      "Lefkoşa"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-378",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Sınav öncesi tekrar için 'KKTC'nin ilan tarihi' için hangi bilgi kabul edilir?",
-    "options": [
-      "29 Ekim 1923",
-      "20 Temmuz 1974",
-      "1 Ağustos 1976",
-      "15 Kasım 1983"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-379",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Kısa bilgi kontrolünde 'KKTC'de yasama organı' için hangi bilgi kabul edilir?",
-    "options": [
-      "TAK",
-      "BRT",
-      "Cumhuriyet Meclisi",
-      "Başbakanlık"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-380",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Temel kavram sorusunda 'KKTC ilçesi olmayan yer' için hangi bilgi kabul edilir?",
-    "options": [
-      "Lefkoşa",
-      "Girne",
-      "Gazimağusa",
-      "Larnaka"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-381",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Öğrenme kartı testinde 'KKTC ilçeleri içinde yer alan ilçe' için hangi bilgi kabul edilir?",
-    "options": [
-      "Limasol",
-      "Baf",
-      "Lefke",
-      "Larnaka"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-382",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "StarQuiz denemesinde '20 Temmuz'un karşılığı' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Cumhuriyet Bayramı",
-      "Barış ve Özgürlük Bayramı",
-      "Yılbaşı",
-      "Zafer Bayramı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-383",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Kamu sınavı hazırlığında '1 Ağustos'un karşılığı' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Yılbaşı",
-      "Türkiye Cumhuriyet Bayramı",
-      "Toplumsal Direniş Bayramı",
-      "Zafer Bayramı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-384",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "KKTC genel kültür çalışmasında 'Hellim'in ait olduğu alan' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "İskandinav mutfağı",
-      "Meksika mutfağı",
-      "Kıbrıs kültürü ve mutfağı",
-      "Japon mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-385",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Hızlı tekrar bölümünde 'Şeftali kebabının ait olduğu mutfak' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "İtalyan mutfağı",
-      "Fransız mutfağı",
-      "Çin mutfağı",
-      "Kıbrıs mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-386",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Seviye testinde 'Kıbrıs Barış Harekâtı tarihi' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "1 Ocak 2000",
-      "15 Kasım 1983",
-      "20 Temmuz 1974",
-      "29 Ekim 1923"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-387",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Bilgi pekiştirme sorusunda 'BRT açılımı' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Cumhuriyet Meclisi",
-      "Türk Ajansı Kıbrıs",
-      "Yüksek Seçim Kurulu",
-      "Bayrak Radyo Televizyon Kurumu"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-388",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Adayın bilmesi gereken temel bilgide 'TAK açılımı' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Cumhuriyet Meclisi",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Dışişleri Bakanlığı",
-      "Türk Ajansı Kıbrıs"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-389",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Genel tekrar kartında 'KKTC'nin başkenti' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Girne",
-      "Güzelyurt",
-      "Gazimağusa",
-      "Lefkoşa"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-390",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Mini deneme sorusunda 'KKTC'nin ilan tarihi' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "15 Kasım 1983",
-      "29 Ekim 1923",
-      "20 Temmuz 1974",
-      "1 Ağustos 1976"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-391",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Konu kontrol sorusunda 'KKTC'de yasama organı' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "BRT",
-      "TAK",
-      "Başbakanlık",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-392",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Kültür tarama testinde 'KKTC ilçesi olmayan yer' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Girne",
-      "Lefkoşa",
-      "Gazimağusa",
-      "Larnaka"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-393",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Pratik bilgi sorusunda 'KKTC ilçeleri içinde yer alan ilçe' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Larnaka",
-      "Lefke",
-      "Limasol",
-      "Baf"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-394",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Hazırlık testinin bu maddesinde '20 Temmuz'un karşılığı' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Cumhuriyet Bayramı",
-      "Yılbaşı",
-      "Zafer Bayramı",
-      "Barış ve Özgürlük Bayramı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-395",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Sınav öncesi tekrar için '1 Ağustos'un karşılığı' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Yılbaşı",
-      "Toplumsal Direniş Bayramı",
-      "Zafer Bayramı",
-      "Türkiye Cumhuriyet Bayramı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-396",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Kısa bilgi kontrolünde 'Hellim'in ait olduğu alan' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Kıbrıs kültürü ve mutfağı",
-      "İskandinav mutfağı",
-      "Japon mutfağı",
-      "Meksika mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-397",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Temel kavram sorusunda 'Şeftali kebabının ait olduğu mutfak' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Fransız mutfağı",
-      "İtalyan mutfağı",
-      "Çin mutfağı",
-      "Kıbrıs mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-398",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Öğrenme kartı testinde 'Kıbrıs Barış Harekâtı tarihi' için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "1 Ocak 2000",
-      "29 Ekim 1923",
-      "20 Temmuz 1974",
-      "15 Kasım 1983"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-399",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "StarQuiz denemesinde 'BRT açılımı' için en uygun yanıt hangisidir?",
-    "options": [
-      "Bayrak Radyo Televizyon Kurumu",
-      "Türk Ajansı Kıbrıs",
-      "Yüksek Seçim Kurulu",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-400",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Kamu sınavı hazırlığında 'TAK açılımı' için en uygun yanıt hangisidir?",
-    "options": [
-      "Türk Ajansı Kıbrıs",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Cumhuriyet Meclisi",
-      "Dışişleri Bakanlığı"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-401",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "KKTC genel kültür çalışmasında 'KKTC'nin başkenti' için en uygun yanıt hangisidir?",
-    "options": [
-      "Lefkoşa",
-      "Girne",
-      "Gazimağusa",
-      "Güzelyurt"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-402",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Hızlı tekrar bölümünde 'KKTC'nin ilan tarihi' için en uygun yanıt hangisidir?",
-    "options": [
-      "20 Temmuz 1974",
-      "1 Ağustos 1976",
-      "29 Ekim 1923",
-      "15 Kasım 1983"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-403",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Seviye testinde 'KKTC'de yasama organı' için en uygun yanıt hangisidir?",
-    "options": [
-      "Cumhuriyet Meclisi",
-      "BRT",
-      "TAK",
-      "Başbakanlık"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-404",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Bilgi pekiştirme sorusunda 'KKTC ilçesi olmayan yer' için en uygun yanıt hangisidir?",
-    "options": [
-      "Larnaka",
-      "Gazimağusa",
-      "Girne",
-      "Lefkoşa"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-405",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Adayın bilmesi gereken temel bilgide 'KKTC ilçeleri içinde yer alan ilçe' için en uygun yanıt hangisidir?",
-    "options": [
-      "Lefke",
-      "Limasol",
-      "Larnaka",
-      "Baf"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-406",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Genel tekrar kartında '20 Temmuz'un karşılığı' için en uygun yanıt hangisidir?",
-    "options": [
-      "Cumhuriyet Bayramı",
-      "Yılbaşı",
-      "Zafer Bayramı",
-      "Barış ve Özgürlük Bayramı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-407",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Mini deneme sorusunda '1 Ağustos'un karşılığı' için en uygun yanıt hangisidir?",
-    "options": [
-      "Toplumsal Direniş Bayramı",
-      "Yılbaşı",
-      "Türkiye Cumhuriyet Bayramı",
-      "Zafer Bayramı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-408",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Konu kontrol sorusunda 'Hellim'in ait olduğu alan' için en uygun yanıt hangisidir?",
-    "options": [
-      "Meksika mutfağı",
-      "İskandinav mutfağı",
-      "Kıbrıs kültürü ve mutfağı",
-      "Japon mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-409",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Kültür tarama testinde 'Şeftali kebabının ait olduğu mutfak' için en uygun yanıt hangisidir?",
-    "options": [
-      "İtalyan mutfağı",
-      "Fransız mutfağı",
-      "Çin mutfağı",
-      "Kıbrıs mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-410",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Pratik bilgi sorusunda 'Kıbrıs Barış Harekâtı tarihi' için en uygun yanıt hangisidir?",
-    "options": [
-      "29 Ekim 1923",
-      "1 Ocak 2000",
-      "15 Kasım 1983",
-      "20 Temmuz 1974"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-411",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Hazırlık testinin bu maddesinde 'BRT açılımı' için en uygun yanıt hangisidir?",
-    "options": [
-      "Türk Ajansı Kıbrıs",
-      "Yüksek Seçim Kurulu",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-412",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Sınav öncesi tekrar için 'TAK açılımı' için en uygun yanıt hangisidir?",
-    "options": [
-      "Bayrak Radyo Televizyon Kurumu",
-      "Türk Ajansı Kıbrıs",
-      "Dışişleri Bakanlığı",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-413",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Kısa bilgi kontrolünde 'KKTC'nin başkenti' için en uygun yanıt hangisidir?",
-    "options": [
-      "Lefkoşa",
-      "Gazimağusa",
-      "Girne",
-      "Güzelyurt"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-414",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Temel kavram sorusunda 'KKTC'nin ilan tarihi' için en uygun yanıt hangisidir?",
-    "options": [
-      "1 Ağustos 1976",
-      "29 Ekim 1923",
-      "20 Temmuz 1974",
-      "15 Kasım 1983"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-415",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Öğrenme kartı testinde 'KKTC'de yasama organı' için en uygun yanıt hangisidir?",
-    "options": [
-      "Başbakanlık",
-      "TAK",
-      "Cumhuriyet Meclisi",
-      "BRT"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-416",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "StarQuiz denemesinde 'KKTC ilçesi olmayan yer' için hangi seçenek öne çıkar?",
-    "options": [
-      "Larnaka",
-      "Girne",
-      "Gazimağusa",
-      "Lefkoşa"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-417",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Kamu sınavı hazırlığında 'KKTC ilçeleri içinde yer alan ilçe' için hangi seçenek öne çıkar?",
-    "options": [
-      "Limasol",
-      "Baf",
-      "Lefke",
-      "Larnaka"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-418",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "KKTC genel kültür çalışmasında '20 Temmuz'un karşılığı' için hangi seçenek öne çıkar?",
-    "options": [
-      "Cumhuriyet Bayramı",
-      "Zafer Bayramı",
-      "Barış ve Özgürlük Bayramı",
-      "Yılbaşı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-419",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Hızlı tekrar bölümünde '1 Ağustos'un karşılığı' için hangi seçenek öne çıkar?",
-    "options": [
-      "Zafer Bayramı",
-      "Toplumsal Direniş Bayramı",
-      "Türkiye Cumhuriyet Bayramı",
-      "Yılbaşı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-420",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Seviye testinde 'Hellim'in ait olduğu alan' için hangi seçenek öne çıkar?",
-    "options": [
-      "İskandinav mutfağı",
-      "Meksika mutfağı",
-      "Kıbrıs kültürü ve mutfağı",
-      "Japon mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-421",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Bilgi pekiştirme sorusunda 'Şeftali kebabının ait olduğu mutfak' için hangi seçenek öne çıkar?",
-    "options": [
-      "Kıbrıs mutfağı",
-      "İtalyan mutfağı",
-      "Çin mutfağı",
-      "Fransız mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-422",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Adayın bilmesi gereken temel bilgide 'Kıbrıs Barış Harekâtı tarihi' için hangi seçenek öne çıkar?",
-    "options": [
-      "1 Ocak 2000",
-      "20 Temmuz 1974",
-      "15 Kasım 1983",
-      "29 Ekim 1923"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-423",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Genel tekrar kartında 'BRT açılımı' için hangi seçenek öne çıkar?",
-    "options": [
-      "Cumhuriyet Meclisi",
-      "Yüksek Seçim Kurulu",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Türk Ajansı Kıbrıs"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-424",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Mini deneme sorusunda 'TAK açılımı' için hangi seçenek öne çıkar?",
-    "options": [
-      "Bayrak Radyo Televizyon Kurumu",
-      "Cumhuriyet Meclisi",
-      "Dışişleri Bakanlığı",
-      "Türk Ajansı Kıbrıs"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-425",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Konu kontrol sorusunda 'KKTC'nin başkenti' için hangi seçenek öne çıkar?",
-    "options": [
-      "Girne",
-      "Güzelyurt",
-      "Gazimağusa",
-      "Lefkoşa"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-426",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Kültür tarama testinde 'KKTC'nin ilan tarihi' için hangi seçenek öne çıkar?",
-    "options": [
-      "15 Kasım 1983",
-      "29 Ekim 1923",
-      "20 Temmuz 1974",
-      "1 Ağustos 1976"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-427",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Pratik bilgi sorusunda 'KKTC'de yasama organı' için hangi seçenek öne çıkar?",
-    "options": [
-      "TAK",
-      "Başbakanlık",
-      "Cumhuriyet Meclisi",
-      "BRT"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-428",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Hazırlık testinin bu maddesinde 'KKTC ilçesi olmayan yer' için hangi seçenek öne çıkar?",
-    "options": [
-      "Larnaka",
-      "Lefkoşa",
-      "Girne",
-      "Gazimağusa"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-429",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Sınav öncesi tekrar için 'KKTC ilçeleri içinde yer alan ilçe' için hangi seçenek öne çıkar?",
-    "options": [
-      "Larnaka",
-      "Limasol",
-      "Baf",
-      "Lefke"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-430",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Kısa bilgi kontrolünde '20 Temmuz'un karşılığı' için hangi seçenek öne çıkar?",
-    "options": [
-      "Cumhuriyet Bayramı",
-      "Barış ve Özgürlük Bayramı",
-      "Yılbaşı",
-      "Zafer Bayramı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-431",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Temel kavram sorusunda '1 Ağustos'un karşılığı' için hangi seçenek öne çıkar?",
-    "options": [
-      "Türkiye Cumhuriyet Bayramı",
-      "Zafer Bayramı",
-      "Yılbaşı",
-      "Toplumsal Direniş Bayramı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-432",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Öğrenme kartı testinde 'Hellim'in ait olduğu alan' için hangi seçenek öne çıkar?",
-    "options": [
-      "Kıbrıs kültürü ve mutfağı",
-      "Japon mutfağı",
-      "İskandinav mutfağı",
-      "Meksika mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-433",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "StarQuiz denemesinde 'Şeftali kebabının ait olduğu mutfak' için doğru karşılık hangisidir?",
-    "options": [
-      "Fransız mutfağı",
-      "Kıbrıs mutfağı",
-      "İtalyan mutfağı",
-      "Çin mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-434",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Kamu sınavı hazırlığında 'Kıbrıs Barış Harekâtı tarihi' için doğru karşılık hangisidir?",
-    "options": [
-      "1 Ocak 2000",
-      "29 Ekim 1923",
-      "15 Kasım 1983",
-      "20 Temmuz 1974"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-435",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "KKTC genel kültür çalışmasında 'BRT açılımı' için doğru karşılık hangisidir?",
-    "options": [
-      "Yüksek Seçim Kurulu",
-      "Cumhuriyet Meclisi",
-      "Türk Ajansı Kıbrıs",
-      "Bayrak Radyo Televizyon Kurumu"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-436",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Hızlı tekrar bölümünde 'TAK açılımı' için doğru karşılık hangisidir?",
-    "options": [
-      "Bayrak Radyo Televizyon Kurumu",
-      "Dışişleri Bakanlığı",
-      "Türk Ajansı Kıbrıs",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-437",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Seviye testinde 'KKTC'nin başkenti' için doğru karşılık hangisidir?",
-    "options": [
-      "Girne",
-      "Lefkoşa",
-      "Gazimağusa",
-      "Güzelyurt"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-438",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Bilgi pekiştirme sorusunda 'KKTC'nin ilan tarihi' için doğru karşılık hangisidir?",
-    "options": [
-      "29 Ekim 1923",
-      "20 Temmuz 1974",
-      "1 Ağustos 1976",
-      "15 Kasım 1983"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-439",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Adayın bilmesi gereken temel bilgide 'KKTC'de yasama organı' için doğru karşılık hangisidir?",
-    "options": [
-      "BRT",
-      "TAK",
-      "Cumhuriyet Meclisi",
-      "Başbakanlık"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-440",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Genel tekrar kartında 'KKTC ilçesi olmayan yer' için doğru karşılık hangisidir?",
-    "options": [
-      "Girne",
-      "Larnaka",
-      "Lefkoşa",
-      "Gazimağusa"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-441",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Mini deneme sorusunda 'KKTC ilçeleri içinde yer alan ilçe' için doğru karşılık hangisidir?",
-    "options": [
-      "Baf",
-      "Limasol",
-      "Larnaka",
-      "Lefke"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-442",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Konu kontrol sorusunda '20 Temmuz'un karşılığı' için doğru karşılık hangisidir?",
-    "options": [
-      "Yılbaşı",
-      "Cumhuriyet Bayramı",
-      "Barış ve Özgürlük Bayramı",
-      "Zafer Bayramı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-443",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Kültür tarama testinde '1 Ağustos'un karşılığı' için doğru karşılık hangisidir?",
-    "options": [
-      "Toplumsal Direniş Bayramı",
-      "Türkiye Cumhuriyet Bayramı",
-      "Zafer Bayramı",
-      "Yılbaşı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-444",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Pratik bilgi sorusunda 'Hellim'in ait olduğu alan' için doğru karşılık hangisidir?",
-    "options": [
-      "Japon mutfağı",
-      "Meksika mutfağı",
-      "İskandinav mutfağı",
-      "Kıbrıs kültürü ve mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-445",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Hazırlık testinin bu maddesinde 'Şeftali kebabının ait olduğu mutfak' için doğru karşılık hangisidir?",
-    "options": [
-      "Fransız mutfağı",
-      "İtalyan mutfağı",
-      "Kıbrıs mutfağı",
-      "Çin mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-446",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Sınav öncesi tekrar için 'Kıbrıs Barış Harekâtı tarihi' için doğru karşılık hangisidir?",
-    "options": [
-      "1 Ocak 2000",
-      "29 Ekim 1923",
-      "15 Kasım 1983",
-      "20 Temmuz 1974"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-447",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Kısa bilgi kontrolünde 'BRT açılımı' için doğru karşılık hangisidir?",
-    "options": [
-      "Bayrak Radyo Televizyon Kurumu",
-      "Türk Ajansı Kıbrıs",
-      "Cumhuriyet Meclisi",
-      "Yüksek Seçim Kurulu"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-448",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Temel kavram sorusunda 'TAK açılımı' için doğru karşılık hangisidir?",
-    "options": [
-      "Dışişleri Bakanlığı",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Türk Ajansı Kıbrıs",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-449",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Öğrenme kartı testinde 'KKTC'nin başkenti' için doğru karşılık hangisidir?",
-    "options": [
-      "Gazimağusa",
-      "Güzelyurt",
-      "Girne",
-      "Lefkoşa"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-450",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "StarQuiz denemesinde 'KKTC'nin ilan tarihi' için hangi ifade seçilmelidir?",
-    "options": [
-      "15 Kasım 1983",
-      "20 Temmuz 1974",
-      "29 Ekim 1923",
-      "1 Ağustos 1976"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-451",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Kamu sınavı hazırlığında 'KKTC'de yasama organı' için hangi ifade seçilmelidir?",
-    "options": [
-      "BRT",
-      "TAK",
-      "Başbakanlık",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-452",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "KKTC genel kültür çalışmasında 'KKTC ilçesi olmayan yer' için hangi ifade seçilmelidir?",
-    "options": [
-      "Larnaka",
-      "Gazimağusa",
-      "Girne",
-      "Lefkoşa"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-453",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Hızlı tekrar bölümünde 'KKTC ilçeleri içinde yer alan ilçe' için hangi ifade seçilmelidir?",
-    "options": [
-      "Baf",
-      "Limasol",
-      "Larnaka",
-      "Lefke"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-454",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Seviye testinde '20 Temmuz'un karşılığı' için hangi ifade seçilmelidir?",
-    "options": [
-      "Cumhuriyet Bayramı",
-      "Zafer Bayramı",
-      "Barış ve Özgürlük Bayramı",
-      "Yılbaşı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-455",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Bilgi pekiştirme sorusunda '1 Ağustos'un karşılığı' için hangi ifade seçilmelidir?",
-    "options": [
-      "Türkiye Cumhuriyet Bayramı",
-      "Zafer Bayramı",
-      "Toplumsal Direniş Bayramı",
-      "Yılbaşı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-456",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Adayın bilmesi gereken temel bilgide 'Hellim'in ait olduğu alan' için hangi ifade seçilmelidir?",
-    "options": [
-      "Kıbrıs kültürü ve mutfağı",
-      "Japon mutfağı",
-      "Meksika mutfağı",
-      "İskandinav mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-457",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Genel tekrar kartında 'Şeftali kebabının ait olduğu mutfak' için hangi ifade seçilmelidir?",
-    "options": [
-      "Çin mutfağı",
-      "Fransız mutfağı",
-      "Kıbrıs mutfağı",
-      "İtalyan mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-458",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Mini deneme sorusunda 'Kıbrıs Barış Harekâtı tarihi' için hangi ifade seçilmelidir?",
-    "options": [
-      "29 Ekim 1923",
-      "20 Temmuz 1974",
-      "1 Ocak 2000",
-      "15 Kasım 1983"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-459",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Konu kontrol sorusunda 'BRT açılımı' için hangi ifade seçilmelidir?",
-    "options": [
-      "Yüksek Seçim Kurulu",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Cumhuriyet Meclisi",
-      "Türk Ajansı Kıbrıs"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-460",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Kültür tarama testinde 'TAK açılımı' için hangi ifade seçilmelidir?",
-    "options": [
-      "Cumhuriyet Meclisi",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Dışişleri Bakanlığı",
-      "Türk Ajansı Kıbrıs"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-461",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Pratik bilgi sorusunda 'KKTC'nin başkenti' için hangi ifade seçilmelidir?",
-    "options": [
-      "Lefkoşa",
-      "Girne",
-      "Gazimağusa",
-      "Güzelyurt"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-462",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Hazırlık testinin bu maddesinde 'KKTC'nin ilan tarihi' için hangi ifade seçilmelidir?",
-    "options": [
-      "15 Kasım 1983",
-      "20 Temmuz 1974",
-      "1 Ağustos 1976",
-      "29 Ekim 1923"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-463",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Sınav öncesi tekrar için 'KKTC'de yasama organı' için hangi ifade seçilmelidir?",
-    "options": [
-      "BRT",
-      "Cumhuriyet Meclisi",
-      "TAK",
-      "Başbakanlık"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-464",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Kısa bilgi kontrolünde 'KKTC ilçesi olmayan yer' için hangi ifade seçilmelidir?",
-    "options": [
-      "Larnaka",
-      "Gazimağusa",
-      "Lefkoşa",
-      "Girne"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-465",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Temel kavram sorusunda 'KKTC ilçeleri içinde yer alan ilçe' için hangi ifade seçilmelidir?",
-    "options": [
-      "Larnaka",
-      "Lefke",
-      "Baf",
-      "Limasol"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-466",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Öğrenme kartı testinde '20 Temmuz'un karşılığı' için hangi ifade seçilmelidir?",
-    "options": [
-      "Zafer Bayramı",
-      "Barış ve Özgürlük Bayramı",
-      "Cumhuriyet Bayramı",
-      "Yılbaşı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-467",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "StarQuiz denemesinde '1 Ağustos'un karşılığı' için hangi cevap doğru olur?",
-    "options": [
-      "Toplumsal Direniş Bayramı",
-      "Türkiye Cumhuriyet Bayramı",
-      "Yılbaşı",
-      "Zafer Bayramı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-468",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Kamu sınavı hazırlığında 'Hellim'in ait olduğu alan' için hangi cevap doğru olur?",
-    "options": [
-      "Japon mutfağı",
-      "İskandinav mutfağı",
-      "Meksika mutfağı",
-      "Kıbrıs kültürü ve mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-469",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "KKTC genel kültür çalışmasında 'Şeftali kebabının ait olduğu mutfak' için hangi cevap doğru olur?",
-    "options": [
-      "İtalyan mutfağı",
-      "Çin mutfağı",
-      "Kıbrıs mutfağı",
-      "Fransız mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-470",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Hızlı tekrar bölümünde 'Kıbrıs Barış Harekâtı tarihi' için hangi cevap doğru olur?",
-    "options": [
-      "29 Ekim 1923",
-      "20 Temmuz 1974",
-      "15 Kasım 1983",
-      "1 Ocak 2000"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-471",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Seviye testinde 'BRT açılımı' için hangi cevap doğru olur?",
-    "options": [
-      "Türk Ajansı Kıbrıs",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Cumhuriyet Meclisi",
-      "Yüksek Seçim Kurulu"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-472",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Bilgi pekiştirme sorusunda 'TAK açılımı' için hangi cevap doğru olur?",
-    "options": [
-      "Türk Ajansı Kıbrıs",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Dışişleri Bakanlığı",
-      "Cumhuriyet Meclisi"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-473",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Adayın bilmesi gereken temel bilgide 'KKTC'nin başkenti' için hangi cevap doğru olur?",
-    "options": [
-      "Gazimağusa",
-      "Güzelyurt",
-      "Lefkoşa",
-      "Girne"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-474",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Genel tekrar kartında 'KKTC'nin ilan tarihi' için hangi cevap doğru olur?",
-    "options": [
-      "29 Ekim 1923",
-      "1 Ağustos 1976",
-      "20 Temmuz 1974",
-      "15 Kasım 1983"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-475",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Mini deneme sorusunda 'KKTC'de yasama organı' için hangi cevap doğru olur?",
-    "options": [
-      "TAK",
-      "BRT",
-      "Cumhuriyet Meclisi",
-      "Başbakanlık"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-476",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Konu kontrol sorusunda 'KKTC ilçesi olmayan yer' için hangi cevap doğru olur?",
-    "options": [
-      "Gazimağusa",
-      "Larnaka",
-      "Lefkoşa",
-      "Girne"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-477",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Kültür tarama testinde 'KKTC ilçeleri içinde yer alan ilçe' için hangi cevap doğru olur?",
-    "options": [
-      "Lefke",
-      "Baf",
-      "Larnaka",
-      "Limasol"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-478",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Pratik bilgi sorusunda '20 Temmuz'un karşılığı' için hangi cevap doğru olur?",
-    "options": [
-      "Barış ve Özgürlük Bayramı",
-      "Yılbaşı",
-      "Zafer Bayramı",
-      "Cumhuriyet Bayramı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-479",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Hazırlık testinin bu maddesinde '1 Ağustos'un karşılığı' için hangi cevap doğru olur?",
-    "options": [
-      "Türkiye Cumhuriyet Bayramı",
-      "Yılbaşı",
-      "Zafer Bayramı",
-      "Toplumsal Direniş Bayramı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-480",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Sınav öncesi tekrar için 'Hellim'in ait olduğu alan' için hangi cevap doğru olur?",
-    "options": [
-      "Japon mutfağı",
-      "Meksika mutfağı",
-      "İskandinav mutfağı",
-      "Kıbrıs kültürü ve mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-481",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Kısa bilgi kontrolünde 'Şeftali kebabının ait olduğu mutfak' için hangi cevap doğru olur?",
-    "options": [
-      "Kıbrıs mutfağı",
-      "Fransız mutfağı",
-      "İtalyan mutfağı",
-      "Çin mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-482",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Temel kavram sorusunda 'Kıbrıs Barış Harekâtı tarihi' için hangi cevap doğru olur?",
-    "options": [
-      "29 Ekim 1923",
-      "20 Temmuz 1974",
-      "1 Ocak 2000",
-      "15 Kasım 1983"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-483",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Öğrenme kartı testinde 'BRT açılımı' için hangi cevap doğru olur?",
-    "options": [
-      "Bayrak Radyo Televizyon Kurumu",
-      "Cumhuriyet Meclisi",
-      "Yüksek Seçim Kurulu",
-      "Türk Ajansı Kıbrıs"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-484",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "StarQuiz denemesinde 'TAK açılımı' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Bayrak Radyo Televizyon Kurumu",
-      "Cumhuriyet Meclisi",
-      "Türk Ajansı Kıbrıs",
-      "Dışişleri Bakanlığı"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-485",
-    "category": "Temel Bilgiler",
+    "id": "sqv7-161",
+    "category": "Toprak",
+    "topic": "Güzelyurt",
     "difficulty": "Kolay",
-    "question": "Kamu sınavı hazırlığında 'KKTC'nin başkenti' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Lefkoşa",
-      "Girne",
-      "Güzelyurt",
-      "Gazimağusa"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-486",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "KKTC genel kültür çalışmasında 'KKTC'nin ilan tarihi' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "20 Temmuz 1974",
-      "1 Ağustos 1976",
-      "15 Kasım 1983",
-      "29 Ekim 1923"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-487",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Hızlı tekrar bölümünde 'KKTC'de yasama organı' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Cumhuriyet Meclisi",
-      "Başbakanlık",
-      "BRT",
-      "TAK"
-    ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
-  },
-  {
-    "id": "kktc-488",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Seviye testinde 'KKTC ilçesi olmayan yer' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Girne",
-      "Gazimağusa",
-      "Lefkoşa",
-      "Larnaka"
-    ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
-  },
-  {
-    "id": "kktc-489",
-    "category": "Coğrafya",
-    "difficulty": "Kolay",
-    "question": "Bilgi pekiştirme sorusunda 'KKTC ilçeleri içinde yer alan ilçe' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Limasol",
-      "Baf",
-      "Lefke",
-      "Larnaka"
-    ],
-    "answer": "Lefke",
-    "explanation": "Doğru cevap Lefke. Bu soru KKTC ilçeleri içinde yer alan ilçe bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Lefke"
-  },
-  {
-    "id": "kktc-490",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Adayın bilmesi gereken temel bilgide '20 Temmuz'un karşılığı' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Zafer Bayramı",
-      "Yılbaşı",
-      "Barış ve Özgürlük Bayramı",
-      "Cumhuriyet Bayramı"
-    ],
-    "answer": "Barış ve Özgürlük Bayramı",
-    "explanation": "Doğru cevap Barış ve Özgürlük Bayramı. Bu soru 20 Temmuz'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Barış ve Özgürlük Bayramı"
-  },
-  {
-    "id": "kktc-491",
-    "category": "Resmi Günler",
-    "difficulty": "Kolay",
-    "question": "Genel tekrar kartında '1 Ağustos'un karşılığı' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Türkiye Cumhuriyet Bayramı",
-      "Zafer Bayramı",
-      "Toplumsal Direniş Bayramı",
-      "Yılbaşı"
-    ],
-    "answer": "Toplumsal Direniş Bayramı",
-    "explanation": "Doğru cevap Toplumsal Direniş Bayramı. Bu soru 1 Ağustos'un karşılığı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Resmi Günler::Toplumsal Direniş Bayramı"
-  },
-  {
-    "id": "kktc-492",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Mini deneme sorusunda 'Hellim'in ait olduğu alan' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "İskandinav mutfağı",
-      "Meksika mutfağı",
-      "Kıbrıs kültürü ve mutfağı",
-      "Japon mutfağı"
-    ],
-    "answer": "Kıbrıs kültürü ve mutfağı",
-    "explanation": "Doğru cevap Kıbrıs kültürü ve mutfağı. Bu soru Hellim'in ait olduğu alan bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs kültürü ve mutfağı"
-  },
-  {
-    "id": "kktc-493",
-    "category": "Kültür",
-    "difficulty": "Kolay",
-    "question": "Konu kontrol sorusunda 'Şeftali kebabının ait olduğu mutfak' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "İtalyan mutfağı",
-      "Kıbrıs mutfağı",
-      "Çin mutfağı",
-      "Fransız mutfağı"
-    ],
-    "answer": "Kıbrıs mutfağı",
-    "explanation": "Doğru cevap Kıbrıs mutfağı. Bu soru Şeftali kebabının ait olduğu mutfak bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Kültür::Kıbrıs mutfağı"
-  },
-  {
-    "id": "kktc-494",
-    "category": "Tarih",
-    "difficulty": "Orta",
-    "question": "Kültür tarama testinde 'Kıbrıs Barış Harekâtı tarihi' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "15 Kasım 1983",
-      "29 Ekim 1923",
-      "20 Temmuz 1974",
-      "1 Ocak 2000"
-    ],
-    "answer": "20 Temmuz 1974",
-    "explanation": "Doğru cevap 20 Temmuz 1974. Bu soru Kıbrıs Barış Harekâtı tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Tarih::20 Temmuz 1974"
-  },
-  {
-    "id": "kktc-495",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Pratik bilgi sorusunda 'BRT açılımı' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Yüksek Seçim Kurulu",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Cumhuriyet Meclisi",
-      "Türk Ajansı Kıbrıs"
-    ],
-    "answer": "Bayrak Radyo Televizyon Kurumu",
-    "explanation": "Doğru cevap Bayrak Radyo Televizyon Kurumu. Bu soru BRT açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Bayrak Radyo Televizyon Kurumu"
-  },
-  {
-    "id": "kktc-496",
-    "category": "Medya",
-    "difficulty": "Orta",
-    "question": "Hazırlık testinin bu maddesinde 'TAK açılımı' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Cumhuriyet Meclisi",
-      "Bayrak Radyo Televizyon Kurumu",
-      "Türk Ajansı Kıbrıs",
-      "Dışişleri Bakanlığı"
-    ],
-    "answer": "Türk Ajansı Kıbrıs",
-    "explanation": "Doğru cevap Türk Ajansı Kıbrıs. Bu soru TAK açılımı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Medya::Türk Ajansı Kıbrıs"
-  },
-  {
-    "id": "kktc-497",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Sınav öncesi tekrar için 'KKTC'nin başkenti' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "Girne",
-      "Lefkoşa",
-      "Güzelyurt",
-      "Gazimağusa"
-    ],
-    "answer": "Lefkoşa",
-    "explanation": "Doğru cevap Lefkoşa. Bu soru KKTC'nin başkenti bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::Lefkoşa"
-  },
-  {
-    "id": "kktc-498",
-    "category": "Temel Bilgiler",
-    "difficulty": "Kolay",
-    "question": "Kısa bilgi kontrolünde 'KKTC'nin ilan tarihi' için hangi seçenek işaretlenmelidir?",
-    "options": [
-      "15 Kasım 1983",
-      "20 Temmuz 1974",
-      "29 Ekim 1923",
-      "1 Ağustos 1976"
-    ],
-    "answer": "15 Kasım 1983",
-    "explanation": "Doğru cevap 15 Kasım 1983. Bu soru KKTC'nin ilan tarihi bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Temel Bilgiler::15 Kasım 1983"
-  },
-  {
-    "id": "kktc-499",
-    "category": "Devlet Yapısı",
-    "difficulty": "Orta",
-    "question": "Temel kavram sorusunda 'KKTC'de yasama organı' için hangi seçenek işaretlenmelidir?",
+    "question": "Güzelyurt Ovası’nda görülen toprak çeşidi hangisidir?",
     "options": [
-      "Başbakanlık",
-      "BRT",
-      "Cumhuriyet Meclisi",
-      "TAK"
+      "Step toprağı",
+      "Kahverengi orman toprağı",
+      "Alüvyal toprak",
+      "Kırmızı renkli Akdeniz toprağı",
+      "Çernezyum topraklar"
     ],
-    "answer": "Cumhuriyet Meclisi",
-    "explanation": "Doğru cevap Cumhuriyet Meclisi. Bu soru KKTC'de yasama organı bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Devlet Yapısı::Cumhuriyet Meclisi"
+    "answer": "Alüvyal toprak",
+    "answerLetter": "C",
+    "explanation": "Güzelyurt Ovası’nda alüvyal topraklar yaygındır.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   },
   {
-    "id": "kktc-500",
-    "category": "Coğrafya",
+    "id": "sqv7-162",
+    "category": "TMT",
+    "topic": "Kod İsimler",
     "difficulty": "Kolay",
-    "question": "Öğrenme kartı testinde 'KKTC ilçesi olmayan yer' için hangi seçenek işaretlenmelidir?",
+    "question": "TMT’de Denktaş’a verilen kod isim nedir?",
     "options": [
-      "Girne",
-      "Larnaka",
-      "Lefkoşa",
-      "Gazimağusa"
+      "Bereketçi",
+      "Bozkurt",
+      "Ağrı",
+      "Toros",
+      "Bayraktar"
     ],
-    "answer": "Larnaka",
-    "explanation": "Doğru cevap Larnaka. Bu soru KKTC ilçesi olmayan yer bilgisini farklı bir soru kalıbıyla ölçer.",
-    "source": "KKTC genel kültür kaynakları / resmi kurum bilgileri",
-    "topic": "Coğrafya::Larnaka"
+    "answer": "Toros",
+    "answerLetter": "D",
+    "explanation": "Rauf Denktaş’ın TMT kod adı Toros’tur.",
+    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
   }
 ];

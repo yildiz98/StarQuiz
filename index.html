@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
   <meta name="theme-color" content="#08111f"/>
-  <title>StarQuiz V4</title>
+  <title>StarQuiz V7</title>
   <link rel="manifest" href="manifest.json">
   <link rel="icon" href="assets/icon-192.png">
   <link rel="stylesheet" href="style.css">
@@ -15,21 +15,21 @@
       <div class="brand-row">
         <img src="assets/icon-192.png" class="mini-logo" alt="StarQuiz">
         <div>
-          <div class="brand">StarQuiz</div>
-          <div class="subtitle">KKTC Genel Kültür</div>
+          <div class="brand">StarQuiz V7</div>
+          <div class="subtitle">KKTC Kamu Sınavı</div>
         </div>
       </div>
-      <button id="resetBtn" class="ghost-btn" title="Verileri sıfırla">Sıfırla</button>
+      <button id="resetBtn" class="ghost-btn">Sıfırla</button>
     </header>
 
     <main id="app"></main>
 
     <nav class="bottom-nav">
       <button data-page="home" class="nav-btn active">🏠<span>Ana</span></button>
-      <button data-page="quiz" class="nav-btn">▶️<span>Test</span></button>
+      <button data-page="exam" class="nav-btn">🎯<span>Deneme</span></button>
+      <button data-page="topics" class="nav-btn">📚<span>Konu</span></button>
       <button data-page="wrong" class="nav-btn">❌<span>Yanlış</span></button>
-      <button data-page="stats" class="nav-btn">📊<span>İstatistik</span></button>
-      <button data-page="sources" class="nav-btn">📚<span>Kaynak</span></button>
+      <button data-page="stats" class="nav-btn">📊<span>Analiz</span></button>
     </nav>
   </div>
   <script src="questions.js"></script>

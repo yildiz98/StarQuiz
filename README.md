@@ -1,33 +1,22 @@
-# StarQuiz V4
+# StarQuiz V7
 
-KKTC Genel Kültür odaklı, mobil uyumlu PWA test uygulaması.
+KKTC Kamu Sınavı Hazırlık Uygulaması.
 
-## V4 Özellikleri
+## İçerik
 
-- 500 soruluk KKTC genel kültür soru bankası
-- Birebir tekrar eden soru metinleri temizlendi
-- Aynı testte aynı soru ve aynı soru metni tekrar etmez
-- Aynı cevapların test içinde yığılması azaltıldı
-- Sorular ve şıklar her testte karışır
-- Son çözülen sorular bir süre tekrar gösterilmez
-- StarQuiz logosu ana ekrana, sonuç ekranına, manifest dosyasına ve uygulama ikonlarına eklendi
-- 10 / 20 / 30 soruluk seviye sistemi
-- Yanlışlarım ekranı
-- XP, rozet ve istatistikler
-- GitHub Pages ve PWA uyumlu
+- 162 dijitalleştirilmiş sınav tarzı soru
+- Konu bazlı çalışma
+- 10 / 20 / 50 soruluk karışık deneme
+- Yanlışlarım
+- Açıklamalı doğru cevap
+- İstatistik ve konu dağılımı
+- StarQuiz logosu ve PWA ikonları
+- GitHub Pages uyumlu
 
-## Dosya Yapısı
+## GitHub Pages
 
-- index.html
-- style.css
-- app.js
-- questions.js
-- manifest.json
-- service-worker.js
-- assets/logo.png
-- assets/icon-192.png
-- assets/icon-512.png
+Dosyaları StarQuiz reposuna yükle, Settings > Pages bölümünden main / root seç.
 
 ## Not
 
-Bu sürüm profesyonel altyapı ve temizlenmiş başlangıç soru bankasıdır. Gerçek kamu sınavı sürümünde her soru ayrıca resmi kaynak kontrolünden geçirilmelidir.
+Bu sürüm, paylaşılan görsellerdeki soru bankası mantığına göre hazırlanmış dijital başlangıç sürümüdür. Yeni sayfalar geldikçe soru havuzu büyütülebilir.

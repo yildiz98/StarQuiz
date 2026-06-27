@@ -1,11 +1,11 @@
 {
-  "name": "StarQuiz V4",
+  "name": "StarQuiz V7",
   "short_name": "StarQuiz",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#050b14",
   "theme_color": "#08111f",
-  "description": "KKTC Genel Kültür test ve seviye uygulaması",
+  "description": "KKTC Kamu Sınavı Hazırlık Uygulaması",
   "icons": [
     {
       "src": "assets/icon-192.png",
