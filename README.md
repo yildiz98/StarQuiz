@@ -1,10 +1,13 @@
-# StarQuiz V3
+# StarQuiz V3.1
 
 KKTC Genel Kültür odaklı, mobil uyumlu PWA test uygulaması.
 
 ## Özellikler
 
 - 500 soruluk başlangıç soru havuzu
+- Akıllı rastgele seçim: aynı testte tekrar soru yok
+- Son çıkan soruları geçici olarak tekrar göstermeme
+- Her testte şıkları yeniden karıştırma
 - 10 / 20 / 30 soruluk seviye testleri
 - Rastgele soru seçimi
 - Seçenek seçince otomatik sonraki soruya geçme

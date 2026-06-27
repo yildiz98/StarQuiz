@@ -1,4 +1,4 @@
-const CACHE_NAME = "starquiz-v3-cache-1";
+const CACHE_NAME = "starquiz-v31-cache-1";
 const FILES = ["./","./index.html","./style.css","./app.js","./questions.js","./manifest.json","./icon.svg"];
 self.addEventListener("install", e => {
   self.skipWaiting();

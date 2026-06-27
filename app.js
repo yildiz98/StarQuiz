@@ -1,4 +1,4 @@
-const STORE_KEY = "starquiz_v3_state";
+const STORE_KEY = "starquiz_v31_state";
 const app = document.getElementById("app");
 let page = "home";
 let activeQuiz = null;
@@ -11,13 +11,18 @@ const levels = [
 
 const defaultState = {
   xp:0, streak:0, levelUnlocked:1, tests:0, total:0, correct:0, wrong:0,
-  wrongQuestions:[], badges:[], history:[]
+  wrongQuestions:[], badges:[], history:[], recentQuestionIds:[]
 };
 let state = load();
 
 function load(){ try{return {...defaultState, ...(JSON.parse(localStorage.getItem(STORE_KEY))||{})};}catch(e){return {...defaultState};}}
 function save(){ localStorage.setItem(STORE_KEY, JSON.stringify(state)); }
-function shuffle(arr){ return [...arr].sort(()=>Math.random()-0.5); }
+function randInt(n){ return Math.floor(Math.random()*n); }
+function shuffle(arr){
+  const a=[...arr];
+  for(let i=a.length-1;i>0;i--){ const j=randInt(i+1); [a[i],a[j]]=[a[j],a[i]]; }
+  return a;
+}
 function percent(a,b){ return b ? Math.round((a/b)*100) : 0; }
 function setPage(p){ page=p; activeQuiz=null; document.querySelectorAll(".nav-btn").forEach(b=>b.classList.toggle("active",b.dataset.page===p)); render(); }
 
@@ -25,6 +30,47 @@ document.querySelectorAll(".nav-btn").forEach(btn=>btn.addEventListener("click",
 document.getElementById("resetBtn").addEventListener("click",()=>{
   if(confirm("Tüm StarQuiz ilerlemesi sıfırlansın mı?")){ localStorage.removeItem(STORE_KEY); state=load(); setPage("home");}
 });
+
+// Akıllı soru seçimi:
+// 1) Aynı testte aynı soru asla gelmez.
+// 2) Son çözülen sorular mümkün oldukça tekrar gelmez.
+// 3) Aynı kategori/aynı cevap üst üste yığılmaz.
+// 4) Test her açıldığında şıklar yeniden karışır.
+function pickSmartQuestions(count){
+  const recent = new Set(state.recentQuestionIds || []);
+  let pool = QUESTIONS.filter(q => !recent.has(q.id));
+  if(pool.length < count) pool = [...QUESTIONS]; // havuz yetmezse sıfırdan kullan
+
+  pool = shuffle(pool);
+
+  const selected = [];
+  const usedIds = new Set();
+  const topicCount = {};
+  const categoryCount = {};
+
+  function score(q){
+    const topic = q.topic || (q.category+"::"+q.answer);
+    let s = Math.random();
+    s += (topicCount[topic] || 0) * 8;      // aynı cevap/konu tekrarını cezalandır
+    s += (categoryCount[q.category] || 0) * 1.7; // aynı kategori yığılmasını azalt
+    if(recent.has(q.id)) s += 20;
+    return s;
+  }
+
+  while(selected.length < count && pool.length){
+    pool.sort((a,b)=>score(a)-score(b));
+    const q = pool.shift();
+    if(!q || usedIds.has(q.id)) continue;
+    selected.push(q);
+    usedIds.add(q.id);
+    const topic = q.topic || (q.category+"::"+q.answer);
+    topicCount[topic] = (topicCount[topic] || 0) + 1;
+    categoryCount[q.category] = (categoryCount[q.category] || 0) + 1;
+  }
+
+  // Her sorunun şıklarını test başında ayrı karıştır
+  return selected.map(q => ({...q, options: shuffle(q.options)}));
+}
 
 function render(){
   if(page==="home") return renderHome();
@@ -47,6 +93,10 @@ function renderHome(){
         <div class="stat">📚 Soru Bankası <b>${QUESTIONS.length}</b></div>
       </div>
       <button class="primary" onclick="setPage('quiz')">Teste Başla</button>
+    </section>
+    <section class="card">
+      <h2>Karışık Test Sistemi</h2>
+      <p class="muted">V3.1 ile aynı testte tekrar soru gelmez. Son çıkan sorular da mümkün olduğunca sonraki testlerde bekletilir.</p>
     </section>
     <section class="card">
       <h2>Seviyeler</h2>
@@ -72,17 +122,24 @@ function renderQuizStart(){
   app.innerHTML = `
     <section class="card">
       <h2>Test Seç</h2>
-      <p class="muted">Sorular 500 soruluk havuzdan rastgele gelir. Seçeneğe dokununca otomatik diğer soruya geçer.</p>
+      <p class="muted">Sorular akıllı karışır. Aynı test içinde tekrar soru çıkmaz, seçeneklerin sırası da her testte değişir.</p>
       ${levels.map(l=>`
         <button class="${state.levelUnlocked>=l.id?'primary':'secondary'}" ${state.levelUnlocked>=l.id?`onclick="startQuiz(${l.id})"`:"disabled"}>
           ${state.levelUnlocked>=l.id?'▶':'🔒'} ${l.title} — ${l.count} Soru
         </button>`).join("")}
+      <button class="secondary" onclick="clearRecent()">Son çıkanları sıfırla / tam karıştır</button>
     </section>`;
+}
+
+window.clearRecent = function(){
+  state.recentQuestionIds = [];
+  save();
+  alert("Son çıkan soru hafızası sıfırlandı. Yeni test tamamen karışık gelecek.");
 }
 
 function startQuiz(levelId){
   const lvl = levels.find(x=>x.id===levelId);
-  activeQuiz = { level:lvl, index:0, answers:[], questions:shuffle(QUESTIONS).slice(0,lvl.count), locked:false };
+  activeQuiz = { level:lvl, index:0, answers:[], questions:pickSmartQuestions(lvl.count), locked:false };
   renderQuestion();
 }
 
@@ -127,11 +184,18 @@ function finishQuiz(){
   const score = Math.round((correct/total)*100);
   const passed = score >= activeQuiz.level.pass;
   const earned = passed ? activeQuiz.level.xp : Math.round(activeQuiz.level.xp * (score/100) * .55);
+
   state.tests++; state.total += total; state.correct += correct; state.wrong += wrongs.length; state.xp += earned;
   state.wrongQuestions = [...wrongs, ...state.wrongQuestions].slice(0,100);
   state.history.unshift({date:new Date().toLocaleString("tr-TR"), level:activeQuiz.level.id, score, correct, total});
+
+  const solvedIds = activeQuiz.questions.map(q=>q.id);
+  state.recentQuestionIds = [...solvedIds, ...(state.recentQuestionIds||[])];
+  state.recentQuestionIds = [...new Set(state.recentQuestionIds)].slice(0,180); // son 180 soru tekrar etmesin
+
   if(passed && state.levelUnlocked < activeQuiz.level.id + 1 && activeQuiz.level.id < 3) state.levelUnlocked = activeQuiz.level.id + 1;
   save();
+
   app.innerHTML = `
     <section class="card hero">
       <div class="result-stars">${score>=90?"⭐⭐⭐⭐⭐":score>=75?"⭐⭐⭐⭐☆":score>=60?"⭐⭐⭐☆☆":"⭐⭐☆☆☆"}</div>
@@ -144,7 +208,7 @@ function finishQuiz(){
       </div>
       <p class="${passed?'ok':'bad'}">${passed ? "Seviye başarıyla tamamlandı." : "Geçiş puanı yetmedi, tekrar dene."}</p>
       <button class="primary" onclick="setPage('wrong')">Yanlışları İncele</button>
-      <button class="secondary" onclick="setPage('quiz')">Tekrar Çöz</button>
+      <button class="secondary" onclick="setPage('quiz')">Yeni Karışık Test</button>
       <button class="secondary" onclick="setPage('home')">Ana Menü</button>
     </section>`;
   activeQuiz = null;
@@ -182,6 +246,7 @@ function renderStats(){
       </div>
       <p class="muted">Genel başarı oranı: <b>%${rate}</b></p>
       <div class="progress"><div style="width:${rate}%"></div></div>
+      <p class="small muted">Tekrar engelleme hafızası: ${state.recentQuestionIds?.length || 0} soru</p>
     </section>
     <section class="card">
       <h2>Son Testler</h2>
@@ -193,7 +258,7 @@ function renderSources(){
   app.innerHTML = `
     <section class="card">
       <h2>Kaynak Notu</h2>
-      <p class="muted">Bu V3 paketi, 500 soruluk StarQuiz altyapısını ve KKTC genel kültür başlangıç soru havuzunu içerir. Soru bankası JSON formatında genişletilebilir.</p>
+      <p class="muted">Bu V3.1 paketi, akıllı karışık test sistemi ve 500 soruluk genişletilebilir KKTC genel kültür altyapısını içerir.</p>
       <ul class="source-list">
         <li>KKTC Enformasyon Dairesi: Genel Bilgi, Coğrafi Bilgiler, Tarih ve kültür başlıkları.</li>
         <li>KKTC resmi kurum sayfaları: Resmi günler, kurumlar ve devlet yapısı bilgileri.</li>
