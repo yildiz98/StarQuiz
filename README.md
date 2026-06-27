@@ -1,27 +1,20 @@
-# StarQuiz V9 Premium FIXED
+# StarQuiz V9 Premium CLEAN
 
-Bu paket logo görünmeme sorununu düzeltmek için hazırlanmıştır.
+Bu sürüm, ekranda görünen bozuk üst logo/HTML hatasını düzeltmek için temiz index.html ile yeniden hazırlanmıştır.
 
-## İçerik
+## Düzeltilenler
 
-- STARQUIZ logosu `assets/logo.png` içine eklendi
-- Yedek olarak kök dizine `logo.png` da eklendi
+- Bozuk logo satırı tamamen temizlendi
+- Üst menü HTML yapısı sıfırdan yazıldı
+- Ana sayfanın boş kalmasına sebep olabilecek JS hataları düzeltildi
+- Logo `assets/logo.png` olarak eklendi
+- Yedek logo `logo.png` olarak köke eklendi
 - PWA ikonları güncellendi
-- Favicon eklendi
-- Manifest yolları düzeltildi
-- Service Worker cache sürümü yenilendi
-- Konu bazlı Kolay / Orta / Zor test seçimi eklendi
-- GitHub Pages uyumlu hale getirildi
+- Service Worker cache adı yenilendi
+- GitHub Pages uyumu korundu
 
 ## Yükleme
 
 ZIP içindeki tüm dosyaları GitHub reposuna olduğu gibi yükle.
-Özellikle `assets` klasörünü silmeden yükle.
-
-## Önemli
-
-Yükledikten sonra:
-1. Sayfayı Ctrl + F5 ile yenile.
-2. Telefonda eski ikon varsa ana ekrandan silip tekrar ekle.
-3. Tarayıcıda şu adresi kontrol et:
-   `https://yildiz98.github.io/StarQuiz/assets/logo.png`
+Eski dosyaların üzerine yaz.
+GitHub Pages açıldıktan sonra Ctrl + F5 yap.

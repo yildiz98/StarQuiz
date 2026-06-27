@@ -11,7 +11,7 @@ body{margin:0;background:radial-gradient(circle at top,#132641 0,#050b14 45%,#02
 .ghost-btn{border:1px solid var(--line);background:rgba(255,255,255,.04);color:var(--muted);border-radius:12px;padding:9px 12px}
 .card{background:linear-gradient(180deg,rgba(255,255,255,.075),rgba(255,255,255,.035));border:1px solid var(--line);border-radius:24px;padding:18px;margin:12px 0;box-shadow:0 16px 40px rgba(0,0,0,.22)}
 .hero{text-align:center;background:linear-gradient(135deg,rgba(255,211,78,.18),rgba(0,229,255,.12))}
-.logo-main{width:235px;max-width:90%;display:block;margin:0 auto 10px;filter:drop-shadow(0 14px 25px rgba(0,0,0,.35))}
+.logo-main{width:260px;max-width:90%;display:block;margin:0 auto 10px;filter:drop-shadow(0 14px 25px rgba(0,0,0,.35))}
 h1,h2,h3,p{margin-top:0}.muted{color:var(--muted)}.small{font-size:13px}.ok{color:var(--ok);font-weight:900}.bad{color:var(--bad);font-weight:900}
 .grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}.stat{background:rgba(255,255,255,.055);border:1px solid var(--line);border-radius:18px;padding:14px;text-align:left}.stat b{display:block;font-size:22px;margin-top:4px}
 .primary,.secondary,.choice,.topic-btn{width:100%;border:0;border-radius:16px;padding:15px 16px;font-weight:850;font-size:15px;color:#06101d;background:linear-gradient(135deg,var(--accent),#ffab2e);margin-top:10px}
@@ -35,21 +35,29 @@ h1,h2,h3,p{margin-top:0}.muted{color:var(--muted)}.small{font-size:13px}.ok{colo
 @media(min-width:420px){.level-grid{grid-template-columns:repeat(3,1fr)}}
 
 
-/* StarQuiz V9 Premium FIXED */
+/* StarQuiz V9 Premium CLEAN FIX */
+.app-shell{
+  padding-top:18px;
+}
 .logo-main{
-  display:block;
-  width:235px;
-  max-width:88%;
-  height:auto;
-  margin:0 auto 14px;
+  display:block !important;
+  width:230px !important;
+  max-width:88% !important;
+  height:auto !important;
+  margin:0 auto 16px !important;
   border-radius:22px;
   object-fit:contain;
   background:rgba(3,8,18,.35);
   box-shadow:0 22px 48px rgba(0,0,0,.42),0 0 0 1px rgba(255,211,78,.22);
 }
 .mini-logo{
+  width:46px !important;
+  height:46px !important;
   object-fit:cover;
-  background:#06101d;
+  border-radius:15px;
+}
+.topbar{
+  min-height:68px;
 }
 .hero{
   border-color:rgba(255,211,78,.28);
@@ -76,7 +84,4 @@ h1,h2,h3,p{margin-top:0}.muted{color:var(--muted)}.small{font-size:13px}.ok{colo
   padding:10px 6px;
   font-weight:800;
   font-size:12px;
-}
-@media(max-width:420px){
-  .logo-main{width:210px}
 }

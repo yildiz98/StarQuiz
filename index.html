@@ -5,16 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
   <meta name="theme-color" content="#08111f"/>
   <title>StarQuiz V9 Premium</title>
-  <link rel="manifest" href="manifest.json">
+  <link rel="manifest" href="./manifest.json">
   <link rel="icon" href="./assets/favicon.png">
   <link rel="apple-touch-icon" href="./assets/apple-touch-icon.png">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="./style.css">
 </head>
 <body>
   <div class="app-shell">
     <header class="topbar">
       <div class="brand-row">
-        <img src="./assets/icon-192.png" class="mini-logo" alt="StarQuiz V9 Premium" onerror="this.src='./icon-192.png'; this.onerror=null;">SQ</div>'">
+        <img src="./assets/icon-192.png" class="mini-logo" alt="StarQuiz" />
         <div>
           <div class="brand">StarQuiz V9 Premium</div>
           <div class="subtitle">KKTC Kamu Sınavı</div>
@@ -33,12 +33,13 @@
       <button data-page="stats" class="nav-btn">📊<span>Analiz</span></button>
     </nav>
   </div>
-  <script src="questions.js"></script>
-  <script src="app.js"></script>
+
+  <script src="./questions.js"></script>
+  <script src="./app.js"></script>
   <script>
     if ('serviceWorker' in navigator) {
-      window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./service-worker.js').catch(() => {});
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register('./service-worker.js').catch(function(){});
       });
     }
   </script>
