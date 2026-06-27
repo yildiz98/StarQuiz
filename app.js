@@ -38,7 +38,7 @@ const QUESTIONS = [
 ];
 
 let state = JSON.parse(localStorage.getItem('starQuizState') || '{"unlocked":1,"totalSolved":0,"bestScore":0}');
-let currentLevel = 1, currentIndex = 0, answers = [], secondsLeft = 0, timerId = null;
+let currentLevel = 1, currentIndex = 0, answers = [], secondsLeft = 0, timerId = null, autoMoveLock = false;
 const $ = id => document.getElementById(id);
 function save(){ localStorage.setItem('starQuizState', JSON.stringify(state)); }
 function show(view){ document.querySelectorAll('.view').forEach(v=>v.classList.remove('active')); $(view).classList.add('active'); }
@@ -50,7 +50,7 @@ function renderHome(){
   }).join('');
 }
 function startQuiz(levelId){
-  currentLevel = levelId; currentIndex = 0; const level = LEVELS[levelId-1]; answers = Array(level.count).fill(null); secondsLeft = level.time*60;
+  currentLevel = levelId; currentIndex = 0; autoMoveLock = false; const level = LEVELS[levelId-1]; answers = Array(level.count).fill(null); secondsLeft = level.time*60;
   clearInterval(timerId); timerId=setInterval(()=>{secondsLeft--; renderTimer(); if(secondsLeft<=0) finishQuiz();},1000);
   $('quizLevelBadge').textContent = level.name; $('quizTitle').textContent = `${level.count} Soruluk Genel Kültür Testi`; show('quizView'); renderQuestion(); renderTimer();
 }
@@ -61,7 +61,43 @@ function renderQuestion(){
   $('answers').innerHTML = q.a.map((x,i)=>`<button class="answer ${answers[currentIndex]===i?'selected':''}" onclick="selectAnswer(${i})">${String.fromCharCode(65+i)}) ${x}</button>`).join('');
   $('progressBar').style.width = `${((currentIndex+1)/level.count)*100}%`; $('prevBtn').disabled = currentIndex===0; $('nextBtn').textContent = currentIndex===level.count-1 ? 'Bitir' : 'İleri';
 }
-function selectAnswer(i){ answers[currentIndex]=i; renderQuestion(); }
+function selectAnswer(i){
+  if(autoMoveLock) return;
+  answers[currentIndex]=i;
+  renderQuestion();
+  const level = LEVELS[currentLevel-1];
+  autoMoveLock = true;
+  setTimeout(()=>{
+    autoMoveLock = false;
+    if(currentIndex < level.count-1){
+      currentIndex++;
+      renderQuestion();
+    } else {
+      finishQuiz();
+    }
+  }, 450);
+}
+function renderWrongReview(level){
+  const wrongItems = [];
+  for(let i=0;i<level.count;i++){
+    const q = QUESTIONS[i];
+    if(answers[i] !== q.c){
+      const userAnswer = answers[i] === null ? 'Boş bırakıldı' : q.a[answers[i]];
+      wrongItems.push(`
+        <div class="wrong-item">
+          <div class="wrong-q">${i+1}. ${q.q}</div>
+          <div class="wrong-a"><span>Senin cevabın:</span> ${userAnswer}</div>
+          <div class="right-a"><span>Doğru cevap:</span> ${q.a[q.c]}</div>
+        </div>
+      `);
+    }
+  }
+  if(!wrongItems.length){
+    $('wrongReview').innerHTML = `<div class="perfect-box">⭐ Harika! Yanlış cevabın yok.</div>`;
+    return;
+  }
+  $('wrongReview').innerHTML = `<h3>Yanlış / Boş Sorular</h3>${wrongItems.join('')}`;
+}
 function finishQuiz(){
   clearInterval(timerId); const level=LEVELS[currentLevel-1]; let correct=0, empty=0;
   for(let i=0;i<level.count;i++){ if(answers[i]===null) empty++; else if(answers[i]===QUESTIONS[i].c) correct++; }
@@ -71,6 +107,7 @@ function finishQuiz(){
   $('correctCount').textContent=correct; $('wrongCount').textContent=wrong; $('emptyCount').textContent=empty; $('scoreCount').textContent=score;
   $('resultSummary').textContent = `${level.name} tamamlandı. Başarı oranı %${score}.`;
   $('passMessage').innerHTML = passed ? `<strong class="pass">Tebrikler!</strong> Seviyeyi geçtin.` : `<strong class="fail">Tekrar dene.</strong> Geçmek için en az ${level.pass} puan gerekli.`;
+  renderWrongReview(level);
   $('nextLevelBtn').style.display = passed && currentLevel < LEVELS.length ? 'block':'none'; show('resultView');
 }
 $('nextBtn').onclick=()=>{ const level=LEVELS[currentLevel-1]; if(currentIndex<level.count-1){currentIndex++; renderQuestion();} else finishQuiz(); };
