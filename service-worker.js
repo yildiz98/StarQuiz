@@ -1,17 +1,16 @@
-const CACHE_NAME='starquiz-v9-premium-clean-cache-1';
+const CACHE_NAME='starquiz-v9-premium-auto-cache-4';
 const FILES=[
   './',
-  './index.html',
-  './style.css',
-  './app.js',
-  './questions.js',
-  './manifest.json',
-  './assets/logo.png',
-  './assets/icon-192.png',
-  './assets/icon-512.png',
-  './assets/apple-touch-icon.png',
-  './assets/favicon.png',
-  './logo.png'
+  './index.html?v=9auto4',
+  './style.css?v=9auto4',
+  './app.js?v=9auto4',
+  './questions.js?v=9auto4',
+  './manifest.json?v=9auto4',
+  './assets/logo.png?v=9auto4',
+  './assets/icon-192.png?v=9auto4',
+  './assets/icon-512.png?v=9auto4',
+  './assets/apple-touch-icon.png?v=9auto4',
+  './assets/favicon.png?v=9auto4'
 ];
 
 self.addEventListener('install', event => {
@@ -33,6 +32,6 @@ self.addEventListener('fetch', event => {
       const copy = response.clone();
       caches.open(CACHE_NAME).then(cache => cache.put(event.request, copy)).catch(()=>{});
       return response;
-    }).catch(() => caches.match(event.request).then(r => r || caches.match('./index.html')))
+    }).catch(() => caches.match(event.request).then(r => r || caches.match('./index.html?v=9auto4') || caches.match('./')))
   );
 });

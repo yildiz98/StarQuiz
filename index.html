@@ -4,17 +4,20 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
   <meta name="theme-color" content="#08111f"/>
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
+  <meta http-equiv="Pragma" content="no-cache"/>
+  <meta http-equiv="Expires" content="0"/>
   <title>StarQuiz V9 Premium</title>
-  <link rel="manifest" href="./manifest.json">
-  <link rel="icon" href="./assets/favicon.png">
-  <link rel="apple-touch-icon" href="./assets/apple-touch-icon.png">
-  <link rel="stylesheet" href="./style.css">
+  <link rel="manifest" href="./manifest.json?v=9auto4">
+  <link rel="icon" href="./assets/favicon.png?v=9auto4">
+  <link rel="apple-touch-icon" href="./assets/apple-touch-icon.png?v=9auto4">
+  <link rel="stylesheet" href="./style.css?v=9auto4">
 </head>
 <body>
   <div class="app-shell">
     <header class="topbar">
       <div class="brand-row">
-        <img src="./assets/icon-192.png" class="mini-logo" alt="StarQuiz" />
+        <img src="./assets/icon-192.png?v=9auto4" class="mini-logo" alt="StarQuiz">
         <div>
           <div class="brand">StarQuiz V9 Premium</div>
           <div class="subtitle">KKTC Kamu Sınavı</div>
@@ -34,14 +37,36 @@
     </nav>
   </div>
 
-  <script src="./questions.js"></script>
-  <script src="./app.js"></script>
   <script>
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', function () {
-        navigator.serviceWorker.register('./service-worker.js').catch(function(){});
-      });
-    }
+    window.STARQUIZ_VERSION = "v9auto4";
+  </script>
+  <script src="./questions.js?v=9auto4"></script>
+  <script src="./app.js?v=9auto4"></script>
+  <script>
+    (function(){
+      var version = "v9auto4";
+      try {
+        var old = localStorage.getItem("starquiz_app_version");
+        if (old !== version) {
+          localStorage.setItem("starquiz_app_version", version);
+          if ("caches" in window) {
+            caches.keys().then(function(keys){
+              return Promise.all(keys.map(function(k){ return caches.delete(k); }));
+            }).then(function(){
+              if (old) location.reload();
+            });
+          }
+        }
+      } catch(e) {}
+
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function () {
+          navigator.serviceWorker.register('./service-worker.js?v=9auto4').then(function(reg){
+            if (reg && reg.update) reg.update();
+          }).catch(function(){});
+        });
+      }
+    })();
   </script>
 </body>
 </html>

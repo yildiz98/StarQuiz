@@ -1,4 +1,4 @@
-const STORE_KEY = "starquiz_v9_premium_clean_state";
+const STORE_KEY = "starquiz_v9_premium_auto_state";
 const app = document.getElementById("app");
 let page = "home";
 let activeQuiz = null;
@@ -54,7 +54,7 @@ function renderHome(){
  const rate=percent(state.correct,state.total);
  app.innerHTML = `
  <section class="card hero">
-   <img class="logo-main" src="./assets/logo.png" alt="StarQuiz">SQ</div>'">
+   <img class="logo-main" src="./assets/logo.png?v=9auto4" alt="StarQuiz">SQ</div>'">
    <h1>KKTC Kamu Sınavı Hazırlık</h1>
    <p class="muted">Gerçek sınav mantığında dijital soru bankası. Şu an ${QUESTIONS.length} soru eklendi.</p>
    <div class="grid">
@@ -67,7 +67,7 @@ function renderHome(){
    <button class="secondary" onclick="setPage('exam')">Seviyeli Test Başlat</button>
    <button class="secondary" onclick="setPage('topics')">Konu Bazlı Çalış</button>
  </section>
- <section class="card"><h2>V9 Premium</h2><p class="muted">STARQUIZ logosu temiz şekilde entegre edildi. Kolay / Orta / Zor testler ve konu bazlı çalışma sistemi korundu.</p></section>`;
+ <section class="card"><h2>V9 Premium</h2><p class="muted">STARQUIZ logosu düzgün entegre edildi. Sayfa güncellemeleri otomatik cache temizliği ile yenilenir.</p></section>`;
 }
 function renderExam(){
  const counts = Object.fromEntries(difficultyCounts());
@@ -144,7 +144,7 @@ function finishQuiz(){
  state.history.unshift({date:new Date().toLocaleString("tr-TR"), total, correct, score, category:[activeQuiz.category||"Karışık", activeQuiz.difficulty].filter(Boolean).join(" · ")});
  state.recentQuestionIds=[...new Set([...activeQuiz.questions.map(q=>q.id),...(state.recentQuestionIds||[])])].slice(0,120);
  save();
- app.innerHTML=`<section class="card hero"><img class="logo-main" src="./assets/logo.png" alt="StarQuiz">SQ</div>'"><h2>Sonuç</h2>
+ app.innerHTML=`<section class="card hero"><img class="logo-main" src="./assets/logo.png?v=9auto4" alt="StarQuiz">SQ</div>'"><h2>Sonuç</h2>
  <div class="grid"><div class="stat">✅ Doğru <b>${correct}</b></div><div class="stat">❌ Yanlış <b>${wrongs.length}</b></div><div class="stat">📊 Başarı <b>%${score}</b></div><div class="stat">⭐ XP <b>+${xp}</b></div></div>
  <button class="primary" onclick="setPage('wrong')">Yanlışları İncele</button><button class="secondary" onclick="setPage('exam')">Yeni Deneme</button></section>`;
  activeQuiz=null;
@@ -156,7 +156,7 @@ function renderWrong(){
 function renderStats(){
  const rate=percent(state.correct,state.total);
  const byCat={}; QUESTIONS.forEach(q=>byCat[q.category]=(byCat[q.category]||0)+1);
- app.innerHTML=`<section class="card hero"><img class="logo-main" src="./assets/logo.png" alt="StarQuiz">SQ</div>'"><h2>Analiz</h2><div class="grid"><div class="stat">Toplam Soru <b>${state.total}</b></div><div class="stat">Doğru <b>${state.correct}</b></div><div class="stat">Yanlış <b>${state.wrong}</b></div><div class="stat">Başarı <b>%${rate}</b></div></div></section>
+ app.innerHTML=`<section class="card hero"><img class="logo-main" src="./assets/logo.png?v=9auto4" alt="StarQuiz">SQ</div>'"><h2>Analiz</h2><div class="grid"><div class="stat">Toplam Soru <b>${state.total}</b></div><div class="stat">Doğru <b>${state.correct}</b></div><div class="stat">Yanlış <b>${state.wrong}</b></div><div class="stat">Başarı <b>%${rate}</b></div></div></section>
  <section class="card"><h2>Konu Dağılımı</h2>${Object.entries(byCat).sort((a,b)=>b[1]-a[1]).map(([c,n])=>`<p class="small">${c}: <b>${n}</b> soru</p>`).join("")}</section>
  <section class="card"><h2>Son Testler</h2>${state.history.slice(0,10).map(h=>`<p class="small">${h.category} · ${h.correct}/${h.total} · %${h.score} · ${h.date}</p>`).join("")||"<p class='muted'>Henüz test yok.</p>"}</section>`;
 }

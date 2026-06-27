@@ -1,20 +1,20 @@
-# StarQuiz V9 Premium CLEAN
+# StarQuiz V9 Premium AUTO
 
-Bu sürüm, ekranda görünen bozuk üst logo/HTML hatasını düzeltmek için temiz index.html ile yeniden hazırlanmıştır.
+Bu sürümde görünüm korunmuştur, logo düzgün gösterilecek şekilde yollar temizlenmiştir.
 
-## Düzeltilenler
+## Yapılanlar
 
-- Bozuk logo satırı tamamen temizlendi
-- Üst menü HTML yapısı sıfırdan yazıldı
-- Ana sayfanın boş kalmasına sebep olabilecek JS hataları düzeltildi
-- Logo `assets/logo.png` olarak eklendi
-- Yedek logo `logo.png` olarak köke eklendi
-- PWA ikonları güncellendi
-- Service Worker cache adı yenilendi
-- GitHub Pages uyumu korundu
+- Ana görünüm aynı bırakıldı
+- Logo `assets/logo.png?v=9auto4` olarak sabitlendi
+- Üst küçük ikon düzeltildi
+- Kırık görsel oluşturabilecek eski HTML kodları temizlendi
+- Ctrl+F5 ihtiyacını azaltmak için otomatik cache temizleme eklendi
+- Service Worker cache sürümü yenilendi
+- GitHub Pages uyumlu hale getirildi
 
 ## Yükleme
 
-ZIP içindeki tüm dosyaları GitHub reposuna olduğu gibi yükle.
-Eski dosyaların üzerine yaz.
-GitHub Pages açıldıktan sonra Ctrl + F5 yap.
+ZIP içindeki tüm dosyaları GitHub reposuna yükle.
+Özellikle `assets` klasörü mutlaka yüklenmeli.
+
+GitHub Pages birkaç dakika içinde güncellenir.
