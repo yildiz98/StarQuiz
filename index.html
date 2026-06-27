@@ -4,18 +4,19 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
   <meta name="theme-color" content="#08111f"/>
-  <title>StarQuiz V7</title>
+  <title>StarQuiz V8</title>
   <link rel="manifest" href="manifest.json">
   <link rel="icon" href="assets/icon-192.png">
+  <link rel="apple-touch-icon" href="assets/icon-192.png">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="app-shell">
     <header class="topbar">
       <div class="brand-row">
-        <img src="assets/icon-192.png" class="mini-logo" alt="StarQuiz">
+        <img src="assets/icon-192.png" class="mini-logo" alt="StarQuiz" onerror="this.outerHTML='<div class=\'mini-logo logo-fallback\' style=\'width:46px;height:46px;font-size:16px;border-radius:15px\'>SQ</div>'">
         <div>
-          <div class="brand">StarQuiz V7</div>
+          <div class="brand">StarQuiz V8</div>
           <div class="subtitle">KKTC Kamu Sınavı</div>
         </div>
       </div>

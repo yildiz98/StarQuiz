@@ -1,4 +1,4 @@
-const STORE_KEY = "starquiz_v7_state";
+const STORE_KEY = "starquiz_v8_level_state";
 const app = document.getElementById("app");
 let page = "home";
 let activeQuiz = null;
@@ -19,10 +19,17 @@ function uniqueCategories(){
   QUESTIONS.forEach(q=>{ map[q.category]=(map[q.category]||0)+1; });
   return Object.entries(map).sort((a,b)=>a[0].localeCompare(b[0],"tr"));
 }
-function pickQuestions(count, category=null){
+function safeAttr(v){return String(v ?? "").replace(/\\/g,"\\\\").replace(/'/g,"\\'").replace(/\n/g," ");}
+function difficultyCounts(category=null){
+  const levels=["Kolay","Orta","Zor"];
+  return levels.map(level=>[level, QUESTIONS.filter(q=>(!category || q.category===category) && q.difficulty===level).length]);
+}
+function normalizeDifficulty(difficulty){return ["Kolay","Orta","Zor"].includes(difficulty) ? difficulty : null;}
+function pickQuestions(count, category=null, difficulty=null){
+  difficulty = normalizeDifficulty(difficulty);
   const recent = new Set(state.recentQuestionIds||[]);
-  let pool = QUESTIONS.filter(q => (!category || q.category===category) && !recent.has(q.id));
-  if(pool.length < count) pool = QUESTIONS.filter(q => !category || q.category===category);
+  let pool = QUESTIONS.filter(q => (!category || q.category===category) && (!difficulty || q.difficulty===difficulty) && !recent.has(q.id));
+  if(pool.length < count) pool = QUESTIONS.filter(q => (!category || q.category===category) && (!difficulty || q.difficulty===difficulty));
   const selected=[], usedAnswers={}, usedTopics={};
   pool = shuffle(pool);
   while(selected.length<count && pool.length){
@@ -47,7 +54,7 @@ function renderHome(){
  const rate=percent(state.correct,state.total);
  app.innerHTML = `
  <section class="card hero">
-   <img class="logo-main" src="assets/logo.png" alt="StarQuiz">
+   <img class="logo-main" src="assets/logo.png" alt="StarQuiz" onerror="this.outerHTML='<div class=\'logo-fallback\'>SQ</div>'">
    <h1>KKTC Kamu Sınavı Hazırlık</h1>
    <p class="muted">Gerçek sınav mantığında dijital soru bankası. Şu an ${QUESTIONS.length} soru eklendi.</p>
    <div class="grid">
@@ -56,16 +63,23 @@ function renderHome(){
     <div class="stat">📊 Başarı <b>%${rate}</b></div>
     <div class="stat">📝 Test <b>${state.tests}</b></div>
    </div>
-   <button class="primary" onclick="startQuiz(20)">20 Soruluk Deneme</button>
+   <button class="primary" onclick="startQuiz(20)">20 Soruluk Karışık Deneme</button>
+   <button class="secondary" onclick="setPage('exam')">Seviyeli Test Başlat</button>
    <button class="secondary" onclick="setPage('topics')">Konu Bazlı Çalış</button>
  </section>
- <section class="card"><h2>V7 Yenilikleri</h2><p class="muted">Kitapçık tarzı sorular, cevap anahtarı mantığı, konu filtreleri, açıklama, yanlışlarım ve akıllı rastgele seçim eklendi.</p></section>`;
+ <section class="card"><h2>V8 Yenilikleri</h2><p class="muted">Logo görünümü düzeltildi, Kolay / Orta / Zor seviyeli testler eklendi, konu filtreleri ve akıllı rastgele seçim korundu.</p></section>`;
 }
 function renderExam(){
- app.innerHTML = `<section class="card"><h2>Karışık Deneme</h2><p class="muted">Sistem soru havuzundan karışık soru seçer. Aynı testte tekrar etmez.</p>
- <button class="primary" onclick="startQuiz(10)">10 Soru Hızlı Test</button>
- <button class="primary" onclick="startQuiz(20)">20 Soru Deneme</button>
- <button class="primary" onclick="startQuiz(50)">50 Soru Deneme</button>
+ const counts = Object.fromEntries(difficultyCounts());
+ app.innerHTML = `<section class="card"><h2>Seviyeli Deneme</h2><p class="muted">İstersen karışık çöz, istersen seviyeye göre Kolay / Orta / Zor test başlat. Aynı testte soru tekrar etmez.</p>
+ <button class="primary" onclick="startQuiz(10)">10 Soru Karışık</button>
+ <button class="primary" onclick="startQuiz(20)">20 Soru Karışık</button>
+ <button class="primary" onclick="startQuiz(50)">50 Soru Karışık</button>
+ <div class="level-grid">
+   <button class="level-btn easy" onclick="startQuiz(Math.min(20, ${counts.Kolay||0}), null, 'Kolay')"><b>Kolay</b><span>${counts.Kolay||0} soru</span></button>
+   <button class="level-btn medium" onclick="startQuiz(Math.min(20, ${counts.Orta||0}), null, 'Orta')"><b>Orta</b><span>${counts.Orta||0} soru</span></button>
+   <button class="level-btn hard" onclick="startQuiz(Math.min(20, ${counts.Zor||0}), null, 'Zor')"><b>Zor</b><span>${counts.Zor||0} soru</span></button>
+ </div>
  <button class="secondary" onclick="clearRecent()">Son çıkanları sıfırla</button></section>`;
 }
 window.clearRecent=()=>{state.recentQuestionIds=[];save();alert("Son çıkan soru hafızası temizlendi.");}
@@ -111,10 +125,10 @@ function finishQuiz(){
  const wrongs=activeQuiz.answers.filter(a=>!a.isCorrect), score=percent(correct,total), xp=Math.round(correct*7 + score/2);
  state.tests++; state.total+=total; state.correct+=correct; state.wrong+=wrongs.length; state.xp+=xp;
  state.wrongQuestions=[...wrongs,...state.wrongQuestions].slice(0,150);
- state.history.unshift({date:new Date().toLocaleString("tr-TR"), total, correct, score, category:activeQuiz.category||"Karışık"});
+ state.history.unshift({date:new Date().toLocaleString("tr-TR"), total, correct, score, category:[activeQuiz.category||"Karışık", activeQuiz.difficulty].filter(Boolean).join(" · ")});
  state.recentQuestionIds=[...new Set([...activeQuiz.questions.map(q=>q.id),...(state.recentQuestionIds||[])])].slice(0,120);
  save();
- app.innerHTML=`<section class="card hero"><img class="logo-main" src="assets/logo.png"><h2>Sonuç</h2>
+ app.innerHTML=`<section class="card hero"><img class="logo-main" src="assets/logo.png" alt="StarQuiz" onerror="this.outerHTML='<div class=\'logo-fallback\'>SQ</div>'"><h2>Sonuç</h2>
  <div class="grid"><div class="stat">✅ Doğru <b>${correct}</b></div><div class="stat">❌ Yanlış <b>${wrongs.length}</b></div><div class="stat">📊 Başarı <b>%${score}</b></div><div class="stat">⭐ XP <b>+${xp}</b></div></div>
  <button class="primary" onclick="setPage('wrong')">Yanlışları İncele</button><button class="secondary" onclick="setPage('exam')">Yeni Deneme</button></section>`;
  activeQuiz=null;
@@ -126,7 +140,7 @@ function renderWrong(){
 function renderStats(){
  const rate=percent(state.correct,state.total);
  const byCat={}; QUESTIONS.forEach(q=>byCat[q.category]=(byCat[q.category]||0)+1);
- app.innerHTML=`<section class="card hero"><img class="logo-main" src="assets/logo.png"><h2>Analiz</h2><div class="grid"><div class="stat">Toplam Soru <b>${state.total}</b></div><div class="stat">Doğru <b>${state.correct}</b></div><div class="stat">Yanlış <b>${state.wrong}</b></div><div class="stat">Başarı <b>%${rate}</b></div></div></section>
+ app.innerHTML=`<section class="card hero"><img class="logo-main" src="assets/logo.png" alt="StarQuiz" onerror="this.outerHTML='<div class=\'logo-fallback\'>SQ</div>'"><h2>Analiz</h2><div class="grid"><div class="stat">Toplam Soru <b>${state.total}</b></div><div class="stat">Doğru <b>${state.correct}</b></div><div class="stat">Yanlış <b>${state.wrong}</b></div><div class="stat">Başarı <b>%${rate}</b></div></div></section>
  <section class="card"><h2>Konu Dağılımı</h2>${Object.entries(byCat).sort((a,b)=>b[1]-a[1]).map(([c,n])=>`<p class="small">${c}: <b>${n}</b> soru</p>`).join("")}</section>
  <section class="card"><h2>Son Testler</h2>${state.history.slice(0,10).map(h=>`<p class="small">${h.category} · ${h.correct}/${h.total} · %${h.score} · ${h.date}</p>`).join("")||"<p class='muted'>Henüz test yok.</p>"}</section>`;
 }

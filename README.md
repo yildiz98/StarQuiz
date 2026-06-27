@@ -1,4 +1,4 @@
-# StarQuiz V7
+# StarQuiz V8 Seviyeli
 
 KKTC Kamu Sınavı Hazırlık Uygulaması.
 
@@ -7,6 +7,8 @@ KKTC Kamu Sınavı Hazırlık Uygulaması.
 - 162 dijitalleştirilmiş sınav tarzı soru
 - Konu bazlı çalışma
 - 10 / 20 / 50 soruluk karışık deneme
+- Kolay / Orta / Zor seviyeli test başlatma
+- Konu içinde seviyeye göre test başlatma
 - Yanlışlarım
 - Açıklamalı doğru cevap
 - İstatistik ve konu dağılımı
