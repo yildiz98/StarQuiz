@@ -1,729 +1,729 @@
 window.QUESTIONS = [
   {
-    "id": "sqv7-001",
-    "category": "Coğrafya",
+    "id": "gk-001",
+    "category": "Genel Kültür",
     "topic": "Burunlar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Kıbrıs’ın en güney burnu neresidir?",
     "options": [
       "Zafer Burnu",
-      "Doğan Burnu",
       "Arnavut Burnu",
       "Poyraz Burnu",
-      "Koruçam Burnu"
+      "Doğan Burnu"
     ],
     "answer": "Doğan Burnu",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Doğan Burnu, Kıbrıs’ın en güney burnu olarak bilinir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-002",
-    "category": "Tarih",
+    "id": "gk-002",
+    "category": "Genel Kültür",
     "topic": "1974 Barış Harekâtı",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "1974 Kıbrıs Barış Harekâtı sırasında Türkiye Cumhuriyeti Başbakan Yardımcısı kimdi?",
     "options": [
-      "Necmettin Erbakan",
-      "Semih Sancar",
       "Bülent Ecevit",
       "Fahri Korutürk",
-      "Turan Güneş"
+      "Necmettin Erbakan",
+      "Semih Sancar"
     ],
     "answer": "Necmettin Erbakan",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "1974 döneminde Başbakan Yardımcısı Necmettin Erbakan’dır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-003",
-    "category": "Osmanlı Dönemi",
+    "id": "gk-003",
+    "category": "Genel Kültür",
     "topic": "Fetih",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Kıbrıs’ın fethi sırasında ordu komutanı kimdi?",
     "options": [
+      "Hz. Osman",
       "Lala Mustafa Paşa",
       "Piyale Paşa",
-      "Osmanlı Şeyhülislamı",
-      "Hz. Osman",
-      "II. Selim"
+      "Osmanlı Şeyhülislamı"
     ],
     "answer": "Lala Mustafa Paşa",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Kıbrıs’ın fethinde serdar/ordu komutanı Lala Mustafa Paşa’dır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-004",
-    "category": "Osmanlı Dönemi",
+    "id": "gk-004",
+    "category": "Genel Kültür",
     "topic": "Fetih",
     "difficulty": "Kolay",
     "question": "Kıbrıs’ın fethi sırasında donanma komutanı kimdi?",
     "options": [
-      "Lala Mustafa Paşa",
       "Piyale Paşa",
+      "Lala Mustafa Paşa",
       "Osmanlı Şeyhülislamı",
-      "Hz. Osman",
-      "II. Selim"
+      "Hz. Osman"
     ],
     "answer": "Piyale Paşa",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "Kıbrıs seferinde donanma komutanı Piyale Paşa’dır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-005",
-    "category": "Maden",
+    "id": "gk-005",
+    "category": "Genel Kültür",
     "topic": "Bakır",
     "difficulty": "Orta",
     "question": "Tunç Dönemi’nde Troodos Dağları’ndaki bakır madeninin Kıbrıs’ta ilk çıktığı köyün Rumca adı nedir?",
     "options": [
-      "Ambeligu (Bağlıköy)",
       "Poli",
       "Piroyi",
       "Afanya",
-      "Neohorio"
+      "Ambeligu (Bağlıköy)"
     ],
     "answer": "Ambeligu (Bağlıköy)",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "Soru bankası cevabına göre doğru cevap Ambeligu yani Bağlıköy’dür.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-006",
-    "category": "Coğrafya",
+    "id": "gk-006",
+    "category": "Genel Kültür",
     "topic": "Dünya’nın Dönüşü",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Güneş doğudan doğup batıdan batmaktadır. Buna göre Dünya’nın dönüş yönü nedir?",
     "options": [
-      "Doğudan batıya doğru",
       "Kuzeyden güneye doğru",
-      "Batıdan doğuya doğru",
       "Kuzey batıdan güney doğuya",
-      "Kuzey doğudan batıya"
+      "Batıdan doğuya doğru",
+      "Doğudan batıya doğru"
     ],
     "answer": "Batıdan doğuya doğru",
     "answerLetter": "C",
     "explanation": "Dünya batıdan doğuya doğru döner.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-007",
-    "category": "Kültür",
+    "id": "gk-007",
+    "category": "Genel Kültür",
     "topic": "Maronitler",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Kıbrıs’ta Maronitler nerede yaşamaktadır?",
     "options": [
+      "Kaleburnu",
       "Koruçam",
       "Yeniceköy",
-      "Gaziköy",
-      "Kaleburnu",
-      "Gayretköy"
+      "Gaziköy"
     ],
     "answer": "Koruçam",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Maronitlerin Kıbrıs’ta bilinen yerleşimi Koruçam’dır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-008",
-    "category": "Turizm",
+    "id": "gk-008",
+    "category": "Genel Kültür",
     "topic": "Müzeler",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Batık gemi nerede sergilenir?",
     "options": [
+      "Girne Kalesi Müzesi",
       "Kıbrıs Müzesi",
       "Barbarlık Müzesi",
-      "Girne Kalesi Müzesi",
-      "Mevlevi Tekkesi Müzesi",
-      "Kıbrıs Doğa Tarihi Müzesi"
+      "Mevlevi Tekkesi Müzesi"
     ],
     "answer": "Girne Kalesi Müzesi",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "Girne batığı, Girne Kalesi Müzesi ile ilişkilidir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-009",
-    "category": "Siyasi Coğrafya",
+    "id": "gk-009",
+    "category": "Genel Kültür",
     "topic": "İngiliz Üsleri",
     "difficulty": "Orta",
     "question": "Ağrotur üssü günümüzde hangi ilçeye bağlıdır?",
     "options": [
-      "Limasol",
       "Larnaka",
       "Lefkoşa",
       "Baf",
-      "Girne"
+      "Limasol"
     ],
     "answer": "Limasol",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "Ağrotur üssü Limasol bölgesiyle ilişkilidir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-010",
-    "category": "Coğrafya",
+    "id": "gk-010",
+    "category": "Genel Kültür",
     "topic": "Komşular",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Kıbrıs’ın güney komşusu hangi ülkedir?",
     "options": [
-      "Türkiye",
-      "Mısır",
       "Yunanistan",
       "Suriye",
-      "İsrail"
+      "Mısır",
+      "Türkiye"
     ],
     "answer": "Mısır",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Kıbrıs’ın güneyinde Mısır yer alır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-011",
-    "category": "Coğrafya",
+    "id": "gk-011",
+    "category": "Genel Kültür",
     "topic": "Yüzölçümü",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Kıbrıs’ın yüzölçümü nedir?",
     "options": [
-      "9250 km²",
-      "9251 km²",
-      "9252 km²",
       "3242 km²",
-      "5509 km²"
+      "9251 km²",
+      "9250 km²",
+      "9252 km²"
     ],
     "answer": "9251 km²",
     "answerLetter": "B",
     "explanation": "Kıbrıs adasının toplam yüzölçümü 9251 km² olarak verilmiştir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-012",
-    "category": "Devlet Yapısı",
+    "id": "gk-012",
+    "category": "Genel Kültür",
     "topic": "KTFD",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Kıbrıs Türk Federe Devleti’nin ilk devlet başkanı ve KKTC’nin ilk cumhurbaşkanı olan kişi kimdir?",
     "options": [
       "Rauf Raif Denktaş",
       "Nejat Konuk",
       "Derviş Eroğlu",
-      "Dr. Fazıl Küçük",
-      "Hakkı Atun"
+      "Dr. Fazıl Küçük"
     ],
     "answer": "Rauf Raif Denktaş",
     "answerLetter": "A",
     "explanation": "Rauf Raif Denktaş hem KTFD’nin ilk devlet başkanı hem de KKTC’nin kurucu cumhurbaşkanıdır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-013",
-    "category": "Devlet Yapısı",
+    "id": "gk-013",
+    "category": "Genel Kültür",
     "topic": "KTFD",
     "difficulty": "Orta",
     "question": "Kıbrıs Türk Federe Devleti’nin ilk başbakanı kimdir?",
     "options": [
-      "Nejat Konuk",
       "Mustafa Çağatay",
       "Derviş Eroğlu",
       "Dr. Fazıl Küçük",
-      "Hakkı Atun"
+      "Nejat Konuk"
     ],
     "answer": "Nejat Konuk",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "KTFD’nin ilk başbakanı Nejat Konuk’tur.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-014",
-    "category": "TMT",
+    "id": "gk-014",
+    "category": "Genel Kültür",
     "topic": "Kuruluş",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "TMT hangi tarihte kuruldu?",
     "options": [
-      "1 Ağustos 1958",
-      "1 Ağustos 1957",
       "1 Ağustos 1959",
       "1 Ağustos 1960",
-      "1 Ağustos 1968"
+      "1 Ağustos 1958",
+      "1 Ağustos 1957"
     ],
     "answer": "1 Ağustos 1958",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "Türk Mukavemet Teşkilatı 1 Ağustos 1958’de kurulmuştur.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-015",
-    "category": "Coğrafya",
+    "id": "gk-015",
+    "category": "Genel Kültür",
     "topic": "İklim",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Kıbrıs adası hangi iklim kuşağında yer almaktadır?",
     "options": [
-      "Kutup Kuşağı",
-      "Orta Kuşak",
-      "Tropikal Kuşak",
       "Ekvatoral Kuşak",
-      "Soğuk Kuşak"
+      "Orta Kuşak",
+      "Kutup Kuşağı",
+      "Tropikal Kuşak"
     ],
     "answer": "Orta Kuşak",
     "answerLetter": "B",
     "explanation": "Kıbrıs matematik iklim kuşağı bakımından orta kuşakta yer alır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-016",
-    "category": "Coğrafya",
+    "id": "gk-016",
+    "category": "Genel Kültür",
     "topic": "İklim",
     "difficulty": "Kolay",
     "question": "Kıbrıs adası hangi sıcaklık kuşağında yer almaktadır?",
     "options": [
-      "Soğuk Kuşak",
       "Ilıman Kuşak",
+      "Soğuk Kuşak",
       "Sıcak Kuşak",
-      "Tropikal Kuşak",
-      "Kutup Kuşağı"
+      "Tropikal Kuşak"
     ],
     "answer": "Ilıman Kuşak",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "Kıbrıs sıcaklık kuşağı bakımından ılıman kuşakta yer alır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-017",
-    "category": "Osmanlı Dönemi",
+    "id": "gk-017",
+    "category": "Genel Kültür",
     "topic": "Fetih",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Osmanlılar Kıbrıs’ı kimden almıştır?",
     "options": [
-      "Venedik",
       "Lüzinyan",
       "Hitit",
       "Asurlular",
-      "Haçlılar"
+      "Venedik"
     ],
     "answer": "Venedik",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "Osmanlılar Kıbrıs’ı Venediklilerden almıştır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-018",
-    "category": "Sınır Kapıları",
+    "id": "gk-018",
+    "category": "Genel Kültür",
     "topic": "Yaya Geçişi",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Aşağıdakilerden hangisi sadece yaya geçişlerine açık sınır kapısıdır?",
     "options": [
-      "Metehan",
       "Bostancı",
       "Akyar",
-      "Beyarmudu",
-      "Lokmacı"
+      "Lokmacı",
+      "Metehan"
     ],
     "answer": "Lokmacı",
-    "answerLetter": "E",
+    "answerLetter": "C",
     "explanation": "Lokmacı sınır kapısı yaya geçişiyle bilinir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-019",
-    "category": "Turizm",
+    "id": "gk-019",
+    "category": "Genel Kültür",
     "topic": "Selimiye Camii",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Selimiye Camii’nin eski ismi nedir?",
     "options": [
+      "Bufavento Kalesi",
       "St. Sophia Katedrali",
       "St. Nicholas Katedrali",
-      "St. Barnabas Manastırı",
-      "Bufavento Kalesi",
-      "Aziz Nikolas Katedrali"
+      "St. Barnabas Manastırı"
     ],
     "answer": "St. Sophia Katedrali",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Selimiye Camii’nin eski adı St. Sophia Katedrali’dir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-020",
-    "category": "Kurumlar",
+    "id": "gk-020",
+    "category": "Genel Kültür",
     "topic": "Evkaf",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Evkaf hangi yılda Türklere devredildi?",
     "options": [
+      "15 Nisan 1956",
       "6 Şubat 1955",
       "19 Mart 1955",
-      "2 Temmuz 1955",
-      "22 Temmuz 1955",
-      "15 Nisan 1956"
+      "2 Temmuz 1955"
     ],
     "answer": "15 Nisan 1956",
-    "answerLetter": "E",
+    "answerLetter": "A",
     "explanation": "Cevap anahtarına göre doğru cevap 15 Nisan 1956’dır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-021",
-    "category": "Edebiyat",
+    "id": "gk-021",
+    "category": "Genel Kültür",
     "topic": "Namık Kemal",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Namık Kemal’in sürgün edildiği bölge neresidir?",
     "options": [
-      "Mağusa",
       "Girne",
       "Güzelyurt",
       "İskele",
-      "Lefke"
+      "Mağusa"
     ],
     "answer": "Mağusa",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "Namık Kemal Mağusa’ya sürgün edilmiştir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-022",
-    "category": "Tarih",
+    "id": "gk-022",
+    "category": "Genel Kültür",
     "topic": "Egemenlik",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Lüzinyanlılardan sonra ada kimlerin eline geçmiştir?",
     "options": [
-      "İngilizler",
       "Yunanlılar",
-      "Venedikliler",
       "Mevleviler",
-      "Mısırlılar"
+      "Venedikliler",
+      "İngilizler"
     ],
     "answer": "Venedikliler",
     "answerLetter": "C",
     "explanation": "Lüzinyanlılardan sonra ada Venediklilerin hâkimiyetine geçmiştir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-023",
-    "category": "Hayvanlar",
+    "id": "gk-023",
+    "category": "Genel Kültür",
     "topic": "Muflon",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Nesli tükenmek üzere olan ve Troodos Dağları’nda yaşam alanı bulunan hayvan hangisidir?",
     "options": [
+      "Kıbrıs Kuyrukkakanı",
       "Muflon",
       "Kıbrıs İshakkuşu",
-      "Pullu Ötleğen",
-      "Kıbrıs Kuyrukkakanı",
-      "Caretta caretta"
+      "Pullu Ötleğen"
     ],
     "answer": "Muflon",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Muflon, Troodos Dağları’nda yaşayan ve sembol olarak kullanılan türdür.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-024",
-    "category": "1974 Barış Harekâtı",
+    "id": "gk-024",
+    "category": "Genel Kültür",
     "topic": "Türkiye",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "1974 I. Barış Harekâtı’nda Türkiye Cumhuriyeti Cumhurbaşkanı kimdi?",
     "options": [
+      "Fahri Korutürk",
       "Bülent Ecevit",
       "Necmettin Erbakan",
-      "Fahri Korutürk",
-      "Semih Sancar",
-      "Tarık Yavuz Sokollu"
+      "Semih Sancar"
     ],
     "answer": "Fahri Korutürk",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "1974 Barış Harekâtı döneminde Cumhurbaşkanı Fahri Korutürk’tür.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-025",
-    "category": "1974 Barış Harekâtı",
+    "id": "gk-025",
+    "category": "Genel Kültür",
     "topic": "Türkiye",
     "difficulty": "Orta",
     "question": "1974 I. Barış Harekâtı’nda Türkiye Cumhuriyeti Başbakanı kimdi?",
     "options": [
-      "Bülent Ecevit",
       "Necmettin Erbakan",
       "Fahri Korutürk",
       "Semih Sancar",
-      "Yavuz Sokollu"
+      "Bülent Ecevit"
     ],
     "answer": "Bülent Ecevit",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "1974 Barış Harekâtı döneminde Başbakan Bülent Ecevit’tir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-026",
-    "category": "Coğrafya",
+    "id": "gk-026",
+    "category": "Genel Kültür",
     "topic": "Burunlar",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Doğan Burnu Kıbrıs’ın hangi yönünde yer alır?",
     "options": [
-      "Güney",
-      "Kuzey",
       "Doğu",
       "Batı",
-      "Güney doğu"
+      "Güney",
+      "Kuzey"
     ],
     "answer": "Güney",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "Doğan Burnu Kıbrıs’ın güney burnudur.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-027",
-    "category": "Tarih",
+    "id": "gk-027",
+    "category": "Genel Kültür",
     "topic": "Egemenlik",
     "difficulty": "Orta",
     "question": "Çeşitli tarihî dönemlerde hangi uygarlık Kıbrıs’a üç kez egemen olmuştur?",
     "options": [
+      "Roma",
       "Mısır",
       "İran",
-      "Pers",
-      "Roma",
-      "İngiliz"
+      "Pers"
     ],
     "answer": "Mısır",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Soru bankası cevabına göre Mısır üç kez egemen olan uygarlıktır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-028",
-    "category": "Turizm",
+    "id": "gk-028",
+    "category": "Genel Kültür",
     "topic": "Hala Sultan",
     "difficulty": "Kolay",
     "question": "Hala Sultan Türbesi hangi ilçede yer almaktadır?",
     "options": [
-      "Limasol",
       "Larnaka",
+      "Limasol",
       "Lefkoşa",
-      "Girne",
-      "Güzelyurt"
+      "Girne"
     ],
     "answer": "Larnaka",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "Hala Sultan Türbesi Larnaka’dadır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-029",
-    "category": "Afetler",
+    "id": "gk-029",
+    "category": "Genel Kültür",
     "topic": "Deprem",
     "difficulty": "Orta",
     "question": "Kıbrıs adasında 1953 yılında meydana gelen ve 40 kişinin ölümüne neden olan deprem hangi ilçede meydana gelmiştir?",
     "options": [
       "Lefkoşa",
       "Larnaka",
-      "Baf",
       "Limasol",
-      "Girne"
+      "Baf"
     ],
     "answer": "Baf",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "1953 depremi Baf ile ilişkilidir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-030",
-    "category": "TMT",
+    "id": "gk-030",
+    "category": "Genel Kültür",
     "topic": "Kod İsimler",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Türkiye’den silah getiren TMT mensuplarına hangi isim veriliyordu?",
     "options": [
-      "Bozpetek",
-      "Bereketçi",
       "Bayraktar",
       "Taksim",
-      "Direnişçi"
+      "Bereketçi",
+      "Bozpetek"
     ],
     "answer": "Bereketçi",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Silahları taşıyıp teslim edenler 'Bereketçi' kod adıyla anılmıştır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-031",
-    "category": "Coğrafya",
+    "id": "gk-031",
+    "category": "Genel Kültür",
     "topic": "Komşular",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Kıbrıs’ın en uzak komşusu hangisidir?",
     "options": [
-      "Türkiye",
-      "Yunanistan",
-      "Suriye",
       "Libya",
-      "Mısır"
+      "Yunanistan",
+      "Türkiye",
+      "Suriye"
     ],
     "answer": "Yunanistan",
     "answerLetter": "B",
     "explanation": "Kıbrıs’ın en uzak komşusu Yunanistan olarak verilmiştir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-032",
+    "id": "gk-032",
     "category": "Genel Kültür",
     "topic": "NATO",
     "difficulty": "Kolay",
     "question": "NATO genel merkezi nerededir?",
     "options": [
+      "Brüksel",
       "Washington",
       "Londra",
-      "New York",
-      "Brüksel",
-      "Amsterdam"
+      "New York"
     ],
     "answer": "Brüksel",
-    "answerLetter": "D",
+    "answerLetter": "A",
     "explanation": "NATO’nun genel merkezi Brüksel’dedir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-033",
-    "category": "Tarih",
+    "id": "gk-033",
+    "category": "Genel Kültür",
     "topic": "İnebahtı",
     "difficulty": "Orta",
     "question": "Kıbrıs seferinden dönmekte olan Osmanlı donanması hangi deniz savaşında yakalanmıştır?",
     "options": [
       "Bafra",
       "Baf",
-      "İnebahtı",
       "Limasol",
-      "Akdeniz"
+      "İnebahtı"
     ],
     "answer": "İnebahtı",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "İnebahtı Deniz Savaşı bu bağlamda sorulur.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-034",
-    "category": "Siyasi Örgütler",
+    "id": "gk-034",
+    "category": "Genel Kültür",
     "topic": "KATAK",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Kıbrıs Adası Türk Azınlığı Kurumu (KATAK) hangi yılda kurulur?",
     "options": [
-      "1943",
-      "1954",
       "1941",
       "1934",
-      "1960"
+      "1943",
+      "1954"
     ],
     "answer": "1943",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "KATAK 1943 yılında kurulmuştur.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-035",
-    "category": "Tarım",
+    "id": "gk-035",
+    "category": "Genel Kültür",
     "topic": "Üzüm",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Kıbrıs’ın en eski tarım ürünlerinden biri olan üzüm için her yıl hangi yerleşim yerinde üzüm festivali yapılmaktadır?",
     "options": [
+      "Büyükkonuk",
       "Mehmetçik",
       "Ozanköy",
-      "Tepebaşı",
-      "Büyükkonuk",
-      "Hisarköy"
+      "Tepebaşı"
     ],
     "answer": "Mehmetçik",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Mehmetçik üzüm festivaliyle bilinir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-036",
-    "category": "Jeoloji",
+    "id": "gk-036",
+    "category": "Genel Kültür",
     "topic": "Fay Hattı",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Kıbrıs’taki depremlerin esas kaynağı adanın güney-güneybatısından geçen hangi fay hattıdır?",
     "options": [
+      "Kıbrıs yayı",
       "Doğu Akdeniz yayı",
       "Batı Akdeniz yayı",
-      "Kıbrıs yayı",
-      "Kıbrıs fayı",
-      "Kuzey Akdeniz fayı"
+      "Kıbrıs fayı"
     ],
     "answer": "Kıbrıs yayı",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "Kıbrıs yayı adadaki depremlerle ilişkilendirilir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-037",
-    "category": "Coğrafya",
+    "id": "gk-037",
+    "category": "Genel Kültür",
     "topic": "Dağlar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Kıbrıs’ın en yüksek dağlık kütlesi hangisidir?",
     "options": [
       "Karpaz Dağları",
       "Toros Dağları",
-      "Troodos Dağları",
       "Girne Dağları",
-      "Beşparmak Dağları"
+      "Troodos Dağları"
     ],
     "answer": "Troodos Dağları",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Adanın en yüksek kütlesi Troodos Dağlarıdır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-038",
-    "category": "Tarih",
+    "id": "gk-038",
+    "category": "Genel Kültür",
     "topic": "Kıbrıs Cumhuriyeti",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Rumların Enosis hedefi ve Rum-Türk çıkarlarının ayrılığı hangi tarihli Kıbrıs Cumhuriyeti’nin kurulmasıyla sonuçlanır?",
     "options": [
-      "15 Ağustos 1974",
       "12 Temmuz 1958",
       "10 Ağustos 1966",
       "16 Ağustos 1960",
-      "11 Ağustos 1983"
+      "15 Ağustos 1974"
     ],
     "answer": "16 Ağustos 1960",
-    "answerLetter": "D",
+    "answerLetter": "C",
     "explanation": "Kıbrıs Cumhuriyeti 16 Ağustos 1960’ta kurulmuştur.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-039",
-    "category": "Tarım",
+    "id": "gk-039",
+    "category": "Genel Kültür",
     "topic": "Sulama",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "KKTC’de ekilen tarım arazilerinin ne kadarlık bölümünde sulu tarım yapılmaktadır?",
     "options": [
+      "%15",
       "%8",
       "%13",
-      "%10",
-      "%15",
-      "%18"
+      "%10"
     ],
     "answer": "%8",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Cevap anahtarına göre sulu tarım oranı %8’dir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-040",
-    "category": "Orman",
+    "id": "gk-040",
+    "category": "Genel Kültür",
     "topic": "Arazi",
     "difficulty": "Kolay",
     "question": "KKTC’de toplam arazinin ne kadarı orman arazisidir?",
     "options": [
+      "%19.5",
       "%22.5",
       "%35.5",
-      "%30",
-      "%25.8",
-      "%19.5"
+      "%30"
     ],
     "answer": "%19.5",
-    "answerLetter": "E",
+    "answerLetter": "A",
     "explanation": "Cevap anahtarına göre orman arazisi oranı %19.5’tir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-041",
-    "category": "Osmanlı Dönemi",
+    "id": "gk-041",
+    "category": "Genel Kültür",
     "topic": "Beylerbeyi",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Osmanlı Kıbrıs’ı fethettikten sonra adaya atanan ilk beylerbeyi kimdir?",
     "options": [
       "II. Selim",
@@ -734,208 +734,210 @@ window.QUESTIONS = [
     "answer": "Muzaffer Paşa",
     "answerLetter": "D",
     "explanation": "Osmanlı döneminde ilk beylerbeyi Muzaffer Paşa’dır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-042",
-    "category": "Osmanlı Dönemi",
+    "id": "gk-042",
+    "category": "Genel Kültür",
     "topic": "Fetih",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Osmanlıların Lefkoşa kalesini almasından sonra kendiliğinden teslim olan kaleler hangi seçenekte doğru verilmiştir?",
     "options": [
-      "Mağusa – Limasol",
-      "Girne – Baf",
       "Baf – Mağusa",
-      "Girne – Mağusa"
+      "Girne – Mağusa",
+      "Girne – Baf",
+      "Mağusa – Limasol"
     ],
     "answer": "Girne – Baf",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Lefkoşa’dan sonra Girne ve Baf savaşsız teslim olmuştur.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-043",
+    "id": "gk-043",
     "category": "Genel Kültür",
     "topic": "BM",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Birleşmiş Milletler genel merkezi nerededir?",
     "options": [
-      "Brüksel",
-      "New York",
-      "Washington",
       "Lahey",
-      "Londra"
+      "New York",
+      "Brüksel",
+      "Washington"
     ],
     "answer": "New York",
     "answerLetter": "B",
     "explanation": "BM genel merkezi New York’tadır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-044",
+    "id": "gk-044",
     "category": "Genel Kültür",
     "topic": "NATO",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "NATO’ya üye olan son ülke hangisidir?",
     "options": [
+      "İsveç",
       "Kuzey Makedonya",
       "Finlandiya",
-      "İsviçre",
-      "Kanada",
-      "İsveç"
+      "İsviçre"
     ],
     "answer": "İsveç",
-    "answerLetter": "E",
+    "answerLetter": "A",
     "explanation": "Soru bankası cevabına göre doğru cevap İsveç’tir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-045",
-    "category": "Edebiyat",
+    "id": "gk-045",
+    "category": "Genel Kültür",
     "topic": "Namık Kemal",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Vatan Yahut Silistre eseri nedeniyle Mağusa kalesine sürgüne gönderilen şair kimdir?",
     "options": [
       "Ziya Paşa",
-      "Namık Kemal",
       "Said Paşa",
       "Kamil Paşa",
-      "Dr. Behiç"
+      "Namık Kemal"
     ],
     "answer": "Namık Kemal",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Namık Kemal, Vatan Yahut Silistre nedeniyle Mağusa’ya sürgün edilmiştir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-046",
-    "category": "Osmanlı Dönemi",
+    "id": "gk-046",
+    "category": "Genel Kültür",
     "topic": "Lefkoşa",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Osmanlı Devleti Lefkoşa’yı fethedince Türk bayrağını astıkları burcun adı nedir?",
     "options": [
-      "Arsenal",
-      "Konstanza",
       "Pedokataro",
       "Quirini",
-      "Barbaro"
+      "Konstanza",
+      "Arsenal"
     ],
     "answer": "Konstanza",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Osmanlı Lefkoşa’ya Konstanza burcundan girmiştir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-047",
-    "category": "Lefkoşa",
+    "id": "gk-047",
+    "category": "Genel Kültür",
     "topic": "Surlar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Lefkoşa surları kaç burçtan oluşmaktadır?",
     "options": [
-      "10",
-      "11",
-      "12",
       "13",
-      "15"
+      "11",
+      "10",
+      "12"
     ],
     "answer": "11",
     "answerLetter": "B",
     "explanation": "Lefkoşa surları 11 burçtan oluşur.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-048",
-    "category": "Bitki Örtüsü",
+    "id": "gk-048",
+    "category": "Genel Kültür",
     "topic": "Ayrelli",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Halk arasında ayrelli olarak bilinen bitkinin diğer adı nedir?",
     "options": [
       "Kuşkonmaz",
       "Şinya",
       "Defne",
-      "Laden",
-      "Gömeç"
+      "Laden"
     ],
     "answer": "Kuşkonmaz",
     "answerLetter": "A",
     "explanation": "Ayrelli, kuşkonmaz olarak da bilinir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-049",
-    "category": "Bitki Örtüsü",
+    "id": "gk-049",
+    "category": "Genel Kültür",
     "topic": "Okaliptüs",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Adaya İngilizler döneminde bataklıkları kurutmak amacıyla hangi ağaç getirilmiştir?",
     "options": [
       "Alev ağacı",
       "Palmiye",
-      "Okaliptüs",
       "Hurma",
-      "Zeytin"
+      "Okaliptüs"
     ],
     "answer": "Okaliptüs",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Bataklıkları kurutmak için okaliptüs getirilmiştir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-050",
-    "category": "Coğrafya",
+    "id": "gk-050",
+    "category": "Genel Kültür",
     "topic": "Girne Dağları",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "KKTC’nin en yüksek noktası Birkan Uzun Selvili Tepe, Girne dağlarının hangi bölümünde yer alır?",
     "options": [
-      "Kayalar Dağları",
-      "Lapta Dağları",
       "Beşparmak Dağları",
       "Kantara Dağı",
-      "Troodos Dağı"
+      "Lapta Dağları",
+      "Kayalar Dağları"
     ],
     "answer": "Lapta Dağları",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Birkan Uzun Selvili Tepe Lapta Dağları üzerindedir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-051",
-    "category": "Turizm",
+    "id": "gk-051",
+    "category": "Genel Kültür",
     "topic": "Bufavento",
     "difficulty": "Orta",
     "question": "Bufavento Kalesi hangi dağ üzerinde yer almaktadır?",
     "options": [
-      "Kayalar dağları",
-      "Lapta dağı",
-      "Beşparmak dağları",
       "Kantara dağı",
-      "Troodos dağı"
+      "Beşparmak dağları",
+      "Kayalar dağları",
+      "Lapta dağı"
     ],
     "answer": "Beşparmak dağları",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Bufavento Kalesi Beşparmak Dağları üzerindedir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-052",
-    "category": "İklim",
+    "id": "gk-052",
+    "category": "Genel Kültür",
     "topic": "Sarı Toz",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Yaz aylarında zaman zaman hangi kıta üzerinden gelen çöl kumları Kıbrıs’ta sarı tozlu günlere neden olur?",
     "options": [
-      "Avrupa",
       "Afrika",
+      "Avrupa",
       "Asya",
-      "Kuzey Amerika",
-      "Güney Amerika"
+      "Kuzey Amerika"
     ],
     "answer": "Afrika",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "Sarı toz olayında Afrika’dan gelen çöl tozları etkilidir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-053",
-    "category": "Sular",
+    "id": "gk-053",
+    "category": "Genel Kültür",
     "topic": "Su Temini",
     "difficulty": "Orta",
     "question": "KKTC Su Temini Projesi’nde Türkiye’den gelen su hangi barajdan gelip KKTC’de hangi baraja aktarılmaktadır?",
@@ -943,719 +945,719 @@ window.QUESTIONS = [
       "Alaköprü Barajı – Alayköy Barajı",
       "Keban Barajı – Alaköprü Barajı",
       "Hirfanlı Barajı – Geçitköy Barajı",
-      "Alaköprü Barajı – Geçitköy Barajı",
-      "Lefke Barajı – Güzelyurt Barajı"
+      "Alaköprü Barajı – Geçitköy Barajı"
     ],
     "answer": "Alaköprü Barajı – Geçitköy Barajı",
     "answerLetter": "D",
     "explanation": "Türkiye’den Alaköprü Barajı’ndan gelen su KKTC’de Geçitköy Barajı’na aktarılır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-054",
-    "category": "Sanayi",
+    "id": "gk-054",
+    "category": "Genel Kültür",
     "topic": "Elektrik",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Kalecik köyü yakınlarındaki elektrik santrali hangi ilçe sınırları içerisindedir?",
     "options": [
-      "Lefkoşa",
       "Mağusa",
       "Girne",
-      "Güzelyurt",
-      "İskele"
+      "İskele",
+      "Lefkoşa"
     ],
     "answer": "İskele",
-    "answerLetter": "E",
+    "answerLetter": "C",
     "explanation": "Kalecik santrali İskele ilçesiyle ilişkilidir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-055",
-    "category": "Osmanlı Dönemi",
+    "id": "gk-055",
+    "category": "Genel Kültür",
     "topic": "Eserler",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Aşağıdakilerden hangisi Osmanlılar döneminde yapılan tarihi eserlerden biridir?",
     "options": [
-      "Limasol Kalesi",
-      "Baf Kalesi",
-      "Girne Kalesi",
       "Selimiye Camii",
-      "Lala Mustafa Paşa Camii"
+      "Baf Kalesi",
+      "Limasol Kalesi",
+      "Girne Kalesi"
     ],
     "answer": "Baf Kalesi",
     "answerLetter": "B",
     "explanation": "Cevap anahtarına göre doğru cevap B şıkkıdır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-056",
-    "category": "Kıbrıs Cumhuriyeti",
+    "id": "gk-056",
+    "category": "Genel Kültür",
     "topic": "Bakanlar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "1960’ta kurulan Kıbrıs Cumhuriyeti’nde Tarım ve Doğal Kaynaklar Bakanı kimdir?",
     "options": [
       "Fazıl Plümer",
       "Süleyman Uluçamgil",
       "Dr. Fazıl Küçük",
-      "Osman Örek",
-      "Ali Nesim"
+      "Osman Örek"
     ],
     "answer": "Fazıl Plümer",
     "answerLetter": "A",
     "explanation": "Tarım ve Doğal Kaynaklar Bakanı Fazıl Plümer olarak verilmiştir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-057",
-    "category": "Turizm",
+    "id": "gk-057",
+    "category": "Genel Kültür",
     "topic": "Selimiye Camii",
     "difficulty": "Orta",
     "question": "Lefkoşa’da Lüzinyan döneminden kalma, sonradan Selimiye Camii adını alan katedralin eski ismi nedir?",
     "options": [
       "St. Catharine",
-      "St. Sophia",
       "St. Augustinian",
       "St. Nicholas",
-      "St. Barnabas"
+      "St. Sophia"
     ],
     "answer": "St. Sophia",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Selimiye Camii’nin eski adı St. Sophia’dır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-058",
-    "category": "Liderler",
+    "id": "gk-058",
+    "category": "Genel Kültür",
     "topic": "Dr. Fazıl Küçük",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Toplum liderimiz Dr. Fazıl Küçük hangi tarihte vefat etmiştir?",
     "options": [
-      "10 Kasım 1984",
       "15 Kasım 1983",
       "5 Mayıs 1985",
       "15 Ocak 1984",
-      "15 Ekim 1985"
+      "10 Kasım 1984"
     ],
     "answer": "15 Ocak 1984",
-    "answerLetter": "D",
+    "answerLetter": "C",
     "explanation": "Cevap anahtarına göre Dr. Fazıl Küçük’ün vefat tarihi 15 Ocak 1984’tür.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-059",
-    "category": "Lefkoşa",
+    "id": "gk-059",
+    "category": "Genel Kültür",
     "topic": "Surlar",
     "difficulty": "Orta",
     "question": "Osmanlı tehlikesine karşı 16. yüzyılda inşa edilen Lefkoşa surları hangi dönemde inşa edilmiştir?",
     "options": [
+      "Bizans",
       "Venedik",
       "Lüzinyan",
-      "Osmanlı",
-      "Bizans",
-      "Ceneviz"
+      "Osmanlı"
     ],
     "answer": "Venedik",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Lefkoşa surları Venedik döneminde yapılmıştır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-060",
-    "category": "Tarih",
+    "id": "gk-060",
+    "category": "Genel Kültür",
     "topic": "Hitit",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Kıbrıs’taki Hitit egemenliğinin kanıtı olan tablet, bugünkü Tuzla yakınlarındaki hangi antik şehirde bulunmuştur?",
     "options": [
       "Enkomi",
       "Dikelya",
       "Salamis",
-      "Khirokitia",
-      "Baf"
+      "Khirokitia"
     ],
     "answer": "Enkomi",
     "answerLetter": "A",
     "explanation": "Boynuzlu Tanrı Heykeli ve tablet buluntuları Enkomi ile ilişkilendirilir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-061",
-    "category": "Tarih Öncesi",
+    "id": "gk-061",
+    "category": "Genel Kültür",
     "topic": "Yerleşim",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Yeşilırmak kuzeyinde, kıyıdan 80 metre uzakta bulunan ve Kıbrıs’ta ilk kez bilimsel kazı yapılan ilk yerleşim yerlerinden biri hangisidir?",
     "options": [
       "Karmi",
       "Vrysi",
       "Tenta",
-      "Petra tou limnidi",
-      "Salamis"
+      "Petra tou limnidi"
     ],
     "answer": "Petra tou limnidi",
     "answerLetter": "D",
     "explanation": "Cevap anahtarına göre doğru cevap Petra tou Limnidi’dir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-062",
-    "category": "Antlaşmalar",
+    "id": "gk-062",
+    "category": "Genel Kültür",
     "topic": "İngiliz Dönemi",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Osmanlı hükümeti hangi antlaşmayla Kıbrıs’ın İngiliz toprağı olduğunu kabul etmiştir?",
     "options": [
-      "Londra Antlaşması",
       "1960 Antlaşmaları",
       "Lozan Barış Antlaşması",
-      "Paris Barış Antlaşması",
-      "Sevr Antlaşması"
+      "Sevr Antlaşması",
+      "Londra Antlaşması"
     ],
     "answer": "Sevr Antlaşması",
-    "answerLetter": "E",
+    "answerLetter": "C",
     "explanation": "Cevap anahtarına göre doğru cevap Sevr Antlaşması’dır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-063",
-    "category": "Mücadele Tarihi",
+    "id": "gk-063",
+    "category": "Genel Kültür",
     "topic": "Erenköy",
     "difficulty": "Orta",
     "question": "Türkiye’den gelen silahların saklanıp Türk öğrencilerin savunduğu yerleşim yeri hangisidir?",
     "options": [
-      "Mağusa",
-      "Serdarlı",
-      "Erenköy",
       "Girne",
-      "Limasol"
+      "Erenköy",
+      "Mağusa",
+      "Serdarlı"
     ],
     "answer": "Erenköy",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Erenköy, 1963-1974 döneminde kritik direniş noktalarından biridir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-064",
-    "category": "Osmanlı Dönemi",
+    "id": "gk-064",
+    "category": "Genel Kültür",
     "topic": "Sancaklar",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Kıbrıs fethedildikten sonra başkentin dışında oluşturulan sancaklar hangileridir?",
     "options": [
+      "Mağusa, Girne, Baf",
       "Değirmenlik, Baf, Tuzla",
       "Omorfo, Girne, Mağusa",
-      "Tuzla, Baf, Mağusa",
-      "Baf, Girne, Mesarya",
-      "Mağusa, Girne, Baf"
+      "Tuzla, Baf, Mağusa"
     ],
     "answer": "Mağusa, Girne, Baf",
-    "answerLetter": "E",
+    "answerLetter": "A",
     "explanation": "Lefkoşa merkez dışında Mağusa, Girne ve Baf sancakları verilmiştir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-065",
-    "category": "Maden",
+    "id": "gk-065",
+    "category": "Genel Kültür",
     "topic": "CMC",
     "difficulty": "Orta",
     "question": "Kıbrıs’ın en önemli çevre sorunu olan CMC atıkları hangi madenin yoğun çıkarılmasıyla oluşmuştur?",
     "options": [
       "Çinko",
-      "Bakır",
       "Bor",
       "Kalay",
-      "Demir"
+      "Bakır"
     ],
     "answer": "Bakır",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "CMC sorunu bakır madeniyle ilişkilidir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-066",
-    "category": "Osmanlı Dönemi",
+    "id": "gk-066",
+    "category": "Genel Kültür",
     "topic": "Rus Harbi",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Osmanlı Devleti hangi devletle yaptığı savaş sonunda Kıbrıs’ı İngiltere’ye kiralamak zorunda kalmıştır?",
     "options": [
-      "Avusturya",
       "İngiltere",
       "Almanya",
       "Rusya",
-      "İran"
+      "Avusturya"
     ],
     "answer": "Rusya",
-    "answerLetter": "D",
+    "answerLetter": "C",
     "explanation": "1877-1878 Osmanlı-Rus Harbi sonrası Kıbrıs İngiltere’ye kiralanmıştır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-067",
-    "category": "Medya",
+    "id": "gk-067",
+    "category": "Genel Kültür",
     "topic": "Bayrak Radyosu",
     "difficulty": "Orta",
     "question": "Bayrak Radyosu’nun kuruluş tarihi aşağıdakilerden hangisidir?",
     "options": [
-      "20 Temmuz 1974",
-      "25 Aralık 1963",
-      "21 Aralık 1963",
       "27 Aralık 1963",
-      "16 Ağustos 1974"
+      "25 Aralık 1963",
+      "20 Temmuz 1974",
+      "21 Aralık 1963"
     ],
     "answer": "25 Aralık 1963",
     "answerLetter": "B",
     "explanation": "Cevap anahtarına göre Bayrak Radyosu 25 Aralık 1963’te kurulmuştur.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-068",
-    "category": "Maden",
+    "id": "gk-068",
+    "category": "Genel Kültür",
     "topic": "Bakır",
     "difficulty": "Kolay",
     "question": "CMC tarafından işletilen bakır madeni hangi limandan yurt dışına gönderiliyordu?",
     "options": [
-      "Yeşilyurt",
       "Gemikonağı",
+      "Yeşilyurt",
       "Gaziveren",
-      "Yeşilırmak",
-      "Güneşköy"
+      "Yeşilırmak"
     ],
     "answer": "Gemikonağı",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "Bakır madeni Gemikonağı Limanı’ndan gönderiliyordu.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-069",
-    "category": "Afetler",
+    "id": "gk-069",
+    "category": "Genel Kültür",
     "topic": "Meteoroloji",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "KKTC’de deprem gözlemleri ve ölçümleri hangi kurum tarafından yapılmaktadır?",
     "options": [
       "Ulaştırma Bakanlığı",
-      "Meteoroloji Dairesi",
       "Şehir Planlama Dairesi",
       "Jeoloji ve Maden Dairesi",
-      "Belediyeler"
+      "Meteoroloji Dairesi"
     ],
     "answer": "Meteoroloji Dairesi",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Deprem gözlemleri Meteoroloji Dairesi ile ilişkilendirilmiştir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-070",
-    "category": "Coğrafya",
+    "id": "gk-070",
+    "category": "Genel Kültür",
     "topic": "Burunlar",
     "difficulty": "Zor",
     "question": "Kıbrıs’ın en kuzeyi ve en doğusu Zafer; en güneyi Doğan; en batısı hangi burundur?",
     "options": [
-      "Arnavut Burnu",
-      "Doğan Burnu",
       "İkizler Burnu",
       "Zafer Burnu",
-      "Koruçam Burnu"
+      "Arnavut Burnu",
+      "Doğan Burnu"
     ],
     "answer": "Arnavut Burnu",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "En batı burun Arnavut Burnu olarak verilir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-071",
-    "category": "Kıbrıs Cumhuriyeti",
+    "id": "gk-071",
+    "category": "Genel Kültür",
     "topic": "Bakanlar",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "1960 Kıbrıs Cumhuriyeti’nde Kıbrıslı Türklere ayrılan Savunma, Sağlık ve Tarım bakanlıklarında sırasıyla kimler görev yapmıştır?",
     "options": [
-      "Osman Örek, Dr. Burhan Nalbantoğlu, M. Fazıl Plümer",
-      "Osman Örek, Niyazi Manyera, M. Fazıl Plümer",
-      "Niyazi Manyera, Mehmet Zeka, Osman Örek",
       "Rauf Raif Denktaş, Osman Örek, Niyazi Manyera",
-      "Necati Özkan, Dr. Burhan Nalbantoğlu, Osman Örek"
+      "Osman Örek, Niyazi Manyera, M. Fazıl Plümer",
+      "Osman Örek, Dr. Burhan Nalbantoğlu, M. Fazıl Plümer",
+      "Niyazi Manyera, Mehmet Zeka, Osman Örek"
     ],
     "answer": "Osman Örek, Niyazi Manyera, M. Fazıl Plümer",
     "answerLetter": "B",
     "explanation": "Cevap anahtarına göre sıralama Osman Örek, Niyazi Manyera, M. Fazıl Plümer’dir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-072",
-    "category": "İslam Tarihi",
+    "id": "gk-072",
+    "category": "Genel Kültür",
     "topic": "Akınlar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Kıbrıs’a ilk İslam akınları hangi halife döneminde başladı?",
     "options": [
+      "Hz. Osman",
       "Hz. Ömer",
       "Hz. Ebu Bekir",
-      "Hz. Osman",
-      "Hz. Ali",
-      "Hz. Hüseyin"
+      "Hz. Ali"
     ],
     "answer": "Hz. Osman",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "İlk İslam akınları Hz. Osman döneminde başlamıştır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-073",
-    "category": "Meclis",
+    "id": "gk-073",
+    "category": "Genel Kültür",
     "topic": "Görevler",
     "difficulty": "Orta",
     "question": "Aşağıdakilerden hangisi KKTC Cumhuriyet Meclisi Başkan Yardımcısıdır?",
     "options": [
       "Zorlu Töre",
-      "Fazilet Özdenefe",
       "Yasemin Öztürk",
       "Erhan Arıklı",
-      "Özdemir Berova"
+      "Fazilet Özdenefe"
     ],
     "answer": "Fazilet Özdenefe",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Cevap anahtarına göre Meclis Başkan Yardımcısı Fazilet Özdenefe’dir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-074",
-    "category": "Meclis",
+    "id": "gk-074",
+    "category": "Genel Kültür",
     "topic": "Görevler",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Aşağıdakilerden hangisi KKTC Cumhuriyet Meclisi Başkanıdır?",
     "options": [
-      "Zorlu Töre",
-      "Fazilet Özdenefe",
       "Yasemin Öztürk",
       "Erhan Arıklı",
-      "Özdemir Berova"
+      "Zorlu Töre",
+      "Fazilet Özdenefe"
     ],
     "answer": "Zorlu Töre",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "Cevap anahtarına göre Meclis Başkanı Zorlu Töre’dir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-075",
-    "category": "Meclis",
+    "id": "gk-075",
+    "category": "Genel Kültür",
     "topic": "Görevler",
     "difficulty": "Orta",
     "question": "Aşağıdakilerden hangisi KKTC Cumhuriyet Meclisi idare amiridir?",
     "options": [
-      "Zorlu Töre",
-      "Fazilet Özdenefe",
-      "Yasemin Öztürk",
       "Erhan Arıklı",
-      "Özdemir Berova"
+      "Yasemin Öztürk",
+      "Zorlu Töre",
+      "Fazilet Özdenefe"
     ],
     "answer": "Yasemin Öztürk",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Cevap anahtarına göre Meclis idare amiri Yasemin Öztürk’tür.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-076",
-    "category": "Coğrafya",
-    "topic": "Adalar",
-    "difficulty": "Orta",
-    "question": "Akdeniz’deki adalar büyükten küçüğe doğru hangi seçenekte doğru sıralanmıştır?",
-    "options": [
-      "Kıbrıs-Sicilya-Korsika-Girit-Rodos",
-      "Sicilya-Kıbrıs-Girit-Rodos-Sardinya",
-      "Sicilya-Sardinya-Kıbrıs-Korsika-Girit",
-      "Rodos-Sardinya-Sicilya-Kıbrıs-Girit",
-      "Girit-Sardinya-Sicilya-Kıbrıs-Rodos"
-    ],
-    "answer": "Sicilya-Sardinya-Kıbrıs-Korsika-Girit",
-    "answerLetter": "C",
-    "explanation": "Büyüklük sıralaması Sicilya, Sardinya, Kıbrıs, Korsika, Girit şeklindedir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
-  },
-  {
-    "id": "sqv7-077",
-    "category": "Coğrafya",
+    "id": "gk-076",
+    "category": "Genel Kültür",
     "topic": "Adalar",
     "difficulty": "Kolay",
+    "question": "Akdeniz’deki adalar büyükten küçüğe doğru hangi seçenekte doğru sıralanmıştır?",
+    "options": [
+      "Sicilya-Sardinya-Kıbrıs-Korsika-Girit",
+      "Kıbrıs-Sicilya-Korsika-Girit-Rodos",
+      "Sicilya-Kıbrıs-Girit-Rodos-Sardinya",
+      "Rodos-Sardinya-Sicilya-Kıbrıs-Girit"
+    ],
+    "answer": "Sicilya-Sardinya-Kıbrıs-Korsika-Girit",
+    "answerLetter": "A",
+    "explanation": "Büyüklük sıralaması Sicilya, Sardinya, Kıbrıs, Korsika, Girit şeklindedir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-077",
+    "category": "Genel Kültür",
+    "topic": "Adalar",
+    "difficulty": "Orta",
     "question": "Kıbrıs Akdeniz’in kaçıncı büyük adasıdır?",
     "options": [
       "Birinci",
-      "Üçüncü",
       "İkinci",
       "Beşinci",
-      "Altıncı"
+      "Üçüncü"
     ],
     "answer": "Üçüncü",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Kıbrıs Akdeniz’in üçüncü büyük adasıdır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-078",
-    "category": "Medya",
+    "id": "gk-078",
+    "category": "Genel Kültür",
     "topic": "TAK",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Aşağıdakilerden hangisi Türk Ajansı Kıbrıs’ın kuruluş tarihidir?",
     "options": [
-      "21 Aralık 1973",
-      "21 Aralık 1974",
       "21 Aralık 1975",
       "21 Aralık 1976",
-      "21 Aralık 1983"
+      "21 Aralık 1973",
+      "21 Aralık 1974"
     ],
     "answer": "21 Aralık 1973",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "TAK 21 Aralık 1973’te faaliyete geçmiştir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-079",
-    "category": "Sınır Kapıları",
+    "id": "gk-079",
+    "category": "Genel Kültür",
     "topic": "Akyar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Gazimağusa’da yer alan iki buçuk mil sınır kapısının diğer adı nedir?",
     "options": [
-      "Pergama",
-      "Akyar",
-      "Derinya",
       "Metehan",
-      "Yeşilırmak"
+      "Akyar",
+      "Pergama",
+      "Derinya"
     ],
     "answer": "Akyar",
     "answerLetter": "B",
     "explanation": "İki buçuk mil sınır kapısı Akyar olarak bilinir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-080",
-    "category": "Müzeler",
+    "id": "gk-080",
+    "category": "Genel Kültür",
     "topic": "Modern Sanat",
     "difficulty": "Kolay",
     "question": "KKTC Modern Sanat Müzesi hangi ilçededir?",
     "options": [
+      "Lefkoşa",
       "Girne",
       "Gazimağusa",
-      "Lefkoşa",
-      "Güzelyurt",
-      "İskele"
+      "Güzelyurt"
     ],
     "answer": "Lefkoşa",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "KKTC Modern Sanat Müzesi Lefkoşa’dadır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-081",
-    "category": "Osmanlı Dönemi",
+    "id": "gk-081",
+    "category": "Genel Kültür",
     "topic": "Fetih",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Osmanlı Devleti Kıbrıs’ın fethini hangi tarihte tamamlamıştır?",
     "options": [
       "1 Ağustos 1570",
-      "1 Ağustos 1571",
       "2 Temmuz 1572",
       "4 Temmuz 1571",
-      "12 Eylül 1571"
+      "1 Ağustos 1571"
     ],
     "answer": "1 Ağustos 1571",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Osmanlı Kıbrıs’ın fethini 1 Ağustos 1571’de tamamlamıştır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-082",
-    "category": "Osmanlı Dönemi",
+    "id": "gk-082",
+    "category": "Genel Kültür",
     "topic": "Fetih Sırası",
     "difficulty": "Zor",
     "question": "Osmanlı Devleti Kıbrıs’ı fethederken ele geçirdiği şehirlerin doğru sıralaması hangisidir?",
     "options": [
-      "Limasol – Larnaka – Girne – Baf – Lefkoşa – Mağusa",
       "Larnaka – Limasol – Lefkoşa – Girne – Baf – Mağusa",
-      "Limasol – Larnaka – Lefkoşa – Girne – Baf – Mağusa",
       "Limasol – Larnaka – Mağusa – Girne – Baf",
-      "Lefkoşa – Limasol – Larnaka – Girne – Baf – Mağusa"
+      "Limasol – Larnaka – Lefkoşa – Girne – Baf – Mağusa",
+      "Limasol – Larnaka – Girne – Baf – Lefkoşa – Mağusa"
     ],
     "answer": "Limasol – Larnaka – Lefkoşa – Girne – Baf – Mağusa",
     "answerLetter": "C",
     "explanation": "Soru bankası cevabına göre doğru sıra C seçeneğidir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-083",
-    "category": "Jeoloji",
+    "id": "gk-083",
+    "category": "Genel Kültür",
     "topic": "Oluşum",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Kıbrıs’ın oluşumu sırasında önce deniz yüzeyine çıkan yeryüzü şekilleri hangileridir?",
     "options": [
-      "Troodos Dağları ve Karpaz Dağları",
-      "Panha Tortulları ve Girne Dağları",
-      "Troodos Dağları ve Girne Dağları",
       "Lapta Dağları ve Kantara Dağları",
-      "Kayalar Dağları ve Beşparmak Dağları"
+      "Troodos Dağları ve Girne Dağları",
+      "Troodos Dağları ve Karpaz Dağları",
+      "Panha Tortulları ve Girne Dağları"
     ],
     "answer": "Troodos Dağları ve Girne Dağları",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Önce Troodos ve Girne Dağları deniz yüzeyine çıkmıştır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-084",
-    "category": "Jeoloji",
+    "id": "gk-084",
+    "category": "Genel Kültür",
     "topic": "Levhalar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Kıbrıs hangi iki kıtanın/levhanın birbirine yaklaşması sonucu ortaya çıkmıştır?",
     "options": [
       "Avrasya ve Afrika",
       "Avrupa ve Afrika",
       "Avrupa ve Asya",
-      "Amerika ve Avrupa",
-      "Sibirya - Alp Orojenezi"
+      "Amerika ve Avrupa"
     ],
     "answer": "Avrasya ve Afrika",
     "answerLetter": "A",
     "explanation": "Kıbrıs Avrasya ve Afrika levhalarının yaklaşması sonucu oluşmuştur.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-085",
-    "category": "Coğrafya",
+    "id": "gk-085",
+    "category": "Genel Kültür",
     "topic": "İsim Kökeni",
     "difficulty": "Orta",
     "question": "Kıbrıs günümüzdeki adını aşağıdakilerden hangisinden almıştır?",
     "options": [
       "Zeytin yaprağı",
-      "Bakır",
       "Sedir ağacı",
       "Verimli ovaları",
-      "Sahilleri"
+      "Bakır"
     ],
     "answer": "Bakır",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Kıbrıs adı bakırla ilişkilendirilir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-086",
-    "category": "1974 Barış Harekâtı",
+    "id": "gk-086",
+    "category": "Genel Kültür",
     "topic": "Tarihler",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "I. ve II. Barış Harekâtı’nın başlangıç tarihleri hangi seçenekte doğru verilmiştir?",
     "options": [
-      "20 Temmuz 1974 – 14 Ağustos 1974",
-      "15 Temmuz 1974 – 8 Ağustos 1974",
       "20 Temmuz 1975 – 30 Ağustos 1975",
       "15 Kasım 1967 – 15 Haziran 1974",
-      "1 Haziran 1976 – 1 Nisan 1978"
+      "20 Temmuz 1974 – 14 Ağustos 1974",
+      "15 Temmuz 1974 – 8 Ağustos 1974"
     ],
     "answer": "20 Temmuz 1974 – 14 Ağustos 1974",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "I. Harekât 20 Temmuz 1974, II. Harekât 14 Ağustos 1974’te başlamıştır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-087",
-    "category": "Medya",
+    "id": "gk-087",
+    "category": "Genel Kültür",
     "topic": "TAK",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Sait Terzioğlu tarafından 21 Aralık 1973’te kurulan haber ajansı hangisidir?",
     "options": [
-      "BRT",
-      "BRTK",
       "İHA",
       "TAK",
-      "KTHA"
+      "BRT",
+      "BRTK"
     ],
     "answer": "TAK",
-    "answerLetter": "D",
+    "answerLetter": "B",
     "explanation": "Sait Terzioğlu’nun kurduğu kurum Türk Ajansı Kıbrıs’tır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-088",
-    "category": "Mücadele Tarihi",
+    "id": "gk-088",
+    "category": "Genel Kültür",
     "topic": "Erenköy",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "8 Ağustos 1964 Erenköy çarpışmalarında uçağı düşürülerek şehit olan pilot kimdir?",
     "options": [
+      "Cengiz Topel",
       "Turgut Sunalp",
       "Fehmi Ercan",
-      "Cengiz Topel",
-      "Semih Sancar",
-      "Cemal Gürsel"
+      "Semih Sancar"
     ],
     "answer": "Cengiz Topel",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "Erenköy çarpışmalarında şehit olan pilot Cengiz Topel’dir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-089",
-    "category": "Ulaşım",
+    "id": "gk-089",
+    "category": "Genel Kültür",
     "topic": "Tren Yolu",
     "difficulty": "Orta",
     "question": "Kıbrıs’ta İngiliz sömürge yönetimi döneminde ilk tren seferinin başlama ve sona erme tarihi hangisidir?",
     "options": [
       "1901 - 1915",
       "1905 - 1950",
-      "1905 – 1951",
       "1915 – 1951",
-      "1900 – 1960"
+      "1905 – 1951"
     ],
     "answer": "1905 – 1951",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Kıbrıs tren yolu 1905-1951 yılları arasında kullanılmıştır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-090",
-    "category": "İngiliz Dönemi",
+    "id": "gk-090",
+    "category": "Genel Kültür",
     "topic": "Kazalar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Kıbrıs, İngilizler döneminde kazalara ayrılmıştır. Aşağıdakilerden hangisi bu kazalardan biridir?",
     "options": [
-      "Omorfo",
       "Lefke",
       "Karpaz",
       "Girne",
-      "Hirsofu"
+      "Omorfo"
     ],
     "answer": "Girne",
-    "answerLetter": "D",
+    "answerLetter": "C",
     "explanation": "Cevap anahtarına göre İngiliz dönemindeki kazalardan biri Girne’dir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-091",
-    "category": "Kıbrıs Cumhuriyeti",
+    "id": "gk-091",
+    "category": "Genel Kültür",
     "topic": "Antlaşmalar",
     "difficulty": "Orta",
     "question": "Askeri İttifak Antlaşması hangi şehirde imzalanmıştır?",
     "options": [
-      "Zürih",
-      "Londra",
-      "Cenevre",
       "Berlin",
-      "Sofya"
+      "Cenevre",
+      "Zürih",
+      "Londra"
     ],
     "answer": "Cenevre",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Cevap anahtarına göre Askeri İttifak Antlaşması Cenevre’de imzalanmıştır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-092",
-    "category": "Kıbrıs Cumhuriyeti",
+    "id": "gk-092",
+    "category": "Genel Kültür",
     "topic": "Antlaşmalar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Askeri İttifak Antlaşması hangi ülkede imzalanmıştır?",
     "options": [
+      "İsviçre",
       "İsveç",
       "İngiltere",
-      "İsviçre",
-      "Türkiye",
-      "Yunanistan"
+      "Türkiye"
     ],
     "answer": "İsviçre",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "Cenevre İsviçre’dedir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-093",
-    "category": "Bakanlıklar",
+    "id": "gk-093",
+    "category": "Genel Kültür",
     "topic": "Güncel",
     "difficulty": "Orta",
     "question": "Aşağıdaki bakanlıklardan hangisinin adı yanlış yazılmıştır?",
@@ -1663,71 +1665,71 @@ window.QUESTIONS = [
       "Tarım ve Doğal Kaynaklar Bakanlığı",
       "Çalışma ve Sosyal Güvenlik Bakanlığı",
       "Milli Eğitim Bakanlığı",
-      "Ekonomi ve Çevre Bakanlığı",
-      "Bayındırlık ve Ulaştırma Bakanlığı"
+      "Ekonomi ve Çevre Bakanlığı"
     ],
     "answer": "Ekonomi ve Çevre Bakanlığı",
     "answerLetter": "D",
     "explanation": "Cevap anahtarına göre yanlış yazılan bakanlık D seçeneğidir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-094",
-    "category": "Maden",
+    "id": "gk-094",
+    "category": "Genel Kültür",
     "topic": "CMC",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "CMC tarafından çıkarılan bakır madeni hangi limandan yurt dışına gönderiliyordu?",
     "options": [
-      "Girne",
       "Kumyalı",
       "Erenköy",
       "Gemikonağı",
-      "İskele"
+      "Girne"
     ],
     "answer": "Gemikonağı",
-    "answerLetter": "D",
+    "answerLetter": "C",
     "explanation": "Bakır madeni Gemikonağı limanından gönderilirdi.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-095",
-    "category": "İngiliz Dönemi",
+    "id": "gk-095",
+    "category": "Genel Kültür",
     "topic": "Kazalar",
     "difficulty": "Orta",
     "question": "Kıbrıs, İngilizler döneminde kazalara ayrılmıştır. Aşağıdakilerden hangisi bu kazalardan değildir?",
     "options": [
+      "Limasol",
       "Güzelyurt",
       "Larnaka",
-      "Mağusa",
-      "Limasol",
-      "Lefkoşa"
+      "Mağusa"
     ],
     "answer": "Güzelyurt",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "İngiliz döneminde Güzelyurt adıyla bir kaza bulunmamaktadır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-096",
-    "category": "Siyasi Örgütlenmeler",
+    "id": "gk-096",
+    "category": "Genel Kültür",
     "topic": "Genel Komite",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "1963-1967 yılları arasında var olan siyasi örgütlenme hangisidir?",
     "options": [
-      "Kıbrıs Türk Federe Devleti",
       "Genel Komite",
+      "Kıbrıs Türk Federe Devleti",
       "Geçici Kıbrıs Türk Yönetimi",
-      "Kıbrıs Türk Yönetimi",
-      "Otonom Kıbrıs Türk Yönetimi"
+      "Kıbrıs Türk Yönetimi"
     ],
     "answer": "Genel Komite",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "1963-1967 dönemi Genel Komite dönemidir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-097",
-    "category": "Siyasi Örgütlenmeler",
+    "id": "gk-097",
+    "category": "Genel Kültür",
     "topic": "Otonom Yönetim",
     "difficulty": "Orta",
     "question": "1974-1975 yılları arasında var olan siyasi örgütlenme hangisidir?",
@@ -1735,269 +1737,269 @@ window.QUESTIONS = [
       "Kıbrıs Türk Federe Devleti",
       "Genel Komite",
       "Geçici Kıbrıs Türk Yönetimi",
-      "Kıbrıs Türk Yönetimi",
       "Otonom Kıbrıs Türk Yönetimi"
     ],
     "answer": "Otonom Kıbrıs Türk Yönetimi",
-    "answerLetter": "E",
+    "answerLetter": "D",
     "explanation": "1974-1975 arası Otonom Kıbrıs Türk Yönetimi dönemidir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-098",
-    "category": "Siyasi Örgütlenmeler",
+    "id": "gk-098",
+    "category": "Genel Kültür",
     "topic": "KTFD",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "1975-1983 yılları arasında var olan siyasi örgütlenme hangisidir?",
     "options": [
-      "Kıbrıs Türk Federe Devleti",
-      "Genel Komite",
       "Geçici Kıbrıs Türk Yönetimi",
       "Kıbrıs Türk Yönetimi",
-      "Otonom Kıbrıs Türk Yönetimi"
+      "Kıbrıs Türk Federe Devleti",
+      "Genel Komite"
     ],
     "answer": "Kıbrıs Türk Federe Devleti",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "1975-1983 arası Kıbrıs Türk Federe Devleti dönemidir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-099",
-    "category": "Siyasi Örgütlenmeler",
+    "id": "gk-099",
+    "category": "Genel Kültür",
     "topic": "Kıbrıs Türk Yönetimi",
     "difficulty": "Orta",
     "question": "1971-1974 yılları arasında var olan siyasi örgütlenme hangisidir?",
     "options": [
-      "Kıbrıs Türk Federe Devleti",
-      "Genel Komite",
       "Geçici Kıbrıs Türk Yönetimi",
       "Kıbrıs Türk Yönetimi",
-      "Otonom Kıbrıs Türk Yönetimi"
+      "Kıbrıs Türk Federe Devleti",
+      "Genel Komite"
     ],
     "answer": "Kıbrıs Türk Yönetimi",
-    "answerLetter": "D",
+    "answerLetter": "B",
     "explanation": "1971-1974 arası Kıbrıs Türk Yönetimi dönemidir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-100",
-    "category": "Siyasi Örgütlenmeler",
+    "id": "gk-100",
+    "category": "Genel Kültür",
     "topic": "Geçici Yönetim",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "1967-1971 yılları arasında var olan siyasi örgütlenme hangisidir?",
     "options": [
+      "Geçici Kıbrıs Türk Yönetimi",
       "Kıbrıs Türk Federe Devleti",
       "Genel Komite",
-      "Geçici Kıbrıs Türk Yönetimi",
-      "Kıbrıs Türk Yönetimi",
-      "Otonom Kıbrıs Türk Yönetimi"
+      "Kıbrıs Türk Yönetimi"
     ],
     "answer": "Geçici Kıbrıs Türk Yönetimi",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "1967-1971 arası Geçici Kıbrıs Türk Yönetimi dönemidir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-101",
-    "category": "Osmanlı Dönemi",
+    "id": "gk-101",
+    "category": "Genel Kültür",
     "topic": "Fetih",
     "difficulty": "Orta",
     "question": "Kıbrıs’ın fethinin İslam hukuku açısından uygunluğunu içeren fetvayı veren şeyhülislam kimdir?",
     "options": [
       "Molla Hacı Hafız Efendi",
       "Sokullu Mehmet Paşa",
-      "Ebu Suud Efendi",
       "Durizzade Hafız Efendi",
-      "Molla Gürani"
+      "Ebu Suud Efendi"
     ],
     "answer": "Ebu Suud Efendi",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Kıbrıs’ın fethi için fetva veren şeyhülislam Ebu Suud Efendi’dir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-102",
-    "category": "Osmanlı Dönemi",
+    "id": "gk-102",
+    "category": "Genel Kültür",
     "topic": "Fetih",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Osmanlı Devleti Kıbrıs’ın fethine 2 Temmuz 1570’te hangi şehri alarak başlamış, 1 Ağustos 1571’de hangi şehirle tamamlamıştır?",
     "options": [
-      "Limasol – Mağusa",
-      "Larnaka – Mağusa",
       "Larnaka – Lefkoşa",
       "Limasol – Girne",
-      "Mağusa – Lefkoşa"
+      "Limasol – Mağusa",
+      "Larnaka – Mağusa"
     ],
     "answer": "Limasol – Mağusa",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "Fetih Limasol ile başlayıp Mağusa ile tamamlanmıştır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-103",
-    "category": "Osmanlı Dönemi",
+    "id": "gk-103",
+    "category": "Genel Kültür",
     "topic": "Fetih",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Aşağıdakilerden hangisi Kıbrıs’ın fethi sırasında serdardır?",
     "options": [
-      "II. Selim",
-      "Lala Mustafa Paşa",
-      "Ebusuud Efendi",
       "Sokullu Mehmet Paşa",
-      "Yavuz Sultan Selim"
+      "Lala Mustafa Paşa",
+      "II. Selim",
+      "Ebusuud Efendi"
     ],
     "answer": "Lala Mustafa Paşa",
     "answerLetter": "B",
     "explanation": "Serdar/ordu komutanı Lala Mustafa Paşa’dır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-104",
-    "category": "Devlet Yapısı",
+    "id": "gk-104",
+    "category": "Genel Kültür",
     "topic": "İlçeler",
     "difficulty": "Kolay",
     "question": "KKTC’de kaç ilçe vardır?",
     "options": [
+      "6",
       "4",
       "5",
-      "6",
-      "2",
-      "7"
+      "2"
     ],
     "answer": "6",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "KKTC’de 6 ilçe vardır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-105",
-    "category": "Devlet Yapısı",
+    "id": "gk-105",
+    "category": "Genel Kültür",
     "topic": "Bakanlıklar",
     "difficulty": "Orta",
     "question": "KKTC’de kaç bakanlık vardır?",
     "options": [
       "9",
       "11",
-      "10",
       "8",
-      "12"
+      "10"
     ],
     "answer": "10",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Cevap anahtarına göre bakanlık sayısı 10’dur.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-106",
-    "category": "Kıbrıs Cumhuriyeti",
+    "id": "gk-106",
+    "category": "Genel Kültür",
     "topic": "Antlaşmalar",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Kıbrıs Cumhuriyeti’nin netlik kazandığı antlaşma hangisidir?",
     "options": [
-      "Zürih Antlaşması",
       "Garanti Antlaşması",
-      "Londra Antlaşması",
       "Askeri İttifak Antlaşması",
-      "Sevr Antlaşması"
+      "Londra Antlaşması",
+      "Zürih Antlaşması"
     ],
     "answer": "Londra Antlaşması",
     "answerLetter": "C",
     "explanation": "Cevap anahtarına göre doğru cevap Londra Antlaşması’dır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-107",
-    "category": "Kıbrıs Cumhuriyeti",
+    "id": "gk-107",
+    "category": "Genel Kültür",
     "topic": "Antlaşmalar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Londra Antlaşması’nın tarihi nedir?",
     "options": [
-      "19 Şubat 1979",
-      "20 Şubat 1959",
-      "19 Şubat 1959",
       "16 Ağustos 1960",
-      "21 Şubat 1959"
+      "19 Şubat 1959",
+      "19 Şubat 1979",
+      "20 Şubat 1959"
     ],
     "answer": "19 Şubat 1959",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Londra Antlaşması 19 Şubat 1959’dur.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-108",
-    "category": "Osmanlı Dönemi",
+    "id": "gk-108",
+    "category": "Genel Kültür",
     "topic": "Fetih",
     "difficulty": "Kolay",
     "question": "Osmanlı’nın son fethettiği şehir hangisidir?",
     "options": [
+      "Mağusa",
       "Girne",
       "Baf",
-      "Limasol",
-      "Mağusa",
-      "Larnaka"
+      "Limasol"
     ],
     "answer": "Mağusa",
-    "answerLetter": "D",
+    "answerLetter": "A",
     "explanation": "Kıbrıs’ın fethi Mağusa’nın alınmasıyla tamamlanmıştır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-109",
-    "category": "Turizm",
+    "id": "gk-109",
+    "category": "Genel Kültür",
     "topic": "Bufavento",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Bufavento Kalesi hangi dağ üzerinde yer almaktadır?",
     "options": [
       "Lapta dağları",
-      "Beşparmak dağları",
       "Kantara dağları",
       "Karpaz dağları",
-      "Kayalar dağları"
+      "Beşparmak dağları"
     ],
     "answer": "Beşparmak dağları",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Bufavento Beşparmak Dağları üzerindedir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-110",
-    "category": "Devlet Yapısı",
+    "id": "gk-110",
+    "category": "Genel Kültür",
     "topic": "KKTC Öncesi",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "KKTC kurulmadan önceki yönetimin adı hangisidir?",
     "options": [
-      "Genel Komite",
-      "Kıbrıs Türk Federe Devleti",
       "Otonom Türk Yönetimi",
       "Geçici Kıbrıs Türk Yönetimi",
-      "Kıbrıs Türk Yönetimi"
+      "Kıbrıs Türk Federe Devleti",
+      "Genel Komite"
     ],
     "answer": "Kıbrıs Türk Federe Devleti",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "KKTC’den önceki yapı Kıbrıs Türk Federe Devleti’dir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-111",
-    "category": "Dış Temsilcilik",
+    "id": "gk-111",
+    "category": "Genel Kültür",
     "topic": "Genel Kültür",
     "difficulty": "Orta",
     "question": "Aşağıdaki ülkelerin hangisinde temsilciliğimiz yoktur?",
     "options": [
-      "ABD",
-      "İtalya",
       "Belçika",
       "Çin",
-      "Kırgızistan"
+      "ABD",
+      "İtalya"
     ],
     "answer": "Çin",
-    "answerLetter": "D",
+    "answerLetter": "B",
     "explanation": "Cevap anahtarına göre Çin’de temsilcilik yoktur.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-112",
-    "category": "Coğrafya",
+    "id": "gk-112",
+    "category": "Genel Kültür",
     "topic": "Komşular",
     "difficulty": "Kolay",
     "question": "Aşağıdakilerden hangisi Kıbrıs’ın kuzey komşusudur?",
@@ -2005,233 +2007,233 @@ window.QUESTIONS = [
       "Türkiye",
       "Yunanistan",
       "Suriye",
-      "Libya",
-      "Mısır"
+      "Libya"
     ],
     "answer": "Türkiye",
     "answerLetter": "A",
     "explanation": "Kıbrıs’ın kuzeyinde Türkiye yer alır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-113",
-    "category": "Coğrafya",
+    "id": "gk-113",
+    "category": "Genel Kültür",
     "topic": "Komşular",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Aşağıdakilerden hangisi Kıbrıs’ın güneydoğu komşusudur?",
     "options": [
       "Türkiye",
       "Yunanistan",
       "Suriye",
-      "İsrail",
-      "Mısır"
+      "İsrail"
     ],
     "answer": "İsrail",
     "answerLetter": "D",
     "explanation": "Kıbrıs’ın güneydoğu komşusu İsrail olarak verilmiştir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-114",
-    "category": "Coğrafya",
+    "id": "gk-114",
+    "category": "Genel Kültür",
     "topic": "Komşular",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Aşağıdakilerden hangisi Kıbrıs’ın güney komşusudur?",
     "options": [
-      "Türkiye",
       "Yunanistan",
       "Suriye",
-      "Libya",
-      "Mısır"
+      "Mısır",
+      "Türkiye"
     ],
     "answer": "Mısır",
-    "answerLetter": "E",
+    "answerLetter": "C",
     "explanation": "Kıbrıs’ın güney komşusu Mısır’dır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-115",
-    "category": "Coğrafya",
+    "id": "gk-115",
+    "category": "Genel Kültür",
     "topic": "Komşular",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Aşağıdakilerden hangisi Kıbrıs’ın güneybatı komşusudur?",
     "options": [
-      "Türkiye",
-      "Yunanistan",
       "Suriye",
       "Libya",
-      "Mısır"
+      "Türkiye",
+      "Yunanistan"
     ],
     "answer": "Libya",
-    "answerLetter": "D",
+    "answerLetter": "B",
     "explanation": "Kıbrıs’ın güneybatı komşusu Libya olarak verilmiştir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-116",
-    "category": "Coğrafya",
+    "id": "gk-116",
+    "category": "Genel Kültür",
     "topic": "Komşular",
     "difficulty": "Kolay",
     "question": "Aşağıdakilerden hangisi Kıbrıs’ın kuzeybatı komşusudur?",
     "options": [
-      "Türkiye",
       "Yunanistan",
+      "Türkiye",
       "Suriye",
-      "Libya",
-      "Mısır"
+      "Libya"
     ],
     "answer": "Yunanistan",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "Kıbrıs’ın kuzeybatı komşusu Yunanistan’dır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-117",
-    "category": "Coğrafya",
+    "id": "gk-117",
+    "category": "Genel Kültür",
     "topic": "Yüzölçümü",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Kıbrıs’ın toplam yüzölçümü kaç kilometrekaredir?",
     "options": [
       "3242",
-      "9251",
       "5509",
       "244",
-      "256"
+      "9251"
     ],
     "answer": "9251",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Kıbrıs adasının toplam yüzölçümü 9251 km²’dir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-118",
-    "category": "Coğrafya",
+    "id": "gk-118",
+    "category": "Genel Kültür",
     "topic": "Yüzölçümü",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "KKTC’nin toplam yüzölçümü kaç km²’dir?",
     "options": [
-      "3242",
-      "9251",
       "5509",
       "244",
-      "256"
+      "3242",
+      "9251"
     ],
     "answer": "3242",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "KKTC’nin yüzölçümü yaklaşık 3242 km² olarak verilmiştir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-119",
-    "category": "Siyasi Coğrafya",
+    "id": "gk-119",
+    "category": "Genel Kültür",
     "topic": "İngiliz Üsleri",
     "difficulty": "Orta",
     "question": "Adadaki İngiliz üslerinin yüzölçümü kaç km²’dir?",
     "options": [
-      "244",
-      "256",
-      "288",
       "9251",
-      "123"
+      "256",
+      "244",
+      "288"
     ],
     "answer": "256",
     "answerLetter": "B",
     "explanation": "İngiliz üsleri için 256 km² bilgisi verilmiştir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-120",
-    "category": "Siyasi Coğrafya",
+    "id": "gk-120",
+    "category": "Genel Kültür",
     "topic": "Ara Bölge",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Adadaki ara bölgenin yüzölçümü kaç km²’dir?",
     "options": [
       "244",
       "256",
       "288",
-      "9251",
-      "123"
+      "9251"
     ],
     "answer": "244",
     "answerLetter": "A",
     "explanation": "Ara bölgenin yüzölçümü 244 km² olarak verilmiştir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-121",
-    "category": "Festival",
+    "id": "gk-121",
+    "category": "Genel Kültür",
     "topic": "Bağ Bozumu",
     "difficulty": "Orta",
     "question": "Bağ bozumu festivali nerede yapılmaktadır?",
     "options": [
       "Yeşilırmak",
-      "Mehmetçik",
       "Bağlıköy",
       "Sipahi",
-      "Beyarmudu"
+      "Mehmetçik"
     ],
     "answer": "Mehmetçik",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Mehmetçik üzüm ve bağ bozumu festivaliyle bilinir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-122",
-    "category": "Turizm",
+    "id": "gk-122",
+    "category": "Genel Kültür",
     "topic": "Selimiye Camii",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Eski adıyla St. Sophia Katedrali olan yerin günümüzdeki adı nedir?",
     "options": [
-      "Lala Mustafa Paşa Camii",
-      "Selimiye Camii",
       "St. Barnabas Manastırı",
       "Hala Sultan Camii",
-      "St. Mamas Manastırı"
+      "Selimiye Camii",
+      "Lala Mustafa Paşa Camii"
     ],
     "answer": "Selimiye Camii",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "St. Sophia Katedrali günümüzde Selimiye Camii olarak bilinir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-123",
-    "category": "Sınır Kapıları",
+    "id": "gk-123",
+    "category": "Genel Kültür",
     "topic": "Akyar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Akyar sınır kapısı hangi ilçeye bağlıdır?",
     "options": [
-      "Güzelyurt",
-      "Lefke",
-      "Gazimağusa",
       "Lefkoşa",
-      "Girne"
+      "Gazimağusa",
+      "Güzelyurt",
+      "Lefke"
     ],
     "answer": "Gazimağusa",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Akyar sınır kapısı Gazimağusa bölgesiyle ilişkilidir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-124",
-    "category": "Devlet Yapısı",
+    "id": "gk-124",
+    "category": "Genel Kültür",
     "topic": "İlçeler",
     "difficulty": "Kolay",
     "question": "En son ilçe olarak kabul edilen bölge hangisidir?",
     "options": [
+      "Lefke",
       "Güzelyurt",
       "Bostancı",
-      "Pile",
-      "Beyarmudu",
-      "Lefke"
+      "Pile"
     ],
     "answer": "Lefke",
-    "answerLetter": "E",
+    "answerLetter": "A",
     "explanation": "Lefke son ilçe olarak kabul edilmiştir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-125",
-    "category": "1974 Barış Harekâtı",
+    "id": "gk-125",
+    "category": "Genel Kültür",
     "topic": "Tarih",
     "difficulty": "Orta",
     "question": "20 Temmuz Barış Harekâtı’ndan sonraki ilk taarruz hangi tarihte yapılmıştır?",
@@ -2239,53 +2241,53 @@ window.QUESTIONS = [
       "28 Temmuz",
       "1 Ağustos",
       "8 Ağustos",
-      "14 Ağustos",
-      "21 Ağustos"
+      "14 Ağustos"
     ],
     "answer": "14 Ağustos",
     "answerLetter": "D",
     "explanation": "İkinci harekât/taarruz 14 Ağustos ile ilişkilendirilir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-126",
-    "category": "Osmanlı Dönemi",
+    "id": "gk-126",
+    "category": "Genel Kültür",
     "topic": "İnebahtı",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Osmanlı’nın Kıbrıs fethi dönüşü gerçekleşen deniz savaşı hangisidir?",
     "options": [
-      "İnebahtı",
-      "Bozcaada",
       "Beyrut",
       "Hürmüz",
-      "Korfu"
+      "İnebahtı",
+      "Bozcaada"
     ],
     "answer": "İnebahtı",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "İnebahtı Deniz Savaşı bu bağlamda sorulur.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-127",
-    "category": "Ulaşım",
+    "id": "gk-127",
+    "category": "Genel Kültür",
     "topic": "Ercan",
     "difficulty": "Orta",
     "question": "Ercan Havaalanı hangi belediyeye bağlıdır?",
     "options": [
-      "Paşaköy",
-      "Lefkoşa",
       "Akdoğan",
-      "Meriç",
-      "Değirmenlik"
+      "Değirmenlik",
+      "Paşaköy",
+      "Lefkoşa"
     ],
     "answer": "Değirmenlik",
-    "answerLetter": "E",
+    "answerLetter": "B",
     "explanation": "Cevap anahtarına göre Ercan Havaalanı Değirmenlik belediyesine bağlıdır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-128",
-    "category": "Kültür",
+    "id": "gk-128",
+    "category": "Genel Kültür",
     "topic": "Maronitler",
     "difficulty": "Kolay",
     "question": "Maronitler günümüzde hangi köyde yaşamlarını sürdürmektedir?",
@@ -2293,143 +2295,143 @@ window.QUESTIONS = [
       "Koruçam",
       "Sadrazamköy",
       "Akdeniz",
-      "Kayalar",
-      "Geçitköy"
+      "Kayalar"
     ],
     "answer": "Koruçam",
     "answerLetter": "A",
     "explanation": "Maronitlerin önemli yerleşimi Koruçam’dır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-129",
-    "category": "Turizm",
+    "id": "gk-129",
+    "category": "Genel Kültür",
     "topic": "St. Barnabas",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "St. Barnabas Manastırı hangi ilçededir?",
     "options": [
       "İskele",
-      "Gazimağusa",
       "Lefkoşa",
       "Lefke",
-      "Girne"
+      "Gazimağusa"
     ],
     "answer": "Gazimağusa",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "St. Barnabas Manastırı Gazimağusa’dadır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-130",
-    "category": "İngiliz Dönemi",
+    "id": "gk-130",
+    "category": "Genel Kültür",
     "topic": "Valiler",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Adanın ilk İngiliz valisi kimdir?",
     "options": [
-      "Stefan Zurer",
       "Xi Ghin",
       "Ohail Zalu",
       "Malcolm Stevenson",
-      "Hristofou Hristou"
+      "Stefan Zurer"
     ],
     "answer": "Malcolm Stevenson",
-    "answerLetter": "D",
+    "answerLetter": "C",
     "explanation": "İlk İngiliz valisi Malcolm Stevenson olarak verilmiştir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-131",
-    "category": "Tarım",
+    "id": "gk-131",
+    "category": "Genel Kültür",
     "topic": "Kuru Tarım",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Ülkemizde en fazla yetiştirilen kuru tarım ürünü hangisidir?",
     "options": [
-      "Buğday",
-      "Bezelye",
-      "Arpa",
       "Nohut",
-      "Patates"
+      "Arpa",
+      "Buğday",
+      "Bezelye"
     ],
     "answer": "Arpa",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Arpa en çok ekilen tahıl/kuru tarım ürünü olarak verilmiştir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-132",
-    "category": "Turizm",
+    "id": "gk-132",
+    "category": "Genel Kültür",
     "topic": "Othello",
     "difficulty": "Kolay",
     "question": "Othello Kalesi hangi ilçededir?",
     "options": [
-      "Lefkoşa",
       "Gazimağusa",
+      "Lefkoşa",
       "Güzelyurt",
-      "Lefke",
-      "İskele"
+      "Lefke"
     ],
     "answer": "Gazimağusa",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "Othello Kalesi Gazimağusa’dadır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-133",
-    "category": "1974 Barış Harekâtı",
+    "id": "gk-133",
+    "category": "Genel Kültür",
     "topic": "Türkiye",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Barış Harekâtı’nda başbakan yardımcısı olarak kim görev yapmaktaydı?",
     "options": [
       "Bülent Ecevit",
       "Tansu Çiller",
-      "Necmettin Erbakan",
       "Adnan Necdet",
-      "İsmail Safa"
+      "Necmettin Erbakan"
     ],
     "answer": "Necmettin Erbakan",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Başbakan yardımcısı Necmettin Erbakan’dır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-134",
-    "category": "1974 Barış Harekâtı",
+    "id": "gk-134",
+    "category": "Genel Kültür",
     "topic": "Türkiye",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "1974 Barış Harekâtı döneminde Türkiye’de Genelkurmay Başkanı kimdir?",
     "options": [
-      "Turan Güneş",
       "Hasan Fehmi Güneş",
-      "Semih Sancar",
       "Necmettin Erbakan",
-      "Deniz Baykal"
+      "Semih Sancar",
+      "Turan Güneş"
     ],
     "answer": "Semih Sancar",
     "answerLetter": "C",
     "explanation": "Genelkurmay Başkanı Semih Sancar’dır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-135",
-    "category": "Lefkoşa",
+    "id": "gk-135",
+    "category": "Genel Kültür",
     "topic": "Surlar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Lefkoşa surları kaç burçtan oluşur?",
     "options": [
+      "14",
       "11",
       "12",
-      "13",
-      "14",
-      "15"
+      "13"
     ],
     "answer": "11",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Lefkoşa surları 11 burçtan oluşur.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-136",
-    "category": "Turizm",
+    "id": "gk-136",
+    "category": "Genel Kültür",
     "topic": "Kantara",
     "difficulty": "Kolay",
     "question": "Kantara Kalesi hangi bölgededir?",
@@ -2437,89 +2439,89 @@ window.QUESTIONS = [
       "İskele",
       "Mağusa",
       "Lefke",
-      "Lefkoşa",
-      "Güzelyurt"
+      "Lefkoşa"
     ],
     "answer": "İskele",
     "answerLetter": "A",
     "explanation": "Kantara Kalesi İskele/Karpaz bölgesiyle ilişkilidir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-137",
-    "category": "Antlaşmalar",
+    "id": "gk-137",
+    "category": "Genel Kültür",
     "topic": "Zürih",
     "difficulty": "Orta",
     "question": "Zürih Antlaşması hangi tarihte imzalandı?",
     "options": [
-      "11 Şubat 1959",
       "19 Şubat 1959",
       "21 Şubat 1959",
       "14 Ağustos 1974",
-      "16 Ağustos 1974"
+      "11 Şubat 1959"
     ],
     "answer": "11 Şubat 1959",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "Cevap anahtarına göre Zürih Antlaşması 11 Şubat 1959’dur.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-138",
-    "category": "Antlaşmalar",
+    "id": "gk-138",
+    "category": "Genel Kültür",
     "topic": "Londra",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Londra Antlaşması hangi tarihte imzalandı?",
     "options": [
-      "11 Şubat 1959",
-      "19 Şubat 1959",
       "21 Şubat 1959",
       "14 Ağustos 1974",
-      "16 Ağustos 1974"
+      "19 Şubat 1959",
+      "11 Şubat 1959"
     ],
     "answer": "19 Şubat 1959",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Londra Antlaşması 19 Şubat 1959’da imzalanmıştır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-139",
-    "category": "Coğrafya",
+    "id": "gk-139",
+    "category": "Genel Kültür",
     "topic": "Girne Dağları",
     "difficulty": "Orta",
     "question": "Selvili Tepe hangi dağ üzerindedir?",
     "options": [
+      "Karpaz Dağları",
       "Lapta Dağları",
       "Kantara Dağları",
-      "Beşparmak Dağları",
-      "Karpaz Dağları",
-      "Troodos Dağları"
+      "Beşparmak Dağları"
     ],
     "answer": "Lapta Dağları",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Selvili/Birkan Uzun Selvili Tepe Lapta Dağları üzerindedir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-140",
-    "category": "Liderler",
+    "id": "gk-140",
+    "category": "Genel Kültür",
     "topic": "Rauf Denktaş",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Rauf Raif Denktaş’ın ölüm yıldönümü hangi tarihtir?",
     "options": [
       "13 Ocak 2012",
       "14 Ocak 2012",
       "13 Ocak 2013",
-      "14 Ocak 2014",
-      "12 Ocak 2015"
+      "14 Ocak 2014"
     ],
     "answer": "13 Ocak 2012",
     "answerLetter": "A",
     "explanation": "Rauf Raif Denktaş 13 Ocak 2012’de vefat etmiştir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-141",
-    "category": "Bakanlıklar",
+    "id": "gk-141",
+    "category": "Genel Kültür",
     "topic": "Güncel",
     "difficulty": "Orta",
     "question": "Aşağıda verilen bakanlık isimlerinden hangisi yanlıştır?",
@@ -2527,286 +2529,286 @@ window.QUESTIONS = [
       "Tarım ve Doğal Kaynaklar Bakanlığı",
       "Ekonomi ve Enerji Bakanlığı",
       "Dışişleri Bakanlığı",
-      "Milli Eğitim ve Kültür Bakanlığı",
-      "İçişleri Bakanlığı"
+      "Milli Eğitim ve Kültür Bakanlığı"
     ],
     "answer": "Milli Eğitim ve Kültür Bakanlığı",
     "answerLetter": "D",
     "explanation": "Cevap anahtarına göre yanlış olan D seçeneğidir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-142",
-    "category": "İngiliz Dönemi",
+    "id": "gk-142",
+    "category": "Genel Kültür",
     "topic": "Kazalar",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Kıbrıs İngiliz idaresindeyken kaç kazaya ayrılmıştı?",
     "options": [
-      "2",
       "3",
       "4",
-      "5",
-      "6"
+      "6",
+      "2"
     ],
     "answer": "6",
-    "answerLetter": "E",
+    "answerLetter": "C",
     "explanation": "İngilizler adayı 6 kazaya ayırmıştır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-143",
-    "category": "Turizm",
+    "id": "gk-143",
+    "category": "Genel Kültür",
     "topic": "Othello",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Shakespeare’in Othello oyununa konu olan ve Othello Kalesi olarak da bilinen yer nerededir?",
     "options": [
+      "Güzelyurt",
       "Mağusa",
       "Girne",
-      "Lefkoşa",
-      "Güzelyurt",
-      "Lefke"
+      "Lefkoşa"
     ],
     "answer": "Mağusa",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Othello Kalesi Gazimağusa’dadır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-144",
-    "category": "Kültür",
+    "id": "gk-144",
+    "category": "Genel Kültür",
     "topic": "Eserler",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Aşağıdaki eserlerden hangisi KKTC sınırları içinde yer almaz?",
     "options": [
+      "Hala Sultan Tekkesi",
       "Büyük Han",
       "Mevlevi Tekkesi",
-      "Derviş Paşa Konağı",
-      "Hala Sultan Tekkesi",
-      "Lala Mustafa Paşa Camii"
+      "Derviş Paşa Konağı"
     ],
     "answer": "Hala Sultan Tekkesi",
-    "answerLetter": "D",
+    "answerLetter": "A",
     "explanation": "Hala Sultan Tekkesi Larnaka’dadır ve KKTC sınırlarında değildir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-145",
-    "category": "Çevre",
+    "id": "gk-145",
+    "category": "Genel Kültür",
     "topic": "CMC",
     "difficulty": "Orta",
     "question": "CMC atıklarıyla karşı karşıya kalan yerleşim yeri hangisidir?",
     "options": [
       "Haspolat – Lefkoşa",
       "Çayırova – İskele",
-      "Gemikonağı – Lefke",
       "Çatalköy – Girne",
-      "Bostancı – Güzelyurt"
+      "Gemikonağı – Lefke"
     ],
     "answer": "Gemikonağı – Lefke",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "CMC sorunu Gemikonağı-Lefke ile ilişkilidir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-146",
-    "category": "Turizm",
+    "id": "gk-146",
+    "category": "Genel Kültür",
     "topic": "Girne",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Aşağıdaki mekanlardan hangisi Girne ilçesi sınırları içinde değildir?",
     "options": [
-      "Hz. Ömer Tekkesi",
       "St. Hilarion Kalesi",
       "Mavi Köşk",
       "Kantara Kalesi",
-      "Bufavento Kalesi"
+      "Hz. Ömer Tekkesi"
     ],
     "answer": "Kantara Kalesi",
-    "answerLetter": "D",
+    "answerLetter": "C",
     "explanation": "Kantara Kalesi Girne’de değildir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-147",
-    "category": "İngiliz Dönemi",
+    "id": "gk-147",
+    "category": "Genel Kültür",
     "topic": "Valiler",
     "difficulty": "Orta",
     "question": "İngiltere adına 1957-1960 yılları arasında Kıbrıs’ta görev yapan son sömürge valisi kimdir?",
     "options": [
-      "Garnet Joseph Wolseley",
-      "Malcolm Stevenson",
-      "Sir Hugh Foot",
       "Mac Millan",
-      "John Eugene Clauson"
+      "Sir Hugh Foot",
+      "Garnet Joseph Wolseley",
+      "Malcolm Stevenson"
     ],
     "answer": "Sir Hugh Foot",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Son İngiliz valisi Sir Hugh Foot’tur.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-148",
-    "category": "Siyasi Örgütlenmeler",
+    "id": "gk-148",
+    "category": "Genel Kültür",
     "topic": "KTFD",
     "difficulty": "Kolay",
     "question": "1975’ten 1983’e kadar Kıbrıs Türklerinin oluşturduğu siyasi örgütlenme hangisidir?",
     "options": [
+      "Kıbrıs Türk Federe Devleti",
       "Genel Komite",
       "Kıbrıs Türk Yönetimi",
-      "Kıbrıs Türk Federe Devleti",
-      "Otonom Kıbrıs Türk Yönetimi",
-      "Kuzey Kıbrıs Türk Cumhuriyeti"
+      "Otonom Kıbrıs Türk Yönetimi"
     ],
     "answer": "Kıbrıs Türk Federe Devleti",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "1975-1983 arası Kıbrıs Türk Federe Devleti dönemidir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-149",
-    "category": "Bayrak",
+    "id": "gk-149",
+    "category": "Genel Kültür",
     "topic": "KKTC Bayrağı",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "KKTC bayrağı kim tarafından çizilmiştir?",
     "options": [
       "İsmet Vehit Güney",
-      "Emin Çizenel",
       "Necmettin Erbakan",
       "Abdülmecid",
-      "Selahaddin Eyyubi"
+      "Emin Çizenel"
     ],
     "answer": "Emin Çizenel",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "KKTC bayrağı Emin Çizenel tarafından çizilmiştir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-150",
-    "category": "Coğrafya",
+    "id": "gk-150",
+    "category": "Genel Kültür",
     "topic": "Boğazlar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "En batıda yer alan boğaz hangisidir?",
     "options": [
-      "Geçitköy (Panagra) Boğazı",
-      "Girne Boğazı",
       "Mersinlik Geçidi",
       "Lapta Dağları",
-      "Kayalar Dağları"
+      "Geçitköy (Panagra) Boğazı",
+      "Girne Boğazı"
     ],
     "answer": "Geçitköy (Panagra) Boğazı",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "En batıdaki boğaz Geçitköy/Panagra Boğazı’dır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-151",
-    "category": "İklim",
+    "id": "gk-151",
+    "category": "Genel Kültür",
     "topic": "Troodos",
     "difficulty": "Orta",
     "question": "Troodos Dağları iklimi aşağıdakilerden hangisidir?",
     "options": [
-      "Girne Dağları İklimi",
-      "Mesarya (İçova) İklimi",
-      "Akdeniz Yakını Dağ İklimi",
       "Cephe Yağışları",
-      "Yamaç İklimi"
+      "Akdeniz Yakını Dağ İklimi",
+      "Girne Dağları İklimi",
+      "Mesarya (İçova) İklimi"
     ],
     "answer": "Akdeniz Yakını Dağ İklimi",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Troodos’ta yükselti nedeniyle Akdeniz yakını dağ iklimi görülür.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-152",
-    "category": "Siyasi Coğrafya",
+    "id": "gk-152",
+    "category": "Genel Kültür",
     "topic": "Yeşil Hat",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Yeşil Hat ismi kim tarafından verilmiştir?",
     "options": [
+      "İngiliz General Peter Young",
       "Rauf Raif Denktaş",
       "Cengiz Topel",
-      "İngiliz General Peter Young",
-      "Makarios",
-      "Kemal Tunç"
+      "Makarios"
     ],
     "answer": "İngiliz General Peter Young",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "Yeşil Hat ismi İngiliz General Peter Young ile ilişkilidir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-153",
-    "category": "Basın",
+    "id": "gk-153",
+    "category": "Genel Kültür",
     "topic": "Halkın Sesi",
     "difficulty": "Orta",
     "question": "Halkın Sesi gazetesi 14 Mart 1942 tarihinde kim tarafından kurulmuştur?",
     "options": [
       "Rauf Raif Denktaş",
-      "Dr. Fazıl Küçük",
       "Faiz Kaymak",
       "Necati Özkan",
-      "Ali Rıza Vuruşkan"
+      "Dr. Fazıl Küçük"
     ],
     "answer": "Dr. Fazıl Küçük",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Halkın Sesi gazetesi Dr. Fazıl Küçük tarafından kurulmuştur.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-154",
-    "category": "Devlet Yapısı",
+    "id": "gk-154",
+    "category": "Genel Kültür",
     "topic": "Meclis",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "KKTC Meclisi kaç milletvekilinden oluşmaktadır?",
     "options": [
-      "30",
-      "50",
       "25",
       "60",
-      "100"
+      "50",
+      "30"
     ],
     "answer": "50",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "KKTC Cumhuriyet Meclisi 50 milletvekilinden oluşur.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-155",
-    "category": "Tarım",
+    "id": "gk-155",
+    "category": "Genel Kültür",
     "topic": "Organik",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Hiçbir kimyasal ilaç kullanılmadan yapılan tarıma ne ad verilir?",
     "options": [
-      "Turfanda tarım",
-      "Seracılık",
-      "Organik tarım",
       "Sulu tarım",
-      "Kuru tarım"
+      "Organik tarım",
+      "Turfanda tarım",
+      "Seracılık"
     ],
     "answer": "Organik tarım",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Kimyasal ilaç kullanılmadan yapılan tarım organik tarımdır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-156",
-    "category": "Coğrafya",
+    "id": "gk-156",
+    "category": "Genel Kültür",
     "topic": "İlçeler",
     "difficulty": "Kolay",
     "question": "Kıbrıs adasında toplam kaç ilçe vardır?",
     "options": [
+      "9",
       "6",
       "3",
-      "9",
-      "5",
-      "10"
+      "5"
     ],
     "answer": "9",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "Cevap anahtarına göre ada genelinde toplam 9 ilçe vardır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-157",
+    "id": "gk-157",
     "category": "Genel Kültür",
     "topic": "Türk Devletleri Teşkilatı",
     "difficulty": "Orta",
@@ -2815,110 +2817,1694 @@ window.QUESTIONS = [
       "Türkiye",
       "Azerbaycan",
       "Özbekistan",
-      "Kazakistan",
       "Türkmenistan"
     ],
     "answer": "Türkmenistan",
-    "answerLetter": "E",
+    "answerLetter": "D",
     "explanation": "Türkmenistan üye değil, gözlemci statüsündedir.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-158",
-    "category": "Meteoroloji",
+    "id": "gk-158",
+    "category": "Genel Kültür",
     "topic": "Bakanlık",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Meteoroloji Dairesi hangi bakanlığa bağlıdır?",
     "options": [
-      "Bayındırlık ve Ulaştırma Bakanlığı",
-      "İçişleri Bakanlığı",
       "Ekonomi ve Enerji Bakanlığı",
       "Milli Eğitim Bakanlığı",
-      "Dışişleri Bakanlığı"
+      "Bayındırlık ve Ulaştırma Bakanlığı",
+      "İçişleri Bakanlığı"
     ],
     "answer": "Bayındırlık ve Ulaştırma Bakanlığı",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "Cevap anahtarına göre Meteoroloji Dairesi Bayındırlık ve Ulaştırma Bakanlığı’na bağlıdır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-159",
-    "category": "Toprak",
+    "id": "gk-159",
+    "category": "Genel Kültür",
     "topic": "Mesarya",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Mesarya Ovası’nda görülen toprak çeşidi hangisidir?",
     "options": [
+      "Kırmızı renkli Akdeniz toprağı",
       "Step toprağı",
       "Kahverengi orman toprağı",
-      "Alüvyal toprak",
-      "Kırmızı renkli Akdeniz toprağı",
-      "Çernezyum topraklar"
+      "Alüvyal toprak"
     ],
     "answer": "Step toprağı",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Mesarya’da kestane/step toprakları yaygındır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-160",
-    "category": "Toprak",
+    "id": "gk-160",
+    "category": "Genel Kültür",
     "topic": "Ada Geneli",
     "difficulty": "Kolay",
     "question": "Ada genelinde iklime bağlı olarak en yaygın görülen toprak çeşidi hangisidir?",
     "options": [
+      "Kırmızı renkli Akdeniz toprağı",
       "Step toprağı",
       "Kahverengi orman toprağı",
-      "Alüvyal toprak",
-      "Kırmızı renkli Akdeniz toprağı",
-      "Çernezyum topraklar"
+      "Alüvyal toprak"
     ],
     "answer": "Kırmızı renkli Akdeniz toprağı",
-    "answerLetter": "D",
+    "answerLetter": "A",
     "explanation": "Ada genelinde kırmızı renkli Akdeniz toprağı yaygındır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-161",
-    "category": "Toprak",
+    "id": "gk-161",
+    "category": "Genel Kültür",
     "topic": "Güzelyurt",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Güzelyurt Ovası’nda görülen toprak çeşidi hangisidir?",
     "options": [
       "Step toprağı",
       "Kahverengi orman toprağı",
-      "Alüvyal toprak",
       "Kırmızı renkli Akdeniz toprağı",
-      "Çernezyum topraklar"
+      "Alüvyal toprak"
     ],
     "answer": "Alüvyal toprak",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Güzelyurt Ovası’nda alüvyal topraklar yaygındır.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
-    "id": "sqv7-162",
-    "category": "TMT",
+    "id": "gk-162",
+    "category": "Genel Kültür",
     "topic": "Kod İsimler",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "TMT’de Denktaş’a verilen kod isim nedir?",
     "options": [
-      "Bereketçi",
       "Bozkurt",
       "Ağrı",
       "Toros",
-      "Bayraktar"
+      "Bereketçi"
     ],
     "answer": "Toros",
-    "answerLetter": "D",
+    "answerLetter": "C",
     "explanation": "Rauf Denktaş’ın TMT kod adı Toros’tur.",
-    "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-163",
+    "category": "Genel Kültür",
+    "topic": "Burunlar",
+    "difficulty": "Kolay",
+    "question": "Kıbrıs’ın en güney burnu neresidir? (Konu tekrarı)",
+    "options": [
+      "Doğan Burnu",
+      "Zafer Burnu",
+      "Arnavut Burnu",
+      "Poyraz Burnu"
+    ],
+    "answer": "Doğan Burnu",
+    "answerLetter": "A",
+    "explanation": "Doğan Burnu, Kıbrıs’ın en güney burnu olarak bilinir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-164",
+    "category": "Genel Kültür",
+    "topic": "1974 Barış Harekâtı",
+    "difficulty": "Orta",
+    "question": "1974 Kıbrıs Barış Harekâtı sırasında Türkiye Cumhuriyeti Başbakan Yardımcısı kimdi? (Konu tekrarı)",
+    "options": [
+      "Semih Sancar",
+      "Bülent Ecevit",
+      "Fahri Korutürk",
+      "Necmettin Erbakan"
+    ],
+    "answer": "Necmettin Erbakan",
+    "answerLetter": "D",
+    "explanation": "1974 döneminde Başbakan Yardımcısı Necmettin Erbakan’dır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-165",
+    "category": "Genel Kültür",
+    "topic": "Fetih",
+    "difficulty": "Zor",
+    "question": "Kıbrıs’ın fethi sırasında ordu komutanı kimdi? (Konu tekrarı)",
+    "options": [
+      "Osmanlı Şeyhülislamı",
+      "Hz. Osman",
+      "Lala Mustafa Paşa",
+      "Piyale Paşa"
+    ],
+    "answer": "Lala Mustafa Paşa",
+    "answerLetter": "C",
+    "explanation": "Kıbrıs’ın fethinde serdar/ordu komutanı Lala Mustafa Paşa’dır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-166",
+    "category": "Genel Kültür",
+    "topic": "Fetih",
+    "difficulty": "Orta",
+    "question": "Kıbrıs’ın fethi sırasında donanma komutanı kimdi? (Konu tekrarı)",
+    "options": [
+      "Hz. Osman",
+      "Piyale Paşa",
+      "Lala Mustafa Paşa",
+      "Osmanlı Şeyhülislamı"
+    ],
+    "answer": "Piyale Paşa",
+    "answerLetter": "B",
+    "explanation": "Kıbrıs seferinde donanma komutanı Piyale Paşa’dır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-167",
+    "category": "Genel Kültür",
+    "topic": "Bakır",
+    "difficulty": "Kolay",
+    "question": "Tunç Dönemi’nde Troodos Dağları’ndaki bakır madeninin Kıbrıs’ta ilk çıktığı köyün Rumca adı nedir? (Konu tekrarı)",
+    "options": [
+      "Ambeligu (Bağlıköy)",
+      "Poli",
+      "Piroyi",
+      "Afanya"
+    ],
+    "answer": "Ambeligu (Bağlıköy)",
+    "answerLetter": "A",
+    "explanation": "Soru bankası cevabına göre doğru cevap Ambeligu yani Bağlıköy’dür.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-168",
+    "category": "Genel Kültür",
+    "topic": "Dünya’nın Dönüşü",
+    "difficulty": "Orta",
+    "question": "Güneş doğudan doğup batıdan batmaktadır. Buna göre Dünya’nın dönüş yönü nedir? (Konu tekrarı)",
+    "options": [
+      "Doğudan batıya doğru",
+      "Kuzeyden güneye doğru",
+      "Kuzey batıdan güney doğuya",
+      "Batıdan doğuya doğru"
+    ],
+    "answer": "Batıdan doğuya doğru",
+    "answerLetter": "D",
+    "explanation": "Dünya batıdan doğuya doğru döner.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-169",
+    "category": "Genel Kültür",
+    "topic": "Maronitler",
+    "difficulty": "Zor",
+    "question": "Kıbrıs’ta Maronitler nerede yaşamaktadır? (Konu tekrarı)",
+    "options": [
+      "Gaziköy",
+      "Kaleburnu",
+      "Koruçam",
+      "Yeniceköy"
+    ],
+    "answer": "Koruçam",
+    "answerLetter": "C",
+    "explanation": "Maronitlerin Kıbrıs’ta bilinen yerleşimi Koruçam’dır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-170",
+    "category": "Genel Kültür",
+    "topic": "Müzeler",
+    "difficulty": "Orta",
+    "question": "Batık gemi nerede sergilenir? (Konu tekrarı)",
+    "options": [
+      "Mevlevi Tekkesi Müzesi",
+      "Girne Kalesi Müzesi",
+      "Kıbrıs Müzesi",
+      "Barbarlık Müzesi"
+    ],
+    "answer": "Girne Kalesi Müzesi",
+    "answerLetter": "B",
+    "explanation": "Girne batığı, Girne Kalesi Müzesi ile ilişkilidir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-171",
+    "category": "Genel Kültür",
+    "topic": "İngiliz Üsleri",
+    "difficulty": "Kolay",
+    "question": "Ağrotur üssü günümüzde hangi ilçeye bağlıdır? (Konu tekrarı)",
+    "options": [
+      "Limasol",
+      "Larnaka",
+      "Lefkoşa",
+      "Baf"
+    ],
+    "answer": "Limasol",
+    "answerLetter": "A",
+    "explanation": "Ağrotur üssü Limasol bölgesiyle ilişkilidir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-172",
+    "category": "Genel Kültür",
+    "topic": "Komşular",
+    "difficulty": "Orta",
+    "question": "Kıbrıs’ın güney komşusu hangi ülkedir? (Konu tekrarı)",
+    "options": [
+      "Türkiye",
+      "Yunanistan",
+      "Suriye",
+      "Mısır"
+    ],
+    "answer": "Mısır",
+    "answerLetter": "D",
+    "explanation": "Kıbrıs’ın güneyinde Mısır yer alır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-173",
+    "category": "Genel Kültür",
+    "topic": "Yüzölçümü",
+    "difficulty": "Zor",
+    "question": "Kıbrıs’ın yüzölçümü nedir? (Konu tekrarı)",
+    "options": [
+      "9252 km²",
+      "3242 km²",
+      "9251 km²",
+      "9250 km²"
+    ],
+    "answer": "9251 km²",
+    "answerLetter": "C",
+    "explanation": "Kıbrıs adasının toplam yüzölçümü 9251 km² olarak verilmiştir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-174",
+    "category": "Genel Kültür",
+    "topic": "KTFD",
+    "difficulty": "Orta",
+    "question": "Kıbrıs Türk Federe Devleti’nin ilk devlet başkanı ve KKTC’nin ilk cumhurbaşkanı olan kişi kimdir? (Konu tekrarı)",
+    "options": [
+      "Dr. Fazıl Küçük",
+      "Rauf Raif Denktaş",
+      "Nejat Konuk",
+      "Derviş Eroğlu"
+    ],
+    "answer": "Rauf Raif Denktaş",
+    "answerLetter": "B",
+    "explanation": "Rauf Raif Denktaş hem KTFD’nin ilk devlet başkanı hem de KKTC’nin kurucu cumhurbaşkanıdır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-175",
+    "category": "Genel Kültür",
+    "topic": "KTFD",
+    "difficulty": "Kolay",
+    "question": "Kıbrıs Türk Federe Devleti’nin ilk başbakanı kimdir? (Konu tekrarı)",
+    "options": [
+      "Nejat Konuk",
+      "Mustafa Çağatay",
+      "Derviş Eroğlu",
+      "Dr. Fazıl Küçük"
+    ],
+    "answer": "Nejat Konuk",
+    "answerLetter": "A",
+    "explanation": "KTFD’nin ilk başbakanı Nejat Konuk’tur.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-176",
+    "category": "Genel Kültür",
+    "topic": "Kuruluş",
+    "difficulty": "Orta",
+    "question": "TMT hangi tarihte kuruldu? (Konu tekrarı)",
+    "options": [
+      "1 Ağustos 1957",
+      "1 Ağustos 1959",
+      "1 Ağustos 1960",
+      "1 Ağustos 1958"
+    ],
+    "answer": "1 Ağustos 1958",
+    "answerLetter": "D",
+    "explanation": "Türk Mukavemet Teşkilatı 1 Ağustos 1958’de kurulmuştur.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-177",
+    "category": "Genel Kültür",
+    "topic": "İklim",
+    "difficulty": "Zor",
+    "question": "Kıbrıs adası hangi iklim kuşağında yer almaktadır? (Konu tekrarı)",
+    "options": [
+      "Tropikal Kuşak",
+      "Ekvatoral Kuşak",
+      "Orta Kuşak",
+      "Kutup Kuşağı"
+    ],
+    "answer": "Orta Kuşak",
+    "answerLetter": "C",
+    "explanation": "Kıbrıs matematik iklim kuşağı bakımından orta kuşakta yer alır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-178",
+    "category": "Genel Kültür",
+    "topic": "İklim",
+    "difficulty": "Orta",
+    "question": "Kıbrıs adası hangi sıcaklık kuşağında yer almaktadır? (Konu tekrarı)",
+    "options": [
+      "Tropikal Kuşak",
+      "Ilıman Kuşak",
+      "Soğuk Kuşak",
+      "Sıcak Kuşak"
+    ],
+    "answer": "Ilıman Kuşak",
+    "answerLetter": "B",
+    "explanation": "Kıbrıs sıcaklık kuşağı bakımından ılıman kuşakta yer alır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-179",
+    "category": "Genel Kültür",
+    "topic": "Fetih",
+    "difficulty": "Kolay",
+    "question": "Osmanlılar Kıbrıs’ı kimden almıştır? (Konu tekrarı)",
+    "options": [
+      "Venedik",
+      "Lüzinyan",
+      "Hitit",
+      "Asurlular"
+    ],
+    "answer": "Venedik",
+    "answerLetter": "A",
+    "explanation": "Osmanlılar Kıbrıs’ı Venediklilerden almıştır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-180",
+    "category": "Genel Kültür",
+    "topic": "Yaya Geçişi",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisi sadece yaya geçişlerine açık sınır kapısıdır? (Konu tekrarı)",
+    "options": [
+      "Metehan",
+      "Bostancı",
+      "Akyar",
+      "Lokmacı"
+    ],
+    "answer": "Lokmacı",
+    "answerLetter": "D",
+    "explanation": "Lokmacı sınır kapısı yaya geçişiyle bilinir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-181",
+    "category": "Genel Kültür",
+    "topic": "Selimiye Camii",
+    "difficulty": "Zor",
+    "question": "Selimiye Camii’nin eski ismi nedir? (Konu tekrarı)",
+    "options": [
+      "St. Barnabas Manastırı",
+      "Bufavento Kalesi",
+      "St. Sophia Katedrali",
+      "St. Nicholas Katedrali"
+    ],
+    "answer": "St. Sophia Katedrali",
+    "answerLetter": "C",
+    "explanation": "Selimiye Camii’nin eski adı St. Sophia Katedrali’dir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-182",
+    "category": "Genel Kültür",
+    "topic": "Evkaf",
+    "difficulty": "Orta",
+    "question": "Evkaf hangi yılda Türklere devredildi? (Konu tekrarı)",
+    "options": [
+      "2 Temmuz 1955",
+      "15 Nisan 1956",
+      "6 Şubat 1955",
+      "19 Mart 1955"
+    ],
+    "answer": "15 Nisan 1956",
+    "answerLetter": "B",
+    "explanation": "Cevap anahtarına göre doğru cevap 15 Nisan 1956’dır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-183",
+    "category": "Genel Kültür",
+    "topic": "Namık Kemal",
+    "difficulty": "Kolay",
+    "question": "Namık Kemal’in sürgün edildiği bölge neresidir? (Konu tekrarı)",
+    "options": [
+      "Mağusa",
+      "Girne",
+      "Güzelyurt",
+      "İskele"
+    ],
+    "answer": "Mağusa",
+    "answerLetter": "A",
+    "explanation": "Namık Kemal Mağusa’ya sürgün edilmiştir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-184",
+    "category": "Genel Kültür",
+    "topic": "Egemenlik",
+    "difficulty": "Orta",
+    "question": "Lüzinyanlılardan sonra ada kimlerin eline geçmiştir? (Konu tekrarı)",
+    "options": [
+      "İngilizler",
+      "Yunanlılar",
+      "Mevleviler",
+      "Venedikliler"
+    ],
+    "answer": "Venedikliler",
+    "answerLetter": "D",
+    "explanation": "Lüzinyanlılardan sonra ada Venediklilerin hâkimiyetine geçmiştir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-185",
+    "category": "Genel Kültür",
+    "topic": "Muflon",
+    "difficulty": "Zor",
+    "question": "Nesli tükenmek üzere olan ve Troodos Dağları’nda yaşam alanı bulunan hayvan hangisidir? (Konu tekrarı)",
+    "options": [
+      "Pullu Ötleğen",
+      "Kıbrıs Kuyrukkakanı",
+      "Muflon",
+      "Kıbrıs İshakkuşu"
+    ],
+    "answer": "Muflon",
+    "answerLetter": "C",
+    "explanation": "Muflon, Troodos Dağları’nda yaşayan ve sembol olarak kullanılan türdür.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-186",
+    "category": "Genel Kültür",
+    "topic": "Türkiye",
+    "difficulty": "Orta",
+    "question": "1974 I. Barış Harekâtı’nda Türkiye Cumhuriyeti Cumhurbaşkanı kimdi? (Konu tekrarı)",
+    "options": [
+      "Semih Sancar",
+      "Fahri Korutürk",
+      "Bülent Ecevit",
+      "Necmettin Erbakan"
+    ],
+    "answer": "Fahri Korutürk",
+    "answerLetter": "B",
+    "explanation": "1974 Barış Harekâtı döneminde Cumhurbaşkanı Fahri Korutürk’tür.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-187",
+    "category": "Genel Kültür",
+    "topic": "Türkiye",
+    "difficulty": "Kolay",
+    "question": "1974 I. Barış Harekâtı’nda Türkiye Cumhuriyeti Başbakanı kimdi? (Konu tekrarı)",
+    "options": [
+      "Bülent Ecevit",
+      "Necmettin Erbakan",
+      "Fahri Korutürk",
+      "Semih Sancar"
+    ],
+    "answer": "Bülent Ecevit",
+    "answerLetter": "A",
+    "explanation": "1974 Barış Harekâtı döneminde Başbakan Bülent Ecevit’tir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-188",
+    "category": "Genel Kültür",
+    "topic": "Burunlar",
+    "difficulty": "Orta",
+    "question": "Doğan Burnu Kıbrıs’ın hangi yönünde yer alır? (Konu tekrarı)",
+    "options": [
+      "Kuzey",
+      "Doğu",
+      "Batı",
+      "Güney"
+    ],
+    "answer": "Güney",
+    "answerLetter": "D",
+    "explanation": "Doğan Burnu Kıbrıs’ın güney burnudur.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-189",
+    "category": "Genel Kültür",
+    "topic": "Egemenlik",
+    "difficulty": "Zor",
+    "question": "Çeşitli tarihî dönemlerde hangi uygarlık Kıbrıs’a üç kez egemen olmuştur? (Konu tekrarı)",
+    "options": [
+      "Pers",
+      "Roma",
+      "Mısır",
+      "İran"
+    ],
+    "answer": "Mısır",
+    "answerLetter": "C",
+    "explanation": "Soru bankası cevabına göre Mısır üç kez egemen olan uygarlıktır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-190",
+    "category": "Genel Kültür",
+    "topic": "Hala Sultan",
+    "difficulty": "Orta",
+    "question": "Hala Sultan Türbesi hangi ilçede yer almaktadır? (Konu tekrarı)",
+    "options": [
+      "Girne",
+      "Larnaka",
+      "Limasol",
+      "Lefkoşa"
+    ],
+    "answer": "Larnaka",
+    "answerLetter": "B",
+    "explanation": "Hala Sultan Türbesi Larnaka’dadır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-191",
+    "category": "Genel Kültür",
+    "topic": "Deprem",
+    "difficulty": "Kolay",
+    "question": "Kıbrıs adasında 1953 yılında meydana gelen ve 40 kişinin ölümüne neden olan deprem hangi ilçede meydana gelmiştir? (Konu tekrarı)",
+    "options": [
+      "Baf",
+      "Lefkoşa",
+      "Larnaka",
+      "Limasol"
+    ],
+    "answer": "Baf",
+    "answerLetter": "A",
+    "explanation": "1953 depremi Baf ile ilişkilidir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-192",
+    "category": "Genel Kültür",
+    "topic": "Kod İsimler",
+    "difficulty": "Orta",
+    "question": "Türkiye’den silah getiren TMT mensuplarına hangi isim veriliyordu? (Konu tekrarı)",
+    "options": [
+      "Bozpetek",
+      "Bayraktar",
+      "Taksim",
+      "Bereketçi"
+    ],
+    "answer": "Bereketçi",
+    "answerLetter": "D",
+    "explanation": "Silahları taşıyıp teslim edenler 'Bereketçi' kod adıyla anılmıştır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-193",
+    "category": "Genel Kültür",
+    "topic": "Komşular",
+    "difficulty": "Zor",
+    "question": "Kıbrıs’ın en uzak komşusu hangisidir? (Konu tekrarı)",
+    "options": [
+      "Suriye",
+      "Libya",
+      "Yunanistan",
+      "Türkiye"
+    ],
+    "answer": "Yunanistan",
+    "answerLetter": "C",
+    "explanation": "Kıbrıs’ın en uzak komşusu Yunanistan olarak verilmiştir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-194",
+    "category": "Genel Kültür",
+    "topic": "NATO",
+    "difficulty": "Orta",
+    "question": "NATO genel merkezi nerededir? (Konu tekrarı)",
+    "options": [
+      "New York",
+      "Brüksel",
+      "Washington",
+      "Londra"
+    ],
+    "answer": "Brüksel",
+    "answerLetter": "B",
+    "explanation": "NATO’nun genel merkezi Brüksel’dedir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-195",
+    "category": "Genel Kültür",
+    "topic": "İnebahtı",
+    "difficulty": "Kolay",
+    "question": "Kıbrıs seferinden dönmekte olan Osmanlı donanması hangi deniz savaşında yakalanmıştır? (Konu tekrarı)",
+    "options": [
+      "İnebahtı",
+      "Bafra",
+      "Baf",
+      "Limasol"
+    ],
+    "answer": "İnebahtı",
+    "answerLetter": "A",
+    "explanation": "İnebahtı Deniz Savaşı bu bağlamda sorulur.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-196",
+    "category": "Genel Kültür",
+    "topic": "KATAK",
+    "difficulty": "Orta",
+    "question": "Kıbrıs Adası Türk Azınlığı Kurumu (KATAK) hangi yılda kurulur? (Konu tekrarı)",
+    "options": [
+      "1954",
+      "1941",
+      "1934",
+      "1943"
+    ],
+    "answer": "1943",
+    "answerLetter": "D",
+    "explanation": "KATAK 1943 yılında kurulmuştur.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-197",
+    "category": "Genel Kültür",
+    "topic": "Üzüm",
+    "difficulty": "Zor",
+    "question": "Kıbrıs’ın en eski tarım ürünlerinden biri olan üzüm için her yıl hangi yerleşim yerinde üzüm festivali yapılmaktadır? (Konu tekrarı)",
+    "options": [
+      "Tepebaşı",
+      "Büyükkonuk",
+      "Mehmetçik",
+      "Ozanköy"
+    ],
+    "answer": "Mehmetçik",
+    "answerLetter": "C",
+    "explanation": "Mehmetçik üzüm festivaliyle bilinir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-198",
+    "category": "Genel Kültür",
+    "topic": "Fay Hattı",
+    "difficulty": "Orta",
+    "question": "Kıbrıs’taki depremlerin esas kaynağı adanın güney-güneybatısından geçen hangi fay hattıdır? (Konu tekrarı)",
+    "options": [
+      "Kıbrıs fayı",
+      "Kıbrıs yayı",
+      "Doğu Akdeniz yayı",
+      "Batı Akdeniz yayı"
+    ],
+    "answer": "Kıbrıs yayı",
+    "answerLetter": "B",
+    "explanation": "Kıbrıs yayı adadaki depremlerle ilişkilendirilir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-199",
+    "category": "Genel Kültür",
+    "topic": "Dağlar",
+    "difficulty": "Kolay",
+    "question": "Kıbrıs’ın en yüksek dağlık kütlesi hangisidir? (Konu tekrarı)",
+    "options": [
+      "Troodos Dağları",
+      "Karpaz Dağları",
+      "Toros Dağları",
+      "Girne Dağları"
+    ],
+    "answer": "Troodos Dağları",
+    "answerLetter": "A",
+    "explanation": "Adanın en yüksek kütlesi Troodos Dağlarıdır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-200",
+    "category": "Genel Kültür",
+    "topic": "Kıbrıs Cumhuriyeti",
+    "difficulty": "Orta",
+    "question": "Rumların Enosis hedefi ve Rum-Türk çıkarlarının ayrılığı hangi tarihli Kıbrıs Cumhuriyeti’nin kurulmasıyla sonuçlanır? (Konu tekrarı)",
+    "options": [
+      "15 Ağustos 1974",
+      "12 Temmuz 1958",
+      "10 Ağustos 1966",
+      "16 Ağustos 1960"
+    ],
+    "answer": "16 Ağustos 1960",
+    "answerLetter": "D",
+    "explanation": "Kıbrıs Cumhuriyeti 16 Ağustos 1960’ta kurulmuştur.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-201",
+    "category": "Genel Kültür",
+    "topic": "Sulama",
+    "difficulty": "Zor",
+    "question": "KKTC’de ekilen tarım arazilerinin ne kadarlık bölümünde sulu tarım yapılmaktadır? (Konu tekrarı)",
+    "options": [
+      "%10",
+      "%15",
+      "%8",
+      "%13"
+    ],
+    "answer": "%8",
+    "answerLetter": "C",
+    "explanation": "Cevap anahtarına göre sulu tarım oranı %8’dir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-202",
+    "category": "Genel Kültür",
+    "topic": "Arazi",
+    "difficulty": "Orta",
+    "question": "KKTC’de toplam arazinin ne kadarı orman arazisidir? (Konu tekrarı)",
+    "options": [
+      "%30",
+      "%19.5",
+      "%22.5",
+      "%35.5"
+    ],
+    "answer": "%19.5",
+    "answerLetter": "B",
+    "explanation": "Cevap anahtarına göre orman arazisi oranı %19.5’tir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-203",
+    "category": "Genel Kültür",
+    "topic": "Beylerbeyi",
+    "difficulty": "Kolay",
+    "question": "Osmanlı Kıbrıs’ı fethettikten sonra adaya atanan ilk beylerbeyi kimdir? (Konu tekrarı)",
+    "options": [
+      "Muzaffer Paşa",
+      "II. Selim",
+      "Lala Mustafa Paşa",
+      "Piyale Paşa"
+    ],
+    "answer": "Muzaffer Paşa",
+    "answerLetter": "A",
+    "explanation": "Osmanlı döneminde ilk beylerbeyi Muzaffer Paşa’dır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-204",
+    "category": "Genel Kültür",
+    "topic": "Fetih",
+    "difficulty": "Orta",
+    "question": "Osmanlıların Lefkoşa kalesini almasından sonra kendiliğinden teslim olan kaleler hangi seçenekte doğru verilmiştir? (Konu tekrarı)",
+    "options": [
+      "Mağusa – Limasol",
+      "Baf – Mağusa",
+      "Girne – Mağusa",
+      "Girne – Baf"
+    ],
+    "answer": "Girne – Baf",
+    "answerLetter": "D",
+    "explanation": "Lefkoşa’dan sonra Girne ve Baf savaşsız teslim olmuştur.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-205",
+    "category": "Genel Kültür",
+    "topic": "BM",
+    "difficulty": "Zor",
+    "question": "Birleşmiş Milletler genel merkezi nerededir? (Konu tekrarı)",
+    "options": [
+      "Washington",
+      "Lahey",
+      "New York",
+      "Brüksel"
+    ],
+    "answer": "New York",
+    "answerLetter": "C",
+    "explanation": "BM genel merkezi New York’tadır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-206",
+    "category": "Genel Kültür",
+    "topic": "NATO",
+    "difficulty": "Orta",
+    "question": "NATO’ya üye olan son ülke hangisidir? (Konu tekrarı)",
+    "options": [
+      "İsviçre",
+      "İsveç",
+      "Kuzey Makedonya",
+      "Finlandiya"
+    ],
+    "answer": "İsveç",
+    "answerLetter": "B",
+    "explanation": "Soru bankası cevabına göre doğru cevap İsveç’tir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-207",
+    "category": "Genel Kültür",
+    "topic": "Namık Kemal",
+    "difficulty": "Kolay",
+    "question": "Vatan Yahut Silistre eseri nedeniyle Mağusa kalesine sürgüne gönderilen şair kimdir? (Konu tekrarı)",
+    "options": [
+      "Namık Kemal",
+      "Ziya Paşa",
+      "Said Paşa",
+      "Kamil Paşa"
+    ],
+    "answer": "Namık Kemal",
+    "answerLetter": "A",
+    "explanation": "Namık Kemal, Vatan Yahut Silistre nedeniyle Mağusa’ya sürgün edilmiştir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-208",
+    "category": "Genel Kültür",
+    "topic": "Lefkoşa",
+    "difficulty": "Orta",
+    "question": "Osmanlı Devleti Lefkoşa’yı fethedince Türk bayrağını astıkları burcun adı nedir? (Konu tekrarı)",
+    "options": [
+      "Arsenal",
+      "Pedokataro",
+      "Quirini",
+      "Konstanza"
+    ],
+    "answer": "Konstanza",
+    "answerLetter": "D",
+    "explanation": "Osmanlı Lefkoşa’ya Konstanza burcundan girmiştir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-209",
+    "category": "Genel Kültür",
+    "topic": "Surlar",
+    "difficulty": "Zor",
+    "question": "Lefkoşa surları kaç burçtan oluşmaktadır? (Konu tekrarı)",
+    "options": [
+      "12",
+      "13",
+      "11",
+      "10"
+    ],
+    "answer": "11",
+    "answerLetter": "C",
+    "explanation": "Lefkoşa surları 11 burçtan oluşur.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-210",
+    "category": "Genel Kültür",
+    "topic": "Ayrelli",
+    "difficulty": "Orta",
+    "question": "Halk arasında ayrelli olarak bilinen bitkinin diğer adı nedir? (Konu tekrarı)",
+    "options": [
+      "Laden",
+      "Kuşkonmaz",
+      "Şinya",
+      "Defne"
+    ],
+    "answer": "Kuşkonmaz",
+    "answerLetter": "B",
+    "explanation": "Ayrelli, kuşkonmaz olarak da bilinir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-211",
+    "category": "Genel Kültür",
+    "topic": "Okaliptüs",
+    "difficulty": "Kolay",
+    "question": "Adaya İngilizler döneminde bataklıkları kurutmak amacıyla hangi ağaç getirilmiştir? (Konu tekrarı)",
+    "options": [
+      "Okaliptüs",
+      "Alev ağacı",
+      "Palmiye",
+      "Hurma"
+    ],
+    "answer": "Okaliptüs",
+    "answerLetter": "A",
+    "explanation": "Bataklıkları kurutmak için okaliptüs getirilmiştir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-212",
+    "category": "Genel Kültür",
+    "topic": "Girne Dağları",
+    "difficulty": "Orta",
+    "question": "KKTC’nin en yüksek noktası Birkan Uzun Selvili Tepe, Girne dağlarının hangi bölümünde yer alır? (Konu tekrarı)",
+    "options": [
+      "Kayalar Dağları",
+      "Beşparmak Dağları",
+      "Kantara Dağı",
+      "Lapta Dağları"
+    ],
+    "answer": "Lapta Dağları",
+    "answerLetter": "D",
+    "explanation": "Birkan Uzun Selvili Tepe Lapta Dağları üzerindedir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-213",
+    "category": "Genel Kültür",
+    "topic": "Bufavento",
+    "difficulty": "Zor",
+    "question": "Bufavento Kalesi hangi dağ üzerinde yer almaktadır? (Konu tekrarı)",
+    "options": [
+      "Lapta dağı",
+      "Kantara dağı",
+      "Beşparmak dağları",
+      "Kayalar dağları"
+    ],
+    "answer": "Beşparmak dağları",
+    "answerLetter": "C",
+    "explanation": "Bufavento Kalesi Beşparmak Dağları üzerindedir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-214",
+    "category": "Genel Kültür",
+    "topic": "Sarı Toz",
+    "difficulty": "Orta",
+    "question": "Yaz aylarında zaman zaman hangi kıta üzerinden gelen çöl kumları Kıbrıs’ta sarı tozlu günlere neden olur? (Konu tekrarı)",
+    "options": [
+      "Kuzey Amerika",
+      "Afrika",
+      "Avrupa",
+      "Asya"
+    ],
+    "answer": "Afrika",
+    "answerLetter": "B",
+    "explanation": "Sarı toz olayında Afrika’dan gelen çöl tozları etkilidir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-215",
+    "category": "Genel Kültür",
+    "topic": "Su Temini",
+    "difficulty": "Kolay",
+    "question": "KKTC Su Temini Projesi’nde Türkiye’den gelen su hangi barajdan gelip KKTC’de hangi baraja aktarılmaktadır? (Konu tekrarı)",
+    "options": [
+      "Alaköprü Barajı – Geçitköy Barajı",
+      "Alaköprü Barajı – Alayköy Barajı",
+      "Keban Barajı – Alaköprü Barajı",
+      "Hirfanlı Barajı – Geçitköy Barajı"
+    ],
+    "answer": "Alaköprü Barajı – Geçitköy Barajı",
+    "answerLetter": "A",
+    "explanation": "Türkiye’den Alaköprü Barajı’ndan gelen su KKTC’de Geçitköy Barajı’na aktarılır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-216",
+    "category": "Genel Kültür",
+    "topic": "Elektrik",
+    "difficulty": "Orta",
+    "question": "Kalecik köyü yakınlarındaki elektrik santrali hangi ilçe sınırları içerisindedir? (Konu tekrarı)",
+    "options": [
+      "Lefkoşa",
+      "Mağusa",
+      "Girne",
+      "İskele"
+    ],
+    "answer": "İskele",
+    "answerLetter": "D",
+    "explanation": "Kalecik santrali İskele ilçesiyle ilişkilidir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-217",
+    "category": "Genel Kültür",
+    "topic": "Eserler",
+    "difficulty": "Zor",
+    "question": "Aşağıdakilerden hangisi Osmanlılar döneminde yapılan tarihi eserlerden biridir? (Konu tekrarı)",
+    "options": [
+      "Girne Kalesi",
+      "Selimiye Camii",
+      "Baf Kalesi",
+      "Limasol Kalesi"
+    ],
+    "answer": "Baf Kalesi",
+    "answerLetter": "C",
+    "explanation": "Cevap anahtarına göre doğru cevap B şıkkıdır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-218",
+    "category": "Genel Kültür",
+    "topic": "Bakanlar",
+    "difficulty": "Orta",
+    "question": "1960’ta kurulan Kıbrıs Cumhuriyeti’nde Tarım ve Doğal Kaynaklar Bakanı kimdir? (Konu tekrarı)",
+    "options": [
+      "Osman Örek",
+      "Fazıl Plümer",
+      "Süleyman Uluçamgil",
+      "Dr. Fazıl Küçük"
+    ],
+    "answer": "Fazıl Plümer",
+    "answerLetter": "B",
+    "explanation": "Tarım ve Doğal Kaynaklar Bakanı Fazıl Plümer olarak verilmiştir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-219",
+    "category": "Genel Kültür",
+    "topic": "Selimiye Camii",
+    "difficulty": "Kolay",
+    "question": "Lefkoşa’da Lüzinyan döneminden kalma, sonradan Selimiye Camii adını alan katedralin eski ismi nedir? (Konu tekrarı)",
+    "options": [
+      "St. Sophia",
+      "St. Catharine",
+      "St. Augustinian",
+      "St. Nicholas"
+    ],
+    "answer": "St. Sophia",
+    "answerLetter": "A",
+    "explanation": "Selimiye Camii’nin eski adı St. Sophia’dır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-220",
+    "category": "Genel Kültür",
+    "topic": "Dr. Fazıl Küçük",
+    "difficulty": "Orta",
+    "question": "Toplum liderimiz Dr. Fazıl Küçük hangi tarihte vefat etmiştir? (Konu tekrarı)",
+    "options": [
+      "10 Kasım 1984",
+      "15 Kasım 1983",
+      "5 Mayıs 1985",
+      "15 Ocak 1984"
+    ],
+    "answer": "15 Ocak 1984",
+    "answerLetter": "D",
+    "explanation": "Cevap anahtarına göre Dr. Fazıl Küçük’ün vefat tarihi 15 Ocak 1984’tür.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-221",
+    "category": "Genel Kültür",
+    "topic": "Surlar",
+    "difficulty": "Zor",
+    "question": "Osmanlı tehlikesine karşı 16. yüzyılda inşa edilen Lefkoşa surları hangi dönemde inşa edilmiştir? (Konu tekrarı)",
+    "options": [
+      "Osmanlı",
+      "Bizans",
+      "Venedik",
+      "Lüzinyan"
+    ],
+    "answer": "Venedik",
+    "answerLetter": "C",
+    "explanation": "Lefkoşa surları Venedik döneminde yapılmıştır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-222",
+    "category": "Genel Kültür",
+    "topic": "Hitit",
+    "difficulty": "Orta",
+    "question": "Kıbrıs’taki Hitit egemenliğinin kanıtı olan tablet, bugünkü Tuzla yakınlarındaki hangi antik şehirde bulunmuştur? (Konu tekrarı)",
+    "options": [
+      "Khirokitia",
+      "Enkomi",
+      "Dikelya",
+      "Salamis"
+    ],
+    "answer": "Enkomi",
+    "answerLetter": "B",
+    "explanation": "Boynuzlu Tanrı Heykeli ve tablet buluntuları Enkomi ile ilişkilendirilir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-223",
+    "category": "Genel Kültür",
+    "topic": "Yerleşim",
+    "difficulty": "Kolay",
+    "question": "Yeşilırmak kuzeyinde, kıyıdan 80 metre uzakta bulunan ve Kıbrıs’ta ilk kez bilimsel kazı yapılan ilk yerleşim yerlerinden biri hangisidir? (Konu tekrarı)",
+    "options": [
+      "Petra tou limnidi",
+      "Karmi",
+      "Vrysi",
+      "Tenta"
+    ],
+    "answer": "Petra tou limnidi",
+    "answerLetter": "A",
+    "explanation": "Cevap anahtarına göre doğru cevap Petra tou Limnidi’dir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-224",
+    "category": "Genel Kültür",
+    "topic": "İngiliz Dönemi",
+    "difficulty": "Orta",
+    "question": "Osmanlı hükümeti hangi antlaşmayla Kıbrıs’ın İngiliz toprağı olduğunu kabul etmiştir? (Konu tekrarı)",
+    "options": [
+      "Londra Antlaşması",
+      "1960 Antlaşmaları",
+      "Lozan Barış Antlaşması",
+      "Sevr Antlaşması"
+    ],
+    "answer": "Sevr Antlaşması",
+    "answerLetter": "D",
+    "explanation": "Cevap anahtarına göre doğru cevap Sevr Antlaşması’dır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-225",
+    "category": "Genel Kültür",
+    "topic": "Erenköy",
+    "difficulty": "Zor",
+    "question": "Türkiye’den gelen silahların saklanıp Türk öğrencilerin savunduğu yerleşim yeri hangisidir? (Konu tekrarı)",
+    "options": [
+      "Serdarlı",
+      "Girne",
+      "Erenköy",
+      "Mağusa"
+    ],
+    "answer": "Erenköy",
+    "answerLetter": "C",
+    "explanation": "Erenköy, 1963-1974 döneminde kritik direniş noktalarından biridir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-226",
+    "category": "Genel Kültür",
+    "topic": "Sancaklar",
+    "difficulty": "Orta",
+    "question": "Kıbrıs fethedildikten sonra başkentin dışında oluşturulan sancaklar hangileridir? (Konu tekrarı)",
+    "options": [
+      "Tuzla, Baf, Mağusa",
+      "Mağusa, Girne, Baf",
+      "Değirmenlik, Baf, Tuzla",
+      "Omorfo, Girne, Mağusa"
+    ],
+    "answer": "Mağusa, Girne, Baf",
+    "answerLetter": "B",
+    "explanation": "Lefkoşa merkez dışında Mağusa, Girne ve Baf sancakları verilmiştir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-227",
+    "category": "Genel Kültür",
+    "topic": "CMC",
+    "difficulty": "Kolay",
+    "question": "Kıbrıs’ın en önemli çevre sorunu olan CMC atıkları hangi madenin yoğun çıkarılmasıyla oluşmuştur? (Konu tekrarı)",
+    "options": [
+      "Bakır",
+      "Çinko",
+      "Bor",
+      "Kalay"
+    ],
+    "answer": "Bakır",
+    "answerLetter": "A",
+    "explanation": "CMC sorunu bakır madeniyle ilişkilidir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-228",
+    "category": "Genel Kültür",
+    "topic": "Rus Harbi",
+    "difficulty": "Orta",
+    "question": "Osmanlı Devleti hangi devletle yaptığı savaş sonunda Kıbrıs’ı İngiltere’ye kiralamak zorunda kalmıştır? (Konu tekrarı)",
+    "options": [
+      "Avusturya",
+      "İngiltere",
+      "Almanya",
+      "Rusya"
+    ],
+    "answer": "Rusya",
+    "answerLetter": "D",
+    "explanation": "1877-1878 Osmanlı-Rus Harbi sonrası Kıbrıs İngiltere’ye kiralanmıştır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-229",
+    "category": "Genel Kültür",
+    "topic": "Bayrak Radyosu",
+    "difficulty": "Zor",
+    "question": "Bayrak Radyosu’nun kuruluş tarihi aşağıdakilerden hangisidir? (Konu tekrarı)",
+    "options": [
+      "21 Aralık 1963",
+      "27 Aralık 1963",
+      "25 Aralık 1963",
+      "20 Temmuz 1974"
+    ],
+    "answer": "25 Aralık 1963",
+    "answerLetter": "C",
+    "explanation": "Cevap anahtarına göre Bayrak Radyosu 25 Aralık 1963’te kurulmuştur.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-230",
+    "category": "Genel Kültür",
+    "topic": "Bakır",
+    "difficulty": "Orta",
+    "question": "CMC tarafından işletilen bakır madeni hangi limandan yurt dışına gönderiliyordu? (Konu tekrarı)",
+    "options": [
+      "Yeşilırmak",
+      "Gemikonağı",
+      "Yeşilyurt",
+      "Gaziveren"
+    ],
+    "answer": "Gemikonağı",
+    "answerLetter": "B",
+    "explanation": "Bakır madeni Gemikonağı Limanı’ndan gönderiliyordu.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-231",
+    "category": "Genel Kültür",
+    "topic": "Meteoroloji",
+    "difficulty": "Kolay",
+    "question": "KKTC’de deprem gözlemleri ve ölçümleri hangi kurum tarafından yapılmaktadır? (Konu tekrarı)",
+    "options": [
+      "Meteoroloji Dairesi",
+      "Ulaştırma Bakanlığı",
+      "Şehir Planlama Dairesi",
+      "Jeoloji ve Maden Dairesi"
+    ],
+    "answer": "Meteoroloji Dairesi",
+    "answerLetter": "A",
+    "explanation": "Deprem gözlemleri Meteoroloji Dairesi ile ilişkilendirilmiştir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-232",
+    "category": "Genel Kültür",
+    "topic": "Burunlar",
+    "difficulty": "Orta",
+    "question": "Kıbrıs’ın en kuzeyi ve en doğusu Zafer; en güneyi Doğan; en batısı hangi burundur? (Konu tekrarı)",
+    "options": [
+      "Doğan Burnu",
+      "İkizler Burnu",
+      "Zafer Burnu",
+      "Arnavut Burnu"
+    ],
+    "answer": "Arnavut Burnu",
+    "answerLetter": "D",
+    "explanation": "En batı burun Arnavut Burnu olarak verilir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-233",
+    "category": "Genel Kültür",
+    "topic": "Bakanlar",
+    "difficulty": "Zor",
+    "question": "1960 Kıbrıs Cumhuriyeti’nde Kıbrıslı Türklere ayrılan Savunma, Sağlık ve Tarım bakanlıklarında sırasıyla kimler görev yapmıştır? (Konu tekrarı)",
+    "options": [
+      "Niyazi Manyera, Mehmet Zeka, Osman Örek",
+      "Rauf Raif Denktaş, Osman Örek, Niyazi Manyera",
+      "Osman Örek, Niyazi Manyera, M. Fazıl Plümer",
+      "Osman Örek, Dr. Burhan Nalbantoğlu, M. Fazıl Plümer"
+    ],
+    "answer": "Osman Örek, Niyazi Manyera, M. Fazıl Plümer",
+    "answerLetter": "C",
+    "explanation": "Cevap anahtarına göre sıralama Osman Örek, Niyazi Manyera, M. Fazıl Plümer’dir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-234",
+    "category": "Genel Kültür",
+    "topic": "Akınlar",
+    "difficulty": "Orta",
+    "question": "Kıbrıs’a ilk İslam akınları hangi halife döneminde başladı? (Konu tekrarı)",
+    "options": [
+      "Hz. Ali",
+      "Hz. Osman",
+      "Hz. Ömer",
+      "Hz. Ebu Bekir"
+    ],
+    "answer": "Hz. Osman",
+    "answerLetter": "B",
+    "explanation": "İlk İslam akınları Hz. Osman döneminde başlamıştır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-235",
+    "category": "Genel Kültür",
+    "topic": "Görevler",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi KKTC Cumhuriyet Meclisi Başkan Yardımcısıdır? (Konu tekrarı)",
+    "options": [
+      "Fazilet Özdenefe",
+      "Zorlu Töre",
+      "Yasemin Öztürk",
+      "Erhan Arıklı"
+    ],
+    "answer": "Fazilet Özdenefe",
+    "answerLetter": "A",
+    "explanation": "Cevap anahtarına göre Meclis Başkan Yardımcısı Fazilet Özdenefe’dir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-236",
+    "category": "Genel Kültür",
+    "topic": "Görevler",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisi KKTC Cumhuriyet Meclisi Başkanıdır? (Konu tekrarı)",
+    "options": [
+      "Fazilet Özdenefe",
+      "Yasemin Öztürk",
+      "Erhan Arıklı",
+      "Zorlu Töre"
+    ],
+    "answer": "Zorlu Töre",
+    "answerLetter": "D",
+    "explanation": "Cevap anahtarına göre Meclis Başkanı Zorlu Töre’dir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-237",
+    "category": "Genel Kültür",
+    "topic": "Görevler",
+    "difficulty": "Zor",
+    "question": "Aşağıdakilerden hangisi KKTC Cumhuriyet Meclisi idare amiridir? (Konu tekrarı)",
+    "options": [
+      "Fazilet Özdenefe",
+      "Erhan Arıklı",
+      "Yasemin Öztürk",
+      "Zorlu Töre"
+    ],
+    "answer": "Yasemin Öztürk",
+    "answerLetter": "C",
+    "explanation": "Cevap anahtarına göre Meclis idare amiri Yasemin Öztürk’tür.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-238",
+    "category": "Genel Kültür",
+    "topic": "Adalar",
+    "difficulty": "Orta",
+    "question": "Akdeniz’deki adalar büyükten küçüğe doğru hangi seçenekte doğru sıralanmıştır? (Konu tekrarı)",
+    "options": [
+      "Rodos-Sardinya-Sicilya-Kıbrıs-Girit",
+      "Sicilya-Sardinya-Kıbrıs-Korsika-Girit",
+      "Kıbrıs-Sicilya-Korsika-Girit-Rodos",
+      "Sicilya-Kıbrıs-Girit-Rodos-Sardinya"
+    ],
+    "answer": "Sicilya-Sardinya-Kıbrıs-Korsika-Girit",
+    "answerLetter": "B",
+    "explanation": "Büyüklük sıralaması Sicilya, Sardinya, Kıbrıs, Korsika, Girit şeklindedir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-239",
+    "category": "Genel Kültür",
+    "topic": "Adalar",
+    "difficulty": "Kolay",
+    "question": "Kıbrıs Akdeniz’in kaçıncı büyük adasıdır? (Konu tekrarı)",
+    "options": [
+      "Üçüncü",
+      "Birinci",
+      "İkinci",
+      "Beşinci"
+    ],
+    "answer": "Üçüncü",
+    "answerLetter": "A",
+    "explanation": "Kıbrıs Akdeniz’in üçüncü büyük adasıdır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-240",
+    "category": "Genel Kültür",
+    "topic": "TAK",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisi Türk Ajansı Kıbrıs’ın kuruluş tarihidir? (Konu tekrarı)",
+    "options": [
+      "21 Aralık 1974",
+      "21 Aralık 1975",
+      "21 Aralık 1976",
+      "21 Aralık 1973"
+    ],
+    "answer": "21 Aralık 1973",
+    "answerLetter": "D",
+    "explanation": "TAK 21 Aralık 1973’te faaliyete geçmiştir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-241",
+    "category": "Genel Kültür",
+    "topic": "Akyar",
+    "difficulty": "Zor",
+    "question": "Gazimağusa’da yer alan iki buçuk mil sınır kapısının diğer adı nedir? (Konu tekrarı)",
+    "options": [
+      "Derinya",
+      "Metehan",
+      "Akyar",
+      "Pergama"
+    ],
+    "answer": "Akyar",
+    "answerLetter": "C",
+    "explanation": "İki buçuk mil sınır kapısı Akyar olarak bilinir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-242",
+    "category": "Genel Kültür",
+    "topic": "Modern Sanat",
+    "difficulty": "Orta",
+    "question": "KKTC Modern Sanat Müzesi hangi ilçededir? (Konu tekrarı)",
+    "options": [
+      "Güzelyurt",
+      "Lefkoşa",
+      "Girne",
+      "Gazimağusa"
+    ],
+    "answer": "Lefkoşa",
+    "answerLetter": "B",
+    "explanation": "KKTC Modern Sanat Müzesi Lefkoşa’dadır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-243",
+    "category": "Genel Kültür",
+    "topic": "Fetih",
+    "difficulty": "Kolay",
+    "question": "Osmanlı Devleti Kıbrıs’ın fethini hangi tarihte tamamlamıştır? (Konu tekrarı)",
+    "options": [
+      "1 Ağustos 1571",
+      "1 Ağustos 1570",
+      "2 Temmuz 1572",
+      "4 Temmuz 1571"
+    ],
+    "answer": "1 Ağustos 1571",
+    "answerLetter": "A",
+    "explanation": "Osmanlı Kıbrıs’ın fethini 1 Ağustos 1571’de tamamlamıştır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-244",
+    "category": "Genel Kültür",
+    "topic": "Fetih Sırası",
+    "difficulty": "Orta",
+    "question": "Osmanlı Devleti Kıbrıs’ı fethederken ele geçirdiği şehirlerin doğru sıralaması hangisidir? (Konu tekrarı)",
+    "options": [
+      "Limasol – Larnaka – Girne – Baf – Lefkoşa – Mağusa",
+      "Larnaka – Limasol – Lefkoşa – Girne – Baf – Mağusa",
+      "Limasol – Larnaka – Mağusa – Girne – Baf",
+      "Limasol – Larnaka – Lefkoşa – Girne – Baf – Mağusa"
+    ],
+    "answer": "Limasol – Larnaka – Lefkoşa – Girne – Baf – Mağusa",
+    "answerLetter": "D",
+    "explanation": "Soru bankası cevabına göre doğru sıra C seçeneğidir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-245",
+    "category": "Genel Kültür",
+    "topic": "Oluşum",
+    "difficulty": "Zor",
+    "question": "Kıbrıs’ın oluşumu sırasında önce deniz yüzeyine çıkan yeryüzü şekilleri hangileridir? (Konu tekrarı)",
+    "options": [
+      "Panha Tortulları ve Girne Dağları",
+      "Lapta Dağları ve Kantara Dağları",
+      "Troodos Dağları ve Girne Dağları",
+      "Troodos Dağları ve Karpaz Dağları"
+    ],
+    "answer": "Troodos Dağları ve Girne Dağları",
+    "answerLetter": "C",
+    "explanation": "Önce Troodos ve Girne Dağları deniz yüzeyine çıkmıştır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-246",
+    "category": "Genel Kültür",
+    "topic": "Levhalar",
+    "difficulty": "Orta",
+    "question": "Kıbrıs hangi iki kıtanın/levhanın birbirine yaklaşması sonucu ortaya çıkmıştır? (Konu tekrarı)",
+    "options": [
+      "Amerika ve Avrupa",
+      "Avrasya ve Afrika",
+      "Avrupa ve Afrika",
+      "Avrupa ve Asya"
+    ],
+    "answer": "Avrasya ve Afrika",
+    "answerLetter": "B",
+    "explanation": "Kıbrıs Avrasya ve Afrika levhalarının yaklaşması sonucu oluşmuştur.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-247",
+    "category": "Genel Kültür",
+    "topic": "İsim Kökeni",
+    "difficulty": "Kolay",
+    "question": "Kıbrıs günümüzdeki adını aşağıdakilerden hangisinden almıştır? (Konu tekrarı)",
+    "options": [
+      "Bakır",
+      "Zeytin yaprağı",
+      "Sedir ağacı",
+      "Verimli ovaları"
+    ],
+    "answer": "Bakır",
+    "answerLetter": "A",
+    "explanation": "Kıbrıs adı bakırla ilişkilendirilir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-248",
+    "category": "Genel Kültür",
+    "topic": "Tarihler",
+    "difficulty": "Orta",
+    "question": "I. ve II. Barış Harekâtı’nın başlangıç tarihleri hangi seçenekte doğru verilmiştir? (Konu tekrarı)",
+    "options": [
+      "15 Temmuz 1974 – 8 Ağustos 1974",
+      "20 Temmuz 1975 – 30 Ağustos 1975",
+      "15 Kasım 1967 – 15 Haziran 1974",
+      "20 Temmuz 1974 – 14 Ağustos 1974"
+    ],
+    "answer": "20 Temmuz 1974 – 14 Ağustos 1974",
+    "answerLetter": "D",
+    "explanation": "I. Harekât 20 Temmuz 1974, II. Harekât 14 Ağustos 1974’te başlamıştır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-249",
+    "category": "Genel Kültür",
+    "topic": "TAK",
+    "difficulty": "Zor",
+    "question": "Sait Terzioğlu tarafından 21 Aralık 1973’te kurulan haber ajansı hangisidir? (Konu tekrarı)",
+    "options": [
+      "BRTK",
+      "İHA",
+      "TAK",
+      "BRT"
+    ],
+    "answer": "TAK",
+    "answerLetter": "C",
+    "explanation": "Sait Terzioğlu’nun kurduğu kurum Türk Ajansı Kıbrıs’tır.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
+  },
+  {
+    "id": "gk-250",
+    "category": "Genel Kültür",
+    "topic": "Erenköy",
+    "difficulty": "Orta",
+    "question": "8 Ağustos 1964 Erenköy çarpışmalarında uçağı düşürülerek şehit olan pilot kimdir? (Konu tekrarı)",
+    "options": [
+      "Semih Sancar",
+      "Cengiz Topel",
+      "Turgut Sunalp",
+      "Fehmi Ercan"
+    ],
+    "answer": "Cengiz Topel",
+    "answerLetter": "B",
+    "explanation": "Erenköy çarpışmalarında şehit olan pilot Cengiz Topel’dir.",
+    "source": "Genel Kültür 250 soru havuzu",
+    "testGroup": "Genel Kültür"
   },
   {
     "id": "ky-001",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Amaç ve Kapsam",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Kamu Görevlileri Yasasının temel amacı aşağıdakilerden hangisidir?",
     "options": [
       "Özel şirketlerin faaliyetlerini düzenlemek",
@@ -2929,43 +4515,43 @@ window.QUESTIONS = [
     "answer": "Kamu hizmetlerinin düzenli ve verimli yürütülmesini sağlamak",
     "answerLetter": "D",
     "explanation": "Yasa kamu hizmeti ve kamu görevlilerinin statüsünü düzenlemeye yöneliktir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-002",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Amaç ve Kapsam",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Kamu Görevlileri Yasasında kapsam bölümü neyi gösterir?",
     "options": [
-      "Mahkeme kararlarını",
       "Seçim sonuçlarını",
+      "Vergi oranlarını",
       "Yasanın kimlere uygulanacağını",
-      "Vergi oranlarını"
+      "Mahkeme kararlarını"
     ],
     "answer": "Yasanın kimlere uygulanacağını",
     "answerLetter": "C",
     "explanation": "Kapsam, yasanın uygulanacağı kişi ve kurum alanını gösterir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-003",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Amaç ve Kapsam",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Amaç maddesi en kısa ifadeyle hangi soruya cevap verir?",
     "options": [
-      "Hangi yol izlenir?",
+      "Hangi parti seçime girmiştir?",
       "Yasa neden çıkarılmıştır?",
-      "Hangi mahkeme yetkilidir?",
-      "Hangi parti seçime girmiştir?"
+      "Hangi yol izlenir?",
+      "Hangi mahkeme yetkilidir?"
     ],
     "answer": "Yasa neden çıkarılmıştır?",
     "answerLetter": "B",
     "explanation": "Amaç maddesi yasanın çıkarılma nedenini açıklar.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-004",
@@ -2983,14 +4569,14 @@ window.QUESTIONS = [
     "answer": "Kamu yararı",
     "answerLetter": "A",
     "explanation": "Kamu görevlisi görevini kamu yararını gözeterek yürütür.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-005",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Amaç ve Kapsam",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Kamu Görevlileri Yasası genel olarak hangi alanı düzenler?",
     "options": [
       "Ticaret şirketlerinin kuruluşu",
@@ -3001,43 +4587,43 @@ window.QUESTIONS = [
     "answer": "Kamu görevlilerinin statüsü ve çalışma esasları",
     "answerLetter": "D",
     "explanation": "Yasa kamu görevlilerinin çalışma statüsü ile ilgilidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-006",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Amaç ve Kapsam",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Kamu Görevlileri Yasasının temel amacı hangisidir?",
     "options": [
-      "Ceza yargılaması usulünü belirlemek",
-      "Kamu hizmetlerinin düzenli ve verimli yürütülmesini sağlamak",
       "Özel şirketlerin faaliyetlerini düzenlemek",
-      "Belediye seçimlerini düzenlemek"
+      "Belediye seçimlerini düzenlemek",
+      "Kamu hizmetlerinin düzenli ve verimli yürütülmesini sağlamak",
+      "Ceza yargılaması usulünü belirlemek"
     ],
     "answer": "Kamu hizmetlerinin düzenli ve verimli yürütülmesini sağlamak",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Yasa kamu hizmeti ve kamu görevlilerinin statüsünü düzenlemeye yöneliktir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-007",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Amaç ve Kapsam",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Kamu Görevlileri Yasasında kapsam bölümü neyi gösterir?",
     "options": [
+      "Seçim sonuçlarını",
       "Yasanın kimlere uygulanacağını",
       "Vergi oranlarını",
-      "Mahkeme kararlarını",
-      "Seçim sonuçlarını"
+      "Mahkeme kararlarını"
     ],
     "answer": "Yasanın kimlere uygulanacağını",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Kapsam, yasanın uygulanacağı kişi ve kurum alanını gösterir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-008",
@@ -3047,69 +4633,69 @@ window.QUESTIONS = [
     "difficulty": "Kolay",
     "question": "Amaç maddesi en kısa ifadeyle hangi soruya cevap verir?",
     "options": [
+      "Yasa neden çıkarılmıştır?",
       "Hangi mahkeme yetkilidir?",
       "Hangi parti seçime girmiştir?",
-      "Hangi yol izlenir?",
-      "Yasa neden çıkarılmıştır?"
+      "Hangi yol izlenir?"
     ],
     "answer": "Yasa neden çıkarılmıştır?",
-    "answerLetter": "D",
+    "answerLetter": "A",
     "explanation": "Amaç maddesi yasanın çıkarılma nedenini açıklar.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-009",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Amaç ve Kapsam",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Kamu hizmetinde esas olan ilke hangisidir?",
     "options": [
       "Keyfi uygulama",
       "Ayrıcalık sağlama",
-      "Kamu yararı",
-      "Kişisel çıkar"
+      "Kişisel çıkar",
+      "Kamu yararı"
     ],
     "answer": "Kamu yararı",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Kamu görevlisi görevini kamu yararını gözeterek yürütür.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-010",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Amaç ve Kapsam",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Kamu Görevlileri Yasası genel olarak hangi alanı düzenler?",
     "options": [
-      "Ceza infaz kurumlarının mimarisi",
-      "Kamu görevlilerinin statüsü ve çalışma esasları",
       "Ticaret şirketlerinin kuruluşu",
-      "Trafik işaretleri"
+      "Trafik işaretleri",
+      "Kamu görevlilerinin statüsü ve çalışma esasları",
+      "Ceza infaz kurumlarının mimarisi"
     ],
     "answer": "Kamu görevlilerinin statüsü ve çalışma esasları",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Yasa kamu görevlilerinin çalışma statüsü ile ilgilidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-011",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Tanımlar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Yasadaki tanımlar bölümünün temel işlevi nedir?",
     "options": [
-      "Seçim bölgelerini düzenlemek",
+      "Bütçe açığını kapatmak",
       "Kavramların ne anlama geldiğini açıklamak",
-      "Sınav tarihlerini belirlemek",
-      "Bütçe açığını kapatmak"
+      "Seçim bölgelerini düzenlemek",
+      "Sınav tarihlerini belirlemek"
     ],
     "answer": "Kavramların ne anlama geldiğini açıklamak",
     "answerLetter": "B",
     "explanation": "Tanımlar bölümü kavram karmaşasını önler.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-012",
@@ -3127,14 +4713,14 @@ window.QUESTIONS = [
     "answer": "Bir görevin resmi unvan ve yer bakımından tanımlanması",
     "answerLetter": "A",
     "explanation": "Kadro, kamu hizmetindeki görev yerini ve unvanı gösterir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-013",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Tanımlar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Derece ve kademe için aşağıdakilerden hangisi doğrudur?",
     "options": [
       "Her zaman aynı anlama gelir",
@@ -3145,43 +4731,43 @@ window.QUESTIONS = [
     "answer": "Birbirinden farklı ilerleme kavramlarıdır",
     "answerLetter": "D",
     "explanation": "Derece ve kademe kamu personel sisteminde farklı kavramlardır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-014",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Tanımlar",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Adaylık kavramı neyi ifade eder?",
     "options": [
-      "Sürekli izin hakkını",
       "Disiplin cezasının türünü",
+      "Emekliliği",
       "Göreve yeni başlayan kişinin geçiş ve uyum sürecini",
-      "Emekliliği"
+      "Sürekli izin hakkını"
     ],
     "answer": "Göreve yeni başlayan kişinin geçiş ve uyum sürecini",
     "answerLetter": "C",
     "explanation": "Adaylık, asaleten atanmadan önceki uyum sürecidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-015",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Tanımlar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Tanımların bilinmesi neden önemlidir?",
     "options": [
-      "Maaşı otomatik artırmak için",
+      "Logo tasarlamak için",
       "Yasadaki maddeleri doğru yorumlamak için",
-      "Sadece ezber yapmak için",
-      "Logo tasarlamak için"
+      "Maaşı otomatik artırmak için",
+      "Sadece ezber yapmak için"
     ],
     "answer": "Yasadaki maddeleri doğru yorumlamak için",
     "answerLetter": "B",
     "explanation": "Kavramları bilmek yasanın doğru anlaşılmasını sağlar.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-016",
@@ -3191,69 +4777,69 @@ window.QUESTIONS = [
     "difficulty": "Kolay",
     "question": "Yasadaki tanımlar bölümünün temel işlevi nedir?",
     "options": [
+      "Kavramların ne anlama geldiğini açıklamak",
       "Sınav tarihlerini belirlemek",
       "Bütçe açığını kapatmak",
-      "Seçim bölgelerini düzenlemek",
-      "Kavramların ne anlama geldiğini açıklamak"
+      "Seçim bölgelerini düzenlemek"
     ],
     "answer": "Kavramların ne anlama geldiğini açıklamak",
-    "answerLetter": "D",
+    "answerLetter": "A",
     "explanation": "Tanımlar bölümü kavram karmaşasını önler.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-017",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Tanımlar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Kadro kavramı en doğru şekilde nasıl açıklanır?",
     "options": [
       "Bir sınav türü",
       "Bir izin çeşidi",
-      "Bir görevin resmi unvan ve yer bakımından tanımlanması",
-      "Bir kişinin özel mal varlığı"
+      "Bir kişinin özel mal varlığı",
+      "Bir görevin resmi unvan ve yer bakımından tanımlanması"
     ],
     "answer": "Bir görevin resmi unvan ve yer bakımından tanımlanması",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Kadro, kamu hizmetindeki görev yerini ve unvanı gösterir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-018",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Tanımlar",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Derece ve kademe için aşağıdakilerden hangisi doğrudur?",
     "options": [
-      "Sadece disiplin cezasıdır",
-      "Birbirinden farklı ilerleme kavramlarıdır",
       "Her zaman aynı anlama gelir",
-      "Sadece izin türüdür"
+      "Sadece izin türüdür",
+      "Birbirinden farklı ilerleme kavramlarıdır",
+      "Sadece disiplin cezasıdır"
     ],
     "answer": "Birbirinden farklı ilerleme kavramlarıdır",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Derece ve kademe kamu personel sisteminde farklı kavramlardır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-019",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Tanımlar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Adaylık kavramı neyi ifade eder?",
     "options": [
+      "Disiplin cezasının türünü",
       "Göreve yeni başlayan kişinin geçiş ve uyum sürecini",
       "Emekliliği",
-      "Sürekli izin hakkını",
-      "Disiplin cezasının türünü"
+      "Sürekli izin hakkını"
     ],
     "answer": "Göreve yeni başlayan kişinin geçiş ve uyum sürecini",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Adaylık, asaleten atanmadan önceki uyum sürecidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-020",
@@ -3263,15 +4849,15 @@ window.QUESTIONS = [
     "difficulty": "Kolay",
     "question": "Tanımların bilinmesi neden önemlidir?",
     "options": [
+      "Yasadaki maddeleri doğru yorumlamak için",
       "Sadece ezber yapmak için",
       "Logo tasarlamak için",
-      "Maaşı otomatik artırmak için",
-      "Yasadaki maddeleri doğru yorumlamak için"
+      "Maaşı otomatik artırmak için"
     ],
     "answer": "Yasadaki maddeleri doğru yorumlamak için",
-    "answerLetter": "D",
+    "answerLetter": "A",
     "explanation": "Kavramları bilmek yasanın doğru anlaşılmasını sağlar.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-021",
@@ -3289,25 +4875,25 @@ window.QUESTIONS = [
     "answer": "Görevini güven içinde yapabilmesi için",
     "answerLetter": "D",
     "explanation": "Haklar kamu görevlisinin yasal güvence içinde çalışmasını sağlar.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-022",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Aşağıdakilerden hangisi kamu görevlisinin hakları arasında değerlendirilebilir?",
     "options": [
-      "Göreve keyfi gelmeme",
       "Tarafsızlığı bozma",
+      "Kamu malını kişisel amaçla kullanma",
       "İzin hakkı",
-      "Kamu malını kişisel amaçla kullanma"
+      "Göreve keyfi gelmeme"
     ],
     "answer": "İzin hakkı",
     "answerLetter": "C",
     "explanation": "İzin hakkı kamu personel sisteminde temel haklardandır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-023",
@@ -3317,22 +4903,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Mali haklar neye dayanmalıdır?",
     "options": [
-      "Sosyal medya yorumuna",
+      "Sözlü söylentiye",
       "Yasal düzenlemelere",
-      "Kişisel isteğe",
-      "Sözlü söylentiye"
+      "Sosyal medya yorumuna",
+      "Kişisel isteğe"
     ],
     "answer": "Yasal düzenlemelere",
     "answerLetter": "B",
     "explanation": "Mali haklar yasal esaslara göre belirlenir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-024",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Hakların kullanımı için aşağıdakilerden hangisi doğrudur?",
     "options": [
       "Mevzuat çerçevesinde kullanılır",
@@ -3343,7 +4929,7 @@ window.QUESTIONS = [
     "answer": "Mevzuat çerçevesinde kullanılır",
     "answerLetter": "A",
     "explanation": "Haklar yasal sınırlar içinde kullanılır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-025",
@@ -3361,25 +4947,25 @@ window.QUESTIONS = [
     "answer": "Denge içinde değerlendirilmelidir",
     "answerLetter": "D",
     "explanation": "Kamu hizmetinde hak-sorumluluk dengesi esastır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-026",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Kamu görevlisinin hakları hangi amaçla düzenlenir?",
     "options": [
-      "Sınavsız terfi için",
-      "Görevini güven içinde yapabilmesi için",
       "Kamu hizmetini tamamen durdurmak için",
-      "Kişisel ayrıcalık sağlamak için"
+      "Kişisel ayrıcalık sağlamak için",
+      "Görevini güven içinde yapabilmesi için",
+      "Sınavsız terfi için"
     ],
     "answer": "Görevini güven içinde yapabilmesi için",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Haklar kamu görevlisinin yasal güvence içinde çalışmasını sağlar.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-027",
@@ -3389,33 +4975,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Aşağıdakilerden hangisi kamu görevlisinin hakları arasında değerlendirilebilir?",
     "options": [
+      "Tarafsızlığı bozma",
       "İzin hakkı",
       "Kamu malını kişisel amaçla kullanma",
-      "Göreve keyfi gelmeme",
-      "Tarafsızlığı bozma"
+      "Göreve keyfi gelmeme"
     ],
     "answer": "İzin hakkı",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "İzin hakkı kamu personel sisteminde temel haklardandır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-028",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Mali haklar neye dayanmalıdır?",
     "options": [
+      "Yasal düzenlemelere",
       "Kişisel isteğe",
       "Sözlü söylentiye",
-      "Sosyal medya yorumuna",
-      "Yasal düzenlemelere"
+      "Sosyal medya yorumuna"
     ],
     "answer": "Yasal düzenlemelere",
-    "answerLetter": "D",
+    "answerLetter": "A",
     "explanation": "Mali haklar yasal esaslara göre belirlenir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-029",
@@ -3427,31 +5013,31 @@ window.QUESTIONS = [
     "options": [
       "Amirin bilgisi olmadan her zaman kullanılabilir",
       "Kamu hizmetini dikkate almaz",
-      "Mevzuat çerçevesinde kullanılır",
-      "Sınırsızdır"
+      "Sınırsızdır",
+      "Mevzuat çerçevesinde kullanılır"
     ],
     "answer": "Mevzuat çerçevesinde kullanılır",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Haklar yasal sınırlar içinde kullanılır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-030",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Kamu görevlisinin hak ve sorumlulukları arasındaki ilişki nasıldır?",
     "options": [
-      "Birbiriyle ilgisizdir",
-      "Denge içinde değerlendirilmelidir",
       "Haklar var, sorumluluk yoktur",
-      "Sorumluluklar hakları tamamen kaldırır"
+      "Sorumluluklar hakları tamamen kaldırır",
+      "Denge içinde değerlendirilmelidir",
+      "Birbiriyle ilgisizdir"
     ],
     "answer": "Denge içinde değerlendirilmelidir",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Kamu hizmetinde hak-sorumluluk dengesi esastır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-031",
@@ -3461,33 +5047,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Kamu Yasası bakımından kamu görevlisinin hakları hangi amaçla düzenlenir?",
     "options": [
-      "Kamu hizmetini tamamen durdurmak için",
-      "Kişisel ayrıcalık sağlamak için",
       "Sınavsız terfi için",
-      "Görevini güven içinde yapabilmesi için"
+      "Görevini güven içinde yapabilmesi için",
+      "Kamu hizmetini tamamen durdurmak için",
+      "Kişisel ayrıcalık sağlamak için"
     ],
     "answer": "Görevini güven içinde yapabilmesi için",
-    "answerLetter": "D",
+    "answerLetter": "B",
     "explanation": "Haklar kamu görevlisinin yasal güvence içinde çalışmasını sağlar.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-032",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Kamu Yasası bakımından aşağıdakilerden hangisi kamu görevlisinin hakları arasında değerlendirilebilir?",
     "options": [
+      "İzin hakkı",
       "Göreve keyfi gelmeme",
       "Tarafsızlığı bozma",
-      "İzin hakkı",
       "Kamu malını kişisel amaçla kullanma"
     ],
     "answer": "İzin hakkı",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "İzin hakkı kamu personel sisteminde temel haklardandır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-033",
@@ -3498,32 +5084,32 @@ window.QUESTIONS = [
     "question": "Kamu Yasası bakımından mali haklar neye dayanmalıdır?",
     "options": [
       "Sosyal medya yorumuna",
-      "Yasal düzenlemelere",
       "Kişisel isteğe",
-      "Sözlü söylentiye"
+      "Sözlü söylentiye",
+      "Yasal düzenlemelere"
     ],
     "answer": "Yasal düzenlemelere",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Mali haklar yasal esaslara göre belirlenir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-034",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Kamu Yasası bakımından hakların kullanımı için aşağıdakilerden hangisi doğrudur?",
     "options": [
-      "Mevzuat çerçevesinde kullanılır",
-      "Sınırsızdır",
       "Amirin bilgisi olmadan her zaman kullanılabilir",
-      "Kamu hizmetini dikkate almaz"
+      "Kamu hizmetini dikkate almaz",
+      "Mevzuat çerçevesinde kullanılır",
+      "Sınırsızdır"
     ],
     "answer": "Mevzuat çerçevesinde kullanılır",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "Haklar yasal sınırlar içinde kullanılır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-035",
@@ -3533,22 +5119,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Kamu Yasası bakımından kamu görevlisinin hak ve sorumlulukları arasındaki ilişki nasıldır?",
     "options": [
-      "Haklar var, sorumluluk yoktur",
-      "Sorumluluklar hakları tamamen kaldırır",
       "Birbiriyle ilgisizdir",
-      "Denge içinde değerlendirilmelidir"
+      "Denge içinde değerlendirilmelidir",
+      "Haklar var, sorumluluk yoktur",
+      "Sorumluluklar hakları tamamen kaldırır"
     ],
     "answer": "Denge içinde değerlendirilmelidir",
-    "answerLetter": "D",
+    "answerLetter": "B",
     "explanation": "Kamu hizmetinde hak-sorumluluk dengesi esastır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-036",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Ödevler ve Sorumluluklar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Kamu görevlisinin temel ödevi aşağıdakilerden hangisidir?",
     "options": [
       "Görevini kamu yararına uygun yürütmek",
@@ -3559,7 +5145,7 @@ window.QUESTIONS = [
     "answer": "Görevini kamu yararına uygun yürütmek",
     "answerLetter": "A",
     "explanation": "Kamu görevlisi görevini kamu yararı için yapmalıdır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-037",
@@ -3577,25 +5163,25 @@ window.QUESTIONS = [
     "answer": "Görevde kişilere eşit ve objektif davranmayı",
     "answerLetter": "D",
     "explanation": "Tarafsızlık eşit ve objektif işlem yapmayı gerektirir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-038",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Ödevler ve Sorumluluklar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Kamu malı için doğru davranış hangisidir?",
     "options": [
-      "Zarar görmesine göz yummak",
       "Başkasına devretmek",
+      "Kişisel ihtiyaç için kullanmak",
       "Kamu malını korumak ve amacı dışında kullanmamak",
-      "Kişisel ihtiyaç için kullanmak"
+      "Zarar görmesine göz yummak"
     ],
     "answer": "Kamu malını korumak ve amacı dışında kullanmamak",
     "answerLetter": "C",
     "explanation": "Kamu malı kamu hizmeti için korunmalıdır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-039",
@@ -3605,22 +5191,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Yasal emirler konusunda kamu görevlisinin yükümlülüğü nedir?",
     "options": [
-      "Kamu hizmetini aksatmak",
+      "Göreve hiç uymamak",
       "Yasal emirleri yerine getirmek",
-      "Her emri sorgusuz kişisel amaçla uygulamak",
-      "Göreve hiç uymamak"
+      "Kamu hizmetini aksatmak",
+      "Her emri sorgusuz kişisel amaçla uygulamak"
     ],
     "answer": "Yasal emirleri yerine getirmek",
     "answerLetter": "B",
     "explanation": "Yasal görev gerekleri yerine getirilmelidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-040",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Ödevler ve Sorumluluklar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Göreve devam yükümlülüğü hangi başlıkla ilgilidir?",
     "options": [
       "Ödev ve sorumluluklar",
@@ -3631,7 +5217,7 @@ window.QUESTIONS = [
     "answer": "Ödev ve sorumluluklar",
     "answerLetter": "A",
     "explanation": "Göreve devam kamu görevlisinin temel sorumluluklarındandır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-041",
@@ -3643,31 +5229,31 @@ window.QUESTIONS = [
     "options": [
       "Görevi aksatmak",
       "Yetkisini özel işlerde kullanmak",
-      "Görevini kamu yararına uygun yürütmek",
-      "Kişisel çıkar sağlamak"
+      "Kişisel çıkar sağlamak",
+      "Görevini kamu yararına uygun yürütmek"
     ],
     "answer": "Görevini kamu yararına uygun yürütmek",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Kamu görevlisi görevini kamu yararı için yapmalıdır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-042",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Ödevler ve Sorumluluklar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Tarafsızlık ilkesi neyi gerektirir?",
     "options": [
-      "Kamu hizmetini bırakmayı",
-      "Görevde kişilere eşit ve objektif davranmayı",
       "Tanıdıklara ayrıcalık sağlamayı",
-      "Kişisel görüşe göre işlem yapmayı"
+      "Kişisel görüşe göre işlem yapmayı",
+      "Görevde kişilere eşit ve objektif davranmayı",
+      "Kamu hizmetini bırakmayı"
     ],
     "answer": "Görevde kişilere eşit ve objektif davranmayı",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Tarafsızlık eşit ve objektif işlem yapmayı gerektirir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-043",
@@ -3677,33 +5263,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Kamu malı için doğru davranış hangisidir?",
     "options": [
+      "Başkasına devretmek",
       "Kamu malını korumak ve amacı dışında kullanmamak",
       "Kişisel ihtiyaç için kullanmak",
-      "Zarar görmesine göz yummak",
-      "Başkasına devretmek"
+      "Zarar görmesine göz yummak"
     ],
     "answer": "Kamu malını korumak ve amacı dışında kullanmamak",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Kamu malı kamu hizmeti için korunmalıdır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-044",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Ödevler ve Sorumluluklar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Yasal emirler konusunda kamu görevlisinin yükümlülüğü nedir?",
     "options": [
+      "Yasal emirleri yerine getirmek",
       "Her emri sorgusuz kişisel amaçla uygulamak",
       "Göreve hiç uymamak",
-      "Kamu hizmetini aksatmak",
-      "Yasal emirleri yerine getirmek"
+      "Kamu hizmetini aksatmak"
     ],
     "answer": "Yasal emirleri yerine getirmek",
-    "answerLetter": "D",
+    "answerLetter": "A",
     "explanation": "Yasal görev gerekleri yerine getirilmelidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-045",
@@ -3715,31 +5301,31 @@ window.QUESTIONS = [
     "options": [
       "Emeklilik töreni",
       "Logo kullanımı",
-      "Ödev ve sorumluluklar",
-      "Sadece sosyal haklar"
+      "Sadece sosyal haklar",
+      "Ödev ve sorumluluklar"
     ],
     "answer": "Ödev ve sorumluluklar",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Göreve devam kamu görevlisinin temel sorumluluklarındandır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-046",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Ödevler ve Sorumluluklar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Kamu Yasası bakımından kamu görevlisinin temel ödevi aşağıdakilerden hangisidir?",
     "options": [
-      "Görevini kamu yararına uygun yürütmek",
-      "Kişisel çıkar sağlamak",
       "Görevi aksatmak",
-      "Yetkisini özel işlerde kullanmak"
+      "Yetkisini özel işlerde kullanmak",
+      "Görevini kamu yararına uygun yürütmek",
+      "Kişisel çıkar sağlamak"
     ],
     "answer": "Görevini kamu yararına uygun yürütmek",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "Kamu görevlisi görevini kamu yararı için yapmalıdır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-047",
@@ -3749,33 +5335,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Kamu Yasası bakımından tarafsızlık ilkesi neyi gerektirir?",
     "options": [
-      "Tanıdıklara ayrıcalık sağlamayı",
-      "Kişisel görüşe göre işlem yapmayı",
       "Kamu hizmetini bırakmayı",
-      "Görevde kişilere eşit ve objektif davranmayı"
+      "Görevde kişilere eşit ve objektif davranmayı",
+      "Tanıdıklara ayrıcalık sağlamayı",
+      "Kişisel görüşe göre işlem yapmayı"
     ],
     "answer": "Görevde kişilere eşit ve objektif davranmayı",
-    "answerLetter": "D",
+    "answerLetter": "B",
     "explanation": "Tarafsızlık eşit ve objektif işlem yapmayı gerektirir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-048",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Ödevler ve Sorumluluklar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Kamu Yasası bakımından kamu malı için doğru davranış hangisidir?",
     "options": [
+      "Kamu malını korumak ve amacı dışında kullanmamak",
       "Zarar görmesine göz yummak",
       "Başkasına devretmek",
-      "Kamu malını korumak ve amacı dışında kullanmamak",
       "Kişisel ihtiyaç için kullanmak"
     ],
     "answer": "Kamu malını korumak ve amacı dışında kullanmamak",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "Kamu malı kamu hizmeti için korunmalıdır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-049",
@@ -3786,32 +5372,32 @@ window.QUESTIONS = [
     "question": "Kamu Yasası bakımından yasal emirler konusunda kamu görevlisinin yükümlülüğü nedir?",
     "options": [
       "Kamu hizmetini aksatmak",
-      "Yasal emirleri yerine getirmek",
       "Her emri sorgusuz kişisel amaçla uygulamak",
-      "Göreve hiç uymamak"
+      "Göreve hiç uymamak",
+      "Yasal emirleri yerine getirmek"
     ],
     "answer": "Yasal emirleri yerine getirmek",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Yasal görev gerekleri yerine getirilmelidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-050",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Ödevler ve Sorumluluklar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Kamu Yasası bakımından göreve devam yükümlülüğü hangi başlıkla ilgilidir?",
     "options": [
-      "Ödev ve sorumluluklar",
-      "Sadece sosyal haklar",
       "Emeklilik töreni",
-      "Logo kullanımı"
+      "Logo kullanımı",
+      "Ödev ve sorumluluklar",
+      "Sadece sosyal haklar"
     ],
     "answer": "Ödev ve sorumluluklar",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "Göreve devam kamu görevlisinin temel sorumluluklarındandır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-051",
@@ -3821,22 +5407,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Hizmet sınıfları hangi amaca hizmet eder?",
     "options": [
-      "Emekliliği iptal etmeye",
+      "Sadece izinleri artırmaya",
       "Benzer görevleri gruplandırmaya",
-      "Tüm görevleri kaldırmaya",
-      "Sadece izinleri artırmaya"
+      "Emekliliği iptal etmeye",
+      "Tüm görevleri kaldırmaya"
     ],
     "answer": "Benzer görevleri gruplandırmaya",
     "answerLetter": "B",
     "explanation": "Hizmet sınıfları personel sisteminde düzen sağlar.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-052",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Hizmet Sınıfları ve Kadrolar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Kadro olmadan personel sisteminde hangi sorun doğar?",
     "options": [
       "Görev ve unvan belirsizliği",
@@ -3847,7 +5433,7 @@ window.QUESTIONS = [
     "answer": "Görev ve unvan belirsizliği",
     "answerLetter": "A",
     "explanation": "Kadro görev yerini ve unvanı belirler.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-053",
@@ -3865,25 +5451,25 @@ window.QUESTIONS = [
     "answer": "Atama, terfi ve görev dağılımı",
     "answerLetter": "D",
     "explanation": "Kadro personel hareketlerinde temel unsurdur.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-054",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Hizmet Sınıfları ve Kadrolar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Hizmet sınıfı kavramı neyi ifade eder?",
     "options": [
-      "Sadece maaş bordrosunu",
       "Disiplin cezası adını",
+      "Kişisel izin belgesini",
       "Benzer nitelikteki kamu görevlerinin gruplandırılmasını",
-      "Kişisel izin belgesini"
+      "Sadece maaş bordrosunu"
     ],
     "answer": "Benzer nitelikteki kamu görevlerinin gruplandırılmasını",
     "answerLetter": "C",
     "explanation": "Hizmet sınıfları görev türlerini gruplandırır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-055",
@@ -3893,33 +5479,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Kadro ve hizmet sınıfı için aşağıdakilerden hangisi doğrudur?",
     "options": [
-      "Kanun dışı kavramlardır",
+      "Sadece özel sektörde kullanılır",
       "Personel yönetiminde düzen sağlar",
-      "Aynı şey değildir ama ilişkilidir",
-      "Sadece özel sektörde kullanılır"
+      "Kanun dışı kavramlardır",
+      "Aynı şey değildir ama ilişkilidir"
     ],
     "answer": "Personel yönetiminde düzen sağlar",
     "answerLetter": "B",
     "explanation": "Kadro ve hizmet sınıfı kamu personel sisteminin temelidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-056",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Hizmet Sınıfları ve Kadrolar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Hizmet sınıfları hangi amaca hizmet eder?",
     "options": [
+      "Benzer görevleri gruplandırmaya",
       "Tüm görevleri kaldırmaya",
       "Sadece izinleri artırmaya",
-      "Emekliliği iptal etmeye",
-      "Benzer görevleri gruplandırmaya"
+      "Emekliliği iptal etmeye"
     ],
     "answer": "Benzer görevleri gruplandırmaya",
-    "answerLetter": "D",
+    "answerLetter": "A",
     "explanation": "Hizmet sınıfları personel sisteminde düzen sağlar.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-057",
@@ -3931,31 +5517,31 @@ window.QUESTIONS = [
     "options": [
       "Sınavlar tamamen kalkar",
       "Kanun gereksiz olur",
-      "Görev ve unvan belirsizliği",
-      "Her şey daha düzenli olur"
+      "Her şey daha düzenli olur",
+      "Görev ve unvan belirsizliği"
     ],
     "answer": "Görev ve unvan belirsizliği",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Kadro görev yerini ve unvanı belirler.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-058",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Hizmet Sınıfları ve Kadrolar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Kadro, en çok hangi işlemlerde önem taşır?",
     "options": [
-      "Sadece bina boyası",
-      "Atama, terfi ve görev dağılımı",
       "Sadece tatil planı",
-      "Sadece yemek listesi"
+      "Sadece yemek listesi",
+      "Atama, terfi ve görev dağılımı",
+      "Sadece bina boyası"
     ],
     "answer": "Atama, terfi ve görev dağılımı",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Kadro personel hareketlerinde temel unsurdur.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-059",
@@ -3965,33 +5551,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Hizmet sınıfı kavramı neyi ifade eder?",
     "options": [
+      "Disiplin cezası adını",
       "Benzer nitelikteki kamu görevlerinin gruplandırılmasını",
       "Kişisel izin belgesini",
-      "Sadece maaş bordrosunu",
-      "Disiplin cezası adını"
+      "Sadece maaş bordrosunu"
     ],
     "answer": "Benzer nitelikteki kamu görevlerinin gruplandırılmasını",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Hizmet sınıfları görev türlerini gruplandırır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-060",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Hizmet Sınıfları ve Kadrolar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Kadro ve hizmet sınıfı için aşağıdakilerden hangisi doğrudur?",
     "options": [
+      "Personel yönetiminde düzen sağlar",
       "Aynı şey değildir ama ilişkilidir",
       "Sadece özel sektörde kullanılır",
-      "Kanun dışı kavramlardır",
-      "Personel yönetiminde düzen sağlar"
+      "Kanun dışı kavramlardır"
     ],
     "answer": "Personel yönetiminde düzen sağlar",
-    "answerLetter": "D",
+    "answerLetter": "A",
     "explanation": "Kadro ve hizmet sınıfı kamu personel sisteminin temelidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-061",
@@ -4009,25 +5595,25 @@ window.QUESTIONS = [
     "answer": "Yasada belirtilen şartları taşımaya",
     "answerLetter": "D",
     "explanation": "Atama yasal şartlara göre yapılır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-062",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Atanma ve Adaylık",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Adaylık sürecinin amacı nedir?",
     "options": [
-      "İzni sınırsız yapmak",
       "Görevi tamamen kaldırmak",
+      "Emekliliği başlatmak",
       "Göreve uyum sağlamak ve yeterliliği görmek",
-      "Emekliliği başlatmak"
+      "İzni sınırsız yapmak"
     ],
     "answer": "Göreve uyum sağlamak ve yeterliliği görmek",
     "answerLetter": "C",
     "explanation": "Adaylık kamu hizmetine uyum dönemidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-063",
@@ -4037,22 +5623,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Adaylık tamamlandığında hangi işlem gündeme gelebilir?",
     "options": [
-      "Süresiz izin",
+      "Kadro iptali",
       "Asaleten atanma",
-      "Otomatik emeklilik",
-      "Kadro iptali"
+      "Süresiz izin",
+      "Otomatik emeklilik"
     ],
     "answer": "Asaleten atanma",
     "answerLetter": "B",
     "explanation": "Adaylık olumlu tamamlanırsa asaleten atanma olabilir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-064",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Atanma ve Adaylık",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Aday memur için aşağıdakilerden hangisi doğrudur?",
     "options": [
       "Henüz geçiş sürecindedir",
@@ -4063,7 +5649,7 @@ window.QUESTIONS = [
     "answer": "Henüz geçiş sürecindedir",
     "answerLetter": "A",
     "explanation": "Adaylık geçiş sürecidir ancak görev yükümlülükleri vardır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-065",
@@ -4081,25 +5667,25 @@ window.QUESTIONS = [
     "answer": "Göreve uygunluğu belirlemek için",
     "answerLetter": "D",
     "explanation": "Atanma şartları göreve uygunluğu sağlar.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-066",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Atanma ve Adaylık",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Kamu görevine atanma neye bağlıdır?",
     "options": [
-      "Sosyal medya beğenisine",
-      "Yasada belirtilen şartları taşımaya",
       "Sadece kişinin isteğine",
-      "Hiçbir koşula bağlı olmamaya"
+      "Hiçbir koşula bağlı olmamaya",
+      "Yasada belirtilen şartları taşımaya",
+      "Sosyal medya beğenisine"
     ],
     "answer": "Yasada belirtilen şartları taşımaya",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Atama yasal şartlara göre yapılır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-067",
@@ -4109,33 +5695,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Adaylık sürecinin amacı nedir?",
     "options": [
+      "Görevi tamamen kaldırmak",
       "Göreve uyum sağlamak ve yeterliliği görmek",
       "Emekliliği başlatmak",
-      "İzni sınırsız yapmak",
-      "Görevi tamamen kaldırmak"
+      "İzni sınırsız yapmak"
     ],
     "answer": "Göreve uyum sağlamak ve yeterliliği görmek",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Adaylık kamu hizmetine uyum dönemidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-068",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Atanma ve Adaylık",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Adaylık tamamlandığında hangi işlem gündeme gelebilir?",
     "options": [
+      "Asaleten atanma",
       "Otomatik emeklilik",
       "Kadro iptali",
-      "Süresiz izin",
-      "Asaleten atanma"
+      "Süresiz izin"
     ],
     "answer": "Asaleten atanma",
-    "answerLetter": "D",
+    "answerLetter": "A",
     "explanation": "Adaylık olumlu tamamlanırsa asaleten atanma olabilir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-069",
@@ -4147,31 +5733,31 @@ window.QUESTIONS = [
     "options": [
       "Her zaman emeklidir",
       "Kamu görevlisi sayılmaz",
-      "Henüz geçiş sürecindedir",
-      "Hiçbir yükümlülüğü yoktur"
+      "Hiçbir yükümlülüğü yoktur",
+      "Henüz geçiş sürecindedir"
     ],
     "answer": "Henüz geçiş sürecindedir",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Adaylık geçiş sürecidir ancak görev yükümlülükleri vardır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-070",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Atanma ve Adaylık",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Atanma işlemlerinde genel ve özel şartlar neden önemlidir?",
     "options": [
-      "Görevi gizlemek için",
-      "Göreve uygunluğu belirlemek için",
       "Sadece kağıt doldurmak için",
-      "Sınavları iptal etmek için"
+      "Sınavları iptal etmek için",
+      "Göreve uygunluğu belirlemek için",
+      "Görevi gizlemek için"
     ],
     "answer": "Göreve uygunluğu belirlemek için",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Atanma şartları göreve uygunluğu sağlar.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-071",
@@ -4181,33 +5767,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Kamu Yasası bakımından kamu görevine atanma neye bağlıdır?",
     "options": [
-      "Sadece kişinin isteğine",
-      "Hiçbir koşula bağlı olmamaya",
       "Sosyal medya beğenisine",
-      "Yasada belirtilen şartları taşımaya"
+      "Yasada belirtilen şartları taşımaya",
+      "Sadece kişinin isteğine",
+      "Hiçbir koşula bağlı olmamaya"
     ],
     "answer": "Yasada belirtilen şartları taşımaya",
-    "answerLetter": "D",
+    "answerLetter": "B",
     "explanation": "Atama yasal şartlara göre yapılır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-072",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Atanma ve Adaylık",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Kamu Yasası bakımından adaylık sürecinin amacı nedir?",
     "options": [
+      "Göreve uyum sağlamak ve yeterliliği görmek",
       "İzni sınırsız yapmak",
       "Görevi tamamen kaldırmak",
-      "Göreve uyum sağlamak ve yeterliliği görmek",
       "Emekliliği başlatmak"
     ],
     "answer": "Göreve uyum sağlamak ve yeterliliği görmek",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "Adaylık kamu hizmetine uyum dönemidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-073",
@@ -4218,32 +5804,32 @@ window.QUESTIONS = [
     "question": "Kamu Yasası bakımından adaylık tamamlandığında hangi işlem gündeme gelebilir?",
     "options": [
       "Süresiz izin",
-      "Asaleten atanma",
       "Otomatik emeklilik",
-      "Kadro iptali"
+      "Kadro iptali",
+      "Asaleten atanma"
     ],
     "answer": "Asaleten atanma",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Adaylık olumlu tamamlanırsa asaleten atanma olabilir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-074",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Atanma ve Adaylık",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Kamu Yasası bakımından aday memur için aşağıdakilerden hangisi doğrudur?",
     "options": [
-      "Henüz geçiş sürecindedir",
-      "Hiçbir yükümlülüğü yoktur",
       "Her zaman emeklidir",
-      "Kamu görevlisi sayılmaz"
+      "Kamu görevlisi sayılmaz",
+      "Henüz geçiş sürecindedir",
+      "Hiçbir yükümlülüğü yoktur"
     ],
     "answer": "Henüz geçiş sürecindedir",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "Adaylık geçiş sürecidir ancak görev yükümlülükleri vardır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-075",
@@ -4253,22 +5839,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Kamu Yasası bakımından atanma işlemlerinde genel ve özel şartlar neden önemlidir?",
     "options": [
-      "Sadece kağıt doldurmak için",
-      "Sınavları iptal etmek için",
       "Görevi gizlemek için",
-      "Göreve uygunluğu belirlemek için"
+      "Göreve uygunluğu belirlemek için",
+      "Sadece kağıt doldurmak için",
+      "Sınavları iptal etmek için"
     ],
     "answer": "Göreve uygunluğu belirlemek için",
-    "answerLetter": "D",
+    "answerLetter": "B",
     "explanation": "Atanma şartları göreve uygunluğu sağlar.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-076",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Derece, Kademe ve Terfi",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Kademe ilerlemesi neyi ifade eder?",
     "options": [
       "Derece içindeki ilerlemeyi",
@@ -4279,7 +5865,7 @@ window.QUESTIONS = [
     "answer": "Derece içindeki ilerlemeyi",
     "answerLetter": "A",
     "explanation": "Kademe derece içindeki ilerleme basamağıdır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-077",
@@ -4297,25 +5883,25 @@ window.QUESTIONS = [
     "answer": "Kademe ilerlemesinden farklıdır",
     "answerLetter": "D",
     "explanation": "Derece ve kademe farklı kavramlardır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-078",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Derece, Kademe ve Terfi",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Terfi ne anlama gelir?",
     "options": [
-      "İzinsiz devamsızlık",
       "Disiplin cezası alma",
+      "Görevden ayrılma",
       "Daha ileri statü veya göreve yükselme",
-      "Görevden ayrılma"
+      "İzinsiz devamsızlık"
     ],
     "answer": "Daha ileri statü veya göreve yükselme",
     "answerLetter": "C",
     "explanation": "Terfi kamu görevlisinin yükselmesiyle ilgilidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-079",
@@ -4325,22 +5911,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Terfi için hangi unsur etkili olabilir?",
     "options": [
-      "Kamu malını zarar vermek",
+      "Göreve gelmemek",
       "Hizmet süresi ve koşulların sağlanması",
-      "Kişisel söylenti",
-      "Göreve gelmemek"
+      "Kamu malını zarar vermek",
+      "Kişisel söylenti"
     ],
     "answer": "Hizmet süresi ve koşulların sağlanması",
     "answerLetter": "B",
     "explanation": "Terfi yasal şartların oluşmasına bağlıdır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-080",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Derece, Kademe ve Terfi",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Disiplin durumu ilerleme üzerinde nasıl etki yapabilir?",
     "options": [
       "Olumsuz disiplin durumu ilerlemeyi etkileyebilir",
@@ -4351,7 +5937,7 @@ window.QUESTIONS = [
     "answer": "Olumsuz disiplin durumu ilerlemeyi etkileyebilir",
     "answerLetter": "A",
     "explanation": "Disiplin durumu personel ilerlemesinde önemlidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-081",
@@ -4363,31 +5949,31 @@ window.QUESTIONS = [
     "options": [
       "Emekliliği",
       "Disiplin kurulunu",
-      "Derece içindeki ilerlemeyi",
-      "Görevden uzaklaştırmayı"
+      "Görevden uzaklaştırmayı",
+      "Derece içindeki ilerlemeyi"
     ],
     "answer": "Derece içindeki ilerlemeyi",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Kademe derece içindeki ilerleme basamağıdır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-082",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Derece, Kademe ve Terfi",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Derece yükselmesi için aşağıdakilerden hangisi doğrudur?",
     "options": [
-      "Sadece ceza türüdür",
-      "Kademe ilerlemesinden farklıdır",
       "Aynı şeydir",
-      "Sadece izin türüdür"
+      "Sadece izin türüdür",
+      "Kademe ilerlemesinden farklıdır",
+      "Sadece ceza türüdür"
     ],
     "answer": "Kademe ilerlemesinden farklıdır",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Derece ve kademe farklı kavramlardır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-083",
@@ -4397,33 +5983,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Terfi ne anlama gelir?",
     "options": [
+      "Disiplin cezası alma",
       "Daha ileri statü veya göreve yükselme",
       "Görevden ayrılma",
-      "İzinsiz devamsızlık",
-      "Disiplin cezası alma"
+      "İzinsiz devamsızlık"
     ],
     "answer": "Daha ileri statü veya göreve yükselme",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Terfi kamu görevlisinin yükselmesiyle ilgilidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-084",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Derece, Kademe ve Terfi",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Terfi için hangi unsur etkili olabilir?",
     "options": [
+      "Hizmet süresi ve koşulların sağlanması",
       "Kişisel söylenti",
       "Göreve gelmemek",
-      "Kamu malını zarar vermek",
-      "Hizmet süresi ve koşulların sağlanması"
+      "Kamu malını zarar vermek"
     ],
     "answer": "Hizmet süresi ve koşulların sağlanması",
-    "answerLetter": "D",
+    "answerLetter": "A",
     "explanation": "Terfi yasal şartların oluşmasına bağlıdır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-085",
@@ -4435,31 +6021,31 @@ window.QUESTIONS = [
     "options": [
       "Sadece maaşı artırır",
       "Sadece izin verir",
-      "Olumsuz disiplin durumu ilerlemeyi etkileyebilir",
-      "Hiçbir zaman etkilemez"
+      "Hiçbir zaman etkilemez",
+      "Olumsuz disiplin durumu ilerlemeyi etkileyebilir"
     ],
     "answer": "Olumsuz disiplin durumu ilerlemeyi etkileyebilir",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Disiplin durumu personel ilerlemesinde önemlidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-086",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Derece, Kademe ve Terfi",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Kamu Yasası bakımından kademe ilerlemesi neyi ifade eder?",
     "options": [
-      "Derece içindeki ilerlemeyi",
-      "Görevden uzaklaştırmayı",
       "Emekliliği",
-      "Disiplin kurulunu"
+      "Disiplin kurulunu",
+      "Derece içindeki ilerlemeyi",
+      "Görevden uzaklaştırmayı"
     ],
     "answer": "Derece içindeki ilerlemeyi",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "Kademe derece içindeki ilerleme basamağıdır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-087",
@@ -4469,33 +6055,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Kamu Yasası bakımından derece yükselmesi için aşağıdakilerden hangisi doğrudur?",
     "options": [
-      "Aynı şeydir",
-      "Sadece izin türüdür",
       "Sadece ceza türüdür",
-      "Kademe ilerlemesinden farklıdır"
+      "Kademe ilerlemesinden farklıdır",
+      "Aynı şeydir",
+      "Sadece izin türüdür"
     ],
     "answer": "Kademe ilerlemesinden farklıdır",
-    "answerLetter": "D",
+    "answerLetter": "B",
     "explanation": "Derece ve kademe farklı kavramlardır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-088",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Derece, Kademe ve Terfi",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Kamu Yasası bakımından terfi ne anlama gelir?",
     "options": [
+      "Daha ileri statü veya göreve yükselme",
       "İzinsiz devamsızlık",
       "Disiplin cezası alma",
-      "Daha ileri statü veya göreve yükselme",
       "Görevden ayrılma"
     ],
     "answer": "Daha ileri statü veya göreve yükselme",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "Terfi kamu görevlisinin yükselmesiyle ilgilidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-089",
@@ -4506,32 +6092,32 @@ window.QUESTIONS = [
     "question": "Kamu Yasası bakımından terfi için hangi unsur etkili olabilir?",
     "options": [
       "Kamu malını zarar vermek",
-      "Hizmet süresi ve koşulların sağlanması",
       "Kişisel söylenti",
-      "Göreve gelmemek"
+      "Göreve gelmemek",
+      "Hizmet süresi ve koşulların sağlanması"
     ],
     "answer": "Hizmet süresi ve koşulların sağlanması",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Terfi yasal şartların oluşmasına bağlıdır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-090",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Derece, Kademe ve Terfi",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Kamu Yasası bakımından disiplin durumu ilerleme üzerinde nasıl etki yapabilir?",
     "options": [
-      "Olumsuz disiplin durumu ilerlemeyi etkileyebilir",
-      "Hiçbir zaman etkilemez",
       "Sadece maaşı artırır",
-      "Sadece izin verir"
+      "Sadece izin verir",
+      "Olumsuz disiplin durumu ilerlemeyi etkileyebilir",
+      "Hiçbir zaman etkilemez"
     ],
     "answer": "Olumsuz disiplin durumu ilerlemeyi etkileyebilir",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "Disiplin durumu personel ilerlemesinde önemlidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-091",
@@ -4541,22 +6127,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "İzin hakkının temel amacı nedir?",
     "options": [
-      "Disiplin cezası vermek",
+      "Kamu hizmetini durdurmak",
       "Görevden yasal ve geçici ayrılmayı düzenlemek",
-      "Görevi tamamen bırakmak",
-      "Kamu hizmetini durdurmak"
+      "Disiplin cezası vermek",
+      "Görevi tamamen bırakmak"
     ],
     "answer": "Görevden yasal ve geçici ayrılmayı düzenlemek",
     "answerLetter": "B",
     "explanation": "İzin yasal ve geçici ayrılma halidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-092",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "İzinler",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "İzin kullanırken hangi husus dikkate alınır?",
     "options": [
       "Kamu hizmetinin aksatılmaması",
@@ -4567,7 +6153,7 @@ window.QUESTIONS = [
     "answer": "Kamu hizmetinin aksatılmaması",
     "answerLetter": "A",
     "explanation": "İzin kamu hizmetinin sürekliliği gözetilerek kullanılır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-093",
@@ -4585,25 +6171,25 @@ window.QUESTIONS = [
     "answer": "Hastalık izni",
     "answerLetter": "D",
     "explanation": "Hastalık izni bir izin türüdür.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-094",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "İzinler",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "İzinsiz göreve gelmeme hangi alanla ilişkilidir?",
     "options": [
-      "Terfi hakkı",
       "Sınırsız hak",
+      "Sadece ödül",
       "Disiplin ve görev sorumluluğu",
-      "Sadece ödül"
+      "Terfi hakkı"
     ],
     "answer": "Disiplin ve görev sorumluluğu",
     "answerLetter": "C",
     "explanation": "İzinsiz devamsızlık disiplin sonucu doğurabilir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-095",
@@ -4613,33 +6199,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "İzin süreleri ve türleri nasıl belirlenir?",
     "options": [
-      "Rastgele",
+      "Sosyal medya ile",
       "Yasa ve ilgili mevzuatla",
-      "Kişisel tahminle",
-      "Sosyal medya ile"
+      "Rastgele",
+      "Kişisel tahminle"
     ],
     "answer": "Yasa ve ilgili mevzuatla",
     "answerLetter": "B",
     "explanation": "İzinler mevzuata göre belirlenir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-096",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "İzinler",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "İzin hakkının temel amacı nedir?",
     "options": [
+      "Görevden yasal ve geçici ayrılmayı düzenlemek",
       "Görevi tamamen bırakmak",
       "Kamu hizmetini durdurmak",
-      "Disiplin cezası vermek",
-      "Görevden yasal ve geçici ayrılmayı düzenlemek"
+      "Disiplin cezası vermek"
     ],
     "answer": "Görevden yasal ve geçici ayrılmayı düzenlemek",
-    "answerLetter": "D",
+    "answerLetter": "A",
     "explanation": "İzin yasal ve geçici ayrılma halidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-097",
@@ -4651,31 +6237,31 @@ window.QUESTIONS = [
     "options": [
       "Sınırsız süre",
       "Her zaman sözlü talep",
-      "Kamu hizmetinin aksatılmaması",
-      "Kişisel keyfilik"
+      "Kişisel keyfilik",
+      "Kamu hizmetinin aksatılmaması"
     ],
     "answer": "Kamu hizmetinin aksatılmaması",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "İzin kamu hizmetinin sürekliliği gözetilerek kullanılır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-098",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "İzinler",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Aşağıdakilerden hangisi izin türlerine örnek olabilir?",
     "options": [
-      "Görevden çıkarma",
-      "Hastalık izni",
       "Kadro cezası",
-      "Terfi iptali"
+      "Terfi iptali",
+      "Hastalık izni",
+      "Görevden çıkarma"
     ],
     "answer": "Hastalık izni",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Hastalık izni bir izin türüdür.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-099",
@@ -4685,33 +6271,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "İzinsiz göreve gelmeme hangi alanla ilişkilidir?",
     "options": [
+      "Sınırsız hak",
       "Disiplin ve görev sorumluluğu",
       "Sadece ödül",
-      "Terfi hakkı",
-      "Sınırsız hak"
+      "Terfi hakkı"
     ],
     "answer": "Disiplin ve görev sorumluluğu",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "İzinsiz devamsızlık disiplin sonucu doğurabilir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-100",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "İzinler",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "İzin süreleri ve türleri nasıl belirlenir?",
     "options": [
+      "Yasa ve ilgili mevzuatla",
       "Kişisel tahminle",
       "Sosyal medya ile",
-      "Rastgele",
-      "Yasa ve ilgili mevzuatla"
+      "Rastgele"
     ],
     "answer": "Yasa ve ilgili mevzuatla",
-    "answerLetter": "D",
+    "answerLetter": "A",
     "explanation": "İzinler mevzuata göre belirlenir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-101",
@@ -4722,32 +6308,32 @@ window.QUESTIONS = [
     "question": "Kamu Yasası bakımından i̇zin hakkının temel amacı nedir?",
     "options": [
       "Disiplin cezası vermek",
-      "Görevden yasal ve geçici ayrılmayı düzenlemek",
       "Görevi tamamen bırakmak",
-      "Kamu hizmetini durdurmak"
+      "Kamu hizmetini durdurmak",
+      "Görevden yasal ve geçici ayrılmayı düzenlemek"
     ],
     "answer": "Görevden yasal ve geçici ayrılmayı düzenlemek",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "İzin yasal ve geçici ayrılma halidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-102",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "İzinler",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Kamu Yasası bakımından i̇zin kullanırken hangi husus dikkate alınır?",
     "options": [
-      "Kamu hizmetinin aksatılmaması",
-      "Kişisel keyfilik",
       "Sınırsız süre",
-      "Her zaman sözlü talep"
+      "Her zaman sözlü talep",
+      "Kamu hizmetinin aksatılmaması",
+      "Kişisel keyfilik"
     ],
     "answer": "Kamu hizmetinin aksatılmaması",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "İzin kamu hizmetinin sürekliliği gözetilerek kullanılır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-103",
@@ -4757,33 +6343,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Kamu Yasası bakımından aşağıdakilerden hangisi izin türlerine örnek olabilir?",
     "options": [
-      "Kadro cezası",
-      "Terfi iptali",
       "Görevden çıkarma",
-      "Hastalık izni"
+      "Hastalık izni",
+      "Kadro cezası",
+      "Terfi iptali"
     ],
     "answer": "Hastalık izni",
-    "answerLetter": "D",
+    "answerLetter": "B",
     "explanation": "Hastalık izni bir izin türüdür.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-104",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "İzinler",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Kamu Yasası bakımından i̇zinsiz göreve gelmeme hangi alanla ilişkilidir?",
     "options": [
+      "Disiplin ve görev sorumluluğu",
       "Terfi hakkı",
       "Sınırsız hak",
-      "Disiplin ve görev sorumluluğu",
       "Sadece ödül"
     ],
     "answer": "Disiplin ve görev sorumluluğu",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "İzinsiz devamsızlık disiplin sonucu doğurabilir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-105",
@@ -4794,14 +6380,14 @@ window.QUESTIONS = [
     "question": "Kamu Yasası bakımından i̇zin süreleri ve türleri nasıl belirlenir?",
     "options": [
       "Rastgele",
-      "Yasa ve ilgili mevzuatla",
       "Kişisel tahminle",
-      "Sosyal medya ile"
+      "Sosyal medya ile",
+      "Yasa ve ilgili mevzuatla"
     ],
     "answer": "Yasa ve ilgili mevzuatla",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "İzinler mevzuata göre belirlenir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-106",
@@ -4811,40 +6397,40 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "Disiplin hükümlerinin amacı nedir?",
     "options": [
-      "Kişisel çıkar sağlamak",
       "Terfiyi otomatik yapmak",
+      "Kamu hizmetini kaldırmak",
       "Kamu hizmetinde düzeni korumak",
-      "Kamu hizmetini kaldırmak"
+      "Kişisel çıkar sağlamak"
     ],
     "answer": "Kamu hizmetinde düzeni korumak",
     "answerLetter": "C",
     "explanation": "Disiplin kamu hizmetinin düzenini korur.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-107",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Disiplin",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Disiplin cezası ne zaman gündeme gelir?",
     "options": [
-      "Her terfide",
+      "Her izin kullanımında",
       "Görev ve sorumluluklara aykırı davranışta",
-      "Her başarılı işlemde",
-      "Her izin kullanımında"
+      "Her terfide",
+      "Her başarılı işlemde"
     ],
     "answer": "Görev ve sorumluluklara aykırı davranışta",
     "answerLetter": "B",
     "explanation": "Aykırı davranış disiplin sürecini doğurabilir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-108",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Disiplin",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Disiplin cezasının türü neye göre değişir?",
     "options": [
       "Fiilin ağırlığına göre",
@@ -4855,14 +6441,14 @@ window.QUESTIONS = [
     "answer": "Fiilin ağırlığına göre",
     "answerLetter": "A",
     "explanation": "Fiilin ağırlığı yaptırımı etkiler.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-109",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Disiplin",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Disiplin sürecinde savunma hakkı için hangisi doğrudur?",
     "options": [
       "Gereksizdir",
@@ -4873,7 +6459,7 @@ window.QUESTIONS = [
     "answer": "Önemli bir güvencedir",
     "answerLetter": "D",
     "explanation": "Savunma hakkı disiplin sürecinde temel güvencelerdendir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-110",
@@ -4883,40 +6469,40 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "Disiplin cezasında ölçülülük neyi ifade eder?",
     "options": [
-      "Hiç ceza verilmemesini",
       "Cezanın rastgele seçilmesini",
+      "Her fiile en ağır ceza verilmesini",
       "Ceza ile fiil arasında uygunluk olmasını",
-      "Her fiile en ağır ceza verilmesini"
+      "Hiç ceza verilmemesini"
     ],
     "answer": "Ceza ile fiil arasında uygunluk olmasını",
     "answerLetter": "C",
     "explanation": "Ölçülülük fiil ve ceza arasında denge gerektirir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-111",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Disiplin",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Görevini ihmal eden kamu görevlisi hangi alanla karşılaşabilir?",
     "options": [
-      "Sınırsız izin",
+      "Otomatik terfi",
       "Disiplin hükümleri",
-      "Sadece ödül",
-      "Otomatik terfi"
+      "Sınırsız izin",
+      "Sadece ödül"
     ],
     "answer": "Disiplin hükümleri",
     "answerLetter": "B",
     "explanation": "Görev ihmali disiplin sorumluluğu doğurabilir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-112",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Disiplin",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Tarafsızlık ilkesine aykırı davranış hangi sonucu doğurabilir?",
     "options": [
       "Disiplin yönünden değerlendirme",
@@ -4927,14 +6513,14 @@ window.QUESTIONS = [
     "answer": "Disiplin yönünden değerlendirme",
     "answerLetter": "A",
     "explanation": "Tarafsızlık ihlali disiplin konusu olabilir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-113",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Disiplin",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Disiplin hükümlerinin sadece cezalandırma amacı mı vardır?",
     "options": [
       "Evet, başka amacı yoktur",
@@ -4945,7 +6531,7 @@ window.QUESTIONS = [
     "answer": "Hayır, kamu hizmetinin güvenini de korur",
     "answerLetter": "D",
     "explanation": "Disiplin düzen ve güveni korumayı amaçlar.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-114",
@@ -4955,69 +6541,69 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "Disiplin sürecinde yetkili makam neden önemlidir?",
     "options": [
-      "Sınav yapmak için",
       "Logo seçmek için",
+      "Keyfi karar için",
       "İşlemin usule uygun olması için",
-      "Keyfi karar için"
+      "Sınav yapmak için"
     ],
     "answer": "İşlemin usule uygun olması için",
     "answerLetter": "C",
     "explanation": "Disiplin işlemi yetkili makamca yürütülmelidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-115",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Disiplin",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Disiplin hükümlerinin amacı nedir?",
     "options": [
+      "Terfiyi otomatik yapmak",
       "Kamu hizmetinde düzeni korumak",
       "Kamu hizmetini kaldırmak",
-      "Kişisel çıkar sağlamak",
-      "Terfiyi otomatik yapmak"
+      "Kişisel çıkar sağlamak"
     ],
     "answer": "Kamu hizmetinde düzeni korumak",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Disiplin kamu hizmetinin düzenini korur.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-116",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Disiplin",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Disiplin cezası ne zaman gündeme gelir?",
     "options": [
+      "Görev ve sorumluluklara aykırı davranışta",
       "Her başarılı işlemde",
       "Her izin kullanımında",
-      "Her terfide",
-      "Görev ve sorumluluklara aykırı davranışta"
+      "Her terfide"
     ],
     "answer": "Görev ve sorumluluklara aykırı davranışta",
-    "answerLetter": "D",
+    "answerLetter": "A",
     "explanation": "Aykırı davranış disiplin sürecini doğurabilir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-117",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Disiplin",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Disiplin cezasının türü hangi esasa göre değişir?",
     "options": [
       "Rastgele",
       "Logo rengine göre",
-      "Fiilin ağırlığına göre",
-      "Kişinin isteğine göre"
+      "Kişinin isteğine göre",
+      "Fiilin ağırlığına göre"
     ],
     "answer": "Fiilin ağırlığına göre",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Fiilin ağırlığı yaptırımı etkiler.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-118",
@@ -5027,69 +6613,69 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "Disiplin sürecinde savunma hakkı için hangisi doğrudur?",
     "options": [
-      "Sadece ödül için kullanılır",
-      "Önemli bir güvencedir",
       "Gereksizdir",
-      "Her zaman yasaktır"
+      "Her zaman yasaktır",
+      "Önemli bir güvencedir",
+      "Sadece ödül için kullanılır"
     ],
     "answer": "Önemli bir güvencedir",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Savunma hakkı disiplin sürecinde temel güvencelerdendir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-119",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Disiplin",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Disiplin cezasında ölçülülük neyi ifade eder?",
     "options": [
+      "Cezanın rastgele seçilmesini",
       "Ceza ile fiil arasında uygunluk olmasını",
       "Her fiile en ağır ceza verilmesini",
-      "Hiç ceza verilmemesini",
-      "Cezanın rastgele seçilmesini"
+      "Hiç ceza verilmemesini"
     ],
     "answer": "Ceza ile fiil arasında uygunluk olmasını",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Ölçülülük fiil ve ceza arasında denge gerektirir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-120",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Disiplin",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Görevini ihmal eden kamu görevlisi hangi alanla karşılaşabilir?",
     "options": [
+      "Disiplin hükümleri",
       "Sadece ödül",
       "Otomatik terfi",
-      "Sınırsız izin",
-      "Disiplin hükümleri"
+      "Sınırsız izin"
     ],
     "answer": "Disiplin hükümleri",
-    "answerLetter": "D",
+    "answerLetter": "A",
     "explanation": "Görev ihmali disiplin sorumluluğu doğurabilir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-121",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Disiplin",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Tarafsızlık ilkesine aykırı davranış hangi sonucu doğurabilir?",
     "options": [
       "Otomatik emeklilik",
       "Kadro artışı",
-      "Disiplin yönünden değerlendirme",
-      "Her zaman ödül"
+      "Her zaman ödül",
+      "Disiplin yönünden değerlendirme"
     ],
     "answer": "Disiplin yönünden değerlendirme",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Tarafsızlık ihlali disiplin konusu olabilir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-122",
@@ -5099,69 +6685,69 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "Disiplin hükümlerinin sadece cezalandırma amacı mı vardır?",
     "options": [
-      "Evet, sadece izin verir",
-      "Hayır, kamu hizmetinin güvenini de korur",
       "Evet, başka amacı yoktur",
-      "Hayır, sadece maaş artırır"
+      "Hayır, sadece maaş artırır",
+      "Hayır, kamu hizmetinin güvenini de korur",
+      "Evet, sadece izin verir"
     ],
     "answer": "Hayır, kamu hizmetinin güvenini de korur",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Disiplin düzen ve güveni korumayı amaçlar.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-123",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Disiplin",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Disiplin sürecinde yetkili makam neden önemlidir?",
     "options": [
+      "Logo seçmek için",
       "İşlemin usule uygun olması için",
       "Keyfi karar için",
-      "Sınav yapmak için",
-      "Logo seçmek için"
+      "Sınav yapmak için"
     ],
     "answer": "İşlemin usule uygun olması için",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Disiplin işlemi yetkili makamca yürütülmelidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-124",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Disiplin",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Kamu Yasası bakımından disiplin hükümlerinin amacı nedir?",
     "options": [
+      "Kamu hizmetinde düzeni korumak",
       "Kişisel çıkar sağlamak",
       "Terfiyi otomatik yapmak",
-      "Kamu hizmetinde düzeni korumak",
       "Kamu hizmetini kaldırmak"
     ],
     "answer": "Kamu hizmetinde düzeni korumak",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "Disiplin kamu hizmetinin düzenini korur.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-125",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Disiplin",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Kamu Yasası bakımından disiplin cezası ne zaman gündeme gelir?",
     "options": [
       "Her terfide",
-      "Görev ve sorumluluklara aykırı davranışta",
       "Her başarılı işlemde",
-      "Her izin kullanımında"
+      "Her izin kullanımında",
+      "Görev ve sorumluluklara aykırı davranışta"
     ],
     "answer": "Görev ve sorumluluklara aykırı davranışta",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Aykırı davranış disiplin sürecini doğurabilir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-126",
@@ -5171,69 +6757,69 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "Kamu Yasası bakımından disiplin cezasının türü neye göre değişir?",
     "options": [
-      "Fiilin ağırlığına göre",
-      "Kişinin isteğine göre",
       "Rastgele",
-      "Logo rengine göre"
+      "Logo rengine göre",
+      "Fiilin ağırlığına göre",
+      "Kişinin isteğine göre"
     ],
     "answer": "Fiilin ağırlığına göre",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "Fiilin ağırlığı yaptırımı etkiler.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-127",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Disiplin",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Kamu Yasası bakımından disiplin sürecinde savunma hakkı için hangisi doğrudur?",
     "options": [
-      "Gereksizdir",
-      "Her zaman yasaktır",
       "Sadece ödül için kullanılır",
-      "Önemli bir güvencedir"
+      "Önemli bir güvencedir",
+      "Gereksizdir",
+      "Her zaman yasaktır"
     ],
     "answer": "Önemli bir güvencedir",
-    "answerLetter": "D",
+    "answerLetter": "B",
     "explanation": "Savunma hakkı disiplin sürecinde temel güvencelerdendir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-128",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Disiplin",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Kamu Yasası bakımından disiplin cezasında ölçülülük neyi ifade eder?",
     "options": [
+      "Ceza ile fiil arasında uygunluk olmasını",
       "Hiç ceza verilmemesini",
       "Cezanın rastgele seçilmesini",
-      "Ceza ile fiil arasında uygunluk olmasını",
       "Her fiile en ağır ceza verilmesini"
     ],
     "answer": "Ceza ile fiil arasında uygunluk olmasını",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "Ölçülülük fiil ve ceza arasında denge gerektirir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-129",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Disiplin",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Kamu Yasası bakımından görevini ihmal eden kamu görevlisi hangi alanla karşılaşabilir?",
     "options": [
       "Sınırsız izin",
-      "Disiplin hükümleri",
       "Sadece ödül",
-      "Otomatik terfi"
+      "Otomatik terfi",
+      "Disiplin hükümleri"
     ],
     "answer": "Disiplin hükümleri",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Görev ihmali disiplin sorumluluğu doğurabilir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-130",
@@ -5243,15 +6829,15 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "Kamu Yasası bakımından tarafsızlık ilkesine aykırı davranış hangi sonucu doğurabilir?",
     "options": [
-      "Disiplin yönünden değerlendirme",
-      "Her zaman ödül",
       "Otomatik emeklilik",
-      "Kadro artışı"
+      "Kadro artışı",
+      "Disiplin yönünden değerlendirme",
+      "Her zaman ödül"
     ],
     "answer": "Disiplin yönünden değerlendirme",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "Tarafsızlık ihlali disiplin konusu olabilir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-131",
@@ -5261,22 +6847,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Görevden uzaklaştırma nedir?",
     "options": [
-      "İzin türü",
+      "Ödül",
       "Geçici idari tedbir",
-      "Kesin emeklilik",
-      "Ödül"
+      "İzin türü",
+      "Kesin emeklilik"
     ],
     "answer": "Geçici idari tedbir",
     "answerLetter": "B",
     "explanation": "Görevden uzaklaştırma geçici tedbirdir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-132",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Görevden Uzaklaştırma",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Görevden uzaklaştırma doğrudan ceza mıdır?",
     "options": [
       "Hayır, geçici tedbirdir",
@@ -5287,7 +6873,7 @@ window.QUESTIONS = [
     "answer": "Hayır, geçici tedbirdir",
     "answerLetter": "A",
     "explanation": "Görevden uzaklaştırma ceza değil tedbir niteliğindedir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-133",
@@ -5305,25 +6891,25 @@ window.QUESTIONS = [
     "answer": "Soruşturmayı ve kamu hizmetini korumak",
     "answerLetter": "D",
     "explanation": "Amaç soruşturmanın sağlıklı yürütülmesidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-134",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Görevden Uzaklaştırma",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Görevden uzaklaştırma ile disiplin cezası için hangisi doğrudur?",
     "options": [
-      "İkisi de ödüldür",
       "İkisi de izin türüdür",
+      "Tamamen aynıdır",
       "Aynı şey değildir",
-      "Tamamen aynıdır"
+      "İkisi de ödüldür"
     ],
     "answer": "Aynı şey değildir",
     "answerLetter": "C",
     "explanation": "Görevden uzaklaştırma tedbir, disiplin cezası yaptırımdır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-135",
@@ -5333,33 +6919,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Görevde kalması sakıncalı görülen kişi için hangi işlem uygulanabilir?",
     "options": [
-      "Maaş artırımı",
+      "Sınırsız izin",
       "Görevden uzaklaştırma",
-      "Otomatik terfi",
-      "Sınırsız izin"
+      "Maaş artırımı",
+      "Otomatik terfi"
     ],
     "answer": "Görevden uzaklaştırma",
     "answerLetter": "B",
     "explanation": "Sakınca halinde görevden uzaklaştırma gündeme gelebilir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-136",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Görevden Uzaklaştırma",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Görevden uzaklaştırma nedir?",
     "options": [
+      "Geçici idari tedbir",
       "Kesin emeklilik",
       "Ödül",
-      "İzin türü",
-      "Geçici idari tedbir"
+      "İzin türü"
     ],
     "answer": "Geçici idari tedbir",
-    "answerLetter": "D",
+    "answerLetter": "A",
     "explanation": "Görevden uzaklaştırma geçici tedbirdir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-137",
@@ -5371,31 +6957,31 @@ window.QUESTIONS = [
     "options": [
       "Evet, emekliliktir",
       "Evet, terfidir",
-      "Hayır, geçici tedbirdir",
-      "Evet, kesin cezadır"
+      "Evet, kesin cezadır",
+      "Hayır, geçici tedbirdir"
     ],
     "answer": "Hayır, geçici tedbirdir",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Görevden uzaklaştırma ceza değil tedbir niteliğindedir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-138",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Görevden Uzaklaştırma",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Görevden uzaklaştırmanın amacı nedir?",
     "options": [
-      "İzin hakkını artırmak",
-      "Soruşturmayı ve kamu hizmetini korumak",
       "Kamu hizmetini bozmak",
-      "Kişiye ayrıcalık vermek"
+      "Kişiye ayrıcalık vermek",
+      "Soruşturmayı ve kamu hizmetini korumak",
+      "İzin hakkını artırmak"
     ],
     "answer": "Soruşturmayı ve kamu hizmetini korumak",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Amaç soruşturmanın sağlıklı yürütülmesidir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-139",
@@ -5405,33 +6991,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Görevden uzaklaştırma ile disiplin cezası için hangisi doğrudur?",
     "options": [
+      "İkisi de izin türüdür",
       "Aynı şey değildir",
       "Tamamen aynıdır",
-      "İkisi de ödüldür",
-      "İkisi de izin türüdür"
+      "İkisi de ödüldür"
     ],
     "answer": "Aynı şey değildir",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Görevden uzaklaştırma tedbir, disiplin cezası yaptırımdır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-140",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Görevden Uzaklaştırma",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Görevde kalması sakıncalı görülen kişi için hangi işlem uygulanabilir?",
     "options": [
+      "Görevden uzaklaştırma",
       "Otomatik terfi",
       "Sınırsız izin",
-      "Maaş artırımı",
-      "Görevden uzaklaştırma"
+      "Maaş artırımı"
     ],
     "answer": "Görevden uzaklaştırma",
-    "answerLetter": "D",
+    "answerLetter": "A",
     "explanation": "Sakınca halinde görevden uzaklaştırma gündeme gelebilir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-141",
@@ -5449,25 +7035,25 @@ window.QUESTIONS = [
     "answer": "Mali haklar",
     "answerLetter": "D",
     "explanation": "Maaş ve ödenek mali haklardandır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-142",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Mali ve Sosyal Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Mali haklar nasıl belirlenir?",
     "options": [
-      "Kişisel isteğe göre",
       "Sosyal medya ile",
+      "Rastgele",
       "Yasal esaslara göre",
-      "Rastgele"
+      "Kişisel isteğe göre"
     ],
     "answer": "Yasal esaslara göre",
     "answerLetter": "C",
     "explanation": "Mali haklar yasal düzenlemeye dayanır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-143",
@@ -5477,22 +7063,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Derece ve kademe hangi hakları etkileyebilir?",
     "options": [
-      "Sadece sınav adını",
+      "Sadece tatil yerini",
       "Mali hakları",
-      "Sadece logo boyutunu",
-      "Sadece tatil yerini"
+      "Sadece sınav adını",
+      "Sadece logo boyutunu"
     ],
     "answer": "Mali hakları",
     "answerLetter": "B",
     "explanation": "Derece ve kademe mali haklarla bağlantılı olabilir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-144",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Mali ve Sosyal Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Sosyal hakların temel işlevi nedir?",
     "options": [
       "Kamu görevlisini çalışma yaşamında desteklemek",
@@ -5503,7 +7089,7 @@ window.QUESTIONS = [
     "answer": "Kamu görevlisini çalışma yaşamında desteklemek",
     "answerLetter": "A",
     "explanation": "Sosyal haklar kamu görevlisini destekler.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-145",
@@ -5521,25 +7107,25 @@ window.QUESTIONS = [
     "answer": "Hayır, mevzuata dayanır",
     "answerLetter": "D",
     "explanation": "Mali haklar yasal çerçevede belirlenir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-146",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Mali ve Sosyal Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Maaş ve ödenekler hangi haklarla ilişkilidir?",
     "options": [
-      "Soruşturma",
-      "Mali haklar",
       "Disiplin cezası",
-      "Görevden uzaklaştırma"
+      "Görevden uzaklaştırma",
+      "Mali haklar",
+      "Soruşturma"
     ],
     "answer": "Mali haklar",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Maaş ve ödenek mali haklardandır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-147",
@@ -5549,33 +7135,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Mali haklar nasıl belirlenir?",
     "options": [
+      "Sosyal medya ile",
       "Yasal esaslara göre",
       "Rastgele",
-      "Kişisel isteğe göre",
-      "Sosyal medya ile"
+      "Kişisel isteğe göre"
     ],
     "answer": "Yasal esaslara göre",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Mali haklar yasal düzenlemeye dayanır.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-148",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Mali ve Sosyal Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Derece ve kademe hangi hakları etkileyebilir?",
     "options": [
+      "Mali hakları",
       "Sadece logo boyutunu",
       "Sadece tatil yerini",
-      "Sadece sınav adını",
-      "Mali hakları"
+      "Sadece sınav adını"
     ],
     "answer": "Mali hakları",
-    "answerLetter": "D",
+    "answerLetter": "A",
     "explanation": "Derece ve kademe mali haklarla bağlantılı olabilir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-149",
@@ -5587,38 +7173,1838 @@ window.QUESTIONS = [
     "options": [
       "Ceza vermek",
       "Görevi kaldırmak",
-      "Kamu görevlisini çalışma yaşamında desteklemek",
-      "Kamu hizmetini engellemek"
+      "Kamu hizmetini engellemek",
+      "Kamu görevlisini çalışma yaşamında desteklemek"
     ],
     "answer": "Kamu görevlisini çalışma yaşamında desteklemek",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Sosyal haklar kamu görevlisini destekler.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ky-150",
     "testGroup": "Kamu Yasası",
     "category": "Kamu Yasası",
     "topic": "Mali ve Sosyal Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Mali haklar keyfi olarak belirlenebilir mi?",
     "options": [
-      "Evet, sınavla ilgisizdir",
-      "Hayır, mevzuata dayanır",
       "Evet, tamamen keyfidir",
-      "Evet, her gün değişir"
+      "Evet, her gün değişir",
+      "Hayır, mevzuata dayanır",
+      "Evet, sınavla ilgisizdir"
     ],
     "answer": "Hayır, mevzuata dayanır",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Mali haklar yasal çerçevede belirlenir.",
-    "source": "Kamu Yasası mini çalışma metinleri"
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-151",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Amaç ve Kapsam",
+    "difficulty": "Kolay",
+    "question": "Kamu Görevlileri Yasasının temel amacı aşağıdakilerden hangisidir? (Konu tekrarı)",
+    "options": [
+      "Kamu hizmetlerinin düzenli ve verimli yürütülmesini sağlamak",
+      "Özel şirketlerin faaliyetlerini düzenlemek",
+      "Belediye seçimlerini düzenlemek",
+      "Ceza yargılaması usulünü belirlemek"
+    ],
+    "answer": "Kamu hizmetlerinin düzenli ve verimli yürütülmesini sağlamak",
+    "answerLetter": "A",
+    "explanation": "Yasa kamu hizmeti ve kamu görevlilerinin statüsünü düzenlemeye yöneliktir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-152",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Amaç ve Kapsam",
+    "difficulty": "Orta",
+    "question": "Kamu Görevlileri Yasasında kapsam bölümü neyi gösterir? (Konu tekrarı)",
+    "options": [
+      "Mahkeme kararlarını",
+      "Seçim sonuçlarını",
+      "Vergi oranlarını",
+      "Yasanın kimlere uygulanacağını"
+    ],
+    "answer": "Yasanın kimlere uygulanacağını",
+    "answerLetter": "D",
+    "explanation": "Kapsam, yasanın uygulanacağı kişi ve kurum alanını gösterir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-153",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Amaç ve Kapsam",
+    "difficulty": "Zor",
+    "question": "Amaç maddesi en kısa ifadeyle hangi soruya cevap verir? (Konu tekrarı)",
+    "options": [
+      "Hangi mahkeme yetkilidir?",
+      "Hangi parti seçime girmiştir?",
+      "Yasa neden çıkarılmıştır?",
+      "Hangi yol izlenir?"
+    ],
+    "answer": "Yasa neden çıkarılmıştır?",
+    "answerLetter": "C",
+    "explanation": "Amaç maddesi yasanın çıkarılma nedenini açıklar.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-154",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Amaç ve Kapsam",
+    "difficulty": "Orta",
+    "question": "Kamu hizmetinde esas olan ilke aşağıdakilerden hangisidir? (Konu tekrarı)",
+    "options": [
+      "Ayrıcalık sağlama",
+      "Kamu yararı",
+      "Kişisel çıkar",
+      "Keyfi uygulama"
+    ],
+    "answer": "Kamu yararı",
+    "answerLetter": "B",
+    "explanation": "Kamu görevlisi görevini kamu yararını gözeterek yürütür.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-155",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Amaç ve Kapsam",
+    "difficulty": "Kolay",
+    "question": "Kamu Görevlileri Yasası genel olarak hangi alanı düzenler? (Konu tekrarı)",
+    "options": [
+      "Kamu görevlilerinin statüsü ve çalışma esasları",
+      "Ticaret şirketlerinin kuruluşu",
+      "Trafik işaretleri",
+      "Ceza infaz kurumlarının mimarisi"
+    ],
+    "answer": "Kamu görevlilerinin statüsü ve çalışma esasları",
+    "answerLetter": "A",
+    "explanation": "Yasa kamu görevlilerinin çalışma statüsü ile ilgilidir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-156",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Amaç ve Kapsam",
+    "difficulty": "Orta",
+    "question": "Kamu Görevlileri Yasasının temel amacı hangisidir? (Konu tekrarı)",
+    "options": [
+      "Ceza yargılaması usulünü belirlemek",
+      "Özel şirketlerin faaliyetlerini düzenlemek",
+      "Belediye seçimlerini düzenlemek",
+      "Kamu hizmetlerinin düzenli ve verimli yürütülmesini sağlamak"
+    ],
+    "answer": "Kamu hizmetlerinin düzenli ve verimli yürütülmesini sağlamak",
+    "answerLetter": "D",
+    "explanation": "Yasa kamu hizmeti ve kamu görevlilerinin statüsünü düzenlemeye yöneliktir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-157",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Amaç ve Kapsam",
+    "difficulty": "Zor",
+    "question": "Kamu Görevlileri Yasasında kapsam bölümü neyi gösterir? (Konu tekrarı)",
+    "options": [
+      "Mahkeme kararlarını",
+      "Seçim sonuçlarını",
+      "Yasanın kimlere uygulanacağını",
+      "Vergi oranlarını"
+    ],
+    "answer": "Yasanın kimlere uygulanacağını",
+    "answerLetter": "C",
+    "explanation": "Kapsam, yasanın uygulanacağı kişi ve kurum alanını gösterir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-158",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Amaç ve Kapsam",
+    "difficulty": "Orta",
+    "question": "Amaç maddesi en kısa ifadeyle hangi soruya cevap verir? (Konu tekrarı)",
+    "options": [
+      "Hangi yol izlenir?",
+      "Yasa neden çıkarılmıştır?",
+      "Hangi mahkeme yetkilidir?",
+      "Hangi parti seçime girmiştir?"
+    ],
+    "answer": "Yasa neden çıkarılmıştır?",
+    "answerLetter": "B",
+    "explanation": "Amaç maddesi yasanın çıkarılma nedenini açıklar.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-159",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Amaç ve Kapsam",
+    "difficulty": "Kolay",
+    "question": "Kamu hizmetinde esas olan ilke hangisidir? (Konu tekrarı)",
+    "options": [
+      "Kamu yararı",
+      "Keyfi uygulama",
+      "Ayrıcalık sağlama",
+      "Kişisel çıkar"
+    ],
+    "answer": "Kamu yararı",
+    "answerLetter": "A",
+    "explanation": "Kamu görevlisi görevini kamu yararını gözeterek yürütür.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-160",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Amaç ve Kapsam",
+    "difficulty": "Orta",
+    "question": "Kamu Görevlileri Yasası genel olarak hangi alanı düzenler? (Konu tekrarı)",
+    "options": [
+      "Ceza infaz kurumlarının mimarisi",
+      "Ticaret şirketlerinin kuruluşu",
+      "Trafik işaretleri",
+      "Kamu görevlilerinin statüsü ve çalışma esasları"
+    ],
+    "answer": "Kamu görevlilerinin statüsü ve çalışma esasları",
+    "answerLetter": "D",
+    "explanation": "Yasa kamu görevlilerinin çalışma statüsü ile ilgilidir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-161",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Tanımlar",
+    "difficulty": "Zor",
+    "question": "Yasadaki tanımlar bölümünün temel işlevi nedir? (Konu tekrarı)",
+    "options": [
+      "Sınav tarihlerini belirlemek",
+      "Bütçe açığını kapatmak",
+      "Kavramların ne anlama geldiğini açıklamak",
+      "Seçim bölgelerini düzenlemek"
+    ],
+    "answer": "Kavramların ne anlama geldiğini açıklamak",
+    "answerLetter": "C",
+    "explanation": "Tanımlar bölümü kavram karmaşasını önler.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-162",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Tanımlar",
+    "difficulty": "Orta",
+    "question": "Kadro kavramı en doğru şekilde nasıl açıklanır? (Konu tekrarı)",
+    "options": [
+      "Bir izin çeşidi",
+      "Bir görevin resmi unvan ve yer bakımından tanımlanması",
+      "Bir kişinin özel mal varlığı",
+      "Bir sınav türü"
+    ],
+    "answer": "Bir görevin resmi unvan ve yer bakımından tanımlanması",
+    "answerLetter": "B",
+    "explanation": "Kadro, kamu hizmetindeki görev yerini ve unvanı gösterir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-163",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Tanımlar",
+    "difficulty": "Kolay",
+    "question": "Derece ve kademe için aşağıdakilerden hangisi doğrudur? (Konu tekrarı)",
+    "options": [
+      "Birbirinden farklı ilerleme kavramlarıdır",
+      "Her zaman aynı anlama gelir",
+      "Sadece izin türüdür",
+      "Sadece disiplin cezasıdır"
+    ],
+    "answer": "Birbirinden farklı ilerleme kavramlarıdır",
+    "answerLetter": "A",
+    "explanation": "Derece ve kademe kamu personel sisteminde farklı kavramlardır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-164",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Tanımlar",
+    "difficulty": "Orta",
+    "question": "Adaylık kavramı neyi ifade eder? (Konu tekrarı)",
+    "options": [
+      "Sürekli izin hakkını",
+      "Disiplin cezasının türünü",
+      "Emekliliği",
+      "Göreve yeni başlayan kişinin geçiş ve uyum sürecini"
+    ],
+    "answer": "Göreve yeni başlayan kişinin geçiş ve uyum sürecini",
+    "answerLetter": "D",
+    "explanation": "Adaylık, asaleten atanmadan önceki uyum sürecidir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-165",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Tanımlar",
+    "difficulty": "Zor",
+    "question": "Tanımların bilinmesi neden önemlidir? (Konu tekrarı)",
+    "options": [
+      "Sadece ezber yapmak için",
+      "Logo tasarlamak için",
+      "Yasadaki maddeleri doğru yorumlamak için",
+      "Maaşı otomatik artırmak için"
+    ],
+    "answer": "Yasadaki maddeleri doğru yorumlamak için",
+    "answerLetter": "C",
+    "explanation": "Kavramları bilmek yasanın doğru anlaşılmasını sağlar.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-166",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Tanımlar",
+    "difficulty": "Orta",
+    "question": "Yasadaki tanımlar bölümünün temel işlevi nedir? (Konu tekrarı)",
+    "options": [
+      "Seçim bölgelerini düzenlemek",
+      "Kavramların ne anlama geldiğini açıklamak",
+      "Sınav tarihlerini belirlemek",
+      "Bütçe açığını kapatmak"
+    ],
+    "answer": "Kavramların ne anlama geldiğini açıklamak",
+    "answerLetter": "B",
+    "explanation": "Tanımlar bölümü kavram karmaşasını önler.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-167",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Tanımlar",
+    "difficulty": "Kolay",
+    "question": "Kadro kavramı en doğru şekilde nasıl açıklanır? (Konu tekrarı)",
+    "options": [
+      "Bir görevin resmi unvan ve yer bakımından tanımlanması",
+      "Bir sınav türü",
+      "Bir izin çeşidi",
+      "Bir kişinin özel mal varlığı"
+    ],
+    "answer": "Bir görevin resmi unvan ve yer bakımından tanımlanması",
+    "answerLetter": "A",
+    "explanation": "Kadro, kamu hizmetindeki görev yerini ve unvanı gösterir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-168",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Tanımlar",
+    "difficulty": "Orta",
+    "question": "Derece ve kademe için aşağıdakilerden hangisi doğrudur? (Konu tekrarı)",
+    "options": [
+      "Sadece disiplin cezasıdır",
+      "Her zaman aynı anlama gelir",
+      "Sadece izin türüdür",
+      "Birbirinden farklı ilerleme kavramlarıdır"
+    ],
+    "answer": "Birbirinden farklı ilerleme kavramlarıdır",
+    "answerLetter": "D",
+    "explanation": "Derece ve kademe kamu personel sisteminde farklı kavramlardır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-169",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Tanımlar",
+    "difficulty": "Zor",
+    "question": "Adaylık kavramı neyi ifade eder? (Konu tekrarı)",
+    "options": [
+      "Sürekli izin hakkını",
+      "Disiplin cezasının türünü",
+      "Göreve yeni başlayan kişinin geçiş ve uyum sürecini",
+      "Emekliliği"
+    ],
+    "answer": "Göreve yeni başlayan kişinin geçiş ve uyum sürecini",
+    "answerLetter": "C",
+    "explanation": "Adaylık, asaleten atanmadan önceki uyum sürecidir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-170",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Tanımlar",
+    "difficulty": "Orta",
+    "question": "Tanımların bilinmesi neden önemlidir? (Konu tekrarı)",
+    "options": [
+      "Maaşı otomatik artırmak için",
+      "Yasadaki maddeleri doğru yorumlamak için",
+      "Sadece ezber yapmak için",
+      "Logo tasarlamak için"
+    ],
+    "answer": "Yasadaki maddeleri doğru yorumlamak için",
+    "answerLetter": "B",
+    "explanation": "Kavramları bilmek yasanın doğru anlaşılmasını sağlar.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-171",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Kolay",
+    "question": "Kamu görevlisinin hakları hangi amaçla düzenlenir? (Konu tekrarı)",
+    "options": [
+      "Görevini güven içinde yapabilmesi için",
+      "Kamu hizmetini tamamen durdurmak için",
+      "Kişisel ayrıcalık sağlamak için",
+      "Sınavsız terfi için"
+    ],
+    "answer": "Görevini güven içinde yapabilmesi için",
+    "answerLetter": "A",
+    "explanation": "Haklar kamu görevlisinin yasal güvence içinde çalışmasını sağlar.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-172",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisi kamu görevlisinin hakları arasında değerlendirilebilir? (Konu tekrarı)",
+    "options": [
+      "Göreve keyfi gelmeme",
+      "Tarafsızlığı bozma",
+      "Kamu malını kişisel amaçla kullanma",
+      "İzin hakkı"
+    ],
+    "answer": "İzin hakkı",
+    "answerLetter": "D",
+    "explanation": "İzin hakkı kamu personel sisteminde temel haklardandır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-173",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Zor",
+    "question": "Mali haklar neye dayanmalıdır? (Konu tekrarı)",
+    "options": [
+      "Kişisel isteğe",
+      "Sözlü söylentiye",
+      "Yasal düzenlemelere",
+      "Sosyal medya yorumuna"
+    ],
+    "answer": "Yasal düzenlemelere",
+    "answerLetter": "C",
+    "explanation": "Mali haklar yasal esaslara göre belirlenir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-174",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Orta",
+    "question": "Hakların kullanımı için aşağıdakilerden hangisi doğrudur? (Konu tekrarı)",
+    "options": [
+      "Kamu hizmetini dikkate almaz",
+      "Mevzuat çerçevesinde kullanılır",
+      "Sınırsızdır",
+      "Amirin bilgisi olmadan her zaman kullanılabilir"
+    ],
+    "answer": "Mevzuat çerçevesinde kullanılır",
+    "answerLetter": "B",
+    "explanation": "Haklar yasal sınırlar içinde kullanılır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-175",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Kolay",
+    "question": "Kamu görevlisinin hak ve sorumlulukları arasındaki ilişki nasıldır? (Konu tekrarı)",
+    "options": [
+      "Denge içinde değerlendirilmelidir",
+      "Haklar var, sorumluluk yoktur",
+      "Sorumluluklar hakları tamamen kaldırır",
+      "Birbiriyle ilgisizdir"
+    ],
+    "answer": "Denge içinde değerlendirilmelidir",
+    "answerLetter": "A",
+    "explanation": "Kamu hizmetinde hak-sorumluluk dengesi esastır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-176",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Orta",
+    "question": "Kamu görevlisinin hakları hangi amaçla düzenlenir? (Konu tekrarı)",
+    "options": [
+      "Sınavsız terfi için",
+      "Kamu hizmetini tamamen durdurmak için",
+      "Kişisel ayrıcalık sağlamak için",
+      "Görevini güven içinde yapabilmesi için"
+    ],
+    "answer": "Görevini güven içinde yapabilmesi için",
+    "answerLetter": "D",
+    "explanation": "Haklar kamu görevlisinin yasal güvence içinde çalışmasını sağlar.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-177",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Zor",
+    "question": "Aşağıdakilerden hangisi kamu görevlisinin hakları arasında değerlendirilebilir? (Konu tekrarı)",
+    "options": [
+      "Göreve keyfi gelmeme",
+      "Tarafsızlığı bozma",
+      "İzin hakkı",
+      "Kamu malını kişisel amaçla kullanma"
+    ],
+    "answer": "İzin hakkı",
+    "answerLetter": "C",
+    "explanation": "İzin hakkı kamu personel sisteminde temel haklardandır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-178",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Orta",
+    "question": "Mali haklar neye dayanmalıdır? (Konu tekrarı)",
+    "options": [
+      "Sosyal medya yorumuna",
+      "Yasal düzenlemelere",
+      "Kişisel isteğe",
+      "Sözlü söylentiye"
+    ],
+    "answer": "Yasal düzenlemelere",
+    "answerLetter": "B",
+    "explanation": "Mali haklar yasal esaslara göre belirlenir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-179",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Kolay",
+    "question": "Hakların kullanımı için aşağıdakilerden hangisi doğrudur? (Konu tekrarı)",
+    "options": [
+      "Mevzuat çerçevesinde kullanılır",
+      "Amirin bilgisi olmadan her zaman kullanılabilir",
+      "Kamu hizmetini dikkate almaz",
+      "Sınırsızdır"
+    ],
+    "answer": "Mevzuat çerçevesinde kullanılır",
+    "answerLetter": "A",
+    "explanation": "Haklar yasal sınırlar içinde kullanılır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-180",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Orta",
+    "question": "Kamu görevlisinin hak ve sorumlulukları arasındaki ilişki nasıldır? (Konu tekrarı)",
+    "options": [
+      "Birbiriyle ilgisizdir",
+      "Haklar var, sorumluluk yoktur",
+      "Sorumluluklar hakları tamamen kaldırır",
+      "Denge içinde değerlendirilmelidir"
+    ],
+    "answer": "Denge içinde değerlendirilmelidir",
+    "answerLetter": "D",
+    "explanation": "Kamu hizmetinde hak-sorumluluk dengesi esastır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-181",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Zor",
+    "question": "Kamu Yasası bakımından kamu görevlisinin hakları hangi amaçla düzenlenir? (Konu tekrarı)",
+    "options": [
+      "Kişisel ayrıcalık sağlamak için",
+      "Sınavsız terfi için",
+      "Görevini güven içinde yapabilmesi için",
+      "Kamu hizmetini tamamen durdurmak için"
+    ],
+    "answer": "Görevini güven içinde yapabilmesi için",
+    "answerLetter": "C",
+    "explanation": "Haklar kamu görevlisinin yasal güvence içinde çalışmasını sağlar.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-182",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından aşağıdakilerden hangisi kamu görevlisinin hakları arasında değerlendirilebilir? (Konu tekrarı)",
+    "options": [
+      "Kamu malını kişisel amaçla kullanma",
+      "İzin hakkı",
+      "Göreve keyfi gelmeme",
+      "Tarafsızlığı bozma"
+    ],
+    "answer": "İzin hakkı",
+    "answerLetter": "B",
+    "explanation": "İzin hakkı kamu personel sisteminde temel haklardandır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-183",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Kolay",
+    "question": "Kamu Yasası bakımından mali haklar neye dayanmalıdır? (Konu tekrarı)",
+    "options": [
+      "Yasal düzenlemelere",
+      "Sosyal medya yorumuna",
+      "Kişisel isteğe",
+      "Sözlü söylentiye"
+    ],
+    "answer": "Yasal düzenlemelere",
+    "answerLetter": "A",
+    "explanation": "Mali haklar yasal esaslara göre belirlenir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-184",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından hakların kullanımı için aşağıdakilerden hangisi doğrudur? (Konu tekrarı)",
+    "options": [
+      "Sınırsızdır",
+      "Amirin bilgisi olmadan her zaman kullanılabilir",
+      "Kamu hizmetini dikkate almaz",
+      "Mevzuat çerçevesinde kullanılır"
+    ],
+    "answer": "Mevzuat çerçevesinde kullanılır",
+    "answerLetter": "D",
+    "explanation": "Haklar yasal sınırlar içinde kullanılır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-185",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Zor",
+    "question": "Kamu Yasası bakımından kamu görevlisinin hak ve sorumlulukları arasındaki ilişki nasıldır? (Konu tekrarı)",
+    "options": [
+      "Sorumluluklar hakları tamamen kaldırır",
+      "Birbiriyle ilgisizdir",
+      "Denge içinde değerlendirilmelidir",
+      "Haklar var, sorumluluk yoktur"
+    ],
+    "answer": "Denge içinde değerlendirilmelidir",
+    "answerLetter": "C",
+    "explanation": "Kamu hizmetinde hak-sorumluluk dengesi esastır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-186",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Orta",
+    "question": "Kamu görevlisinin temel ödevi aşağıdakilerden hangisidir? (Konu tekrarı)",
+    "options": [
+      "Yetkisini özel işlerde kullanmak",
+      "Görevini kamu yararına uygun yürütmek",
+      "Kişisel çıkar sağlamak",
+      "Görevi aksatmak"
+    ],
+    "answer": "Görevini kamu yararına uygun yürütmek",
+    "answerLetter": "B",
+    "explanation": "Kamu görevlisi görevini kamu yararı için yapmalıdır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-187",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Kolay",
+    "question": "Tarafsızlık ilkesi neyi gerektirir? (Konu tekrarı)",
+    "options": [
+      "Görevde kişilere eşit ve objektif davranmayı",
+      "Tanıdıklara ayrıcalık sağlamayı",
+      "Kişisel görüşe göre işlem yapmayı",
+      "Kamu hizmetini bırakmayı"
+    ],
+    "answer": "Görevde kişilere eşit ve objektif davranmayı",
+    "answerLetter": "A",
+    "explanation": "Tarafsızlık eşit ve objektif işlem yapmayı gerektirir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-188",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Orta",
+    "question": "Kamu malı için doğru davranış hangisidir? (Konu tekrarı)",
+    "options": [
+      "Zarar görmesine göz yummak",
+      "Başkasına devretmek",
+      "Kişisel ihtiyaç için kullanmak",
+      "Kamu malını korumak ve amacı dışında kullanmamak"
+    ],
+    "answer": "Kamu malını korumak ve amacı dışında kullanmamak",
+    "answerLetter": "D",
+    "explanation": "Kamu malı kamu hizmeti için korunmalıdır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-189",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Zor",
+    "question": "Yasal emirler konusunda kamu görevlisinin yükümlülüğü nedir? (Konu tekrarı)",
+    "options": [
+      "Her emri sorgusuz kişisel amaçla uygulamak",
+      "Göreve hiç uymamak",
+      "Yasal emirleri yerine getirmek",
+      "Kamu hizmetini aksatmak"
+    ],
+    "answer": "Yasal emirleri yerine getirmek",
+    "answerLetter": "C",
+    "explanation": "Yasal görev gerekleri yerine getirilmelidir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-190",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Orta",
+    "question": "Göreve devam yükümlülüğü hangi başlıkla ilgilidir? (Konu tekrarı)",
+    "options": [
+      "Logo kullanımı",
+      "Ödev ve sorumluluklar",
+      "Sadece sosyal haklar",
+      "Emeklilik töreni"
+    ],
+    "answer": "Ödev ve sorumluluklar",
+    "answerLetter": "B",
+    "explanation": "Göreve devam kamu görevlisinin temel sorumluluklarındandır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-191",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Kolay",
+    "question": "Kamu görevlisinin temel ödevi hangisidir? (Konu tekrarı)",
+    "options": [
+      "Görevini kamu yararına uygun yürütmek",
+      "Görevi aksatmak",
+      "Yetkisini özel işlerde kullanmak",
+      "Kişisel çıkar sağlamak"
+    ],
+    "answer": "Görevini kamu yararına uygun yürütmek",
+    "answerLetter": "A",
+    "explanation": "Kamu görevlisi görevini kamu yararı için yapmalıdır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-192",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Orta",
+    "question": "Tarafsızlık ilkesi neyi gerektirir? (Konu tekrarı)",
+    "options": [
+      "Kamu hizmetini bırakmayı",
+      "Tanıdıklara ayrıcalık sağlamayı",
+      "Kişisel görüşe göre işlem yapmayı",
+      "Görevde kişilere eşit ve objektif davranmayı"
+    ],
+    "answer": "Görevde kişilere eşit ve objektif davranmayı",
+    "answerLetter": "D",
+    "explanation": "Tarafsızlık eşit ve objektif işlem yapmayı gerektirir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-193",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Zor",
+    "question": "Kamu malı için doğru davranış hangisidir? (Konu tekrarı)",
+    "options": [
+      "Zarar görmesine göz yummak",
+      "Başkasına devretmek",
+      "Kamu malını korumak ve amacı dışında kullanmamak",
+      "Kişisel ihtiyaç için kullanmak"
+    ],
+    "answer": "Kamu malını korumak ve amacı dışında kullanmamak",
+    "answerLetter": "C",
+    "explanation": "Kamu malı kamu hizmeti için korunmalıdır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-194",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Orta",
+    "question": "Yasal emirler konusunda kamu görevlisinin yükümlülüğü nedir? (Konu tekrarı)",
+    "options": [
+      "Kamu hizmetini aksatmak",
+      "Yasal emirleri yerine getirmek",
+      "Her emri sorgusuz kişisel amaçla uygulamak",
+      "Göreve hiç uymamak"
+    ],
+    "answer": "Yasal emirleri yerine getirmek",
+    "answerLetter": "B",
+    "explanation": "Yasal görev gerekleri yerine getirilmelidir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-195",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Kolay",
+    "question": "Göreve devam yükümlülüğü hangi başlıkla ilgilidir? (Konu tekrarı)",
+    "options": [
+      "Ödev ve sorumluluklar",
+      "Emeklilik töreni",
+      "Logo kullanımı",
+      "Sadece sosyal haklar"
+    ],
+    "answer": "Ödev ve sorumluluklar",
+    "answerLetter": "A",
+    "explanation": "Göreve devam kamu görevlisinin temel sorumluluklarındandır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-196",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından kamu görevlisinin temel ödevi aşağıdakilerden hangisidir? (Konu tekrarı)",
+    "options": [
+      "Kişisel çıkar sağlamak",
+      "Görevi aksatmak",
+      "Yetkisini özel işlerde kullanmak",
+      "Görevini kamu yararına uygun yürütmek"
+    ],
+    "answer": "Görevini kamu yararına uygun yürütmek",
+    "answerLetter": "D",
+    "explanation": "Kamu görevlisi görevini kamu yararı için yapmalıdır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-197",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Zor",
+    "question": "Kamu Yasası bakımından tarafsızlık ilkesi neyi gerektirir? (Konu tekrarı)",
+    "options": [
+      "Kişisel görüşe göre işlem yapmayı",
+      "Kamu hizmetini bırakmayı",
+      "Görevde kişilere eşit ve objektif davranmayı",
+      "Tanıdıklara ayrıcalık sağlamayı"
+    ],
+    "answer": "Görevde kişilere eşit ve objektif davranmayı",
+    "answerLetter": "C",
+    "explanation": "Tarafsızlık eşit ve objektif işlem yapmayı gerektirir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-198",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından kamu malı için doğru davranış hangisidir? (Konu tekrarı)",
+    "options": [
+      "Kişisel ihtiyaç için kullanmak",
+      "Kamu malını korumak ve amacı dışında kullanmamak",
+      "Zarar görmesine göz yummak",
+      "Başkasına devretmek"
+    ],
+    "answer": "Kamu malını korumak ve amacı dışında kullanmamak",
+    "answerLetter": "B",
+    "explanation": "Kamu malı kamu hizmeti için korunmalıdır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-199",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Kolay",
+    "question": "Kamu Yasası bakımından yasal emirler konusunda kamu görevlisinin yükümlülüğü nedir? (Konu tekrarı)",
+    "options": [
+      "Yasal emirleri yerine getirmek",
+      "Kamu hizmetini aksatmak",
+      "Her emri sorgusuz kişisel amaçla uygulamak",
+      "Göreve hiç uymamak"
+    ],
+    "answer": "Yasal emirleri yerine getirmek",
+    "answerLetter": "A",
+    "explanation": "Yasal görev gerekleri yerine getirilmelidir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-200",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından göreve devam yükümlülüğü hangi başlıkla ilgilidir? (Konu tekrarı)",
+    "options": [
+      "Sadece sosyal haklar",
+      "Emeklilik töreni",
+      "Logo kullanımı",
+      "Ödev ve sorumluluklar"
+    ],
+    "answer": "Ödev ve sorumluluklar",
+    "answerLetter": "D",
+    "explanation": "Göreve devam kamu görevlisinin temel sorumluluklarındandır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-201",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Hizmet Sınıfları ve Kadrolar",
+    "difficulty": "Zor",
+    "question": "Hizmet sınıfları hangi amaca hizmet eder? (Konu tekrarı)",
+    "options": [
+      "Tüm görevleri kaldırmaya",
+      "Sadece izinleri artırmaya",
+      "Benzer görevleri gruplandırmaya",
+      "Emekliliği iptal etmeye"
+    ],
+    "answer": "Benzer görevleri gruplandırmaya",
+    "answerLetter": "C",
+    "explanation": "Hizmet sınıfları personel sisteminde düzen sağlar.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-202",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Hizmet Sınıfları ve Kadrolar",
+    "difficulty": "Orta",
+    "question": "Kadro olmadan personel sisteminde hangi sorun doğar? (Konu tekrarı)",
+    "options": [
+      "Kanun gereksiz olur",
+      "Görev ve unvan belirsizliği",
+      "Her şey daha düzenli olur",
+      "Sınavlar tamamen kalkar"
+    ],
+    "answer": "Görev ve unvan belirsizliği",
+    "answerLetter": "B",
+    "explanation": "Kadro görev yerini ve unvanı belirler.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-203",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Hizmet Sınıfları ve Kadrolar",
+    "difficulty": "Kolay",
+    "question": "Kadro, en çok hangi işlemlerde önem taşır? (Konu tekrarı)",
+    "options": [
+      "Atama, terfi ve görev dağılımı",
+      "Sadece tatil planı",
+      "Sadece yemek listesi",
+      "Sadece bina boyası"
+    ],
+    "answer": "Atama, terfi ve görev dağılımı",
+    "answerLetter": "A",
+    "explanation": "Kadro personel hareketlerinde temel unsurdur.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-204",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Hizmet Sınıfları ve Kadrolar",
+    "difficulty": "Orta",
+    "question": "Hizmet sınıfı kavramı neyi ifade eder? (Konu tekrarı)",
+    "options": [
+      "Sadece maaş bordrosunu",
+      "Disiplin cezası adını",
+      "Kişisel izin belgesini",
+      "Benzer nitelikteki kamu görevlerinin gruplandırılmasını"
+    ],
+    "answer": "Benzer nitelikteki kamu görevlerinin gruplandırılmasını",
+    "answerLetter": "D",
+    "explanation": "Hizmet sınıfları görev türlerini gruplandırır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-205",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Hizmet Sınıfları ve Kadrolar",
+    "difficulty": "Zor",
+    "question": "Kadro ve hizmet sınıfı için aşağıdakilerden hangisi doğrudur? (Konu tekrarı)",
+    "options": [
+      "Aynı şey değildir ama ilişkilidir",
+      "Sadece özel sektörde kullanılır",
+      "Personel yönetiminde düzen sağlar",
+      "Kanun dışı kavramlardır"
+    ],
+    "answer": "Personel yönetiminde düzen sağlar",
+    "answerLetter": "C",
+    "explanation": "Kadro ve hizmet sınıfı kamu personel sisteminin temelidir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-206",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Hizmet Sınıfları ve Kadrolar",
+    "difficulty": "Orta",
+    "question": "Hizmet sınıfları hangi amaca hizmet eder? (Konu tekrarı)",
+    "options": [
+      "Emekliliği iptal etmeye",
+      "Benzer görevleri gruplandırmaya",
+      "Tüm görevleri kaldırmaya",
+      "Sadece izinleri artırmaya"
+    ],
+    "answer": "Benzer görevleri gruplandırmaya",
+    "answerLetter": "B",
+    "explanation": "Hizmet sınıfları personel sisteminde düzen sağlar.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-207",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Hizmet Sınıfları ve Kadrolar",
+    "difficulty": "Kolay",
+    "question": "Kadro olmadan personel sisteminde hangi sorun doğar? (Konu tekrarı)",
+    "options": [
+      "Görev ve unvan belirsizliği",
+      "Sınavlar tamamen kalkar",
+      "Kanun gereksiz olur",
+      "Her şey daha düzenli olur"
+    ],
+    "answer": "Görev ve unvan belirsizliği",
+    "answerLetter": "A",
+    "explanation": "Kadro görev yerini ve unvanı belirler.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-208",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Hizmet Sınıfları ve Kadrolar",
+    "difficulty": "Orta",
+    "question": "Kadro, en çok hangi işlemlerde önem taşır? (Konu tekrarı)",
+    "options": [
+      "Sadece bina boyası",
+      "Sadece tatil planı",
+      "Sadece yemek listesi",
+      "Atama, terfi ve görev dağılımı"
+    ],
+    "answer": "Atama, terfi ve görev dağılımı",
+    "answerLetter": "D",
+    "explanation": "Kadro personel hareketlerinde temel unsurdur.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-209",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Hizmet Sınıfları ve Kadrolar",
+    "difficulty": "Zor",
+    "question": "Hizmet sınıfı kavramı neyi ifade eder? (Konu tekrarı)",
+    "options": [
+      "Sadece maaş bordrosunu",
+      "Disiplin cezası adını",
+      "Benzer nitelikteki kamu görevlerinin gruplandırılmasını",
+      "Kişisel izin belgesini"
+    ],
+    "answer": "Benzer nitelikteki kamu görevlerinin gruplandırılmasını",
+    "answerLetter": "C",
+    "explanation": "Hizmet sınıfları görev türlerini gruplandırır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-210",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Hizmet Sınıfları ve Kadrolar",
+    "difficulty": "Orta",
+    "question": "Kadro ve hizmet sınıfı için aşağıdakilerden hangisi doğrudur? (Konu tekrarı)",
+    "options": [
+      "Kanun dışı kavramlardır",
+      "Personel yönetiminde düzen sağlar",
+      "Aynı şey değildir ama ilişkilidir",
+      "Sadece özel sektörde kullanılır"
+    ],
+    "answer": "Personel yönetiminde düzen sağlar",
+    "answerLetter": "B",
+    "explanation": "Kadro ve hizmet sınıfı kamu personel sisteminin temelidir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-211",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Kolay",
+    "question": "Kamu görevine atanma neye bağlıdır? (Konu tekrarı)",
+    "options": [
+      "Yasada belirtilen şartları taşımaya",
+      "Sadece kişinin isteğine",
+      "Hiçbir koşula bağlı olmamaya",
+      "Sosyal medya beğenisine"
+    ],
+    "answer": "Yasada belirtilen şartları taşımaya",
+    "answerLetter": "A",
+    "explanation": "Atama yasal şartlara göre yapılır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-212",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Orta",
+    "question": "Adaylık sürecinin amacı nedir? (Konu tekrarı)",
+    "options": [
+      "İzni sınırsız yapmak",
+      "Görevi tamamen kaldırmak",
+      "Emekliliği başlatmak",
+      "Göreve uyum sağlamak ve yeterliliği görmek"
+    ],
+    "answer": "Göreve uyum sağlamak ve yeterliliği görmek",
+    "answerLetter": "D",
+    "explanation": "Adaylık kamu hizmetine uyum dönemidir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-213",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Zor",
+    "question": "Adaylık tamamlandığında hangi işlem gündeme gelebilir? (Konu tekrarı)",
+    "options": [
+      "Otomatik emeklilik",
+      "Kadro iptali",
+      "Asaleten atanma",
+      "Süresiz izin"
+    ],
+    "answer": "Asaleten atanma",
+    "answerLetter": "C",
+    "explanation": "Adaylık olumlu tamamlanırsa asaleten atanma olabilir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-214",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Orta",
+    "question": "Aday memur için aşağıdakilerden hangisi doğrudur? (Konu tekrarı)",
+    "options": [
+      "Kamu görevlisi sayılmaz",
+      "Henüz geçiş sürecindedir",
+      "Hiçbir yükümlülüğü yoktur",
+      "Her zaman emeklidir"
+    ],
+    "answer": "Henüz geçiş sürecindedir",
+    "answerLetter": "B",
+    "explanation": "Adaylık geçiş sürecidir ancak görev yükümlülükleri vardır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-215",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Kolay",
+    "question": "Atanma işlemlerinde genel ve özel şartlar neden önemlidir? (Konu tekrarı)",
+    "options": [
+      "Göreve uygunluğu belirlemek için",
+      "Sadece kağıt doldurmak için",
+      "Sınavları iptal etmek için",
+      "Görevi gizlemek için"
+    ],
+    "answer": "Göreve uygunluğu belirlemek için",
+    "answerLetter": "A",
+    "explanation": "Atanma şartları göreve uygunluğu sağlar.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-216",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Orta",
+    "question": "Kamu görevine atanma neye bağlıdır? (Konu tekrarı)",
+    "options": [
+      "Sosyal medya beğenisine",
+      "Sadece kişinin isteğine",
+      "Hiçbir koşula bağlı olmamaya",
+      "Yasada belirtilen şartları taşımaya"
+    ],
+    "answer": "Yasada belirtilen şartları taşımaya",
+    "answerLetter": "D",
+    "explanation": "Atama yasal şartlara göre yapılır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-217",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Zor",
+    "question": "Adaylık sürecinin amacı nedir? (Konu tekrarı)",
+    "options": [
+      "İzni sınırsız yapmak",
+      "Görevi tamamen kaldırmak",
+      "Göreve uyum sağlamak ve yeterliliği görmek",
+      "Emekliliği başlatmak"
+    ],
+    "answer": "Göreve uyum sağlamak ve yeterliliği görmek",
+    "answerLetter": "C",
+    "explanation": "Adaylık kamu hizmetine uyum dönemidir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-218",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Orta",
+    "question": "Adaylık tamamlandığında hangi işlem gündeme gelebilir? (Konu tekrarı)",
+    "options": [
+      "Süresiz izin",
+      "Asaleten atanma",
+      "Otomatik emeklilik",
+      "Kadro iptali"
+    ],
+    "answer": "Asaleten atanma",
+    "answerLetter": "B",
+    "explanation": "Adaylık olumlu tamamlanırsa asaleten atanma olabilir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-219",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Kolay",
+    "question": "Aday memur için aşağıdakilerden hangisi doğrudur? (Konu tekrarı)",
+    "options": [
+      "Henüz geçiş sürecindedir",
+      "Her zaman emeklidir",
+      "Kamu görevlisi sayılmaz",
+      "Hiçbir yükümlülüğü yoktur"
+    ],
+    "answer": "Henüz geçiş sürecindedir",
+    "answerLetter": "A",
+    "explanation": "Adaylık geçiş sürecidir ancak görev yükümlülükleri vardır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-220",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Orta",
+    "question": "Atanma işlemlerinde genel ve özel şartlar neden önemlidir? (Konu tekrarı)",
+    "options": [
+      "Görevi gizlemek için",
+      "Sadece kağıt doldurmak için",
+      "Sınavları iptal etmek için",
+      "Göreve uygunluğu belirlemek için"
+    ],
+    "answer": "Göreve uygunluğu belirlemek için",
+    "answerLetter": "D",
+    "explanation": "Atanma şartları göreve uygunluğu sağlar.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-221",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Zor",
+    "question": "Kamu Yasası bakımından kamu görevine atanma neye bağlıdır? (Konu tekrarı)",
+    "options": [
+      "Hiçbir koşula bağlı olmamaya",
+      "Sosyal medya beğenisine",
+      "Yasada belirtilen şartları taşımaya",
+      "Sadece kişinin isteğine"
+    ],
+    "answer": "Yasada belirtilen şartları taşımaya",
+    "answerLetter": "C",
+    "explanation": "Atama yasal şartlara göre yapılır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-222",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından adaylık sürecinin amacı nedir? (Konu tekrarı)",
+    "options": [
+      "Emekliliği başlatmak",
+      "Göreve uyum sağlamak ve yeterliliği görmek",
+      "İzni sınırsız yapmak",
+      "Görevi tamamen kaldırmak"
+    ],
+    "answer": "Göreve uyum sağlamak ve yeterliliği görmek",
+    "answerLetter": "B",
+    "explanation": "Adaylık kamu hizmetine uyum dönemidir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-223",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Kolay",
+    "question": "Kamu Yasası bakımından adaylık tamamlandığında hangi işlem gündeme gelebilir? (Konu tekrarı)",
+    "options": [
+      "Asaleten atanma",
+      "Süresiz izin",
+      "Otomatik emeklilik",
+      "Kadro iptali"
+    ],
+    "answer": "Asaleten atanma",
+    "answerLetter": "A",
+    "explanation": "Adaylık olumlu tamamlanırsa asaleten atanma olabilir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-224",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından aday memur için aşağıdakilerden hangisi doğrudur? (Konu tekrarı)",
+    "options": [
+      "Hiçbir yükümlülüğü yoktur",
+      "Her zaman emeklidir",
+      "Kamu görevlisi sayılmaz",
+      "Henüz geçiş sürecindedir"
+    ],
+    "answer": "Henüz geçiş sürecindedir",
+    "answerLetter": "D",
+    "explanation": "Adaylık geçiş sürecidir ancak görev yükümlülükleri vardır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-225",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Zor",
+    "question": "Kamu Yasası bakımından atanma işlemlerinde genel ve özel şartlar neden önemlidir? (Konu tekrarı)",
+    "options": [
+      "Sınavları iptal etmek için",
+      "Görevi gizlemek için",
+      "Göreve uygunluğu belirlemek için",
+      "Sadece kağıt doldurmak için"
+    ],
+    "answer": "Göreve uygunluğu belirlemek için",
+    "answerLetter": "C",
+    "explanation": "Atanma şartları göreve uygunluğu sağlar.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-226",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Orta",
+    "question": "Kademe ilerlemesi neyi ifade eder? (Konu tekrarı)",
+    "options": [
+      "Disiplin kurulunu",
+      "Derece içindeki ilerlemeyi",
+      "Görevden uzaklaştırmayı",
+      "Emekliliği"
+    ],
+    "answer": "Derece içindeki ilerlemeyi",
+    "answerLetter": "B",
+    "explanation": "Kademe derece içindeki ilerleme basamağıdır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-227",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Kolay",
+    "question": "Derece yükselmesi için aşağıdakilerden hangisi doğrudur? (Konu tekrarı)",
+    "options": [
+      "Kademe ilerlemesinden farklıdır",
+      "Aynı şeydir",
+      "Sadece izin türüdür",
+      "Sadece ceza türüdür"
+    ],
+    "answer": "Kademe ilerlemesinden farklıdır",
+    "answerLetter": "A",
+    "explanation": "Derece ve kademe farklı kavramlardır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-228",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Orta",
+    "question": "Terfi ne anlama gelir? (Konu tekrarı)",
+    "options": [
+      "İzinsiz devamsızlık",
+      "Disiplin cezası alma",
+      "Görevden ayrılma",
+      "Daha ileri statü veya göreve yükselme"
+    ],
+    "answer": "Daha ileri statü veya göreve yükselme",
+    "answerLetter": "D",
+    "explanation": "Terfi kamu görevlisinin yükselmesiyle ilgilidir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-229",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Zor",
+    "question": "Terfi için hangi unsur etkili olabilir? (Konu tekrarı)",
+    "options": [
+      "Kişisel söylenti",
+      "Göreve gelmemek",
+      "Hizmet süresi ve koşulların sağlanması",
+      "Kamu malını zarar vermek"
+    ],
+    "answer": "Hizmet süresi ve koşulların sağlanması",
+    "answerLetter": "C",
+    "explanation": "Terfi yasal şartların oluşmasına bağlıdır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-230",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Orta",
+    "question": "Disiplin durumu ilerleme üzerinde nasıl etki yapabilir? (Konu tekrarı)",
+    "options": [
+      "Sadece izin verir",
+      "Olumsuz disiplin durumu ilerlemeyi etkileyebilir",
+      "Hiçbir zaman etkilemez",
+      "Sadece maaşı artırır"
+    ],
+    "answer": "Olumsuz disiplin durumu ilerlemeyi etkileyebilir",
+    "answerLetter": "B",
+    "explanation": "Disiplin durumu personel ilerlemesinde önemlidir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-231",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Kolay",
+    "question": "Kademe ilerlemesi neyi ifade eder? (Konu tekrarı)",
+    "options": [
+      "Derece içindeki ilerlemeyi",
+      "Emekliliği",
+      "Disiplin kurulunu",
+      "Görevden uzaklaştırmayı"
+    ],
+    "answer": "Derece içindeki ilerlemeyi",
+    "answerLetter": "A",
+    "explanation": "Kademe derece içindeki ilerleme basamağıdır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-232",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Orta",
+    "question": "Derece yükselmesi için aşağıdakilerden hangisi doğrudur? (Konu tekrarı)",
+    "options": [
+      "Sadece ceza türüdür",
+      "Aynı şeydir",
+      "Sadece izin türüdür",
+      "Kademe ilerlemesinden farklıdır"
+    ],
+    "answer": "Kademe ilerlemesinden farklıdır",
+    "answerLetter": "D",
+    "explanation": "Derece ve kademe farklı kavramlardır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-233",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Zor",
+    "question": "Terfi ne anlama gelir? (Konu tekrarı)",
+    "options": [
+      "İzinsiz devamsızlık",
+      "Disiplin cezası alma",
+      "Daha ileri statü veya göreve yükselme",
+      "Görevden ayrılma"
+    ],
+    "answer": "Daha ileri statü veya göreve yükselme",
+    "answerLetter": "C",
+    "explanation": "Terfi kamu görevlisinin yükselmesiyle ilgilidir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-234",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Orta",
+    "question": "Terfi için hangi unsur etkili olabilir? (Konu tekrarı)",
+    "options": [
+      "Kamu malını zarar vermek",
+      "Hizmet süresi ve koşulların sağlanması",
+      "Kişisel söylenti",
+      "Göreve gelmemek"
+    ],
+    "answer": "Hizmet süresi ve koşulların sağlanması",
+    "answerLetter": "B",
+    "explanation": "Terfi yasal şartların oluşmasına bağlıdır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-235",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Kolay",
+    "question": "Disiplin durumu ilerleme üzerinde nasıl etki yapabilir? (Konu tekrarı)",
+    "options": [
+      "Olumsuz disiplin durumu ilerlemeyi etkileyebilir",
+      "Sadece maaşı artırır",
+      "Sadece izin verir",
+      "Hiçbir zaman etkilemez"
+    ],
+    "answer": "Olumsuz disiplin durumu ilerlemeyi etkileyebilir",
+    "answerLetter": "A",
+    "explanation": "Disiplin durumu personel ilerlemesinde önemlidir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-236",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından kademe ilerlemesi neyi ifade eder? (Konu tekrarı)",
+    "options": [
+      "Görevden uzaklaştırmayı",
+      "Emekliliği",
+      "Disiplin kurulunu",
+      "Derece içindeki ilerlemeyi"
+    ],
+    "answer": "Derece içindeki ilerlemeyi",
+    "answerLetter": "D",
+    "explanation": "Kademe derece içindeki ilerleme basamağıdır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-237",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Zor",
+    "question": "Kamu Yasası bakımından derece yükselmesi için aşağıdakilerden hangisi doğrudur? (Konu tekrarı)",
+    "options": [
+      "Sadece izin türüdür",
+      "Sadece ceza türüdür",
+      "Kademe ilerlemesinden farklıdır",
+      "Aynı şeydir"
+    ],
+    "answer": "Kademe ilerlemesinden farklıdır",
+    "answerLetter": "C",
+    "explanation": "Derece ve kademe farklı kavramlardır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-238",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından terfi ne anlama gelir? (Konu tekrarı)",
+    "options": [
+      "Görevden ayrılma",
+      "Daha ileri statü veya göreve yükselme",
+      "İzinsiz devamsızlık",
+      "Disiplin cezası alma"
+    ],
+    "answer": "Daha ileri statü veya göreve yükselme",
+    "answerLetter": "B",
+    "explanation": "Terfi kamu görevlisinin yükselmesiyle ilgilidir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-239",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Kolay",
+    "question": "Kamu Yasası bakımından terfi için hangi unsur etkili olabilir? (Konu tekrarı)",
+    "options": [
+      "Hizmet süresi ve koşulların sağlanması",
+      "Kamu malını zarar vermek",
+      "Kişisel söylenti",
+      "Göreve gelmemek"
+    ],
+    "answer": "Hizmet süresi ve koşulların sağlanması",
+    "answerLetter": "A",
+    "explanation": "Terfi yasal şartların oluşmasına bağlıdır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-240",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından disiplin durumu ilerleme üzerinde nasıl etki yapabilir? (Konu tekrarı)",
+    "options": [
+      "Hiçbir zaman etkilemez",
+      "Sadece maaşı artırır",
+      "Sadece izin verir",
+      "Olumsuz disiplin durumu ilerlemeyi etkileyebilir"
+    ],
+    "answer": "Olumsuz disiplin durumu ilerlemeyi etkileyebilir",
+    "answerLetter": "D",
+    "explanation": "Disiplin durumu personel ilerlemesinde önemlidir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-241",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Zor",
+    "question": "İzin hakkının temel amacı nedir? (Konu tekrarı)",
+    "options": [
+      "Görevi tamamen bırakmak",
+      "Kamu hizmetini durdurmak",
+      "Görevden yasal ve geçici ayrılmayı düzenlemek",
+      "Disiplin cezası vermek"
+    ],
+    "answer": "Görevden yasal ve geçici ayrılmayı düzenlemek",
+    "answerLetter": "C",
+    "explanation": "İzin yasal ve geçici ayrılma halidir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-242",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Orta",
+    "question": "İzin kullanırken hangi husus dikkate alınır? (Konu tekrarı)",
+    "options": [
+      "Her zaman sözlü talep",
+      "Kamu hizmetinin aksatılmaması",
+      "Kişisel keyfilik",
+      "Sınırsız süre"
+    ],
+    "answer": "Kamu hizmetinin aksatılmaması",
+    "answerLetter": "B",
+    "explanation": "İzin kamu hizmetinin sürekliliği gözetilerek kullanılır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-243",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi izin türlerine örnek olabilir? (Konu tekrarı)",
+    "options": [
+      "Hastalık izni",
+      "Kadro cezası",
+      "Terfi iptali",
+      "Görevden çıkarma"
+    ],
+    "answer": "Hastalık izni",
+    "answerLetter": "A",
+    "explanation": "Hastalık izni bir izin türüdür.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-244",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Orta",
+    "question": "İzinsiz göreve gelmeme hangi alanla ilişkilidir? (Konu tekrarı)",
+    "options": [
+      "Terfi hakkı",
+      "Sınırsız hak",
+      "Sadece ödül",
+      "Disiplin ve görev sorumluluğu"
+    ],
+    "answer": "Disiplin ve görev sorumluluğu",
+    "answerLetter": "D",
+    "explanation": "İzinsiz devamsızlık disiplin sonucu doğurabilir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-245",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Zor",
+    "question": "İzin süreleri ve türleri nasıl belirlenir? (Konu tekrarı)",
+    "options": [
+      "Kişisel tahminle",
+      "Sosyal medya ile",
+      "Yasa ve ilgili mevzuatla",
+      "Rastgele"
+    ],
+    "answer": "Yasa ve ilgili mevzuatla",
+    "answerLetter": "C",
+    "explanation": "İzinler mevzuata göre belirlenir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-246",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Orta",
+    "question": "İzin hakkının temel amacı nedir? (Konu tekrarı)",
+    "options": [
+      "Disiplin cezası vermek",
+      "Görevden yasal ve geçici ayrılmayı düzenlemek",
+      "Görevi tamamen bırakmak",
+      "Kamu hizmetini durdurmak"
+    ],
+    "answer": "Görevden yasal ve geçici ayrılmayı düzenlemek",
+    "answerLetter": "B",
+    "explanation": "İzin yasal ve geçici ayrılma halidir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-247",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Kolay",
+    "question": "İzin kullanırken hangi husus dikkate alınır? (Konu tekrarı)",
+    "options": [
+      "Kamu hizmetinin aksatılmaması",
+      "Sınırsız süre",
+      "Her zaman sözlü talep",
+      "Kişisel keyfilik"
+    ],
+    "answer": "Kamu hizmetinin aksatılmaması",
+    "answerLetter": "A",
+    "explanation": "İzin kamu hizmetinin sürekliliği gözetilerek kullanılır.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-248",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisi izin türlerine örnek olabilir? (Konu tekrarı)",
+    "options": [
+      "Görevden çıkarma",
+      "Kadro cezası",
+      "Terfi iptali",
+      "Hastalık izni"
+    ],
+    "answer": "Hastalık izni",
+    "answerLetter": "D",
+    "explanation": "Hastalık izni bir izin türüdür.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-249",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Zor",
+    "question": "İzinsiz göreve gelmeme hangi alanla ilişkilidir? (Konu tekrarı)",
+    "options": [
+      "Terfi hakkı",
+      "Sınırsız hak",
+      "Disiplin ve görev sorumluluğu",
+      "Sadece ödül"
+    ],
+    "answer": "Disiplin ve görev sorumluluğu",
+    "answerLetter": "C",
+    "explanation": "İzinsiz devamsızlık disiplin sonucu doğurabilir.",
+    "source": "Kamu Yasası 250 soru havuzu"
+  },
+  {
+    "id": "ky-250",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Orta",
+    "question": "İzin süreleri ve türleri nasıl belirlenir? (Konu tekrarı)",
+    "options": [
+      "Rastgele",
+      "Yasa ve ilgili mevzuatla",
+      "Kişisel tahminle",
+      "Sosyal medya ile"
+    ],
+    "answer": "Yasa ve ilgili mevzuatla",
+    "answerLetter": "B",
+    "explanation": "İzinler mevzuata göre belirlenir.",
+    "source": "Kamu Yasası 250 soru havuzu"
   },
   {
     "id": "ka-001",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Genel Esaslar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "KKTC Anayasası en temel olarak neyi düzenler?",
     "options": [
       "Sadece özel şirketleri",
@@ -5629,43 +9015,43 @@ window.QUESTIONS = [
     "answer": "Devletin temel yapısını ve hakları",
     "answerLetter": "D",
     "explanation": "Anayasa devletin temel yapısını ve temel hakları düzenler.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-002",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Genel Esaslar",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Egemenlik ilkesi kime aittir?",
     "options": [
-      "Yabancı devlete",
       "Özel şirkete",
+      "Tek bir kişiye",
       "Halka",
-      "Tek bir kişiye"
+      "Yabancı devlete"
     ],
     "answer": "Halka",
     "answerLetter": "C",
     "explanation": "Demokratik düzende egemenlik halka aittir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-003",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Genel Esaslar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Hukuk devleti neyi ifade eder?",
     "options": [
-      "Yargı denetiminin olmamasını",
+      "Kanunsuz işlem yapmayı",
       "Devletin hukukla bağlı olmasını",
-      "Keyfi yönetimi",
-      "Kanunsuz işlem yapmayı"
+      "Yargı denetiminin olmamasını",
+      "Keyfi yönetimi"
     ],
     "answer": "Devletin hukukla bağlı olmasını",
     "answerLetter": "B",
     "explanation": "Hukuk devleti keyfiliği önler.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-004",
@@ -5675,69 +9061,69 @@ window.QUESTIONS = [
     "difficulty": "Kolay",
     "question": "KKTC Anayasası bakımından kKTC Anayasası en temel olarak neyi düzenler?",
     "options": [
+      "Devletin temel yapısını ve hakları",
       "Sadece özel şirketleri",
       "Sadece trafik kurallarını",
-      "Sadece spor kulüplerini",
-      "Devletin temel yapısını ve hakları"
+      "Sadece spor kulüplerini"
     ],
     "answer": "Devletin temel yapısını ve hakları",
-    "answerLetter": "D",
+    "answerLetter": "A",
     "explanation": "Anayasa devletin temel yapısını ve temel hakları düzenler.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-005",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Genel Esaslar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "KKTC Anayasası bakımından egemenlik ilkesi kime aittir?",
     "options": [
       "Yabancı devlete",
       "Özel şirkete",
-      "Halka",
-      "Tek bir kişiye"
+      "Tek bir kişiye",
+      "Halka"
     ],
     "answer": "Halka",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Demokratik düzende egemenlik halka aittir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-006",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Genel Esaslar",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "KKTC Anayasası bakımından hukuk devleti neyi ifade eder?",
     "options": [
-      "Yargı denetiminin olmamasını",
-      "Devletin hukukla bağlı olmasını",
       "Keyfi yönetimi",
-      "Kanunsuz işlem yapmayı"
+      "Kanunsuz işlem yapmayı",
+      "Devletin hukukla bağlı olmasını",
+      "Yargı denetiminin olmamasını"
     ],
     "answer": "Devletin hukukla bağlı olmasını",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Hukuk devleti keyfiliği önler.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-007",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Genel Esaslar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "KKTC Anayasası en temel olarak neyi düzenler?",
     "options": [
-      "Sadece özel şirketleri",
-      "Sadece trafik kurallarını",
       "Sadece spor kulüplerini",
-      "Devletin temel yapısını ve hakları"
+      "Devletin temel yapısını ve hakları",
+      "Sadece özel şirketleri",
+      "Sadece trafik kurallarını"
     ],
     "answer": "Devletin temel yapısını ve hakları",
-    "answerLetter": "D",
+    "answerLetter": "B",
     "explanation": "Anayasa devletin temel yapısını ve temel hakları düzenler.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-008",
@@ -5747,69 +9133,69 @@ window.QUESTIONS = [
     "difficulty": "Kolay",
     "question": "Egemenlik ilkesi kime aittir?",
     "options": [
+      "Halka",
       "Yabancı devlete",
       "Özel şirkete",
-      "Halka",
       "Tek bir kişiye"
     ],
     "answer": "Halka",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "Demokratik düzende egemenlik halka aittir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-009",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Genel Esaslar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Hukuk devleti neyi ifade eder?",
     "options": [
       "Yargı denetiminin olmamasını",
-      "Devletin hukukla bağlı olmasını",
       "Keyfi yönetimi",
-      "Kanunsuz işlem yapmayı"
+      "Kanunsuz işlem yapmayı",
+      "Devletin hukukla bağlı olmasını"
     ],
     "answer": "Devletin hukukla bağlı olmasını",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Hukuk devleti keyfiliği önler.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-010",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Genel Esaslar",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "KKTC Anayasası en temel olarak neyi düzenler? (Genel tekrar)",
     "options": [
-      "Sadece özel şirketleri",
       "Sadece trafik kurallarını",
       "Sadece spor kulüplerini",
-      "Devletin temel yapısını ve hakları"
+      "Devletin temel yapısını ve hakları",
+      "Sadece özel şirketleri"
     ],
     "answer": "Devletin temel yapısını ve hakları",
-    "answerLetter": "D",
+    "answerLetter": "C",
     "explanation": "Anayasa devletin temel yapısını ve temel hakları düzenler.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-011",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Genel Esaslar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Egemenlik ilkesi kime aittir? (Genel tekrar)",
     "options": [
-      "Yabancı devlete",
-      "Özel şirkete",
+      "Tek bir kişiye",
       "Halka",
-      "Tek bir kişiye"
+      "Yabancı devlete",
+      "Özel şirkete"
     ],
     "answer": "Halka",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Demokratik düzende egemenlik halka aittir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-012",
@@ -5819,22 +9205,22 @@ window.QUESTIONS = [
     "difficulty": "Kolay",
     "question": "Hukuk devleti neyi ifade eder? (Genel tekrar)",
     "options": [
-      "Yargı denetiminin olmamasını",
       "Devletin hukukla bağlı olmasını",
+      "Yargı denetiminin olmamasını",
       "Keyfi yönetimi",
       "Kanunsuz işlem yapmayı"
     ],
     "answer": "Devletin hukukla bağlı olmasını",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "Hukuk devleti keyfiliği önler.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-013",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Genel Esaslar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "KKTC Anayasası en temel olarak neyi düzenler? (Genel tekrar)",
     "options": [
       "Sadece özel şirketleri",
@@ -5845,50 +9231,50 @@ window.QUESTIONS = [
     "answer": "Devletin temel yapısını ve hakları",
     "answerLetter": "D",
     "explanation": "Anayasa devletin temel yapısını ve temel hakları düzenler.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-014",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Genel Esaslar",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Egemenlik ilkesi kime aittir? (Genel tekrar)",
     "options": [
-      "Yabancı devlete",
       "Özel şirkete",
+      "Tek bir kişiye",
       "Halka",
-      "Tek bir kişiye"
+      "Yabancı devlete"
     ],
     "answer": "Halka",
     "answerLetter": "C",
     "explanation": "Demokratik düzende egemenlik halka aittir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-015",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Genel Esaslar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Hukuk devleti neyi ifade eder? (Genel tekrar)",
     "options": [
-      "Yargı denetiminin olmamasını",
+      "Kanunsuz işlem yapmayı",
       "Devletin hukukla bağlı olmasını",
-      "Keyfi yönetimi",
-      "Kanunsuz işlem yapmayı"
+      "Yargı denetiminin olmamasını",
+      "Keyfi yönetimi"
     ],
     "answer": "Devletin hukukla bağlı olmasını",
     "answerLetter": "B",
     "explanation": "Hukuk devleti keyfiliği önler.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-016",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Temel Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Temel hak ve özgürlükler nasıl güvence altına alınır?",
     "options": [
       "Anayasal güvenceyle",
@@ -5899,7 +9285,7 @@ window.QUESTIONS = [
     "answer": "Anayasal güvenceyle",
     "answerLetter": "A",
     "explanation": "Temel haklar anayasa ile güvence altına alınır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-017",
@@ -5917,25 +9303,25 @@ window.QUESTIONS = [
     "answer": "Yasa önünde ayrım yapılmamasını",
     "answerLetter": "D",
     "explanation": "Eşitlik yasa önünde ayrımcılık yapılmamasını gerektirir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-018",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Temel Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Özel hayatın gizliliği hangi alanı korur?",
     "options": [
-      "Sadece seçim sonuçlarını",
       "Sadece kamu binalarını",
+      "Sadece vergi oranlarını",
       "Kişinin özel yaşam alanını",
-      "Sadece vergi oranlarını"
+      "Sadece seçim sonuçlarını"
     ],
     "answer": "Kişinin özel yaşam alanını",
     "answerLetter": "C",
     "explanation": "Özel hayat anayasal koruma altındadır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-019",
@@ -5945,22 +9331,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "İfade özgürlüğü hangi sistemin temel unsurudur?",
     "options": [
-      "Yargısız düzenin",
+      "Gizli yönetimin",
       "Demokratik toplumun",
-      "Keyfi yönetimin",
-      "Gizli yönetimin"
+      "Yargısız düzenin",
+      "Keyfi yönetimin"
     ],
     "answer": "Demokratik toplumun",
     "answerLetter": "B",
     "explanation": "İfade özgürlüğü demokratik toplum için önemlidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-020",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Temel Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Din ve vicdan özgürlüğü neyi kapsar?",
     "options": [
       "İnanç sahibi olma veya olmama hakkını",
@@ -5971,7 +9357,7 @@ window.QUESTIONS = [
     "answer": "İnanç sahibi olma veya olmama hakkını",
     "answerLetter": "A",
     "explanation": "Din ve vicdan özgürlüğü inanç alanını korur.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-021",
@@ -5983,31 +9369,31 @@ window.QUESTIONS = [
     "options": [
       "Kişisel isteğe göre",
       "Rastgele kararla",
-      "Anayasal güvenceyle",
-      "Sözlü emirle"
+      "Sözlü emirle",
+      "Anayasal güvenceyle"
     ],
     "answer": "Anayasal güvenceyle",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Temel haklar anayasa ile güvence altına alınır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-022",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Temel Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "KKTC Anayasası bakımından eşitlik ilkesi neyi gerektirir?",
     "options": [
-      "Sadece belli gruba hak tanımayı",
-      "Yasa önünde ayrım yapılmamasını",
       "Kişisel ayrıcalığı",
-      "Keyfi uygulamayı"
+      "Keyfi uygulamayı",
+      "Yasa önünde ayrım yapılmamasını",
+      "Sadece belli gruba hak tanımayı"
     ],
     "answer": "Yasa önünde ayrım yapılmamasını",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Eşitlik yasa önünde ayrımcılık yapılmamasını gerektirir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-023",
@@ -6017,33 +9403,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "KKTC Anayasası bakımından özel hayatın gizliliği hangi alanı korur?",
     "options": [
+      "Sadece kamu binalarını",
       "Kişinin özel yaşam alanını",
       "Sadece vergi oranlarını",
-      "Sadece seçim sonuçlarını",
-      "Sadece kamu binalarını"
+      "Sadece seçim sonuçlarını"
     ],
     "answer": "Kişinin özel yaşam alanını",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Özel hayat anayasal koruma altındadır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-024",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Temel Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "KKTC Anayasası bakımından i̇fade özgürlüğü hangi sistemin temel unsurudur?",
     "options": [
+      "Demokratik toplumun",
       "Keyfi yönetimin",
       "Gizli yönetimin",
-      "Yargısız düzenin",
-      "Demokratik toplumun"
+      "Yargısız düzenin"
     ],
     "answer": "Demokratik toplumun",
-    "answerLetter": "D",
+    "answerLetter": "A",
     "explanation": "İfade özgürlüğü demokratik toplum için önemlidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-025",
@@ -6055,31 +9441,31 @@ window.QUESTIONS = [
     "options": [
       "Kamu hizmetini durdurmayı",
       "Seçimleri iptal etmeyi",
-      "İnanç sahibi olma veya olmama hakkını",
-      "Zorla inanç dayatmayı"
+      "Zorla inanç dayatmayı",
+      "İnanç sahibi olma veya olmama hakkını"
     ],
     "answer": "İnanç sahibi olma veya olmama hakkını",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Din ve vicdan özgürlüğü inanç alanını korur.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-026",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Temel Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Temel hak ve özgürlükler nasıl güvence altına alınır?",
     "options": [
-      "Anayasal güvenceyle",
-      "Sözlü emirle",
       "Kişisel isteğe göre",
-      "Rastgele kararla"
+      "Rastgele kararla",
+      "Anayasal güvenceyle",
+      "Sözlü emirle"
     ],
     "answer": "Anayasal güvenceyle",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "Temel haklar anayasa ile güvence altına alınır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-027",
@@ -6089,33 +9475,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Eşitlik ilkesi neyi gerektirir?",
     "options": [
-      "Kişisel ayrıcalığı",
-      "Keyfi uygulamayı",
       "Sadece belli gruba hak tanımayı",
-      "Yasa önünde ayrım yapılmamasını"
+      "Yasa önünde ayrım yapılmamasını",
+      "Kişisel ayrıcalığı",
+      "Keyfi uygulamayı"
     ],
     "answer": "Yasa önünde ayrım yapılmamasını",
-    "answerLetter": "D",
+    "answerLetter": "B",
     "explanation": "Eşitlik yasa önünde ayrımcılık yapılmamasını gerektirir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-028",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Temel Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Özel hayatın gizliliği hangi alanı korur?",
     "options": [
+      "Kişinin özel yaşam alanını",
       "Sadece seçim sonuçlarını",
       "Sadece kamu binalarını",
-      "Kişinin özel yaşam alanını",
       "Sadece vergi oranlarını"
     ],
     "answer": "Kişinin özel yaşam alanını",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "Özel hayat anayasal koruma altındadır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-029",
@@ -6126,112 +9512,22 @@ window.QUESTIONS = [
     "question": "İfade özgürlüğü hangi sistemin temel unsurudur?",
     "options": [
       "Yargısız düzenin",
-      "Demokratik toplumun",
       "Keyfi yönetimin",
-      "Gizli yönetimin"
+      "Gizli yönetimin",
+      "Demokratik toplumun"
     ],
     "answer": "Demokratik toplumun",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "İfade özgürlüğü demokratik toplum için önemlidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-030",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Temel Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Din ve vicdan özgürlüğü neyi kapsar?",
-    "options": [
-      "İnanç sahibi olma veya olmama hakkını",
-      "Zorla inanç dayatmayı",
-      "Kamu hizmetini durdurmayı",
-      "Seçimleri iptal etmeyi"
-    ],
-    "answer": "İnanç sahibi olma veya olmama hakkını",
-    "answerLetter": "A",
-    "explanation": "Din ve vicdan özgürlüğü inanç alanını korur.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
-  },
-  {
-    "id": "ka-031",
-    "testGroup": "KKTC Anayasası",
-    "category": "KKTC Anayasası",
-    "topic": "Temel Haklar",
-    "difficulty": "Orta",
-    "question": "Temel hak ve özgürlükler nasıl güvence altına alınır? (Genel tekrar)",
-    "options": [
-      "Kişisel isteğe göre",
-      "Rastgele kararla",
-      "Anayasal güvenceyle",
-      "Sözlü emirle"
-    ],
-    "answer": "Anayasal güvenceyle",
-    "answerLetter": "C",
-    "explanation": "Temel haklar anayasa ile güvence altına alınır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
-  },
-  {
-    "id": "ka-032",
-    "testGroup": "KKTC Anayasası",
-    "category": "KKTC Anayasası",
-    "topic": "Temel Haklar",
-    "difficulty": "Orta",
-    "question": "Eşitlik ilkesi neyi gerektirir? (Genel tekrar)",
-    "options": [
-      "Sadece belli gruba hak tanımayı",
-      "Yasa önünde ayrım yapılmamasını",
-      "Kişisel ayrıcalığı",
-      "Keyfi uygulamayı"
-    ],
-    "answer": "Yasa önünde ayrım yapılmamasını",
-    "answerLetter": "B",
-    "explanation": "Eşitlik yasa önünde ayrımcılık yapılmamasını gerektirir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
-  },
-  {
-    "id": "ka-033",
-    "testGroup": "KKTC Anayasası",
-    "category": "KKTC Anayasası",
-    "topic": "Temel Haklar",
-    "difficulty": "Orta",
-    "question": "Özel hayatın gizliliği hangi alanı korur? (Genel tekrar)",
-    "options": [
-      "Kişinin özel yaşam alanını",
-      "Sadece vergi oranlarını",
-      "Sadece seçim sonuçlarını",
-      "Sadece kamu binalarını"
-    ],
-    "answer": "Kişinin özel yaşam alanını",
-    "answerLetter": "A",
-    "explanation": "Özel hayat anayasal koruma altındadır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
-  },
-  {
-    "id": "ka-034",
-    "testGroup": "KKTC Anayasası",
-    "category": "KKTC Anayasası",
-    "topic": "Temel Haklar",
-    "difficulty": "Orta",
-    "question": "İfade özgürlüğü hangi sistemin temel unsurudur? (Genel tekrar)",
-    "options": [
-      "Keyfi yönetimin",
-      "Gizli yönetimin",
-      "Yargısız düzenin",
-      "Demokratik toplumun"
-    ],
-    "answer": "Demokratik toplumun",
-    "answerLetter": "D",
-    "explanation": "İfade özgürlüğü demokratik toplum için önemlidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
-  },
-  {
-    "id": "ka-035",
-    "testGroup": "KKTC Anayasası",
-    "category": "KKTC Anayasası",
-    "topic": "Temel Haklar",
-    "difficulty": "Orta",
-    "question": "Din ve vicdan özgürlüğü neyi kapsar? (Genel tekrar)",
     "options": [
       "Kamu hizmetini durdurmayı",
       "Seçimleri iptal etmeyi",
@@ -6241,14 +9537,104 @@ window.QUESTIONS = [
     "answer": "İnanç sahibi olma veya olmama hakkını",
     "answerLetter": "C",
     "explanation": "Din ve vicdan özgürlüğü inanç alanını korur.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-031",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Temel hak ve özgürlükler nasıl güvence altına alınır? (Genel tekrar)",
+    "options": [
+      "Sözlü emirle",
+      "Anayasal güvenceyle",
+      "Kişisel isteğe göre",
+      "Rastgele kararla"
+    ],
+    "answer": "Anayasal güvenceyle",
+    "answerLetter": "B",
+    "explanation": "Temel haklar anayasa ile güvence altına alınır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-032",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Kolay",
+    "question": "Eşitlik ilkesi neyi gerektirir? (Genel tekrar)",
+    "options": [
+      "Yasa önünde ayrım yapılmamasını",
+      "Sadece belli gruba hak tanımayı",
+      "Kişisel ayrıcalığı",
+      "Keyfi uygulamayı"
+    ],
+    "answer": "Yasa önünde ayrım yapılmamasını",
+    "answerLetter": "A",
+    "explanation": "Eşitlik yasa önünde ayrımcılık yapılmamasını gerektirir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-033",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Özel hayatın gizliliği hangi alanı korur? (Genel tekrar)",
+    "options": [
+      "Sadece vergi oranlarını",
+      "Sadece seçim sonuçlarını",
+      "Sadece kamu binalarını",
+      "Kişinin özel yaşam alanını"
+    ],
+    "answer": "Kişinin özel yaşam alanını",
+    "answerLetter": "D",
+    "explanation": "Özel hayat anayasal koruma altındadır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-034",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Zor",
+    "question": "İfade özgürlüğü hangi sistemin temel unsurudur? (Genel tekrar)",
+    "options": [
+      "Gizli yönetimin",
+      "Yargısız düzenin",
+      "Demokratik toplumun",
+      "Keyfi yönetimin"
+    ],
+    "answer": "Demokratik toplumun",
+    "answerLetter": "C",
+    "explanation": "İfade özgürlüğü demokratik toplum için önemlidir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-035",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Din ve vicdan özgürlüğü neyi kapsar? (Genel tekrar)",
+    "options": [
+      "Zorla inanç dayatmayı",
+      "İnanç sahibi olma veya olmama hakkını",
+      "Kamu hizmetini durdurmayı",
+      "Seçimleri iptal etmeyi"
+    ],
+    "answer": "İnanç sahibi olma veya olmama hakkını",
+    "answerLetter": "B",
+    "explanation": "Din ve vicdan özgürlüğü inanç alanını korur.",
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-036",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Temel Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Temel hak ve özgürlükler nasıl güvence altına alınır? (Genel tekrar)",
     "options": [
       "Anayasal güvenceyle",
@@ -6259,7 +9645,7 @@ window.QUESTIONS = [
     "answer": "Anayasal güvenceyle",
     "answerLetter": "A",
     "explanation": "Temel haklar anayasa ile güvence altına alınır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-037",
@@ -6277,25 +9663,25 @@ window.QUESTIONS = [
     "answer": "Yasa önünde ayrım yapılmamasını",
     "answerLetter": "D",
     "explanation": "Eşitlik yasa önünde ayrımcılık yapılmamasını gerektirir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-038",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Temel Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Özel hayatın gizliliği hangi alanı korur? (Genel tekrar)",
     "options": [
-      "Sadece seçim sonuçlarını",
       "Sadece kamu binalarını",
+      "Sadece vergi oranlarını",
       "Kişinin özel yaşam alanını",
-      "Sadece vergi oranlarını"
+      "Sadece seçim sonuçlarını"
     ],
     "answer": "Kişinin özel yaşam alanını",
     "answerLetter": "C",
     "explanation": "Özel hayat anayasal koruma altındadır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-039",
@@ -6305,22 +9691,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "İfade özgürlüğü hangi sistemin temel unsurudur? (Genel tekrar)",
     "options": [
-      "Yargısız düzenin",
+      "Gizli yönetimin",
       "Demokratik toplumun",
-      "Keyfi yönetimin",
-      "Gizli yönetimin"
+      "Yargısız düzenin",
+      "Keyfi yönetimin"
     ],
     "answer": "Demokratik toplumun",
     "answerLetter": "B",
     "explanation": "İfade özgürlüğü demokratik toplum için önemlidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-040",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Temel Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Din ve vicdan özgürlüğü neyi kapsar? (Genel tekrar)",
     "options": [
       "İnanç sahibi olma veya olmama hakkını",
@@ -6331,7 +9717,7 @@ window.QUESTIONS = [
     "answer": "İnanç sahibi olma veya olmama hakkını",
     "answerLetter": "A",
     "explanation": "Din ve vicdan özgürlüğü inanç alanını korur.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-041",
@@ -6343,31 +9729,31 @@ window.QUESTIONS = [
     "options": [
       "Kişisel isteğe göre",
       "Rastgele kararla",
-      "Anayasal güvenceyle",
-      "Sözlü emirle"
+      "Sözlü emirle",
+      "Anayasal güvenceyle"
     ],
     "answer": "Anayasal güvenceyle",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Temel haklar anayasa ile güvence altına alınır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-042",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Temel Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Eşitlik ilkesi neyi gerektirir? (Genel tekrar)",
     "options": [
-      "Sadece belli gruba hak tanımayı",
-      "Yasa önünde ayrım yapılmamasını",
       "Kişisel ayrıcalığı",
-      "Keyfi uygulamayı"
+      "Keyfi uygulamayı",
+      "Yasa önünde ayrım yapılmamasını",
+      "Sadece belli gruba hak tanımayı"
     ],
     "answer": "Yasa önünde ayrım yapılmamasını",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Eşitlik yasa önünde ayrımcılık yapılmamasını gerektirir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-043",
@@ -6377,33 +9763,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Özel hayatın gizliliği hangi alanı korur? (Genel tekrar)",
     "options": [
+      "Sadece kamu binalarını",
       "Kişinin özel yaşam alanını",
       "Sadece vergi oranlarını",
-      "Sadece seçim sonuçlarını",
-      "Sadece kamu binalarını"
+      "Sadece seçim sonuçlarını"
     ],
     "answer": "Kişinin özel yaşam alanını",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Özel hayat anayasal koruma altındadır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-044",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Temel Haklar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "İfade özgürlüğü hangi sistemin temel unsurudur? (Genel tekrar)",
     "options": [
+      "Demokratik toplumun",
       "Keyfi yönetimin",
       "Gizli yönetimin",
-      "Yargısız düzenin",
-      "Demokratik toplumun"
+      "Yargısız düzenin"
     ],
     "answer": "Demokratik toplumun",
-    "answerLetter": "D",
+    "answerLetter": "A",
     "explanation": "İfade özgürlüğü demokratik toplum için önemlidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-045",
@@ -6415,31 +9801,31 @@ window.QUESTIONS = [
     "options": [
       "Kamu hizmetini durdurmayı",
       "Seçimleri iptal etmeyi",
-      "İnanç sahibi olma veya olmama hakkını",
-      "Zorla inanç dayatmayı"
+      "Zorla inanç dayatmayı",
+      "İnanç sahibi olma veya olmama hakkını"
     ],
     "answer": "İnanç sahibi olma veya olmama hakkını",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Din ve vicdan özgürlüğü inanç alanını korur.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-046",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yasama",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "KKTC’de yasama yetkisini hangi organ kullanır?",
     "options": [
-      "Mahkemeler",
       "Belediyeler",
+      "Bakanlar Kurulu",
       "Cumhuriyet Meclisi",
-      "Bakanlar Kurulu"
+      "Mahkemeler"
     ],
     "answer": "Cumhuriyet Meclisi",
     "answerLetter": "C",
     "explanation": "Yasama yetkisi Cumhuriyet Meclisine aittir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-047",
@@ -6449,22 +9835,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Kanun yapma yetkisi hangi organla ilişkilidir?",
     "options": [
-      "Ombudsman",
+      "Sayıştay",
       "Yasama",
-      "Yargı",
-      "Sayıştay"
+      "Ombudsman",
+      "Yargı"
     ],
     "answer": "Yasama",
     "answerLetter": "B",
     "explanation": "Kanun yapma yasamanın temel görevidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-048",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yasama",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Cumhuriyet Meclisi hangi iradeyi temsil eder?",
     "options": [
       "Halk iradesini",
@@ -6475,7 +9861,7 @@ window.QUESTIONS = [
     "answer": "Halk iradesini",
     "answerLetter": "A",
     "explanation": "Meclis halk tarafından seçilen temsilcilerden oluşur.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-049",
@@ -6487,31 +9873,31 @@ window.QUESTIONS = [
     "options": [
       "Mahkemeler",
       "Belediyeler",
-      "Cumhuriyet Meclisi",
-      "Bakanlar Kurulu"
+      "Bakanlar Kurulu",
+      "Cumhuriyet Meclisi"
     ],
     "answer": "Cumhuriyet Meclisi",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Yasama yetkisi Cumhuriyet Meclisine aittir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-050",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yasama",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "KKTC Anayasası bakımından kanun yapma yetkisi hangi organla ilişkilidir?",
     "options": [
-      "Ombudsman",
-      "Yasama",
       "Yargı",
-      "Sayıştay"
+      "Sayıştay",
+      "Yasama",
+      "Ombudsman"
     ],
     "answer": "Yasama",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Kanun yapma yasamanın temel görevidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-051",
@@ -6521,33 +9907,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "KKTC Anayasası bakımından cumhuriyet Meclisi hangi iradeyi temsil eder?",
     "options": [
+      "Sadece mahkeme iradesini",
       "Halk iradesini",
       "Özel şirket iradesini",
-      "Yabancı devlet iradesini",
-      "Sadece mahkeme iradesini"
+      "Yabancı devlet iradesini"
     ],
     "answer": "Halk iradesini",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Meclis halk tarafından seçilen temsilcilerden oluşur.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-052",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yasama",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "KKTC’de yasama yetkisini hangi organ kullanır?",
     "options": [
+      "Cumhuriyet Meclisi",
       "Mahkemeler",
       "Belediyeler",
-      "Cumhuriyet Meclisi",
       "Bakanlar Kurulu"
     ],
     "answer": "Cumhuriyet Meclisi",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "Yasama yetkisi Cumhuriyet Meclisine aittir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-053",
@@ -6558,32 +9944,32 @@ window.QUESTIONS = [
     "question": "Kanun yapma yetkisi hangi organla ilişkilidir?",
     "options": [
       "Ombudsman",
-      "Yasama",
       "Yargı",
-      "Sayıştay"
+      "Sayıştay",
+      "Yasama"
     ],
     "answer": "Yasama",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Kanun yapma yasamanın temel görevidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-054",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yasama",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Cumhuriyet Meclisi hangi iradeyi temsil eder?",
     "options": [
-      "Halk iradesini",
-      "Özel şirket iradesini",
       "Yabancı devlet iradesini",
-      "Sadece mahkeme iradesini"
+      "Sadece mahkeme iradesini",
+      "Halk iradesini",
+      "Özel şirket iradesini"
     ],
     "answer": "Halk iradesini",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "Meclis halk tarafından seçilen temsilcilerden oluşur.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-055",
@@ -6593,33 +9979,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "KKTC’de yasama yetkisini hangi organ kullanır? (Genel tekrar)",
     "options": [
-      "Mahkemeler",
-      "Belediyeler",
+      "Bakanlar Kurulu",
       "Cumhuriyet Meclisi",
-      "Bakanlar Kurulu"
+      "Mahkemeler",
+      "Belediyeler"
     ],
     "answer": "Cumhuriyet Meclisi",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Yasama yetkisi Cumhuriyet Meclisine aittir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-056",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yasama",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Kanun yapma yetkisi hangi organla ilişkilidir? (Genel tekrar)",
     "options": [
-      "Ombudsman",
       "Yasama",
+      "Ombudsman",
       "Yargı",
       "Sayıştay"
     ],
     "answer": "Yasama",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "Kanun yapma yasamanın temel görevidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-057",
@@ -6629,33 +10015,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Cumhuriyet Meclisi hangi iradeyi temsil eder? (Genel tekrar)",
     "options": [
-      "Halk iradesini",
       "Özel şirket iradesini",
       "Yabancı devlet iradesini",
-      "Sadece mahkeme iradesini"
+      "Sadece mahkeme iradesini",
+      "Halk iradesini"
     ],
     "answer": "Halk iradesini",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "Meclis halk tarafından seçilen temsilcilerden oluşur.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-058",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yasama",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "KKTC’de yasama yetkisini hangi organ kullanır? (Genel tekrar)",
     "options": [
-      "Mahkemeler",
       "Belediyeler",
+      "Bakanlar Kurulu",
       "Cumhuriyet Meclisi",
-      "Bakanlar Kurulu"
+      "Mahkemeler"
     ],
     "answer": "Cumhuriyet Meclisi",
     "answerLetter": "C",
     "explanation": "Yasama yetkisi Cumhuriyet Meclisine aittir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-059",
@@ -6665,22 +10051,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Kanun yapma yetkisi hangi organla ilişkilidir? (Genel tekrar)",
     "options": [
-      "Ombudsman",
+      "Sayıştay",
       "Yasama",
-      "Yargı",
-      "Sayıştay"
+      "Ombudsman",
+      "Yargı"
     ],
     "answer": "Yasama",
     "answerLetter": "B",
     "explanation": "Kanun yapma yasamanın temel görevidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-060",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yasama",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Cumhuriyet Meclisi hangi iradeyi temsil eder? (Genel tekrar)",
     "options": [
       "Halk iradesini",
@@ -6691,7 +10077,7 @@ window.QUESTIONS = [
     "answer": "Halk iradesini",
     "answerLetter": "A",
     "explanation": "Meclis halk tarafından seçilen temsilcilerden oluşur.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-061",
@@ -6703,31 +10089,31 @@ window.QUESTIONS = [
     "options": [
       "Mahkemeler",
       "Belediyeler",
-      "Cumhuriyet Meclisi",
-      "Bakanlar Kurulu"
+      "Bakanlar Kurulu",
+      "Cumhuriyet Meclisi"
     ],
     "answer": "Cumhuriyet Meclisi",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Yasama yetkisi Cumhuriyet Meclisine aittir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-062",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yasama",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Kanun yapma yetkisi hangi organla ilişkilidir? (Genel tekrar)",
     "options": [
-      "Ombudsman",
-      "Yasama",
       "Yargı",
-      "Sayıştay"
+      "Sayıştay",
+      "Yasama",
+      "Ombudsman"
     ],
     "answer": "Yasama",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Kanun yapma yasamanın temel görevidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-063",
@@ -6737,33 +10123,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Cumhuriyet Meclisi hangi iradeyi temsil eder? (Genel tekrar)",
     "options": [
+      "Sadece mahkeme iradesini",
       "Halk iradesini",
       "Özel şirket iradesini",
-      "Yabancı devlet iradesini",
-      "Sadece mahkeme iradesini"
+      "Yabancı devlet iradesini"
     ],
     "answer": "Halk iradesini",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Meclis halk tarafından seçilen temsilcilerden oluşur.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-064",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yasama",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "KKTC’de yasama yetkisini hangi organ kullanır? (Genel tekrar)",
     "options": [
+      "Cumhuriyet Meclisi",
       "Mahkemeler",
       "Belediyeler",
-      "Cumhuriyet Meclisi",
       "Bakanlar Kurulu"
     ],
     "answer": "Cumhuriyet Meclisi",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "Yasama yetkisi Cumhuriyet Meclisine aittir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-065",
@@ -6774,32 +10160,32 @@ window.QUESTIONS = [
     "question": "Kanun yapma yetkisi hangi organla ilişkilidir? (Genel tekrar)",
     "options": [
       "Ombudsman",
-      "Yasama",
       "Yargı",
-      "Sayıştay"
+      "Sayıştay",
+      "Yasama"
     ],
     "answer": "Yasama",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Kanun yapma yasamanın temel görevidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-066",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yürütme",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Yürütmenin temel görevi nedir?",
     "options": [
-      "Mahkeme kararı vermek",
       "Seçmen listesi satmak",
+      "Kanunları anayasaya aykırı yapmak",
       "Kanunları uygulamak ve devlet işlerini yürütmek",
-      "Kanunları anayasaya aykırı yapmak"
+      "Mahkeme kararı vermek"
     ],
     "answer": "Kanunları uygulamak ve devlet işlerini yürütmek",
     "answerLetter": "C",
     "explanation": "Yürütme kanunları uygular.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-067",
@@ -6809,22 +10195,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Cumhurbaşkanı anayasal sistemde neyi temsil eder?",
     "options": [
-      "Sadece mahkemeyi",
+      "Sadece özel okulu",
       "Devletin başını",
-      "Sadece belediyeyi",
-      "Sadece özel okulu"
+      "Sadece mahkemeyi",
+      "Sadece belediyeyi"
     ],
     "answer": "Devletin başını",
     "answerLetter": "B",
     "explanation": "Cumhurbaşkanı devletin başıdır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-068",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yürütme",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Bakanlar Kurulu hangi organ içinde değerlendirilir?",
     "options": [
       "Yürütme",
@@ -6835,7 +10221,7 @@ window.QUESTIONS = [
     "answer": "Yürütme",
     "answerLetter": "A",
     "explanation": "Bakanlar Kurulu yürütme organıdır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-069",
@@ -6847,31 +10233,31 @@ window.QUESTIONS = [
     "options": [
       "Mahkeme kararı vermek",
       "Seçmen listesi satmak",
-      "Kanunları uygulamak ve devlet işlerini yürütmek",
-      "Kanunları anayasaya aykırı yapmak"
+      "Kanunları anayasaya aykırı yapmak",
+      "Kanunları uygulamak ve devlet işlerini yürütmek"
     ],
     "answer": "Kanunları uygulamak ve devlet işlerini yürütmek",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Yürütme kanunları uygular.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-070",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yürütme",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "KKTC Anayasası bakımından cumhurbaşkanı anayasal sistemde neyi temsil eder?",
     "options": [
-      "Sadece mahkemeyi",
-      "Devletin başını",
       "Sadece belediyeyi",
-      "Sadece özel okulu"
+      "Sadece özel okulu",
+      "Devletin başını",
+      "Sadece mahkemeyi"
     ],
     "answer": "Devletin başını",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Cumhurbaşkanı devletin başıdır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-071",
@@ -6881,33 +10267,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "KKTC Anayasası bakımından bakanlar Kurulu hangi organ içinde değerlendirilir?",
     "options": [
+      "Sayıştay",
       "Yürütme",
       "Yasama",
-      "Yargı",
-      "Sayıştay"
+      "Yargı"
     ],
     "answer": "Yürütme",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Bakanlar Kurulu yürütme organıdır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-072",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yürütme",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Yürütmenin temel görevi aşağıdakilerden hangisidir?",
     "options": [
+      "Kanunları uygulamak ve devlet işlerini yürütmek",
       "Mahkeme kararı vermek",
       "Seçmen listesi satmak",
-      "Kanunları uygulamak ve devlet işlerini yürütmek",
       "Kanunları anayasaya aykırı yapmak"
     ],
     "answer": "Kanunları uygulamak ve devlet işlerini yürütmek",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "Yürütme kanunları uygular.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-073",
@@ -6918,32 +10304,32 @@ window.QUESTIONS = [
     "question": "Cumhurbaşkanı anayasal sistemde neyi temsil eder?",
     "options": [
       "Sadece mahkemeyi",
-      "Devletin başını",
       "Sadece belediyeyi",
-      "Sadece özel okulu"
+      "Sadece özel okulu",
+      "Devletin başını"
     ],
     "answer": "Devletin başını",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Cumhurbaşkanı devletin başıdır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-074",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yürütme",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Bakanlar Kurulu hangi organ içinde değerlendirilir?",
     "options": [
-      "Yürütme",
-      "Yasama",
       "Yargı",
-      "Sayıştay"
+      "Sayıştay",
+      "Yürütme",
+      "Yasama"
     ],
     "answer": "Yürütme",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "Bakanlar Kurulu yürütme organıdır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-075",
@@ -6953,33 +10339,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Yürütmenin temel görevi nedir? (Genel tekrar)",
     "options": [
-      "Mahkeme kararı vermek",
-      "Seçmen listesi satmak",
+      "Kanunları anayasaya aykırı yapmak",
       "Kanunları uygulamak ve devlet işlerini yürütmek",
-      "Kanunları anayasaya aykırı yapmak"
+      "Mahkeme kararı vermek",
+      "Seçmen listesi satmak"
     ],
     "answer": "Kanunları uygulamak ve devlet işlerini yürütmek",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Yürütme kanunları uygular.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-076",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yürütme",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Cumhurbaşkanı anayasal sistemde neyi temsil eder? (Genel tekrar)",
     "options": [
-      "Sadece mahkemeyi",
       "Devletin başını",
+      "Sadece mahkemeyi",
       "Sadece belediyeyi",
       "Sadece özel okulu"
     ],
     "answer": "Devletin başını",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "Cumhurbaşkanı devletin başıdır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-077",
@@ -6989,33 +10375,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Bakanlar Kurulu hangi organ içinde değerlendirilir? (Genel tekrar)",
     "options": [
-      "Yürütme",
       "Yasama",
       "Yargı",
-      "Sayıştay"
+      "Sayıştay",
+      "Yürütme"
     ],
     "answer": "Yürütme",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "Bakanlar Kurulu yürütme organıdır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-078",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yürütme",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Yürütmenin temel görevi nedir? (Genel tekrar)",
     "options": [
-      "Mahkeme kararı vermek",
       "Seçmen listesi satmak",
+      "Kanunları anayasaya aykırı yapmak",
       "Kanunları uygulamak ve devlet işlerini yürütmek",
-      "Kanunları anayasaya aykırı yapmak"
+      "Mahkeme kararı vermek"
     ],
     "answer": "Kanunları uygulamak ve devlet işlerini yürütmek",
     "answerLetter": "C",
     "explanation": "Yürütme kanunları uygular.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-079",
@@ -7025,22 +10411,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Cumhurbaşkanı anayasal sistemde neyi temsil eder? (Genel tekrar)",
     "options": [
-      "Sadece mahkemeyi",
+      "Sadece özel okulu",
       "Devletin başını",
-      "Sadece belediyeyi",
-      "Sadece özel okulu"
+      "Sadece mahkemeyi",
+      "Sadece belediyeyi"
     ],
     "answer": "Devletin başını",
     "answerLetter": "B",
     "explanation": "Cumhurbaşkanı devletin başıdır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-080",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yürütme",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Bakanlar Kurulu hangi organ içinde değerlendirilir? (Genel tekrar)",
     "options": [
       "Yürütme",
@@ -7051,7 +10437,7 @@ window.QUESTIONS = [
     "answer": "Yürütme",
     "answerLetter": "A",
     "explanation": "Bakanlar Kurulu yürütme organıdır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-081",
@@ -7063,31 +10449,31 @@ window.QUESTIONS = [
     "options": [
       "Mahkeme kararı vermek",
       "Seçmen listesi satmak",
-      "Kanunları uygulamak ve devlet işlerini yürütmek",
-      "Kanunları anayasaya aykırı yapmak"
+      "Kanunları anayasaya aykırı yapmak",
+      "Kanunları uygulamak ve devlet işlerini yürütmek"
     ],
     "answer": "Kanunları uygulamak ve devlet işlerini yürütmek",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Yürütme kanunları uygular.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-082",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yürütme",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Cumhurbaşkanı anayasal sistemde neyi temsil eder? (Genel tekrar)",
     "options": [
-      "Sadece mahkemeyi",
-      "Devletin başını",
       "Sadece belediyeyi",
-      "Sadece özel okulu"
+      "Sadece özel okulu",
+      "Devletin başını",
+      "Sadece mahkemeyi"
     ],
     "answer": "Devletin başını",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Cumhurbaşkanı devletin başıdır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-083",
@@ -7097,33 +10483,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Bakanlar Kurulu hangi organ içinde değerlendirilir? (Genel tekrar)",
     "options": [
+      "Sayıştay",
       "Yürütme",
       "Yasama",
-      "Yargı",
-      "Sayıştay"
+      "Yargı"
     ],
     "answer": "Yürütme",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Bakanlar Kurulu yürütme organıdır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-084",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yürütme",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Yürütmenin temel görevi nedir? (Genel tekrar)",
     "options": [
+      "Kanunları uygulamak ve devlet işlerini yürütmek",
       "Mahkeme kararı vermek",
       "Seçmen listesi satmak",
-      "Kanunları uygulamak ve devlet işlerini yürütmek",
       "Kanunları anayasaya aykırı yapmak"
     ],
     "answer": "Kanunları uygulamak ve devlet işlerini yürütmek",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "Yürütme kanunları uygular.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-085",
@@ -7134,14 +10520,14 @@ window.QUESTIONS = [
     "question": "Cumhurbaşkanı anayasal sistemde neyi temsil eder? (Genel tekrar)",
     "options": [
       "Sadece mahkemeyi",
-      "Devletin başını",
       "Sadece belediyeyi",
-      "Sadece özel okulu"
+      "Sadece özel okulu",
+      "Devletin başını"
     ],
     "answer": "Devletin başını",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Cumhurbaşkanı devletin başıdır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-086",
@@ -7151,40 +10537,40 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "Yargı organının temel niteliği ne olmalıdır?",
     "options": [
-      "Siyasi emirle karar",
       "Denetimsizlik",
+      "Keyfilik",
       "Bağımsızlık ve tarafsızlık",
-      "Keyfilik"
+      "Siyasi emirle karar"
     ],
     "answer": "Bağımsızlık ve tarafsızlık",
     "answerLetter": "C",
     "explanation": "Yargı bağımsız ve tarafsız olmalıdır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-087",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yargı",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Anayasa Mahkemesinin temel görevi nedir?",
     "options": [
-      "Seçim kampanyası yürütmek",
+      "Kanunları uygulamak",
       "Anayasaya uygunluk denetimi yapmak",
-      "Belediye bütçesi hazırlamak",
-      "Kanunları uygulamak"
+      "Seçim kampanyası yürütmek",
+      "Belediye bütçesi hazırlamak"
     ],
     "answer": "Anayasaya uygunluk denetimi yapmak",
     "answerLetter": "B",
     "explanation": "Anayasa Mahkemesi anayasal denetim yapar.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-088",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yargı",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Mahkemelerin bağımsızlığı hangi ilkeyle ilişkilidir?",
     "options": [
       "Hukuk devleti",
@@ -7195,25 +10581,25 @@ window.QUESTIONS = [
     "answer": "Hukuk devleti",
     "answerLetter": "A",
     "explanation": "Bağımsız yargı hukuk devletinin güvencesidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-089",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yargı",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "KKTC Anayasası bakımından yargı organının temel niteliği ne olmalıdır?",
     "options": [
       "Siyasi emirle karar",
       "Denetimsizlik",
-      "Bağımsızlık ve tarafsızlık",
-      "Keyfilik"
+      "Keyfilik",
+      "Bağımsızlık ve tarafsızlık"
     ],
     "answer": "Bağımsızlık ve tarafsızlık",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Yargı bağımsız ve tarafsız olmalıdır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-090",
@@ -7223,69 +10609,69 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "KKTC Anayasası bakımından anayasa Mahkemesinin temel görevi nedir?",
     "options": [
-      "Seçim kampanyası yürütmek",
-      "Anayasaya uygunluk denetimi yapmak",
       "Belediye bütçesi hazırlamak",
-      "Kanunları uygulamak"
+      "Kanunları uygulamak",
+      "Anayasaya uygunluk denetimi yapmak",
+      "Seçim kampanyası yürütmek"
     ],
     "answer": "Anayasaya uygunluk denetimi yapmak",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Anayasa Mahkemesi anayasal denetim yapar.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-091",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yargı",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "KKTC Anayasası bakımından mahkemelerin bağımsızlığı hangi ilkeyle ilişkilidir?",
     "options": [
+      "Gizli işlem",
       "Hukuk devleti",
       "Keyfi yönetim",
-      "Ayrıcalık",
-      "Gizli işlem"
+      "Ayrıcalık"
     ],
     "answer": "Hukuk devleti",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Bağımsız yargı hukuk devletinin güvencesidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-092",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yargı",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Yargı organının temel niteliği ne olmalıdır?",
     "options": [
+      "Bağımsızlık ve tarafsızlık",
       "Siyasi emirle karar",
       "Denetimsizlik",
-      "Bağımsızlık ve tarafsızlık",
       "Keyfilik"
     ],
     "answer": "Bağımsızlık ve tarafsızlık",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "Yargı bağımsız ve tarafsız olmalıdır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-093",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yargı",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Anayasa Mahkemesinin temel görevi aşağıdakilerden hangisidir?",
     "options": [
       "Seçim kampanyası yürütmek",
-      "Anayasaya uygunluk denetimi yapmak",
       "Belediye bütçesi hazırlamak",
-      "Kanunları uygulamak"
+      "Kanunları uygulamak",
+      "Anayasaya uygunluk denetimi yapmak"
     ],
     "answer": "Anayasaya uygunluk denetimi yapmak",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Anayasa Mahkemesi anayasal denetim yapar.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-094",
@@ -7295,69 +10681,69 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "Mahkemelerin bağımsızlığı hangi ilkeyle ilişkilidir?",
     "options": [
-      "Hukuk devleti",
-      "Keyfi yönetim",
       "Ayrıcalık",
-      "Gizli işlem"
+      "Gizli işlem",
+      "Hukuk devleti",
+      "Keyfi yönetim"
     ],
     "answer": "Hukuk devleti",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "Bağımsız yargı hukuk devletinin güvencesidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-095",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yargı",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Yargı organının temel niteliği ne olmalıdır? (Genel tekrar)",
     "options": [
-      "Siyasi emirle karar",
-      "Denetimsizlik",
+      "Keyfilik",
       "Bağımsızlık ve tarafsızlık",
-      "Keyfilik"
+      "Siyasi emirle karar",
+      "Denetimsizlik"
     ],
     "answer": "Bağımsızlık ve tarafsızlık",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Yargı bağımsız ve tarafsız olmalıdır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-096",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yargı",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Anayasa Mahkemesinin temel görevi nedir? (Genel tekrar)",
     "options": [
-      "Seçim kampanyası yürütmek",
       "Anayasaya uygunluk denetimi yapmak",
+      "Seçim kampanyası yürütmek",
       "Belediye bütçesi hazırlamak",
       "Kanunları uygulamak"
     ],
     "answer": "Anayasaya uygunluk denetimi yapmak",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "Anayasa Mahkemesi anayasal denetim yapar.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-097",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yargı",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Mahkemelerin bağımsızlığı hangi ilkeyle ilişkilidir? (Genel tekrar)",
     "options": [
-      "Hukuk devleti",
       "Keyfi yönetim",
       "Ayrıcalık",
-      "Gizli işlem"
+      "Gizli işlem",
+      "Hukuk devleti"
     ],
     "answer": "Hukuk devleti",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "Bağımsız yargı hukuk devletinin güvencesidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-098",
@@ -7367,40 +10753,40 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "Yargı organının temel niteliği ne olmalıdır? (Genel tekrar)",
     "options": [
-      "Siyasi emirle karar",
       "Denetimsizlik",
+      "Keyfilik",
       "Bağımsızlık ve tarafsızlık",
-      "Keyfilik"
+      "Siyasi emirle karar"
     ],
     "answer": "Bağımsızlık ve tarafsızlık",
     "answerLetter": "C",
     "explanation": "Yargı bağımsız ve tarafsız olmalıdır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-099",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yargı",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Anayasa Mahkemesinin temel görevi nedir? (Genel tekrar)",
     "options": [
-      "Seçim kampanyası yürütmek",
+      "Kanunları uygulamak",
       "Anayasaya uygunluk denetimi yapmak",
-      "Belediye bütçesi hazırlamak",
-      "Kanunları uygulamak"
+      "Seçim kampanyası yürütmek",
+      "Belediye bütçesi hazırlamak"
     ],
     "answer": "Anayasaya uygunluk denetimi yapmak",
     "answerLetter": "B",
     "explanation": "Anayasa Mahkemesi anayasal denetim yapar.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-100",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yargı",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Mahkemelerin bağımsızlığı hangi ilkeyle ilişkilidir? (Genel tekrar)",
     "options": [
       "Hukuk devleti",
@@ -7411,25 +10797,25 @@ window.QUESTIONS = [
     "answer": "Hukuk devleti",
     "answerLetter": "A",
     "explanation": "Bağımsız yargı hukuk devletinin güvencesidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-101",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yargı",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Yargı organının temel niteliği ne olmalıdır? (Genel tekrar)",
     "options": [
       "Siyasi emirle karar",
       "Denetimsizlik",
-      "Bağımsızlık ve tarafsızlık",
-      "Keyfilik"
+      "Keyfilik",
+      "Bağımsızlık ve tarafsızlık"
     ],
     "answer": "Bağımsızlık ve tarafsızlık",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Yargı bağımsız ve tarafsız olmalıdır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-102",
@@ -7439,87 +10825,87 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "Anayasa Mahkemesinin temel görevi nedir? (Genel tekrar)",
     "options": [
-      "Seçim kampanyası yürütmek",
-      "Anayasaya uygunluk denetimi yapmak",
       "Belediye bütçesi hazırlamak",
-      "Kanunları uygulamak"
+      "Kanunları uygulamak",
+      "Anayasaya uygunluk denetimi yapmak",
+      "Seçim kampanyası yürütmek"
     ],
     "answer": "Anayasaya uygunluk denetimi yapmak",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Anayasa Mahkemesi anayasal denetim yapar.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-103",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yargı",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Mahkemelerin bağımsızlığı hangi ilkeyle ilişkilidir? (Genel tekrar)",
     "options": [
+      "Gizli işlem",
       "Hukuk devleti",
       "Keyfi yönetim",
-      "Ayrıcalık",
-      "Gizli işlem"
+      "Ayrıcalık"
     ],
     "answer": "Hukuk devleti",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Bağımsız yargı hukuk devletinin güvencesidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-104",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yargı",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Yargı organının temel niteliği ne olmalıdır? (Genel tekrar)",
     "options": [
+      "Bağımsızlık ve tarafsızlık",
       "Siyasi emirle karar",
       "Denetimsizlik",
-      "Bağımsızlık ve tarafsızlık",
       "Keyfilik"
     ],
     "answer": "Bağımsızlık ve tarafsızlık",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "Yargı bağımsız ve tarafsız olmalıdır.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-105",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yargı",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Anayasa Mahkemesinin temel görevi nedir? (Genel tekrar)",
     "options": [
       "Seçim kampanyası yürütmek",
-      "Anayasaya uygunluk denetimi yapmak",
       "Belediye bütçesi hazırlamak",
-      "Kanunları uygulamak"
+      "Kanunları uygulamak",
+      "Anayasaya uygunluk denetimi yapmak"
     ],
     "answer": "Anayasaya uygunluk denetimi yapmak",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Anayasa Mahkemesi anayasal denetim yapar.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-106",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Kamu Kurumları",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Sayıştay hangi alanla ilişkilidir?",
     "options": [
-      "Spor müsabakası",
       "Özel alışveriş",
+      "Din hizmetleri",
       "Kamu mali denetimi",
-      "Din hizmetleri"
+      "Spor müsabakası"
     ],
     "answer": "Kamu mali denetimi",
     "answerLetter": "C",
     "explanation": "Sayıştay kamu kaynaklarının denetimiyle ilgilidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-107",
@@ -7529,22 +10915,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Ombudsman hangi işlevle ilişkilidir?",
     "options": [
-      "Askeri tören",
+      "Yargı kararı verme",
       "İdarenin denetimi ve bireyin korunması",
-      "Kanun yapma",
-      "Yargı kararı verme"
+      "Askeri tören",
+      "Kanun yapma"
     ],
     "answer": "İdarenin denetimi ve bireyin korunması",
     "answerLetter": "B",
     "explanation": "Ombudsman idarenin işlem ve eylemlerinin denetimiyle ilgilidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-108",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Kamu Kurumları",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Kamu Hizmeti Komisyonu hangi alanla ilgilidir?",
     "options": [
       "Kamu personel işlemleri",
@@ -7555,7 +10941,7 @@ window.QUESTIONS = [
     "answer": "Kamu personel işlemleri",
     "answerLetter": "A",
     "explanation": "Kamu Hizmeti Komisyonu kamu personel sistemiyle ilgilidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-109",
@@ -7567,31 +10953,31 @@ window.QUESTIONS = [
     "options": [
       "Spor müsabakası",
       "Özel alışveriş",
-      "Kamu mali denetimi",
-      "Din hizmetleri"
+      "Din hizmetleri",
+      "Kamu mali denetimi"
     ],
     "answer": "Kamu mali denetimi",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Sayıştay kamu kaynaklarının denetimiyle ilgilidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-110",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Kamu Kurumları",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "KKTC Anayasası bakımından ombudsman hangi işlevle ilişkilidir?",
     "options": [
-      "Askeri tören",
-      "İdarenin denetimi ve bireyin korunması",
       "Kanun yapma",
-      "Yargı kararı verme"
+      "Yargı kararı verme",
+      "İdarenin denetimi ve bireyin korunması",
+      "Askeri tören"
     ],
     "answer": "İdarenin denetimi ve bireyin korunması",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Ombudsman idarenin işlem ve eylemlerinin denetimiyle ilgilidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-111",
@@ -7601,33 +10987,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "KKTC Anayasası bakımından kamu Hizmeti Komisyonu hangi alanla ilgilidir?",
     "options": [
+      "Mahkeme cezaları",
       "Kamu personel işlemleri",
       "Trafik tabelaları",
-      "Turizm festivalleri",
-      "Mahkeme cezaları"
+      "Turizm festivalleri"
     ],
     "answer": "Kamu personel işlemleri",
-    "answerLetter": "A",
+    "answerLetter": "B",
     "explanation": "Kamu Hizmeti Komisyonu kamu personel sistemiyle ilgilidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-112",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Kamu Kurumları",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Sayıştay hangi alanla ilişkilidir?",
     "options": [
+      "Kamu mali denetimi",
       "Spor müsabakası",
       "Özel alışveriş",
-      "Kamu mali denetimi",
       "Din hizmetleri"
     ],
     "answer": "Kamu mali denetimi",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "Sayıştay kamu kaynaklarının denetimiyle ilgilidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-113",
@@ -7638,32 +11024,32 @@ window.QUESTIONS = [
     "question": "Ombudsman hangi işlevle ilişkilidir?",
     "options": [
       "Askeri tören",
-      "İdarenin denetimi ve bireyin korunması",
       "Kanun yapma",
-      "Yargı kararı verme"
+      "Yargı kararı verme",
+      "İdarenin denetimi ve bireyin korunması"
     ],
     "answer": "İdarenin denetimi ve bireyin korunması",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Ombudsman idarenin işlem ve eylemlerinin denetimiyle ilgilidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-114",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Kamu Kurumları",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Kamu Hizmeti Komisyonu hangi alanla ilgilidir?",
     "options": [
-      "Kamu personel işlemleri",
-      "Trafik tabelaları",
       "Turizm festivalleri",
-      "Mahkeme cezaları"
+      "Mahkeme cezaları",
+      "Kamu personel işlemleri",
+      "Trafik tabelaları"
     ],
     "answer": "Kamu personel işlemleri",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "Kamu Hizmeti Komisyonu kamu personel sistemiyle ilgilidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-115",
@@ -7673,33 +11059,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Sayıştay hangi alanla ilişkilidir? (Genel tekrar)",
     "options": [
-      "Spor müsabakası",
-      "Özel alışveriş",
+      "Din hizmetleri",
       "Kamu mali denetimi",
-      "Din hizmetleri"
+      "Spor müsabakası",
+      "Özel alışveriş"
     ],
     "answer": "Kamu mali denetimi",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Sayıştay kamu kaynaklarının denetimiyle ilgilidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-116",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Kamu Kurumları",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Ombudsman hangi işlevle ilişkilidir? (Genel tekrar)",
     "options": [
-      "Askeri tören",
       "İdarenin denetimi ve bireyin korunması",
+      "Askeri tören",
       "Kanun yapma",
       "Yargı kararı verme"
     ],
     "answer": "İdarenin denetimi ve bireyin korunması",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "Ombudsman idarenin işlem ve eylemlerinin denetimiyle ilgilidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-117",
@@ -7709,33 +11095,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Kamu Hizmeti Komisyonu hangi alanla ilgilidir? (Genel tekrar)",
     "options": [
-      "Kamu personel işlemleri",
       "Trafik tabelaları",
       "Turizm festivalleri",
-      "Mahkeme cezaları"
+      "Mahkeme cezaları",
+      "Kamu personel işlemleri"
     ],
     "answer": "Kamu personel işlemleri",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "Kamu Hizmeti Komisyonu kamu personel sistemiyle ilgilidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-118",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Kamu Kurumları",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Sayıştay hangi alanla ilişkilidir? (Genel tekrar)",
     "options": [
-      "Spor müsabakası",
       "Özel alışveriş",
+      "Din hizmetleri",
       "Kamu mali denetimi",
-      "Din hizmetleri"
+      "Spor müsabakası"
     ],
     "answer": "Kamu mali denetimi",
     "answerLetter": "C",
     "explanation": "Sayıştay kamu kaynaklarının denetimiyle ilgilidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-119",
@@ -7745,22 +11131,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Ombudsman hangi işlevle ilişkilidir? (Genel tekrar)",
     "options": [
-      "Askeri tören",
+      "Yargı kararı verme",
       "İdarenin denetimi ve bireyin korunması",
-      "Kanun yapma",
-      "Yargı kararı verme"
+      "Askeri tören",
+      "Kanun yapma"
     ],
     "answer": "İdarenin denetimi ve bireyin korunması",
     "answerLetter": "B",
     "explanation": "Ombudsman idarenin işlem ve eylemlerinin denetimiyle ilgilidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-120",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Kamu Kurumları",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Kamu Hizmeti Komisyonu hangi alanla ilgilidir? (Genel tekrar)",
     "options": [
       "Kamu personel işlemleri",
@@ -7771,14 +11157,14 @@ window.QUESTIONS = [
     "answer": "Kamu personel işlemleri",
     "answerLetter": "A",
     "explanation": "Kamu Hizmeti Komisyonu kamu personel sistemiyle ilgilidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-121",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yerel Yönetimler",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Yerel yönetimlerin temel amacı nedir?",
     "options": [
       "Merkezi devleti kaldırmak",
@@ -7789,14 +11175,86 @@ window.QUESTIONS = [
     "answer": "Yerel halkın ortak ihtiyaçlarını karşılamak",
     "answerLetter": "D",
     "explanation": "Yerel yönetimler yerel ihtiyaçlar için kurulmuştur.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-122",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yerel Yönetimler",
+    "difficulty": "Zor",
+    "question": "Belediyeler hangi yönetime örnektir?",
+    "options": [
+      "Anayasa Mahkemesi",
+      "Yargı organı",
+      "Yerel yönetim",
+      "Yasama organı"
+    ],
+    "answer": "Yerel yönetim",
+    "answerLetter": "C",
+    "explanation": "Belediyeler yerel yönetim örneğidir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-123",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yerel Yönetimler",
+    "difficulty": "Orta",
+    "question": "KKTC Anayasası bakımından yerel yönetimlerin temel amacı nedir?",
+    "options": [
+      "Anayasayı iptal etmek",
+      "Yerel halkın ortak ihtiyaçlarını karşılamak",
+      "Merkezi devleti kaldırmak",
+      "Mahkemeleri kapatmak"
+    ],
+    "answer": "Yerel halkın ortak ihtiyaçlarını karşılamak",
+    "answerLetter": "B",
+    "explanation": "Yerel yönetimler yerel ihtiyaçlar için kurulmuştur.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-124",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yerel Yönetimler",
     "difficulty": "Kolay",
+    "question": "KKTC Anayasası bakımından belediyeler hangi yönetime örnektir?",
+    "options": [
+      "Yerel yönetim",
+      "Yargı organı",
+      "Yasama organı",
+      "Anayasa Mahkemesi"
+    ],
+    "answer": "Yerel yönetim",
+    "answerLetter": "A",
+    "explanation": "Belediyeler yerel yönetim örneğidir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-125",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yerel Yönetimler",
+    "difficulty": "Orta",
+    "question": "Yerel yönetimlerin temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      "Anayasayı iptal etmek",
+      "Merkezi devleti kaldırmak",
+      "Mahkemeleri kapatmak",
+      "Yerel halkın ortak ihtiyaçlarını karşılamak"
+    ],
+    "answer": "Yerel halkın ortak ihtiyaçlarını karşılamak",
+    "answerLetter": "D",
+    "explanation": "Yerel yönetimler yerel ihtiyaçlar için kurulmuştur.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-126",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yerel Yönetimler",
+    "difficulty": "Zor",
     "question": "Belediyeler hangi yönetime örnektir?",
     "options": [
       "Yasama organı",
@@ -7807,97 +11265,25 @@ window.QUESTIONS = [
     "answer": "Yerel yönetim",
     "answerLetter": "C",
     "explanation": "Belediyeler yerel yönetim örneğidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
-  },
-  {
-    "id": "ka-123",
-    "testGroup": "KKTC Anayasası",
-    "category": "KKTC Anayasası",
-    "topic": "Yerel Yönetimler",
-    "difficulty": "Kolay",
-    "question": "KKTC Anayasası bakımından yerel yönetimlerin temel amacı nedir?",
-    "options": [
-      "Yerel halkın ortak ihtiyaçlarını karşılamak",
-      "Merkezi devleti kaldırmak",
-      "Mahkemeleri kapatmak",
-      "Anayasayı iptal etmek"
-    ],
-    "answer": "Yerel halkın ortak ihtiyaçlarını karşılamak",
-    "answerLetter": "A",
-    "explanation": "Yerel yönetimler yerel ihtiyaçlar için kurulmuştur.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
-  },
-  {
-    "id": "ka-124",
-    "testGroup": "KKTC Anayasası",
-    "category": "KKTC Anayasası",
-    "topic": "Yerel Yönetimler",
-    "difficulty": "Kolay",
-    "question": "KKTC Anayasası bakımından belediyeler hangi yönetime örnektir?",
-    "options": [
-      "Yargı organı",
-      "Yasama organı",
-      "Anayasa Mahkemesi",
-      "Yerel yönetim"
-    ],
-    "answer": "Yerel yönetim",
-    "answerLetter": "D",
-    "explanation": "Belediyeler yerel yönetim örneğidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
-  },
-  {
-    "id": "ka-125",
-    "testGroup": "KKTC Anayasası",
-    "category": "KKTC Anayasası",
-    "topic": "Yerel Yönetimler",
-    "difficulty": "Kolay",
-    "question": "Yerel yönetimlerin temel amacı aşağıdakilerden hangisidir?",
-    "options": [
-      "Anayasayı iptal etmek",
-      "Yerel halkın ortak ihtiyaçlarını karşılamak",
-      "Merkezi devleti kaldırmak",
-      "Mahkemeleri kapatmak"
-    ],
-    "answer": "Yerel halkın ortak ihtiyaçlarını karşılamak",
-    "answerLetter": "B",
-    "explanation": "Yerel yönetimler yerel ihtiyaçlar için kurulmuştur.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
-  },
-  {
-    "id": "ka-126",
-    "testGroup": "KKTC Anayasası",
-    "category": "KKTC Anayasası",
-    "topic": "Yerel Yönetimler",
-    "difficulty": "Kolay",
-    "question": "Belediyeler hangi yönetime örnektir?",
-    "options": [
-      "Yerel yönetim",
-      "Yargı organı",
-      "Yasama organı",
-      "Anayasa Mahkemesi"
-    ],
-    "answer": "Yerel yönetim",
-    "answerLetter": "A",
-    "explanation": "Belediyeler yerel yönetim örneğidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-127",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yerel Yönetimler",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Yerel yönetimlerin temel amacı nedir? (Genel tekrar)",
     "options": [
-      "Mahkemeleri kapatmak",
-      "Anayasayı iptal etmek",
+      "Merkezi devleti kaldırmak",
       "Yerel halkın ortak ihtiyaçlarını karşılamak",
-      "Merkezi devleti kaldırmak"
+      "Mahkemeleri kapatmak",
+      "Anayasayı iptal etmek"
     ],
     "answer": "Yerel halkın ortak ihtiyaçlarını karşılamak",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Yerel yönetimler yerel ihtiyaçlar için kurulmuştur.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-128",
@@ -7907,22 +11293,22 @@ window.QUESTIONS = [
     "difficulty": "Kolay",
     "question": "Belediyeler hangi yönetime örnektir? (Genel tekrar)",
     "options": [
-      "Anayasa Mahkemesi",
       "Yerel yönetim",
+      "Anayasa Mahkemesi",
       "Yargı organı",
       "Yasama organı"
     ],
     "answer": "Yerel yönetim",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "Belediyeler yerel yönetim örneğidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-129",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yerel Yönetimler",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Yerel yönetimlerin temel amacı nedir? (Genel tekrar)",
     "options": [
       "Merkezi devleti kaldırmak",
@@ -7933,50 +11319,50 @@ window.QUESTIONS = [
     "answer": "Yerel halkın ortak ihtiyaçlarını karşılamak",
     "answerLetter": "D",
     "explanation": "Yerel yönetimler yerel ihtiyaçlar için kurulmuştur.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-130",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Yerel Yönetimler",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Belediyeler hangi yönetime örnektir? (Genel tekrar)",
     "options": [
-      "Yasama organı",
       "Anayasa Mahkemesi",
+      "Yargı organı",
       "Yerel yönetim",
-      "Yargı organı"
+      "Yasama organı"
     ],
     "answer": "Yerel yönetim",
     "answerLetter": "C",
     "explanation": "Belediyeler yerel yönetim örneğidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-131",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Anayasa Değişikliği",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Anayasa değişikliği neden özel usule bağlıdır?",
     "options": [
-      "Sözlü emir olduğu için",
+      "Sadece logo değiştirdiği için",
       "Anayasa devletin temel metni olduğu için",
-      "Önemsiz olduğu için",
-      "Sadece logo değiştirdiği için"
+      "Sözlü emir olduğu için",
+      "Önemsiz olduğu için"
     ],
     "answer": "Anayasa devletin temel metni olduğu için",
     "answerLetter": "B",
     "explanation": "Anayasa sıradan kanundan daha üst normdur.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-132",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Anayasa Değişikliği",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Anayasa ile sıradan kanun arasındaki ilişki nasıldır?",
     "options": [
       "Anayasa üst normdur",
@@ -7987,25 +11373,25 @@ window.QUESTIONS = [
     "answer": "Anayasa üst normdur",
     "answerLetter": "A",
     "explanation": "Anayasa normlar hiyerarşisinde üsttedir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-133",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Anayasa Değişikliği",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "KKTC Anayasası bakımından anayasa değişikliği neden özel usule bağlıdır?",
     "options": [
       "Sadece logo değiştirdiği için",
       "Sözlü emir olduğu için",
-      "Anayasa devletin temel metni olduğu için",
-      "Önemsiz olduğu için"
+      "Önemsiz olduğu için",
+      "Anayasa devletin temel metni olduğu için"
     ],
     "answer": "Anayasa devletin temel metni olduğu için",
-    "answerLetter": "C",
+    "answerLetter": "D",
     "explanation": "Anayasa sıradan kanundan daha üst normdur.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-134",
@@ -8015,95 +11401,23 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "KKTC Anayasası bakımından anayasa ile sıradan kanun arasındaki ilişki nasıldır?",
     "options": [
-      "Anayasa sadece tavsiyedir",
-      "Anayasa üst normdur",
       "Kanun her zaman anayasadan üstündür",
-      "İkisi ilgisizdir"
+      "İkisi ilgisizdir",
+      "Anayasa üst normdur",
+      "Anayasa sadece tavsiyedir"
     ],
     "answer": "Anayasa üst normdur",
-    "answerLetter": "B",
+    "answerLetter": "C",
     "explanation": "Anayasa normlar hiyerarşisinde üsttedir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-135",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Anayasa Değişikliği",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Anayasa değişikliği neden özel usule bağlıdır?",
-    "options": [
-      "Önemsiz olduğu için",
-      "Sadece logo değiştirdiği için",
-      "Sözlü emir olduğu için",
-      "Anayasa devletin temel metni olduğu için"
-    ],
-    "answer": "Anayasa devletin temel metni olduğu için",
-    "answerLetter": "D",
-    "explanation": "Anayasa sıradan kanundan daha üst normdur.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
-  },
-  {
-    "id": "ka-136",
-    "testGroup": "KKTC Anayasası",
-    "category": "KKTC Anayasası",
-    "topic": "Anayasa Değişikliği",
-    "difficulty": "Zor",
-    "question": "Anayasa ile sıradan kanun arasındaki ilişki nasıldır?",
-    "options": [
-      "İkisi ilgisizdir",
-      "Anayasa sadece tavsiyedir",
-      "Anayasa üst normdur",
-      "Kanun her zaman anayasadan üstündür"
-    ],
-    "answer": "Anayasa üst normdur",
-    "answerLetter": "C",
-    "explanation": "Anayasa normlar hiyerarşisinde üsttedir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
-  },
-  {
-    "id": "ka-137",
-    "testGroup": "KKTC Anayasası",
-    "category": "KKTC Anayasası",
-    "topic": "Anayasa Değişikliği",
-    "difficulty": "Zor",
-    "question": "Anayasa değişikliği neden özel usule bağlıdır? (Genel tekrar)",
-    "options": [
-      "Anayasa devletin temel metni olduğu için",
-      "Önemsiz olduğu için",
-      "Sadece logo değiştirdiği için",
-      "Sözlü emir olduğu için"
-    ],
-    "answer": "Anayasa devletin temel metni olduğu için",
-    "answerLetter": "A",
-    "explanation": "Anayasa sıradan kanundan daha üst normdur.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
-  },
-  {
-    "id": "ka-138",
-    "testGroup": "KKTC Anayasası",
-    "category": "KKTC Anayasası",
-    "topic": "Anayasa Değişikliği",
-    "difficulty": "Zor",
-    "question": "Anayasa ile sıradan kanun arasındaki ilişki nasıldır? (Genel tekrar)",
-    "options": [
-      "Kanun her zaman anayasadan üstündür",
-      "İkisi ilgisizdir",
-      "Anayasa sadece tavsiyedir",
-      "Anayasa üst normdur"
-    ],
-    "answer": "Anayasa üst normdur",
-    "answerLetter": "D",
-    "explanation": "Anayasa normlar hiyerarşisinde üsttedir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
-  },
-  {
-    "id": "ka-139",
-    "testGroup": "KKTC Anayasası",
-    "category": "KKTC Anayasası",
-    "topic": "Anayasa Değişikliği",
-    "difficulty": "Zor",
-    "question": "Anayasa değişikliği neden özel usule bağlıdır? (Genel tekrar)",
     "options": [
       "Sözlü emir olduğu için",
       "Anayasa devletin temel metni olduğu için",
@@ -8113,14 +11427,86 @@ window.QUESTIONS = [
     "answer": "Anayasa devletin temel metni olduğu için",
     "answerLetter": "B",
     "explanation": "Anayasa sıradan kanundan daha üst normdur.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-136",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Anayasa Değişikliği",
+    "difficulty": "Kolay",
+    "question": "Anayasa ile sıradan kanun arasındaki ilişki nasıldır?",
+    "options": [
+      "Anayasa üst normdur",
+      "İkisi ilgisizdir",
+      "Anayasa sadece tavsiyedir",
+      "Kanun her zaman anayasadan üstündür"
+    ],
+    "answer": "Anayasa üst normdur",
+    "answerLetter": "A",
+    "explanation": "Anayasa normlar hiyerarşisinde üsttedir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-137",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Anayasa Değişikliği",
+    "difficulty": "Orta",
+    "question": "Anayasa değişikliği neden özel usule bağlıdır? (Genel tekrar)",
+    "options": [
+      "Önemsiz olduğu için",
+      "Sadece logo değiştirdiği için",
+      "Sözlü emir olduğu için",
+      "Anayasa devletin temel metni olduğu için"
+    ],
+    "answer": "Anayasa devletin temel metni olduğu için",
+    "answerLetter": "D",
+    "explanation": "Anayasa sıradan kanundan daha üst normdur.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-138",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Anayasa Değişikliği",
+    "difficulty": "Zor",
+    "question": "Anayasa ile sıradan kanun arasındaki ilişki nasıldır? (Genel tekrar)",
+    "options": [
+      "İkisi ilgisizdir",
+      "Anayasa sadece tavsiyedir",
+      "Anayasa üst normdur",
+      "Kanun her zaman anayasadan üstündür"
+    ],
+    "answer": "Anayasa üst normdur",
+    "answerLetter": "C",
+    "explanation": "Anayasa normlar hiyerarşisinde üsttedir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-139",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Anayasa Değişikliği",
+    "difficulty": "Orta",
+    "question": "Anayasa değişikliği neden özel usule bağlıdır? (Genel tekrar)",
+    "options": [
+      "Sadece logo değiştirdiği için",
+      "Anayasa devletin temel metni olduğu için",
+      "Sözlü emir olduğu için",
+      "Önemsiz olduğu için"
+    ],
+    "answer": "Anayasa devletin temel metni olduğu için",
+    "answerLetter": "B",
+    "explanation": "Anayasa sıradan kanundan daha üst normdur.",
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-140",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Anayasa Değişikliği",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Anayasa ile sıradan kanun arasındaki ilişki nasıldır? (Genel tekrar)",
     "options": [
       "Anayasa üst normdur",
@@ -8131,14 +11517,14 @@ window.QUESTIONS = [
     "answer": "Anayasa üst normdur",
     "answerLetter": "A",
     "explanation": "Anayasa normlar hiyerarşisinde üsttedir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-141",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Genel Tekrar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Yasama, yürütme ve yargı ayrımı hangi ilkeyle ilişkilidir?",
     "options": [
       "Keyfilik",
@@ -8149,69 +11535,33 @@ window.QUESTIONS = [
     "answer": "Kuvvetler ayrılığı",
     "answerLetter": "D",
     "explanation": "Kuvvetler ayrılığı devlet organlarının ayrımını ifade eder.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-142",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Genel Tekrar",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Anayasa çalışırken ilk öğrenilmesi gereken başlık hangisidir?",
     "options": [
-      "Sadece logo",
       "Sadece trafik",
+      "Sadece yerel yönetim",
       "Genel esaslar",
-      "Sadece yerel yönetim"
+      "Sadece logo"
     ],
     "answer": "Genel esaslar",
     "answerLetter": "C",
     "explanation": "Genel esaslar anayasa çalışmasının temelidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-143",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Genel Tekrar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "KKTC Anayasası bakımından yasama, yürütme ve yargı ayrımı hangi ilkeyle ilişkilidir?",
-    "options": [
-      "Kuvvetler ayrılığı",
-      "Keyfilik",
-      "Ayrıcalık",
-      "Denetimsizlik"
-    ],
-    "answer": "Kuvvetler ayrılığı",
-    "answerLetter": "A",
-    "explanation": "Kuvvetler ayrılığı devlet organlarının ayrımını ifade eder.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
-  },
-  {
-    "id": "ka-144",
-    "testGroup": "KKTC Anayasası",
-    "category": "KKTC Anayasası",
-    "topic": "Genel Tekrar",
-    "difficulty": "Kolay",
-    "question": "KKTC Anayasası bakımından anayasa çalışırken ilk öğrenilmesi gereken başlık hangisidir?",
-    "options": [
-      "Sadece yerel yönetim",
-      "Sadece logo",
-      "Sadece trafik",
-      "Genel esaslar"
-    ],
-    "answer": "Genel esaslar",
-    "answerLetter": "D",
-    "explanation": "Genel esaslar anayasa çalışmasının temelidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
-  },
-  {
-    "id": "ka-145",
-    "testGroup": "KKTC Anayasası",
-    "category": "KKTC Anayasası",
-    "topic": "Genel Tekrar",
-    "difficulty": "Kolay",
-    "question": "Yasama, yürütme ve yargı ayrımı hangi ilkeyle ilişkilidir?",
     "options": [
       "Denetimsizlik",
       "Kuvvetler ayrılığı",
@@ -8221,15 +11571,15 @@ window.QUESTIONS = [
     "answer": "Kuvvetler ayrılığı",
     "answerLetter": "B",
     "explanation": "Kuvvetler ayrılığı devlet organlarının ayrımını ifade eder.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
-    "id": "ka-146",
+    "id": "ka-144",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Genel Tekrar",
     "difficulty": "Kolay",
-    "question": "Anayasa çalışırken ilk öğrenilmesi gereken başlık hangisidir?",
+    "question": "KKTC Anayasası bakımından anayasa çalışırken ilk öğrenilmesi gereken başlık hangisidir?",
     "options": [
       "Genel esaslar",
       "Sadece yerel yönetim",
@@ -8239,25 +11589,61 @@ window.QUESTIONS = [
     "answer": "Genel esaslar",
     "answerLetter": "A",
     "explanation": "Genel esaslar anayasa çalışmasının temelidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-145",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Tekrar",
+    "difficulty": "Orta",
+    "question": "Yasama, yürütme ve yargı ayrımı hangi ilkeyle ilişkilidir?",
+    "options": [
+      "Denetimsizlik",
+      "Keyfilik",
+      "Ayrıcalık",
+      "Kuvvetler ayrılığı"
+    ],
+    "answer": "Kuvvetler ayrılığı",
+    "answerLetter": "D",
+    "explanation": "Kuvvetler ayrılığı devlet organlarının ayrımını ifade eder.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-146",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Tekrar",
+    "difficulty": "Zor",
+    "question": "Anayasa çalışırken ilk öğrenilmesi gereken başlık hangisidir?",
+    "options": [
+      "Sadece logo",
+      "Sadece trafik",
+      "Genel esaslar",
+      "Sadece yerel yönetim"
+    ],
+    "answer": "Genel esaslar",
+    "answerLetter": "C",
+    "explanation": "Genel esaslar anayasa çalışmasının temelidir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-147",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Genel Tekrar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Yasama, yürütme ve yargı ayrımı hangi ilkeyle ilişkilidir? (Genel tekrar)",
     "options": [
-      "Ayrıcalık",
-      "Denetimsizlik",
+      "Keyfilik",
       "Kuvvetler ayrılığı",
-      "Keyfilik"
+      "Ayrıcalık",
+      "Denetimsizlik"
     ],
     "answer": "Kuvvetler ayrılığı",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Kuvvetler ayrılığı devlet organlarının ayrımını ifade eder.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-148",
@@ -8267,22 +11653,22 @@ window.QUESTIONS = [
     "difficulty": "Kolay",
     "question": "Anayasa çalışırken ilk öğrenilmesi gereken başlık hangisidir? (Genel tekrar)",
     "options": [
-      "Sadece trafik",
       "Genel esaslar",
+      "Sadece trafik",
       "Sadece yerel yönetim",
       "Sadece logo"
     ],
     "answer": "Genel esaslar",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "Genel esaslar anayasa çalışmasının temelidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-149",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Genel Tekrar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Yasama, yürütme ve yargı ayrımı hangi ilkeyle ilişkilidir? (Genel tekrar)",
     "options": [
       "Keyfilik",
@@ -8293,97 +11679,1897 @@ window.QUESTIONS = [
     "answer": "Kuvvetler ayrılığı",
     "answerLetter": "D",
     "explanation": "Kuvvetler ayrılığı devlet organlarının ayrımını ifade eder.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "ka-150",
     "testGroup": "KKTC Anayasası",
     "category": "KKTC Anayasası",
     "topic": "Genel Tekrar",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Anayasa çalışırken ilk öğrenilmesi gereken başlık hangisidir? (Genel tekrar)",
     "options": [
-      "Sadece logo",
       "Sadece trafik",
+      "Sadece yerel yönetim",
       "Genel esaslar",
-      "Sadece yerel yönetim"
+      "Sadece logo"
     ],
     "answer": "Genel esaslar",
     "answerLetter": "C",
     "explanation": "Genel esaslar anayasa çalışmasının temelidir.",
-    "source": "KKTC Anayasası mini çalışma metinleri"
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-151",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Kolay",
+    "question": "KKTC Anayasası en temel olarak neyi düzenler? (Konu tekrarı)",
+    "options": [
+      "Devletin temel yapısını ve hakları",
+      "Sadece özel şirketleri",
+      "Sadece trafik kurallarını",
+      "Sadece spor kulüplerini"
+    ],
+    "answer": "Devletin temel yapısını ve hakları",
+    "answerLetter": "A",
+    "explanation": "Anayasa devletin temel yapısını ve temel hakları düzenler.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-152",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Orta",
+    "question": "Egemenlik ilkesi kime aittir? (Konu tekrarı)",
+    "options": [
+      "Yabancı devlete",
+      "Özel şirkete",
+      "Tek bir kişiye",
+      "Halka"
+    ],
+    "answer": "Halka",
+    "answerLetter": "D",
+    "explanation": "Demokratik düzende egemenlik halka aittir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-153",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Zor",
+    "question": "Hukuk devleti neyi ifade eder? (Konu tekrarı)",
+    "options": [
+      "Keyfi yönetimi",
+      "Kanunsuz işlem yapmayı",
+      "Devletin hukukla bağlı olmasını",
+      "Yargı denetiminin olmamasını"
+    ],
+    "answer": "Devletin hukukla bağlı olmasını",
+    "answerLetter": "C",
+    "explanation": "Hukuk devleti keyfiliği önler.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-154",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Orta",
+    "question": "KKTC Anayasası bakımından kKTC Anayasası en temel olarak neyi düzenler? (Konu tekrarı)",
+    "options": [
+      "Sadece spor kulüplerini",
+      "Devletin temel yapısını ve hakları",
+      "Sadece özel şirketleri",
+      "Sadece trafik kurallarını"
+    ],
+    "answer": "Devletin temel yapısını ve hakları",
+    "answerLetter": "B",
+    "explanation": "Anayasa devletin temel yapısını ve temel hakları düzenler.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-155",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Kolay",
+    "question": "KKTC Anayasası bakımından egemenlik ilkesi kime aittir? (Konu tekrarı)",
+    "options": [
+      "Halka",
+      "Yabancı devlete",
+      "Özel şirkete",
+      "Tek bir kişiye"
+    ],
+    "answer": "Halka",
+    "answerLetter": "A",
+    "explanation": "Demokratik düzende egemenlik halka aittir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-156",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Orta",
+    "question": "KKTC Anayasası bakımından hukuk devleti neyi ifade eder? (Konu tekrarı)",
+    "options": [
+      "Yargı denetiminin olmamasını",
+      "Keyfi yönetimi",
+      "Kanunsuz işlem yapmayı",
+      "Devletin hukukla bağlı olmasını"
+    ],
+    "answer": "Devletin hukukla bağlı olmasını",
+    "answerLetter": "D",
+    "explanation": "Hukuk devleti keyfiliği önler.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-157",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Zor",
+    "question": "KKTC Anayasası en temel olarak neyi düzenler? (Konu tekrarı)",
+    "options": [
+      "Sadece trafik kurallarını",
+      "Sadece spor kulüplerini",
+      "Devletin temel yapısını ve hakları",
+      "Sadece özel şirketleri"
+    ],
+    "answer": "Devletin temel yapısını ve hakları",
+    "answerLetter": "C",
+    "explanation": "Anayasa devletin temel yapısını ve temel hakları düzenler.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-158",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Orta",
+    "question": "Egemenlik ilkesi kime aittir? (Konu tekrarı)",
+    "options": [
+      "Tek bir kişiye",
+      "Halka",
+      "Yabancı devlete",
+      "Özel şirkete"
+    ],
+    "answer": "Halka",
+    "answerLetter": "B",
+    "explanation": "Demokratik düzende egemenlik halka aittir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-159",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Kolay",
+    "question": "Hukuk devleti neyi ifade eder? (Konu tekrarı)",
+    "options": [
+      "Devletin hukukla bağlı olmasını",
+      "Yargı denetiminin olmamasını",
+      "Keyfi yönetimi",
+      "Kanunsuz işlem yapmayı"
+    ],
+    "answer": "Devletin hukukla bağlı olmasını",
+    "answerLetter": "A",
+    "explanation": "Hukuk devleti keyfiliği önler.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-160",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Orta",
+    "question": "KKTC Anayasası en temel olarak neyi düzenler? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Sadece özel şirketleri",
+      "Sadece trafik kurallarını",
+      "Sadece spor kulüplerini",
+      "Devletin temel yapısını ve hakları"
+    ],
+    "answer": "Devletin temel yapısını ve hakları",
+    "answerLetter": "D",
+    "explanation": "Anayasa devletin temel yapısını ve temel hakları düzenler.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-161",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Zor",
+    "question": "Egemenlik ilkesi kime aittir? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Özel şirkete",
+      "Tek bir kişiye",
+      "Halka",
+      "Yabancı devlete"
+    ],
+    "answer": "Halka",
+    "answerLetter": "C",
+    "explanation": "Demokratik düzende egemenlik halka aittir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-162",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Orta",
+    "question": "Hukuk devleti neyi ifade eder? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Kanunsuz işlem yapmayı",
+      "Devletin hukukla bağlı olmasını",
+      "Yargı denetiminin olmamasını",
+      "Keyfi yönetimi"
+    ],
+    "answer": "Devletin hukukla bağlı olmasını",
+    "answerLetter": "B",
+    "explanation": "Hukuk devleti keyfiliği önler.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-163",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Kolay",
+    "question": "KKTC Anayasası en temel olarak neyi düzenler? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Devletin temel yapısını ve hakları",
+      "Sadece özel şirketleri",
+      "Sadece trafik kurallarını",
+      "Sadece spor kulüplerini"
+    ],
+    "answer": "Devletin temel yapısını ve hakları",
+    "answerLetter": "A",
+    "explanation": "Anayasa devletin temel yapısını ve temel hakları düzenler.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-164",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Orta",
+    "question": "Egemenlik ilkesi kime aittir? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Yabancı devlete",
+      "Özel şirkete",
+      "Tek bir kişiye",
+      "Halka"
+    ],
+    "answer": "Halka",
+    "answerLetter": "D",
+    "explanation": "Demokratik düzende egemenlik halka aittir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-165",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Zor",
+    "question": "Hukuk devleti neyi ifade eder? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Keyfi yönetimi",
+      "Kanunsuz işlem yapmayı",
+      "Devletin hukukla bağlı olmasını",
+      "Yargı denetiminin olmamasını"
+    ],
+    "answer": "Devletin hukukla bağlı olmasını",
+    "answerLetter": "C",
+    "explanation": "Hukuk devleti keyfiliği önler.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-166",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Temel hak ve özgürlükler nasıl güvence altına alınır? (Konu tekrarı)",
+    "options": [
+      "Rastgele kararla",
+      "Anayasal güvenceyle",
+      "Sözlü emirle",
+      "Kişisel isteğe göre"
+    ],
+    "answer": "Anayasal güvenceyle",
+    "answerLetter": "B",
+    "explanation": "Temel haklar anayasa ile güvence altına alınır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-167",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Kolay",
+    "question": "Eşitlik ilkesi neyi gerektirir? (Konu tekrarı)",
+    "options": [
+      "Yasa önünde ayrım yapılmamasını",
+      "Kişisel ayrıcalığı",
+      "Keyfi uygulamayı",
+      "Sadece belli gruba hak tanımayı"
+    ],
+    "answer": "Yasa önünde ayrım yapılmamasını",
+    "answerLetter": "A",
+    "explanation": "Eşitlik yasa önünde ayrımcılık yapılmamasını gerektirir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-168",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Özel hayatın gizliliği hangi alanı korur? (Konu tekrarı)",
+    "options": [
+      "Sadece seçim sonuçlarını",
+      "Sadece kamu binalarını",
+      "Sadece vergi oranlarını",
+      "Kişinin özel yaşam alanını"
+    ],
+    "answer": "Kişinin özel yaşam alanını",
+    "answerLetter": "D",
+    "explanation": "Özel hayat anayasal koruma altındadır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-169",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Zor",
+    "question": "İfade özgürlüğü hangi sistemin temel unsurudur? (Konu tekrarı)",
+    "options": [
+      "Keyfi yönetimin",
+      "Gizli yönetimin",
+      "Demokratik toplumun",
+      "Yargısız düzenin"
+    ],
+    "answer": "Demokratik toplumun",
+    "answerLetter": "C",
+    "explanation": "İfade özgürlüğü demokratik toplum için önemlidir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-170",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Din ve vicdan özgürlüğü neyi kapsar? (Konu tekrarı)",
+    "options": [
+      "Seçimleri iptal etmeyi",
+      "İnanç sahibi olma veya olmama hakkını",
+      "Zorla inanç dayatmayı",
+      "Kamu hizmetini durdurmayı"
+    ],
+    "answer": "İnanç sahibi olma veya olmama hakkını",
+    "answerLetter": "B",
+    "explanation": "Din ve vicdan özgürlüğü inanç alanını korur.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-171",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Kolay",
+    "question": "KKTC Anayasası bakımından temel hak ve özgürlükler nasıl güvence altına alınır? (Konu tekrarı)",
+    "options": [
+      "Anayasal güvenceyle",
+      "Kişisel isteğe göre",
+      "Rastgele kararla",
+      "Sözlü emirle"
+    ],
+    "answer": "Anayasal güvenceyle",
+    "answerLetter": "A",
+    "explanation": "Temel haklar anayasa ile güvence altına alınır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-172",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "KKTC Anayasası bakımından eşitlik ilkesi neyi gerektirir? (Konu tekrarı)",
+    "options": [
+      "Sadece belli gruba hak tanımayı",
+      "Kişisel ayrıcalığı",
+      "Keyfi uygulamayı",
+      "Yasa önünde ayrım yapılmamasını"
+    ],
+    "answer": "Yasa önünde ayrım yapılmamasını",
+    "answerLetter": "D",
+    "explanation": "Eşitlik yasa önünde ayrımcılık yapılmamasını gerektirir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-173",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Zor",
+    "question": "KKTC Anayasası bakımından özel hayatın gizliliği hangi alanı korur? (Konu tekrarı)",
+    "options": [
+      "Sadece seçim sonuçlarını",
+      "Sadece kamu binalarını",
+      "Kişinin özel yaşam alanını",
+      "Sadece vergi oranlarını"
+    ],
+    "answer": "Kişinin özel yaşam alanını",
+    "answerLetter": "C",
+    "explanation": "Özel hayat anayasal koruma altındadır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-174",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "KKTC Anayasası bakımından i̇fade özgürlüğü hangi sistemin temel unsurudur? (Konu tekrarı)",
+    "options": [
+      "Yargısız düzenin",
+      "Demokratik toplumun",
+      "Keyfi yönetimin",
+      "Gizli yönetimin"
+    ],
+    "answer": "Demokratik toplumun",
+    "answerLetter": "B",
+    "explanation": "İfade özgürlüğü demokratik toplum için önemlidir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-175",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Kolay",
+    "question": "KKTC Anayasası bakımından din ve vicdan özgürlüğü neyi kapsar? (Konu tekrarı)",
+    "options": [
+      "İnanç sahibi olma veya olmama hakkını",
+      "Kamu hizmetini durdurmayı",
+      "Seçimleri iptal etmeyi",
+      "Zorla inanç dayatmayı"
+    ],
+    "answer": "İnanç sahibi olma veya olmama hakkını",
+    "answerLetter": "A",
+    "explanation": "Din ve vicdan özgürlüğü inanç alanını korur.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-176",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Temel hak ve özgürlükler nasıl güvence altına alınır? (Konu tekrarı)",
+    "options": [
+      "Sözlü emirle",
+      "Kişisel isteğe göre",
+      "Rastgele kararla",
+      "Anayasal güvenceyle"
+    ],
+    "answer": "Anayasal güvenceyle",
+    "answerLetter": "D",
+    "explanation": "Temel haklar anayasa ile güvence altına alınır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-177",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Zor",
+    "question": "Eşitlik ilkesi neyi gerektirir? (Konu tekrarı)",
+    "options": [
+      "Keyfi uygulamayı",
+      "Sadece belli gruba hak tanımayı",
+      "Yasa önünde ayrım yapılmamasını",
+      "Kişisel ayrıcalığı"
+    ],
+    "answer": "Yasa önünde ayrım yapılmamasını",
+    "answerLetter": "C",
+    "explanation": "Eşitlik yasa önünde ayrımcılık yapılmamasını gerektirir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-178",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Özel hayatın gizliliği hangi alanı korur? (Konu tekrarı)",
+    "options": [
+      "Sadece vergi oranlarını",
+      "Kişinin özel yaşam alanını",
+      "Sadece seçim sonuçlarını",
+      "Sadece kamu binalarını"
+    ],
+    "answer": "Kişinin özel yaşam alanını",
+    "answerLetter": "B",
+    "explanation": "Özel hayat anayasal koruma altındadır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-179",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Kolay",
+    "question": "İfade özgürlüğü hangi sistemin temel unsurudur? (Konu tekrarı)",
+    "options": [
+      "Demokratik toplumun",
+      "Yargısız düzenin",
+      "Keyfi yönetimin",
+      "Gizli yönetimin"
+    ],
+    "answer": "Demokratik toplumun",
+    "answerLetter": "A",
+    "explanation": "İfade özgürlüğü demokratik toplum için önemlidir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-180",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Din ve vicdan özgürlüğü neyi kapsar? (Konu tekrarı)",
+    "options": [
+      "Zorla inanç dayatmayı",
+      "Kamu hizmetini durdurmayı",
+      "Seçimleri iptal etmeyi",
+      "İnanç sahibi olma veya olmama hakkını"
+    ],
+    "answer": "İnanç sahibi olma veya olmama hakkını",
+    "answerLetter": "D",
+    "explanation": "Din ve vicdan özgürlüğü inanç alanını korur.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-181",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Zor",
+    "question": "Temel hak ve özgürlükler nasıl güvence altına alınır? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Rastgele kararla",
+      "Sözlü emirle",
+      "Anayasal güvenceyle",
+      "Kişisel isteğe göre"
+    ],
+    "answer": "Anayasal güvenceyle",
+    "answerLetter": "C",
+    "explanation": "Temel haklar anayasa ile güvence altına alınır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-182",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Eşitlik ilkesi neyi gerektirir? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Keyfi uygulamayı",
+      "Yasa önünde ayrım yapılmamasını",
+      "Sadece belli gruba hak tanımayı",
+      "Kişisel ayrıcalığı"
+    ],
+    "answer": "Yasa önünde ayrım yapılmamasını",
+    "answerLetter": "B",
+    "explanation": "Eşitlik yasa önünde ayrımcılık yapılmamasını gerektirir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-183",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Kolay",
+    "question": "Özel hayatın gizliliği hangi alanı korur? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Kişinin özel yaşam alanını",
+      "Sadece vergi oranlarını",
+      "Sadece seçim sonuçlarını",
+      "Sadece kamu binalarını"
+    ],
+    "answer": "Kişinin özel yaşam alanını",
+    "answerLetter": "A",
+    "explanation": "Özel hayat anayasal koruma altındadır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-184",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "İfade özgürlüğü hangi sistemin temel unsurudur? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Keyfi yönetimin",
+      "Gizli yönetimin",
+      "Yargısız düzenin",
+      "Demokratik toplumun"
+    ],
+    "answer": "Demokratik toplumun",
+    "answerLetter": "D",
+    "explanation": "İfade özgürlüğü demokratik toplum için önemlidir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-185",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Zor",
+    "question": "Din ve vicdan özgürlüğü neyi kapsar? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Seçimleri iptal etmeyi",
+      "Zorla inanç dayatmayı",
+      "İnanç sahibi olma veya olmama hakkını",
+      "Kamu hizmetini durdurmayı"
+    ],
+    "answer": "İnanç sahibi olma veya olmama hakkını",
+    "answerLetter": "C",
+    "explanation": "Din ve vicdan özgürlüğü inanç alanını korur.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-186",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Temel hak ve özgürlükler nasıl güvence altına alınır? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Rastgele kararla",
+      "Anayasal güvenceyle",
+      "Sözlü emirle",
+      "Kişisel isteğe göre"
+    ],
+    "answer": "Anayasal güvenceyle",
+    "answerLetter": "B",
+    "explanation": "Temel haklar anayasa ile güvence altına alınır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-187",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Kolay",
+    "question": "Eşitlik ilkesi neyi gerektirir? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Yasa önünde ayrım yapılmamasını",
+      "Kişisel ayrıcalığı",
+      "Keyfi uygulamayı",
+      "Sadece belli gruba hak tanımayı"
+    ],
+    "answer": "Yasa önünde ayrım yapılmamasını",
+    "answerLetter": "A",
+    "explanation": "Eşitlik yasa önünde ayrımcılık yapılmamasını gerektirir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-188",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Özel hayatın gizliliği hangi alanı korur? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Sadece seçim sonuçlarını",
+      "Sadece kamu binalarını",
+      "Sadece vergi oranlarını",
+      "Kişinin özel yaşam alanını"
+    ],
+    "answer": "Kişinin özel yaşam alanını",
+    "answerLetter": "D",
+    "explanation": "Özel hayat anayasal koruma altındadır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-189",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Zor",
+    "question": "İfade özgürlüğü hangi sistemin temel unsurudur? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Keyfi yönetimin",
+      "Gizli yönetimin",
+      "Demokratik toplumun",
+      "Yargısız düzenin"
+    ],
+    "answer": "Demokratik toplumun",
+    "answerLetter": "C",
+    "explanation": "İfade özgürlüğü demokratik toplum için önemlidir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-190",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Din ve vicdan özgürlüğü neyi kapsar? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Seçimleri iptal etmeyi",
+      "İnanç sahibi olma veya olmama hakkını",
+      "Zorla inanç dayatmayı",
+      "Kamu hizmetini durdurmayı"
+    ],
+    "answer": "İnanç sahibi olma veya olmama hakkını",
+    "answerLetter": "B",
+    "explanation": "Din ve vicdan özgürlüğü inanç alanını korur.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-191",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Kolay",
+    "question": "Temel hak ve özgürlükler nasıl güvence altına alınır? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Anayasal güvenceyle",
+      "Kişisel isteğe göre",
+      "Rastgele kararla",
+      "Sözlü emirle"
+    ],
+    "answer": "Anayasal güvenceyle",
+    "answerLetter": "A",
+    "explanation": "Temel haklar anayasa ile güvence altına alınır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-192",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Eşitlik ilkesi neyi gerektirir? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Sadece belli gruba hak tanımayı",
+      "Kişisel ayrıcalığı",
+      "Keyfi uygulamayı",
+      "Yasa önünde ayrım yapılmamasını"
+    ],
+    "answer": "Yasa önünde ayrım yapılmamasını",
+    "answerLetter": "D",
+    "explanation": "Eşitlik yasa önünde ayrımcılık yapılmamasını gerektirir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-193",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Zor",
+    "question": "Özel hayatın gizliliği hangi alanı korur? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Sadece seçim sonuçlarını",
+      "Sadece kamu binalarını",
+      "Kişinin özel yaşam alanını",
+      "Sadece vergi oranlarını"
+    ],
+    "answer": "Kişinin özel yaşam alanını",
+    "answerLetter": "C",
+    "explanation": "Özel hayat anayasal koruma altındadır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-194",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "İfade özgürlüğü hangi sistemin temel unsurudur? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Yargısız düzenin",
+      "Demokratik toplumun",
+      "Keyfi yönetimin",
+      "Gizli yönetimin"
+    ],
+    "answer": "Demokratik toplumun",
+    "answerLetter": "B",
+    "explanation": "İfade özgürlüğü demokratik toplum için önemlidir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-195",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Kolay",
+    "question": "Din ve vicdan özgürlüğü neyi kapsar? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "İnanç sahibi olma veya olmama hakkını",
+      "Kamu hizmetini durdurmayı",
+      "Seçimleri iptal etmeyi",
+      "Zorla inanç dayatmayı"
+    ],
+    "answer": "İnanç sahibi olma veya olmama hakkını",
+    "answerLetter": "A",
+    "explanation": "Din ve vicdan özgürlüğü inanç alanını korur.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-196",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "KKTC’de yasama yetkisini hangi organ kullanır? (Konu tekrarı)",
+    "options": [
+      "Mahkemeler",
+      "Belediyeler",
+      "Bakanlar Kurulu",
+      "Cumhuriyet Meclisi"
+    ],
+    "answer": "Cumhuriyet Meclisi",
+    "answerLetter": "D",
+    "explanation": "Yasama yetkisi Cumhuriyet Meclisine aittir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-197",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Zor",
+    "question": "Kanun yapma yetkisi hangi organla ilişkilidir? (Konu tekrarı)",
+    "options": [
+      "Yargı",
+      "Sayıştay",
+      "Yasama",
+      "Ombudsman"
+    ],
+    "answer": "Yasama",
+    "answerLetter": "C",
+    "explanation": "Kanun yapma yasamanın temel görevidir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-198",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "Cumhuriyet Meclisi hangi iradeyi temsil eder? (Konu tekrarı)",
+    "options": [
+      "Sadece mahkeme iradesini",
+      "Halk iradesini",
+      "Özel şirket iradesini",
+      "Yabancı devlet iradesini"
+    ],
+    "answer": "Halk iradesini",
+    "answerLetter": "B",
+    "explanation": "Meclis halk tarafından seçilen temsilcilerden oluşur.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-199",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Kolay",
+    "question": "KKTC Anayasası bakımından kKTC’de yasama yetkisini hangi organ kullanır? (Konu tekrarı)",
+    "options": [
+      "Cumhuriyet Meclisi",
+      "Mahkemeler",
+      "Belediyeler",
+      "Bakanlar Kurulu"
+    ],
+    "answer": "Cumhuriyet Meclisi",
+    "answerLetter": "A",
+    "explanation": "Yasama yetkisi Cumhuriyet Meclisine aittir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-200",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "KKTC Anayasası bakımından kanun yapma yetkisi hangi organla ilişkilidir? (Konu tekrarı)",
+    "options": [
+      "Ombudsman",
+      "Yargı",
+      "Sayıştay",
+      "Yasama"
+    ],
+    "answer": "Yasama",
+    "answerLetter": "D",
+    "explanation": "Kanun yapma yasamanın temel görevidir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-201",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Zor",
+    "question": "KKTC Anayasası bakımından cumhuriyet Meclisi hangi iradeyi temsil eder? (Konu tekrarı)",
+    "options": [
+      "Yabancı devlet iradesini",
+      "Sadece mahkeme iradesini",
+      "Halk iradesini",
+      "Özel şirket iradesini"
+    ],
+    "answer": "Halk iradesini",
+    "answerLetter": "C",
+    "explanation": "Meclis halk tarafından seçilen temsilcilerden oluşur.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-202",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "KKTC’de yasama yetkisini hangi organ kullanır? (Konu tekrarı)",
+    "options": [
+      "Bakanlar Kurulu",
+      "Cumhuriyet Meclisi",
+      "Mahkemeler",
+      "Belediyeler"
+    ],
+    "answer": "Cumhuriyet Meclisi",
+    "answerLetter": "B",
+    "explanation": "Yasama yetkisi Cumhuriyet Meclisine aittir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-203",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Kolay",
+    "question": "Kanun yapma yetkisi hangi organla ilişkilidir? (Konu tekrarı)",
+    "options": [
+      "Yasama",
+      "Ombudsman",
+      "Yargı",
+      "Sayıştay"
+    ],
+    "answer": "Yasama",
+    "answerLetter": "A",
+    "explanation": "Kanun yapma yasamanın temel görevidir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-204",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "Cumhuriyet Meclisi hangi iradeyi temsil eder? (Konu tekrarı)",
+    "options": [
+      "Özel şirket iradesini",
+      "Yabancı devlet iradesini",
+      "Sadece mahkeme iradesini",
+      "Halk iradesini"
+    ],
+    "answer": "Halk iradesini",
+    "answerLetter": "D",
+    "explanation": "Meclis halk tarafından seçilen temsilcilerden oluşur.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-205",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Zor",
+    "question": "KKTC’de yasama yetkisini hangi organ kullanır? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Belediyeler",
+      "Bakanlar Kurulu",
+      "Cumhuriyet Meclisi",
+      "Mahkemeler"
+    ],
+    "answer": "Cumhuriyet Meclisi",
+    "answerLetter": "C",
+    "explanation": "Yasama yetkisi Cumhuriyet Meclisine aittir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-206",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "Kanun yapma yetkisi hangi organla ilişkilidir? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Sayıştay",
+      "Yasama",
+      "Ombudsman",
+      "Yargı"
+    ],
+    "answer": "Yasama",
+    "answerLetter": "B",
+    "explanation": "Kanun yapma yasamanın temel görevidir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-207",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Kolay",
+    "question": "Cumhuriyet Meclisi hangi iradeyi temsil eder? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Halk iradesini",
+      "Özel şirket iradesini",
+      "Yabancı devlet iradesini",
+      "Sadece mahkeme iradesini"
+    ],
+    "answer": "Halk iradesini",
+    "answerLetter": "A",
+    "explanation": "Meclis halk tarafından seçilen temsilcilerden oluşur.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-208",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "KKTC’de yasama yetkisini hangi organ kullanır? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Mahkemeler",
+      "Belediyeler",
+      "Bakanlar Kurulu",
+      "Cumhuriyet Meclisi"
+    ],
+    "answer": "Cumhuriyet Meclisi",
+    "answerLetter": "D",
+    "explanation": "Yasama yetkisi Cumhuriyet Meclisine aittir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-209",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Zor",
+    "question": "Kanun yapma yetkisi hangi organla ilişkilidir? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Yargı",
+      "Sayıştay",
+      "Yasama",
+      "Ombudsman"
+    ],
+    "answer": "Yasama",
+    "answerLetter": "C",
+    "explanation": "Kanun yapma yasamanın temel görevidir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-210",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "Cumhuriyet Meclisi hangi iradeyi temsil eder? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Sadece mahkeme iradesini",
+      "Halk iradesini",
+      "Özel şirket iradesini",
+      "Yabancı devlet iradesini"
+    ],
+    "answer": "Halk iradesini",
+    "answerLetter": "B",
+    "explanation": "Meclis halk tarafından seçilen temsilcilerden oluşur.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-211",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Kolay",
+    "question": "KKTC’de yasama yetkisini hangi organ kullanır? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Cumhuriyet Meclisi",
+      "Mahkemeler",
+      "Belediyeler",
+      "Bakanlar Kurulu"
+    ],
+    "answer": "Cumhuriyet Meclisi",
+    "answerLetter": "A",
+    "explanation": "Yasama yetkisi Cumhuriyet Meclisine aittir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-212",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "Kanun yapma yetkisi hangi organla ilişkilidir? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Ombudsman",
+      "Yargı",
+      "Sayıştay",
+      "Yasama"
+    ],
+    "answer": "Yasama",
+    "answerLetter": "D",
+    "explanation": "Kanun yapma yasamanın temel görevidir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-213",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Zor",
+    "question": "Cumhuriyet Meclisi hangi iradeyi temsil eder? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Yabancı devlet iradesini",
+      "Sadece mahkeme iradesini",
+      "Halk iradesini",
+      "Özel şirket iradesini"
+    ],
+    "answer": "Halk iradesini",
+    "answerLetter": "C",
+    "explanation": "Meclis halk tarafından seçilen temsilcilerden oluşur.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-214",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "KKTC’de yasama yetkisini hangi organ kullanır? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Bakanlar Kurulu",
+      "Cumhuriyet Meclisi",
+      "Mahkemeler",
+      "Belediyeler"
+    ],
+    "answer": "Cumhuriyet Meclisi",
+    "answerLetter": "B",
+    "explanation": "Yasama yetkisi Cumhuriyet Meclisine aittir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-215",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Kolay",
+    "question": "Kanun yapma yetkisi hangi organla ilişkilidir? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Yasama",
+      "Ombudsman",
+      "Yargı",
+      "Sayıştay"
+    ],
+    "answer": "Yasama",
+    "answerLetter": "A",
+    "explanation": "Kanun yapma yasamanın temel görevidir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-216",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Yürütmenin temel görevi nedir? (Konu tekrarı)",
+    "options": [
+      "Mahkeme kararı vermek",
+      "Seçmen listesi satmak",
+      "Kanunları anayasaya aykırı yapmak",
+      "Kanunları uygulamak ve devlet işlerini yürütmek"
+    ],
+    "answer": "Kanunları uygulamak ve devlet işlerini yürütmek",
+    "answerLetter": "D",
+    "explanation": "Yürütme kanunları uygular.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-217",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Zor",
+    "question": "Cumhurbaşkanı anayasal sistemde neyi temsil eder? (Konu tekrarı)",
+    "options": [
+      "Sadece belediyeyi",
+      "Sadece özel okulu",
+      "Devletin başını",
+      "Sadece mahkemeyi"
+    ],
+    "answer": "Devletin başını",
+    "answerLetter": "C",
+    "explanation": "Cumhurbaşkanı devletin başıdır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-218",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Bakanlar Kurulu hangi organ içinde değerlendirilir? (Konu tekrarı)",
+    "options": [
+      "Sayıştay",
+      "Yürütme",
+      "Yasama",
+      "Yargı"
+    ],
+    "answer": "Yürütme",
+    "answerLetter": "B",
+    "explanation": "Bakanlar Kurulu yürütme organıdır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-219",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Kolay",
+    "question": "KKTC Anayasası bakımından yürütmenin temel görevi nedir? (Konu tekrarı)",
+    "options": [
+      "Kanunları uygulamak ve devlet işlerini yürütmek",
+      "Mahkeme kararı vermek",
+      "Seçmen listesi satmak",
+      "Kanunları anayasaya aykırı yapmak"
+    ],
+    "answer": "Kanunları uygulamak ve devlet işlerini yürütmek",
+    "answerLetter": "A",
+    "explanation": "Yürütme kanunları uygular.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-220",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "KKTC Anayasası bakımından cumhurbaşkanı anayasal sistemde neyi temsil eder? (Konu tekrarı)",
+    "options": [
+      "Sadece mahkemeyi",
+      "Sadece belediyeyi",
+      "Sadece özel okulu",
+      "Devletin başını"
+    ],
+    "answer": "Devletin başını",
+    "answerLetter": "D",
+    "explanation": "Cumhurbaşkanı devletin başıdır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-221",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Zor",
+    "question": "KKTC Anayasası bakımından bakanlar Kurulu hangi organ içinde değerlendirilir? (Konu tekrarı)",
+    "options": [
+      "Yargı",
+      "Sayıştay",
+      "Yürütme",
+      "Yasama"
+    ],
+    "answer": "Yürütme",
+    "answerLetter": "C",
+    "explanation": "Bakanlar Kurulu yürütme organıdır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-222",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Yürütmenin temel görevi aşağıdakilerden hangisidir? (Konu tekrarı)",
+    "options": [
+      "Kanunları anayasaya aykırı yapmak",
+      "Kanunları uygulamak ve devlet işlerini yürütmek",
+      "Mahkeme kararı vermek",
+      "Seçmen listesi satmak"
+    ],
+    "answer": "Kanunları uygulamak ve devlet işlerini yürütmek",
+    "answerLetter": "B",
+    "explanation": "Yürütme kanunları uygular.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-223",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Kolay",
+    "question": "Cumhurbaşkanı anayasal sistemde neyi temsil eder? (Konu tekrarı)",
+    "options": [
+      "Devletin başını",
+      "Sadece mahkemeyi",
+      "Sadece belediyeyi",
+      "Sadece özel okulu"
+    ],
+    "answer": "Devletin başını",
+    "answerLetter": "A",
+    "explanation": "Cumhurbaşkanı devletin başıdır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-224",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Bakanlar Kurulu hangi organ içinde değerlendirilir? (Konu tekrarı)",
+    "options": [
+      "Yasama",
+      "Yargı",
+      "Sayıştay",
+      "Yürütme"
+    ],
+    "answer": "Yürütme",
+    "answerLetter": "D",
+    "explanation": "Bakanlar Kurulu yürütme organıdır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-225",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Zor",
+    "question": "Yürütmenin temel görevi nedir? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Seçmen listesi satmak",
+      "Kanunları anayasaya aykırı yapmak",
+      "Kanunları uygulamak ve devlet işlerini yürütmek",
+      "Mahkeme kararı vermek"
+    ],
+    "answer": "Kanunları uygulamak ve devlet işlerini yürütmek",
+    "answerLetter": "C",
+    "explanation": "Yürütme kanunları uygular.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-226",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Cumhurbaşkanı anayasal sistemde neyi temsil eder? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Sadece özel okulu",
+      "Devletin başını",
+      "Sadece mahkemeyi",
+      "Sadece belediyeyi"
+    ],
+    "answer": "Devletin başını",
+    "answerLetter": "B",
+    "explanation": "Cumhurbaşkanı devletin başıdır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-227",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Kolay",
+    "question": "Bakanlar Kurulu hangi organ içinde değerlendirilir? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Yürütme",
+      "Yasama",
+      "Yargı",
+      "Sayıştay"
+    ],
+    "answer": "Yürütme",
+    "answerLetter": "A",
+    "explanation": "Bakanlar Kurulu yürütme organıdır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-228",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Yürütmenin temel görevi nedir? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Mahkeme kararı vermek",
+      "Seçmen listesi satmak",
+      "Kanunları anayasaya aykırı yapmak",
+      "Kanunları uygulamak ve devlet işlerini yürütmek"
+    ],
+    "answer": "Kanunları uygulamak ve devlet işlerini yürütmek",
+    "answerLetter": "D",
+    "explanation": "Yürütme kanunları uygular.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-229",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Zor",
+    "question": "Cumhurbaşkanı anayasal sistemde neyi temsil eder? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Sadece belediyeyi",
+      "Sadece özel okulu",
+      "Devletin başını",
+      "Sadece mahkemeyi"
+    ],
+    "answer": "Devletin başını",
+    "answerLetter": "C",
+    "explanation": "Cumhurbaşkanı devletin başıdır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-230",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Bakanlar Kurulu hangi organ içinde değerlendirilir? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Sayıştay",
+      "Yürütme",
+      "Yasama",
+      "Yargı"
+    ],
+    "answer": "Yürütme",
+    "answerLetter": "B",
+    "explanation": "Bakanlar Kurulu yürütme organıdır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-231",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Kolay",
+    "question": "Yürütmenin temel görevi nedir? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Kanunları uygulamak ve devlet işlerini yürütmek",
+      "Mahkeme kararı vermek",
+      "Seçmen listesi satmak",
+      "Kanunları anayasaya aykırı yapmak"
+    ],
+    "answer": "Kanunları uygulamak ve devlet işlerini yürütmek",
+    "answerLetter": "A",
+    "explanation": "Yürütme kanunları uygular.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-232",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Cumhurbaşkanı anayasal sistemde neyi temsil eder? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Sadece mahkemeyi",
+      "Sadece belediyeyi",
+      "Sadece özel okulu",
+      "Devletin başını"
+    ],
+    "answer": "Devletin başını",
+    "answerLetter": "D",
+    "explanation": "Cumhurbaşkanı devletin başıdır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-233",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Zor",
+    "question": "Bakanlar Kurulu hangi organ içinde değerlendirilir? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Yargı",
+      "Sayıştay",
+      "Yürütme",
+      "Yasama"
+    ],
+    "answer": "Yürütme",
+    "answerLetter": "C",
+    "explanation": "Bakanlar Kurulu yürütme organıdır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-234",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Yürütmenin temel görevi nedir? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Kanunları anayasaya aykırı yapmak",
+      "Kanunları uygulamak ve devlet işlerini yürütmek",
+      "Mahkeme kararı vermek",
+      "Seçmen listesi satmak"
+    ],
+    "answer": "Kanunları uygulamak ve devlet işlerini yürütmek",
+    "answerLetter": "B",
+    "explanation": "Yürütme kanunları uygular.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-235",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Kolay",
+    "question": "Cumhurbaşkanı anayasal sistemde neyi temsil eder? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Devletin başını",
+      "Sadece mahkemeyi",
+      "Sadece belediyeyi",
+      "Sadece özel okulu"
+    ],
+    "answer": "Devletin başını",
+    "answerLetter": "A",
+    "explanation": "Cumhurbaşkanı devletin başıdır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-236",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Orta",
+    "question": "Yargı organının temel niteliği ne olmalıdır? (Konu tekrarı)",
+    "options": [
+      "Siyasi emirle karar",
+      "Denetimsizlik",
+      "Keyfilik",
+      "Bağımsızlık ve tarafsızlık"
+    ],
+    "answer": "Bağımsızlık ve tarafsızlık",
+    "answerLetter": "D",
+    "explanation": "Yargı bağımsız ve tarafsız olmalıdır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-237",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Zor",
+    "question": "Anayasa Mahkemesinin temel görevi nedir? (Konu tekrarı)",
+    "options": [
+      "Belediye bütçesi hazırlamak",
+      "Kanunları uygulamak",
+      "Anayasaya uygunluk denetimi yapmak",
+      "Seçim kampanyası yürütmek"
+    ],
+    "answer": "Anayasaya uygunluk denetimi yapmak",
+    "answerLetter": "C",
+    "explanation": "Anayasa Mahkemesi anayasal denetim yapar.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-238",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Orta",
+    "question": "Mahkemelerin bağımsızlığı hangi ilkeyle ilişkilidir? (Konu tekrarı)",
+    "options": [
+      "Gizli işlem",
+      "Hukuk devleti",
+      "Keyfi yönetim",
+      "Ayrıcalık"
+    ],
+    "answer": "Hukuk devleti",
+    "answerLetter": "B",
+    "explanation": "Bağımsız yargı hukuk devletinin güvencesidir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-239",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Kolay",
+    "question": "KKTC Anayasası bakımından yargı organının temel niteliği ne olmalıdır? (Konu tekrarı)",
+    "options": [
+      "Bağımsızlık ve tarafsızlık",
+      "Siyasi emirle karar",
+      "Denetimsizlik",
+      "Keyfilik"
+    ],
+    "answer": "Bağımsızlık ve tarafsızlık",
+    "answerLetter": "A",
+    "explanation": "Yargı bağımsız ve tarafsız olmalıdır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-240",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Orta",
+    "question": "KKTC Anayasası bakımından anayasa Mahkemesinin temel görevi nedir? (Konu tekrarı)",
+    "options": [
+      "Seçim kampanyası yürütmek",
+      "Belediye bütçesi hazırlamak",
+      "Kanunları uygulamak",
+      "Anayasaya uygunluk denetimi yapmak"
+    ],
+    "answer": "Anayasaya uygunluk denetimi yapmak",
+    "answerLetter": "D",
+    "explanation": "Anayasa Mahkemesi anayasal denetim yapar.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-241",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Zor",
+    "question": "KKTC Anayasası bakımından mahkemelerin bağımsızlığı hangi ilkeyle ilişkilidir? (Konu tekrarı)",
+    "options": [
+      "Ayrıcalık",
+      "Gizli işlem",
+      "Hukuk devleti",
+      "Keyfi yönetim"
+    ],
+    "answer": "Hukuk devleti",
+    "answerLetter": "C",
+    "explanation": "Bağımsız yargı hukuk devletinin güvencesidir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-242",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Orta",
+    "question": "Yargı organının temel niteliği ne olmalıdır? (Konu tekrarı)",
+    "options": [
+      "Keyfilik",
+      "Bağımsızlık ve tarafsızlık",
+      "Siyasi emirle karar",
+      "Denetimsizlik"
+    ],
+    "answer": "Bağımsızlık ve tarafsızlık",
+    "answerLetter": "B",
+    "explanation": "Yargı bağımsız ve tarafsız olmalıdır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-243",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Kolay",
+    "question": "Anayasa Mahkemesinin temel görevi aşağıdakilerden hangisidir? (Konu tekrarı)",
+    "options": [
+      "Anayasaya uygunluk denetimi yapmak",
+      "Seçim kampanyası yürütmek",
+      "Belediye bütçesi hazırlamak",
+      "Kanunları uygulamak"
+    ],
+    "answer": "Anayasaya uygunluk denetimi yapmak",
+    "answerLetter": "A",
+    "explanation": "Anayasa Mahkemesi anayasal denetim yapar.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-244",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Orta",
+    "question": "Mahkemelerin bağımsızlığı hangi ilkeyle ilişkilidir? (Konu tekrarı)",
+    "options": [
+      "Keyfi yönetim",
+      "Ayrıcalık",
+      "Gizli işlem",
+      "Hukuk devleti"
+    ],
+    "answer": "Hukuk devleti",
+    "answerLetter": "D",
+    "explanation": "Bağımsız yargı hukuk devletinin güvencesidir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-245",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Zor",
+    "question": "Yargı organının temel niteliği ne olmalıdır? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Denetimsizlik",
+      "Keyfilik",
+      "Bağımsızlık ve tarafsızlık",
+      "Siyasi emirle karar"
+    ],
+    "answer": "Bağımsızlık ve tarafsızlık",
+    "answerLetter": "C",
+    "explanation": "Yargı bağımsız ve tarafsız olmalıdır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-246",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Orta",
+    "question": "Anayasa Mahkemesinin temel görevi nedir? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Kanunları uygulamak",
+      "Anayasaya uygunluk denetimi yapmak",
+      "Seçim kampanyası yürütmek",
+      "Belediye bütçesi hazırlamak"
+    ],
+    "answer": "Anayasaya uygunluk denetimi yapmak",
+    "answerLetter": "B",
+    "explanation": "Anayasa Mahkemesi anayasal denetim yapar.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-247",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Kolay",
+    "question": "Mahkemelerin bağımsızlığı hangi ilkeyle ilişkilidir? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Hukuk devleti",
+      "Keyfi yönetim",
+      "Ayrıcalık",
+      "Gizli işlem"
+    ],
+    "answer": "Hukuk devleti",
+    "answerLetter": "A",
+    "explanation": "Bağımsız yargı hukuk devletinin güvencesidir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-248",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Orta",
+    "question": "Yargı organının temel niteliği ne olmalıdır? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Siyasi emirle karar",
+      "Denetimsizlik",
+      "Keyfilik",
+      "Bağımsızlık ve tarafsızlık"
+    ],
+    "answer": "Bağımsızlık ve tarafsızlık",
+    "answerLetter": "D",
+    "explanation": "Yargı bağımsız ve tarafsız olmalıdır.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-249",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Zor",
+    "question": "Anayasa Mahkemesinin temel görevi nedir? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Belediye bütçesi hazırlamak",
+      "Kanunları uygulamak",
+      "Anayasaya uygunluk denetimi yapmak",
+      "Seçim kampanyası yürütmek"
+    ],
+    "answer": "Anayasaya uygunluk denetimi yapmak",
+    "answerLetter": "C",
+    "explanation": "Anayasa Mahkemesi anayasal denetim yapar.",
+    "source": "KKTC Anayasası 250 soru havuzu"
+  },
+  {
+    "id": "ka-250",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Orta",
+    "question": "Mahkemelerin bağımsızlığı hangi ilkeyle ilişkilidir? (Genel tekrar) (Konu tekrarı)",
+    "options": [
+      "Gizli işlem",
+      "Hukuk devleti",
+      "Keyfi yönetim",
+      "Ayrıcalık"
+    ],
+    "answer": "Hukuk devleti",
+    "answerLetter": "B",
+    "explanation": "Bağımsız yargı hukuk devletinin güvencesidir.",
+    "source": "KKTC Anayasası 250 soru havuzu"
   },
   {
     "id": "tr-001",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Sözcükte Anlam",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Aşağıdaki cümlelerin hangisinde mecaz anlam vardır?",
     "options": [
-      "Bu sözleriyle kalbimi kırdı.",
       "Kitabı masaya bıraktı.",
       "Çocuk bahçede koştu.",
-      "Bugün hava çok soğuktu."
+      "Bugün hava çok soğuktu.",
+      "Bu sözleriyle kalbimi kırdı."
     ],
     "answer": "Bu sözleriyle kalbimi kırdı.",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "Kalp kırmak mecaz anlamlıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-002",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Sözcükte Anlam",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Aşağıdakilerden hangisi 'hızlı' sözcüğünün eş anlamlısıdır?",
     "options": [
-      "Sessiz",
       "Geniş",
       "Yavaş",
-      "Süratli"
+      "Süratli",
+      "Sessiz"
     ],
     "answer": "Süratli",
-    "answerLetter": "D",
+    "answerLetter": "C",
     "explanation": "Hızlı ve süratli eş anlamlıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-003",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Sözcükte Anlam",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Aşağıdakilerden hangisi terim anlamlıdır?",
     "options": [
-      "Kalabalık",
+      "Yarın",
       "Kök",
-      "Güzel",
-      "Yarın"
+      "Kalabalık",
+      "Güzel"
     ],
     "answer": "Kök",
     "answerLetter": "B",
     "explanation": "Kök dil bilgisi ve matematikte terim olarak kullanılabilir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-004",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Sözcükte Anlam",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Verilen cümlelerin hangisinde mecaz anlam vardır?",
     "options": [
-      "Bugün hava çok soğuktu.",
       "Bu sözleriyle kalbimi kırdı.",
+      "Bugün hava çok soğuktu.",
       "Kitabı masaya bıraktı.",
       "Çocuk bahçede koştu."
     ],
     "answer": "Bu sözleriyle kalbimi kırdı.",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "Kalp kırmak mecaz anlamlıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-005",
@@ -8393,76 +13579,76 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Verilenlerden hangisi 'hızlı' sözcüğünün eş anlamlısıdır?",
     "options": [
-      "Süratli",
       "Sessiz",
       "Geniş",
-      "Yavaş"
+      "Yavaş",
+      "Süratli"
     ],
     "answer": "Süratli",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "Hızlı ve süratli eş anlamlıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-006",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Sözcükte Anlam",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Verilenlerden hangisi terim anlamlıdır?",
     "options": [
-      "Yarın",
       "Kalabalık",
+      "Güzel",
       "Kök",
-      "Güzel"
+      "Yarın"
     ],
     "answer": "Kök",
     "answerLetter": "C",
     "explanation": "Kök dil bilgisi ve matematikte terim olarak kullanılabilir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-007",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Sözcükte Anlam",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Türkçe çalışmasında: aşağıdaki cümlelerin hangisinde mecaz anlam vardır?",
     "options": [
-      "Çocuk bahçede koştu.",
-      "Bugün hava çok soğuktu.",
+      "Kitabı masaya bıraktı.",
       "Bu sözleriyle kalbimi kırdı.",
-      "Kitabı masaya bıraktı."
+      "Çocuk bahçede koştu.",
+      "Bugün hava çok soğuktu."
     ],
     "answer": "Bu sözleriyle kalbimi kırdı.",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Kalp kırmak mecaz anlamlıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-008",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Sözcükte Anlam",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Türkçe çalışmasında: aşağıdakilerden hangisi 'hızlı' sözcüğünün eş anlamlısıdır?",
     "options": [
-      "Yavaş",
       "Süratli",
+      "Yavaş",
       "Sessiz",
       "Geniş"
     ],
     "answer": "Süratli",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "Hızlı ve süratli eş anlamlıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-009",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Sözcükte Anlam",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Türkçe çalışmasında: aşağıdakilerden hangisi terim anlamlıdır?",
     "options": [
       "Güzel",
@@ -8473,43 +13659,43 @@ window.QUESTIONS = [
     "answer": "Kök",
     "answerLetter": "D",
     "explanation": "Kök dil bilgisi ve matematikte terim olarak kullanılabilir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-010",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Sözcükte Anlam",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Aşağıdaki cümlelerin hangisinde mecaz anlam vardır? (Tekrar)",
     "options": [
-      "Kitabı masaya bıraktı.",
       "Çocuk bahçede koştu.",
       "Bugün hava çok soğuktu.",
-      "Bu sözleriyle kalbimi kırdı."
+      "Bu sözleriyle kalbimi kırdı.",
+      "Kitabı masaya bıraktı."
     ],
     "answer": "Bu sözleriyle kalbimi kırdı.",
-    "answerLetter": "D",
+    "answerLetter": "C",
     "explanation": "Kalp kırmak mecaz anlamlıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-011",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Sözcükte Anlam",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Aşağıdakilerden hangisi 'hızlı' sözcüğünün eş anlamlısıdır? (Tekrar)",
     "options": [
-      "Geniş",
-      "Yavaş",
+      "Sessiz",
       "Süratli",
-      "Sessiz"
+      "Geniş",
+      "Yavaş"
     ],
     "answer": "Süratli",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Hızlı ve süratli eş anlamlıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-012",
@@ -8527,7 +13713,7 @@ window.QUESTIONS = [
     "answer": "Kök",
     "answerLetter": "A",
     "explanation": "Kök dil bilgisi ve matematikte terim olarak kullanılabilir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-013",
@@ -8537,18 +13723,72 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Aşağıdaki cümlelerin hangisinde mecaz anlam vardır? (Tekrar)",
     "options": [
-      "Bu sözleriyle kalbimi kırdı.",
       "Kitabı masaya bıraktı.",
       "Çocuk bahçede koştu.",
-      "Bugün hava çok soğuktu."
+      "Bugün hava çok soğuktu.",
+      "Bu sözleriyle kalbimi kırdı."
+    ],
+    "answer": "Bu sözleriyle kalbimi kırdı.",
+    "answerLetter": "D",
+    "explanation": "Kalp kırmak mecaz anlamlıdır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-014",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Zor",
+    "question": "Aşağıdakilerden hangisi 'hızlı' sözcüğünün eş anlamlısıdır? (Tekrar)",
+    "options": [
+      "Geniş",
+      "Yavaş",
+      "Süratli",
+      "Sessiz"
+    ],
+    "answer": "Süratli",
+    "answerLetter": "C",
+    "explanation": "Hızlı ve süratli eş anlamlıdır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-015",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisi terim anlamlıdır? (Tekrar)",
+    "options": [
+      "Yarın",
+      "Kök",
+      "Kalabalık",
+      "Güzel"
+    ],
+    "answer": "Kök",
+    "answerLetter": "B",
+    "explanation": "Kök dil bilgisi ve matematikte terim olarak kullanılabilir.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-016",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki cümlelerin hangisinde mecaz anlam vardır? (Tekrar)",
+    "options": [
+      "Bu sözleriyle kalbimi kırdı.",
+      "Bugün hava çok soğuktu.",
+      "Kitabı masaya bıraktı.",
+      "Çocuk bahçede koştu."
     ],
     "answer": "Bu sözleriyle kalbimi kırdı.",
     "answerLetter": "A",
     "explanation": "Kalp kırmak mecaz anlamlıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
-    "id": "tr-014",
+    "id": "tr-017",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Sözcükte Anlam",
@@ -8563,61 +13803,7 @@ window.QUESTIONS = [
     "answer": "Süratli",
     "answerLetter": "D",
     "explanation": "Hızlı ve süratli eş anlamlıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
-  },
-  {
-    "id": "tr-015",
-    "testGroup": "Türkçe",
-    "category": "Türkçe",
-    "topic": "Sözcükte Anlam",
-    "difficulty": "Orta",
-    "question": "Aşağıdakilerden hangisi terim anlamlıdır? (Tekrar)",
-    "options": [
-      "Kalabalık",
-      "Kök",
-      "Güzel",
-      "Yarın"
-    ],
-    "answer": "Kök",
-    "answerLetter": "B",
-    "explanation": "Kök dil bilgisi ve matematikte terim olarak kullanılabilir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
-  },
-  {
-    "id": "tr-016",
-    "testGroup": "Türkçe",
-    "category": "Türkçe",
-    "topic": "Sözcükte Anlam",
-    "difficulty": "Zor",
-    "question": "Aşağıdaki cümlelerin hangisinde mecaz anlam vardır? (Tekrar)",
-    "options": [
-      "Bugün hava çok soğuktu.",
-      "Bu sözleriyle kalbimi kırdı.",
-      "Kitabı masaya bıraktı.",
-      "Çocuk bahçede koştu."
-    ],
-    "answer": "Bu sözleriyle kalbimi kırdı.",
-    "answerLetter": "B",
-    "explanation": "Kalp kırmak mecaz anlamlıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
-  },
-  {
-    "id": "tr-017",
-    "testGroup": "Türkçe",
-    "category": "Türkçe",
-    "topic": "Sözcükte Anlam",
-    "difficulty": "Zor",
-    "question": "Aşağıdakilerden hangisi 'hızlı' sözcüğünün eş anlamlısıdır? (Tekrar)",
-    "options": [
-      "Süratli",
-      "Sessiz",
-      "Geniş",
-      "Yavaş"
-    ],
-    "answer": "Süratli",
-    "answerLetter": "A",
-    "explanation": "Hızlı ve süratli eş anlamlıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-018",
@@ -8627,33 +13813,33 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "Aşağıdakilerden hangisi terim anlamlıdır? (Tekrar)",
     "options": [
-      "Yarın",
       "Kalabalık",
+      "Güzel",
       "Kök",
-      "Güzel"
+      "Yarın"
     ],
     "answer": "Kök",
     "answerLetter": "C",
     "explanation": "Kök dil bilgisi ve matematikte terim olarak kullanılabilir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-019",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Sözcükte Anlam",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Aşağıdaki cümlelerin hangisinde mecaz anlam vardır? (Tekrar)",
     "options": [
-      "Çocuk bahçede koştu.",
-      "Bugün hava çok soğuktu.",
+      "Kitabı masaya bıraktı.",
       "Bu sözleriyle kalbimi kırdı.",
-      "Kitabı masaya bıraktı."
+      "Çocuk bahçede koştu.",
+      "Bugün hava çok soğuktu."
     ],
     "answer": "Bu sözleriyle kalbimi kırdı.",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Kalp kırmak mecaz anlamlıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-020",
@@ -8663,22 +13849,22 @@ window.QUESTIONS = [
     "difficulty": "Kolay",
     "question": "Aşağıdakilerden hangisi 'hızlı' sözcüğünün eş anlamlısıdır? (Tekrar)",
     "options": [
-      "Yavaş",
       "Süratli",
+      "Yavaş",
       "Sessiz",
       "Geniş"
     ],
     "answer": "Süratli",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "Hızlı ve süratli eş anlamlıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-021",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümlede Anlam",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi vardır?",
     "options": [
       "Dışarı çıkmak istiyorum.",
@@ -8689,50 +13875,50 @@ window.QUESTIONS = [
     "answer": "Yağmur yağdığı için dışarı çıkmadık.",
     "answerLetter": "D",
     "explanation": "İlk bölüm neden, ikinci bölüm sonuçtur.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-022",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümlede Anlam",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Aşağıdakilerden hangisinde amaç-sonuç anlamı vardır?",
     "options": [
-      "Hava soğuktu.",
       "Kitap çok güzeldi.",
+      "Hasta olduğu için gelmedi.",
       "Sınavı kazanmak için çalışıyor.",
-      "Hasta olduğu için gelmedi."
+      "Hava soğuktu."
     ],
     "answer": "Sınavı kazanmak için çalışıyor.",
     "answerLetter": "C",
     "explanation": "Çalışmanın amacı sınavı kazanmaktır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-023",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümlede Anlam",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Aşağıdaki cümlelerin hangisinde karşılaştırma vardır?",
     "options": [
-      "Ders başladı.",
+      "Kalem masadadır.",
       "Bu kitap diğerinden daha anlaşılır.",
-      "Bugün okula gittim.",
-      "Kalem masadadır."
+      "Ders başladı.",
+      "Bugün okula gittim."
     ],
     "answer": "Bu kitap diğerinden daha anlaşılır.",
     "answerLetter": "B",
     "explanation": "Daha sözcüğü karşılaştırma yapar.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-024",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümlede Anlam",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Verilen cümlelerin hangisinde neden-sonuç ilişkisi vardır?",
     "options": [
       "Yağmur yağdığı için dışarı çıkmadık.",
@@ -8743,7 +13929,7 @@ window.QUESTIONS = [
     "answer": "Yağmur yağdığı için dışarı çıkmadık.",
     "answerLetter": "A",
     "explanation": "İlk bölüm neden, ikinci bölüm sonuçtur.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-025",
@@ -8761,50 +13947,50 @@ window.QUESTIONS = [
     "answer": "Sınavı kazanmak için çalışıyor.",
     "answerLetter": "D",
     "explanation": "Çalışmanın amacı sınavı kazanmaktır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-026",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümlede Anlam",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Verilen cümlelerin hangisinde karşılaştırma vardır?",
     "options": [
-      "Kalem masadadır.",
       "Ders başladı.",
+      "Bugün okula gittim.",
       "Bu kitap diğerinden daha anlaşılır.",
-      "Bugün okula gittim."
+      "Kalem masadadır."
     ],
     "answer": "Bu kitap diğerinden daha anlaşılır.",
     "answerLetter": "C",
     "explanation": "Daha sözcüğü karşılaştırma yapar.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-027",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümlede Anlam",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Türkçe çalışmasında: aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi vardır?",
     "options": [
-      "Yarın gelirim.",
+      "Kitabı okuyabilirim.",
       "Yağmur yağdığı için dışarı çıkmadık.",
-      "Dışarı çıkmak istiyorum.",
-      "Kitabı okuyabilirim."
+      "Yarın gelirim.",
+      "Dışarı çıkmak istiyorum."
     ],
     "answer": "Yağmur yağdığı için dışarı çıkmadık.",
     "answerLetter": "B",
     "explanation": "İlk bölüm neden, ikinci bölüm sonuçtur.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-028",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümlede Anlam",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Türkçe çalışmasında: aşağıdakilerden hangisinde amaç-sonuç anlamı vardır?",
     "options": [
       "Sınavı kazanmak için çalışıyor.",
@@ -8815,14 +14001,14 @@ window.QUESTIONS = [
     "answer": "Sınavı kazanmak için çalışıyor.",
     "answerLetter": "A",
     "explanation": "Çalışmanın amacı sınavı kazanmaktır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-029",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümlede Anlam",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Türkçe çalışmasında: aşağıdaki cümlelerin hangisinde karşılaştırma vardır?",
     "options": [
       "Bugün okula gittim.",
@@ -8833,43 +14019,43 @@ window.QUESTIONS = [
     "answer": "Bu kitap diğerinden daha anlaşılır.",
     "answerLetter": "D",
     "explanation": "Daha sözcüğü karşılaştırma yapar.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-030",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümlede Anlam",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi vardır? (Tekrar)",
     "options": [
-      "Kitabı okuyabilirim.",
       "Yarın gelirim.",
+      "Dışarı çıkmak istiyorum.",
       "Yağmur yağdığı için dışarı çıkmadık.",
-      "Dışarı çıkmak istiyorum."
+      "Kitabı okuyabilirim."
     ],
     "answer": "Yağmur yağdığı için dışarı çıkmadık.",
     "answerLetter": "C",
     "explanation": "İlk bölüm neden, ikinci bölüm sonuçtur.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-031",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümlede Anlam",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Aşağıdakilerden hangisinde amaç-sonuç anlamı vardır? (Tekrar)",
     "options": [
-      "Kitap çok güzeldi.",
+      "Hava soğuktu.",
       "Sınavı kazanmak için çalışıyor.",
-      "Hasta olduğu için gelmedi.",
-      "Hava soğuktu."
+      "Kitap çok güzeldi.",
+      "Hasta olduğu için gelmedi."
     ],
     "answer": "Sınavı kazanmak için çalışıyor.",
     "answerLetter": "B",
     "explanation": "Çalışmanın amacı sınavı kazanmaktır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-032",
@@ -8887,7 +14073,7 @@ window.QUESTIONS = [
     "answer": "Bu kitap diğerinden daha anlaşılır.",
     "answerLetter": "A",
     "explanation": "Daha sözcüğü karşılaştırma yapar.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-033",
@@ -8905,25 +14091,25 @@ window.QUESTIONS = [
     "answer": "Yağmur yağdığı için dışarı çıkmadık.",
     "answerLetter": "D",
     "explanation": "İlk bölüm neden, ikinci bölüm sonuçtur.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-034",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümlede Anlam",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Aşağıdakilerden hangisinde amaç-sonuç anlamı vardır? (Tekrar)",
     "options": [
-      "Hava soğuktu.",
       "Kitap çok güzeldi.",
+      "Hasta olduğu için gelmedi.",
       "Sınavı kazanmak için çalışıyor.",
-      "Hasta olduğu için gelmedi."
+      "Hava soğuktu."
     ],
     "answer": "Sınavı kazanmak için çalışıyor.",
     "answerLetter": "C",
     "explanation": "Çalışmanın amacı sınavı kazanmaktır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-035",
@@ -8933,22 +14119,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Aşağıdaki cümlelerin hangisinde karşılaştırma vardır? (Tekrar)",
     "options": [
-      "Ders başladı.",
+      "Kalem masadadır.",
       "Bu kitap diğerinden daha anlaşılır.",
-      "Bugün okula gittim.",
-      "Kalem masadadır."
+      "Ders başladı.",
+      "Bugün okula gittim."
     ],
     "answer": "Bu kitap diğerinden daha anlaşılır.",
     "answerLetter": "B",
     "explanation": "Daha sözcüğü karşılaştırma yapar.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-036",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümlede Anlam",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi vardır? (Tekrar)",
     "options": [
       "Yağmur yağdığı için dışarı çıkmadık.",
@@ -8959,14 +14145,14 @@ window.QUESTIONS = [
     "answer": "Yağmur yağdığı için dışarı çıkmadık.",
     "answerLetter": "A",
     "explanation": "İlk bölüm neden, ikinci bölüm sonuçtur.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-037",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümlede Anlam",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Aşağıdakilerden hangisinde amaç-sonuç anlamı vardır? (Tekrar)",
     "options": [
       "Hasta olduğu için gelmedi.",
@@ -8977,7 +14163,7 @@ window.QUESTIONS = [
     "answer": "Sınavı kazanmak için çalışıyor.",
     "answerLetter": "D",
     "explanation": "Çalışmanın amacı sınavı kazanmaktır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-038",
@@ -8987,33 +14173,33 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "Aşağıdaki cümlelerin hangisinde karşılaştırma vardır? (Tekrar)",
     "options": [
-      "Kalem masadadır.",
       "Ders başladı.",
+      "Bugün okula gittim.",
       "Bu kitap diğerinden daha anlaşılır.",
-      "Bugün okula gittim."
+      "Kalem masadadır."
     ],
     "answer": "Bu kitap diğerinden daha anlaşılır.",
     "answerLetter": "C",
     "explanation": "Daha sözcüğü karşılaştırma yapar.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-039",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümlede Anlam",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi vardır? (Tekrar)",
     "options": [
-      "Yarın gelirim.",
+      "Kitabı okuyabilirim.",
       "Yağmur yağdığı için dışarı çıkmadık.",
-      "Dışarı çıkmak istiyorum.",
-      "Kitabı okuyabilirim."
+      "Yarın gelirim.",
+      "Dışarı çıkmak istiyorum."
     ],
     "answer": "Yağmur yağdığı için dışarı çıkmadık.",
     "answerLetter": "B",
     "explanation": "İlk bölüm neden, ikinci bölüm sonuçtur.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-040",
@@ -9031,14 +14217,14 @@ window.QUESTIONS = [
     "answer": "Sınavı kazanmak için çalışıyor.",
     "answerLetter": "A",
     "explanation": "Çalışmanın amacı sınavı kazanmaktır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-041",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Paragraf",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Paragrafın ana düşüncesi neyi ifade eder?",
     "options": [
       "Sadece ilk kelimeyi",
@@ -9049,50 +14235,50 @@ window.QUESTIONS = [
     "answer": "Parçada verilmek istenen temel mesajı",
     "answerLetter": "D",
     "explanation": "Ana düşünce temel mesajdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-042",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Paragraf",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Paragrafta başlık seçerken neye dikkat edilir?",
     "options": [
-      "Yabancı kelime olmasına",
       "Soru işareti içermesine",
+      "En uzun kelime olmasına",
       "Paragrafın konusunu kapsamasına",
-      "En uzun kelime olmasına"
+      "Yabancı kelime olmasına"
     ],
     "answer": "Paragrafın konusunu kapsamasına",
     "answerLetter": "C",
     "explanation": "Başlık konuyu genel olarak karşılamalıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-043",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Paragraf",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Paragraf sorularında önce ne okunması faydalıdır?",
     "options": [
-      "Sayfa numarası",
+      "Yazarın yaşı",
       "Soru kökü",
-      "Son seçenek",
-      "Yazarın yaşı"
+      "Sayfa numarası",
+      "Son seçenek"
     ],
     "answer": "Soru kökü",
     "answerLetter": "B",
     "explanation": "Soru kökü ne aranacağını gösterir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-044",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Paragraf",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Paragrafın ana düşüncesi neyi ifade eder?",
     "options": [
       "Parçada verilmek istenen temel mesajı",
@@ -9103,7 +14289,7 @@ window.QUESTIONS = [
     "answer": "Parçada verilmek istenen temel mesajı",
     "answerLetter": "A",
     "explanation": "Ana düşünce temel mesajdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-045",
@@ -9121,50 +14307,50 @@ window.QUESTIONS = [
     "answer": "Paragrafın konusunu kapsamasına",
     "answerLetter": "D",
     "explanation": "Başlık konuyu genel olarak karşılamalıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-046",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Paragraf",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Paragraf sorularında önce ne okunması faydalıdır?",
     "options": [
-      "Yazarın yaşı",
       "Sayfa numarası",
+      "Son seçenek",
       "Soru kökü",
-      "Son seçenek"
+      "Yazarın yaşı"
     ],
     "answer": "Soru kökü",
     "answerLetter": "C",
     "explanation": "Soru kökü ne aranacağını gösterir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-047",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Paragraf",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Türkçe çalışmasında: paragrafın ana düşüncesi neyi ifade eder?",
     "options": [
-      "Noktalama işaretini",
+      "Yazarın adını",
       "Parçada verilmek istenen temel mesajı",
-      "Sadece ilk kelimeyi",
-      "Yazarın adını"
+      "Noktalama işaretini",
+      "Sadece ilk kelimeyi"
     ],
     "answer": "Parçada verilmek istenen temel mesajı",
     "answerLetter": "B",
     "explanation": "Ana düşünce temel mesajdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-048",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Paragraf",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Türkçe çalışmasında: paragrafta başlık seçerken neye dikkat edilir?",
     "options": [
       "Paragrafın konusunu kapsamasına",
@@ -9175,14 +14361,14 @@ window.QUESTIONS = [
     "answer": "Paragrafın konusunu kapsamasına",
     "answerLetter": "A",
     "explanation": "Başlık konuyu genel olarak karşılamalıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-049",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Paragraf",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Türkçe çalışmasında: paragraf sorularında önce ne okunması faydalıdır?",
     "options": [
       "Son seçenek",
@@ -9193,43 +14379,43 @@ window.QUESTIONS = [
     "answer": "Soru kökü",
     "answerLetter": "D",
     "explanation": "Soru kökü ne aranacağını gösterir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-050",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Paragraf",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Paragrafın ana düşüncesi neyi ifade eder? (Tekrar)",
     "options": [
-      "Yazarın adını",
       "Noktalama işaretini",
+      "Sadece ilk kelimeyi",
       "Parçada verilmek istenen temel mesajı",
-      "Sadece ilk kelimeyi"
+      "Yazarın adını"
     ],
     "answer": "Parçada verilmek istenen temel mesajı",
     "answerLetter": "C",
     "explanation": "Ana düşünce temel mesajdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-051",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Paragraf",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Paragrafta başlık seçerken neye dikkat edilir? (Tekrar)",
     "options": [
-      "Soru işareti içermesine",
+      "Yabancı kelime olmasına",
       "Paragrafın konusunu kapsamasına",
-      "En uzun kelime olmasına",
-      "Yabancı kelime olmasına"
+      "Soru işareti içermesine",
+      "En uzun kelime olmasına"
     ],
     "answer": "Paragrafın konusunu kapsamasına",
     "answerLetter": "B",
     "explanation": "Başlık konuyu genel olarak karşılamalıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-052",
@@ -9247,7 +14433,7 @@ window.QUESTIONS = [
     "answer": "Soru kökü",
     "answerLetter": "A",
     "explanation": "Soru kökü ne aranacağını gösterir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-053",
@@ -9265,25 +14451,25 @@ window.QUESTIONS = [
     "answer": "Parçada verilmek istenen temel mesajı",
     "answerLetter": "D",
     "explanation": "Ana düşünce temel mesajdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-054",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Paragraf",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Paragrafta başlık seçerken neye dikkat edilir? (Tekrar)",
     "options": [
-      "Yabancı kelime olmasına",
       "Soru işareti içermesine",
+      "En uzun kelime olmasına",
       "Paragrafın konusunu kapsamasına",
-      "En uzun kelime olmasına"
+      "Yabancı kelime olmasına"
     ],
     "answer": "Paragrafın konusunu kapsamasına",
     "answerLetter": "C",
     "explanation": "Başlık konuyu genel olarak karşılamalıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-055",
@@ -9293,22 +14479,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Paragraf sorularında önce ne okunması faydalıdır? (Tekrar)",
     "options": [
-      "Sayfa numarası",
+      "Yazarın yaşı",
       "Soru kökü",
-      "Son seçenek",
-      "Yazarın yaşı"
+      "Sayfa numarası",
+      "Son seçenek"
     ],
     "answer": "Soru kökü",
     "answerLetter": "B",
     "explanation": "Soru kökü ne aranacağını gösterir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-056",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Paragraf",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Paragrafın ana düşüncesi neyi ifade eder? (Tekrar)",
     "options": [
       "Parçada verilmek istenen temel mesajı",
@@ -9319,14 +14505,14 @@ window.QUESTIONS = [
     "answer": "Parçada verilmek istenen temel mesajı",
     "answerLetter": "A",
     "explanation": "Ana düşünce temel mesajdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-057",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Paragraf",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Paragrafta başlık seçerken neye dikkat edilir? (Tekrar)",
     "options": [
       "En uzun kelime olmasına",
@@ -9337,7 +14523,7 @@ window.QUESTIONS = [
     "answer": "Paragrafın konusunu kapsamasına",
     "answerLetter": "D",
     "explanation": "Başlık konuyu genel olarak karşılamalıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-058",
@@ -9347,33 +14533,33 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "Paragraf sorularında önce ne okunması faydalıdır? (Tekrar)",
     "options": [
-      "Yazarın yaşı",
       "Sayfa numarası",
+      "Son seçenek",
       "Soru kökü",
-      "Son seçenek"
+      "Yazarın yaşı"
     ],
     "answer": "Soru kökü",
     "answerLetter": "C",
     "explanation": "Soru kökü ne aranacağını gösterir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-059",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Paragraf",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Paragrafın ana düşüncesi neyi ifade eder? (Tekrar)",
     "options": [
-      "Noktalama işaretini",
+      "Yazarın adını",
       "Parçada verilmek istenen temel mesajı",
-      "Sadece ilk kelimeyi",
-      "Yazarın adını"
+      "Noktalama işaretini",
+      "Sadece ilk kelimeyi"
     ],
     "answer": "Parçada verilmek istenen temel mesajı",
     "answerLetter": "B",
     "explanation": "Ana düşünce temel mesajdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-060",
@@ -9391,79 +14577,79 @@ window.QUESTIONS = [
     "answer": "Paragrafın konusunu kapsamasına",
     "answerLetter": "A",
     "explanation": "Başlık konuyu genel olarak karşılamalıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-061",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yazım Kuralları",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır?",
     "options": [
-      "Herkez burada toplandı.",
       "Yarın görüşürüz.",
       "Kitabı aldım.",
-      "Bugün okula gittim."
+      "Bugün okula gittim.",
+      "Herkez burada toplandı."
     ],
     "answer": "Herkez burada toplandı.",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "Doğru yazım 'herkes' olmalıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-062",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yazım Kuralları",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Aşağıdakilerden hangisi doğru yazılmıştır?",
     "options": [
-      "bir kaç",
       "pek çok şeyler",
       "hiç bir",
-      "her şey"
+      "her şey",
+      "bir kaç"
     ],
     "answer": "her şey",
-    "answerLetter": "D",
+    "answerLetter": "C",
     "explanation": "Her şey ayrı yazılır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-063",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yazım Kuralları",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Özel adlara gelen çekim ekleri nasıl yazılır?",
     "options": [
-      "Yazılmaz",
+      "Her zaman ayrı yazılır",
       "Kesme işaretiyle ayrılır",
-      "Bitişik yazılır",
-      "Her zaman ayrı yazılır"
+      "Yazılmaz",
+      "Bitişik yazılır"
     ],
     "answer": "Kesme işaretiyle ayrılır",
     "answerLetter": "B",
     "explanation": "Özel adlara gelen çekim ekleri kesme işaretiyle ayrılır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-064",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yazım Kuralları",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Verilen cümlelerin hangisinde yazım yanlışı vardır?",
     "options": [
-      "Bugün okula gittim.",
       "Herkez burada toplandı.",
+      "Bugün okula gittim.",
       "Yarın görüşürüz.",
       "Kitabı aldım."
     ],
     "answer": "Herkez burada toplandı.",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "Doğru yazım 'herkes' olmalıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-065",
@@ -9473,76 +14659,76 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Verilenlerden hangisi doğru yazılmıştır?",
     "options": [
-      "her şey",
       "bir kaç",
       "pek çok şeyler",
-      "hiç bir"
+      "hiç bir",
+      "her şey"
     ],
     "answer": "her şey",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "Her şey ayrı yazılır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-066",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yazım Kuralları",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Özel adlara gelen çekim ekleri nasıl yazılır?",
     "options": [
-      "Her zaman ayrı yazılır",
       "Yazılmaz",
+      "Bitişik yazılır",
       "Kesme işaretiyle ayrılır",
-      "Bitişik yazılır"
+      "Her zaman ayrı yazılır"
     ],
     "answer": "Kesme işaretiyle ayrılır",
     "answerLetter": "C",
     "explanation": "Özel adlara gelen çekim ekleri kesme işaretiyle ayrılır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-067",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yazım Kuralları",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Türkçe çalışmasında: aşağıdaki cümlelerin hangisinde yazım yanlışı vardır?",
     "options": [
-      "Kitabı aldım.",
-      "Bugün okula gittim.",
+      "Yarın görüşürüz.",
       "Herkez burada toplandı.",
-      "Yarın görüşürüz."
+      "Kitabı aldım.",
+      "Bugün okula gittim."
     ],
     "answer": "Herkez burada toplandı.",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Doğru yazım 'herkes' olmalıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-068",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yazım Kuralları",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Türkçe çalışmasında: aşağıdakilerden hangisi doğru yazılmıştır?",
     "options": [
-      "hiç bir",
       "her şey",
+      "hiç bir",
       "bir kaç",
       "pek çok şeyler"
     ],
     "answer": "her şey",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "Her şey ayrı yazılır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-069",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yazım Kuralları",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Türkçe çalışmasında: özel adlara gelen çekim ekleri nasıl yazılır?",
     "options": [
       "Bitişik yazılır",
@@ -9553,43 +14739,43 @@ window.QUESTIONS = [
     "answer": "Kesme işaretiyle ayrılır",
     "answerLetter": "D",
     "explanation": "Özel adlara gelen çekim ekleri kesme işaretiyle ayrılır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-070",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yazım Kuralları",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır? (Tekrar)",
     "options": [
-      "Yarın görüşürüz.",
       "Kitabı aldım.",
       "Bugün okula gittim.",
-      "Herkez burada toplandı."
+      "Herkez burada toplandı.",
+      "Yarın görüşürüz."
     ],
     "answer": "Herkez burada toplandı.",
-    "answerLetter": "D",
+    "answerLetter": "C",
     "explanation": "Doğru yazım 'herkes' olmalıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-071",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yazım Kuralları",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Aşağıdakilerden hangisi doğru yazılmıştır? (Tekrar)",
     "options": [
-      "pek çok şeyler",
-      "hiç bir",
+      "bir kaç",
       "her şey",
-      "bir kaç"
+      "pek çok şeyler",
+      "hiç bir"
     ],
     "answer": "her şey",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Her şey ayrı yazılır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-072",
@@ -9607,7 +14793,7 @@ window.QUESTIONS = [
     "answer": "Kesme işaretiyle ayrılır",
     "answerLetter": "A",
     "explanation": "Özel adlara gelen çekim ekleri kesme işaretiyle ayrılır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-073",
@@ -9617,18 +14803,72 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır? (Tekrar)",
     "options": [
-      "Herkez burada toplandı.",
       "Yarın görüşürüz.",
       "Kitabı aldım.",
-      "Bugün okula gittim."
+      "Bugün okula gittim.",
+      "Herkez burada toplandı."
+    ],
+    "answer": "Herkez burada toplandı.",
+    "answerLetter": "D",
+    "explanation": "Doğru yazım 'herkes' olmalıdır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-074",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yazım Kuralları",
+    "difficulty": "Zor",
+    "question": "Aşağıdakilerden hangisi doğru yazılmıştır? (Tekrar)",
+    "options": [
+      "pek çok şeyler",
+      "hiç bir",
+      "her şey",
+      "bir kaç"
+    ],
+    "answer": "her şey",
+    "answerLetter": "C",
+    "explanation": "Her şey ayrı yazılır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-075",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yazım Kuralları",
+    "difficulty": "Orta",
+    "question": "Özel adlara gelen çekim ekleri nasıl yazılır? (Tekrar)",
+    "options": [
+      "Her zaman ayrı yazılır",
+      "Kesme işaretiyle ayrılır",
+      "Yazılmaz",
+      "Bitişik yazılır"
+    ],
+    "answer": "Kesme işaretiyle ayrılır",
+    "answerLetter": "B",
+    "explanation": "Özel adlara gelen çekim ekleri kesme işaretiyle ayrılır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-076",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yazım Kuralları",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır? (Tekrar)",
+    "options": [
+      "Herkez burada toplandı.",
+      "Bugün okula gittim.",
+      "Yarın görüşürüz.",
+      "Kitabı aldım."
     ],
     "answer": "Herkez burada toplandı.",
     "answerLetter": "A",
     "explanation": "Doğru yazım 'herkes' olmalıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
-    "id": "tr-074",
+    "id": "tr-077",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yazım Kuralları",
@@ -9643,61 +14883,7 @@ window.QUESTIONS = [
     "answer": "her şey",
     "answerLetter": "D",
     "explanation": "Her şey ayrı yazılır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
-  },
-  {
-    "id": "tr-075",
-    "testGroup": "Türkçe",
-    "category": "Türkçe",
-    "topic": "Yazım Kuralları",
-    "difficulty": "Orta",
-    "question": "Özel adlara gelen çekim ekleri nasıl yazılır? (Tekrar)",
-    "options": [
-      "Yazılmaz",
-      "Kesme işaretiyle ayrılır",
-      "Bitişik yazılır",
-      "Her zaman ayrı yazılır"
-    ],
-    "answer": "Kesme işaretiyle ayrılır",
-    "answerLetter": "B",
-    "explanation": "Özel adlara gelen çekim ekleri kesme işaretiyle ayrılır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
-  },
-  {
-    "id": "tr-076",
-    "testGroup": "Türkçe",
-    "category": "Türkçe",
-    "topic": "Yazım Kuralları",
-    "difficulty": "Zor",
-    "question": "Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır? (Tekrar)",
-    "options": [
-      "Bugün okula gittim.",
-      "Herkez burada toplandı.",
-      "Yarın görüşürüz.",
-      "Kitabı aldım."
-    ],
-    "answer": "Herkez burada toplandı.",
-    "answerLetter": "B",
-    "explanation": "Doğru yazım 'herkes' olmalıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
-  },
-  {
-    "id": "tr-077",
-    "testGroup": "Türkçe",
-    "category": "Türkçe",
-    "topic": "Yazım Kuralları",
-    "difficulty": "Zor",
-    "question": "Aşağıdakilerden hangisi doğru yazılmıştır? (Tekrar)",
-    "options": [
-      "her şey",
-      "bir kaç",
-      "pek çok şeyler",
-      "hiç bir"
-    ],
-    "answer": "her şey",
-    "answerLetter": "A",
-    "explanation": "Her şey ayrı yazılır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-078",
@@ -9707,33 +14893,33 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "Özel adlara gelen çekim ekleri nasıl yazılır? (Tekrar)",
     "options": [
-      "Her zaman ayrı yazılır",
       "Yazılmaz",
+      "Bitişik yazılır",
       "Kesme işaretiyle ayrılır",
-      "Bitişik yazılır"
+      "Her zaman ayrı yazılır"
     ],
     "answer": "Kesme işaretiyle ayrılır",
     "answerLetter": "C",
     "explanation": "Özel adlara gelen çekim ekleri kesme işaretiyle ayrılır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-079",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yazım Kuralları",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır? (Tekrar)",
     "options": [
-      "Kitabı aldım.",
-      "Bugün okula gittim.",
+      "Yarın görüşürüz.",
       "Herkez burada toplandı.",
-      "Yarın görüşürüz."
+      "Kitabı aldım.",
+      "Bugün okula gittim."
     ],
     "answer": "Herkez burada toplandı.",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Doğru yazım 'herkes' olmalıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-080",
@@ -9743,22 +14929,22 @@ window.QUESTIONS = [
     "difficulty": "Kolay",
     "question": "Aşağıdakilerden hangisi doğru yazılmıştır? (Tekrar)",
     "options": [
-      "hiç bir",
       "her şey",
+      "hiç bir",
       "bir kaç",
       "pek çok şeyler"
     ],
     "answer": "her şey",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "Her şey ayrı yazılır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-081",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Noktalama",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Eş görevli sözcükleri ayırmak için hangi noktalama kullanılır?",
     "options": [
       "Nokta",
@@ -9769,50 +14955,50 @@ window.QUESTIONS = [
     "answer": "Virgül",
     "answerLetter": "D",
     "explanation": "Virgül eş görevli kelimeleri ayırır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-082",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Noktalama",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Tamamlanmış cümlenin sonuna hangi işaret konur?",
     "options": [
-      "Kısa çizgi",
       "Kesme",
+      "Virgül",
       "Nokta",
-      "Virgül"
+      "Kısa çizgi"
     ],
     "answer": "Nokta",
     "answerLetter": "C",
     "explanation": "Tamamlanmış yargı nokta ile biter.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-083",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Noktalama",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Soru anlamı taşıyan cümlelerin sonuna ne konur?",
     "options": [
-      "İki nokta",
+      "Nokta",
       "Soru işareti",
-      "Virgül",
-      "Nokta"
+      "İki nokta",
+      "Virgül"
     ],
     "answer": "Soru işareti",
     "answerLetter": "B",
     "explanation": "Soru cümlelerinde soru işareti kullanılır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-084",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Noktalama",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Eş görevli sözcükleri ayırmak için hangi noktalama kullanılır?",
     "options": [
       "Virgül",
@@ -9823,7 +15009,7 @@ window.QUESTIONS = [
     "answer": "Virgül",
     "answerLetter": "A",
     "explanation": "Virgül eş görevli kelimeleri ayırır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-085",
@@ -9841,50 +15027,50 @@ window.QUESTIONS = [
     "answer": "Nokta",
     "answerLetter": "D",
     "explanation": "Tamamlanmış yargı nokta ile biter.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-086",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Noktalama",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Soru anlamı taşıyan cümlelerin sonuna ne konur?",
     "options": [
-      "Nokta",
       "İki nokta",
+      "Virgül",
       "Soru işareti",
-      "Virgül"
+      "Nokta"
     ],
     "answer": "Soru işareti",
     "answerLetter": "C",
     "explanation": "Soru cümlelerinde soru işareti kullanılır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-087",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Noktalama",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Türkçe çalışmasında: eş görevli sözcükleri ayırmak için hangi noktalama kullanılır?",
     "options": [
-      "Ünlem",
+      "Soru işareti",
       "Virgül",
-      "Nokta",
-      "Soru işareti"
+      "Ünlem",
+      "Nokta"
     ],
     "answer": "Virgül",
     "answerLetter": "B",
     "explanation": "Virgül eş görevli kelimeleri ayırır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-088",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Noktalama",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Türkçe çalışmasında: tamamlanmış cümlenin sonuna hangi işaret konur?",
     "options": [
       "Nokta",
@@ -9895,14 +15081,14 @@ window.QUESTIONS = [
     "answer": "Nokta",
     "answerLetter": "A",
     "explanation": "Tamamlanmış yargı nokta ile biter.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-089",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Noktalama",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Türkçe çalışmasında: soru anlamı taşıyan cümlelerin sonuna ne konur?",
     "options": [
       "Virgül",
@@ -9913,43 +15099,43 @@ window.QUESTIONS = [
     "answer": "Soru işareti",
     "answerLetter": "D",
     "explanation": "Soru cümlelerinde soru işareti kullanılır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-090",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Noktalama",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Eş görevli sözcükleri ayırmak için hangi noktalama kullanılır? (Tekrar)",
     "options": [
-      "Soru işareti",
       "Ünlem",
+      "Nokta",
       "Virgül",
-      "Nokta"
+      "Soru işareti"
     ],
     "answer": "Virgül",
     "answerLetter": "C",
     "explanation": "Virgül eş görevli kelimeleri ayırır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-091",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Noktalama",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Tamamlanmış cümlenin sonuna hangi işaret konur? (Tekrar)",
     "options": [
-      "Kesme",
+      "Kısa çizgi",
       "Nokta",
-      "Virgül",
-      "Kısa çizgi"
+      "Kesme",
+      "Virgül"
     ],
     "answer": "Nokta",
     "answerLetter": "B",
     "explanation": "Tamamlanmış yargı nokta ile biter.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-092",
@@ -9967,7 +15153,7 @@ window.QUESTIONS = [
     "answer": "Soru işareti",
     "answerLetter": "A",
     "explanation": "Soru cümlelerinde soru işareti kullanılır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-093",
@@ -9985,25 +15171,25 @@ window.QUESTIONS = [
     "answer": "Virgül",
     "answerLetter": "D",
     "explanation": "Virgül eş görevli kelimeleri ayırır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-094",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Noktalama",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Tamamlanmış cümlenin sonuna hangi işaret konur? (Tekrar)",
     "options": [
-      "Kısa çizgi",
       "Kesme",
+      "Virgül",
       "Nokta",
-      "Virgül"
+      "Kısa çizgi"
     ],
     "answer": "Nokta",
     "answerLetter": "C",
     "explanation": "Tamamlanmış yargı nokta ile biter.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-095",
@@ -10013,22 +15199,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Soru anlamı taşıyan cümlelerin sonuna ne konur? (Tekrar)",
     "options": [
-      "İki nokta",
+      "Nokta",
       "Soru işareti",
-      "Virgül",
-      "Nokta"
+      "İki nokta",
+      "Virgül"
     ],
     "answer": "Soru işareti",
     "answerLetter": "B",
     "explanation": "Soru cümlelerinde soru işareti kullanılır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-096",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Noktalama",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Eş görevli sözcükleri ayırmak için hangi noktalama kullanılır? (Tekrar)",
     "options": [
       "Virgül",
@@ -10039,14 +15225,14 @@ window.QUESTIONS = [
     "answer": "Virgül",
     "answerLetter": "A",
     "explanation": "Virgül eş görevli kelimeleri ayırır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-097",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Noktalama",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Tamamlanmış cümlenin sonuna hangi işaret konur? (Tekrar)",
     "options": [
       "Virgül",
@@ -10057,7 +15243,7 @@ window.QUESTIONS = [
     "answer": "Nokta",
     "answerLetter": "D",
     "explanation": "Tamamlanmış yargı nokta ile biter.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-098",
@@ -10067,33 +15253,33 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "Soru anlamı taşıyan cümlelerin sonuna ne konur? (Tekrar)",
     "options": [
-      "Nokta",
       "İki nokta",
+      "Virgül",
       "Soru işareti",
-      "Virgül"
+      "Nokta"
     ],
     "answer": "Soru işareti",
     "answerLetter": "C",
     "explanation": "Soru cümlelerinde soru işareti kullanılır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-099",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Noktalama",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Eş görevli sözcükleri ayırmak için hangi noktalama kullanılır? (Tekrar)",
     "options": [
-      "Ünlem",
+      "Soru işareti",
       "Virgül",
-      "Nokta",
-      "Soru işareti"
+      "Ünlem",
+      "Nokta"
     ],
     "answer": "Virgül",
     "answerLetter": "B",
     "explanation": "Virgül eş görevli kelimeleri ayırır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-100",
@@ -10111,14 +15297,14 @@ window.QUESTIONS = [
     "answer": "Nokta",
     "answerLetter": "A",
     "explanation": "Tamamlanmış yargı nokta ile biter.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-101",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Ses Bilgisi",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Aşağıdakilerden hangisinde ünsüz yumuşaması vardır?",
     "options": [
       "Geliyor",
@@ -10129,50 +15315,50 @@ window.QUESTIONS = [
     "answer": "Kitapı > kitabı",
     "answerLetter": "D",
     "explanation": "p sesi b'ye dönüşür.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-102",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Ses Bilgisi",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Aşağıdaki kelimelerden hangisi ünlü düşmesine örnektir?",
     "options": [
-      "Evde",
       "Kitaplar",
+      "Kalemler",
       "Ağızı > ağzı",
-      "Kalemler"
+      "Evde"
     ],
     "answer": "Ağızı > ağzı",
     "answerLetter": "C",
     "explanation": "İkinci hecedeki ünlü düşer.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-103",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Ses Bilgisi",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Ünlü daralmasına örnek olan kullanım hangisidir?",
     "options": [
-      "Kalem-im",
+      "Ev-de",
       "Başla-yor > başlıyor",
-      "Kitap-lar",
-      "Ev-de"
+      "Kalem-im",
+      "Kitap-lar"
     ],
     "answer": "Başla-yor > başlıyor",
     "answerLetter": "B",
     "explanation": "a sesi ı'ya daralır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-104",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Ses Bilgisi",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Verilenlerden hangisinde ünsüz yumuşaması vardır?",
     "options": [
       "Kitapı > kitabı",
@@ -10183,7 +15369,7 @@ window.QUESTIONS = [
     "answer": "Kitapı > kitabı",
     "answerLetter": "A",
     "explanation": "p sesi b'ye dönüşür.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-105",
@@ -10201,50 +15387,50 @@ window.QUESTIONS = [
     "answer": "Ağızı > ağzı",
     "answerLetter": "D",
     "explanation": "İkinci hecedeki ünlü düşer.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-106",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Ses Bilgisi",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Ünlü daralmasına örnek olan kullanım hangisidir?",
     "options": [
-      "Ev-de",
       "Kalem-im",
+      "Kitap-lar",
       "Başla-yor > başlıyor",
-      "Kitap-lar"
+      "Ev-de"
     ],
     "answer": "Başla-yor > başlıyor",
     "answerLetter": "C",
     "explanation": "a sesi ı'ya daralır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-107",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Ses Bilgisi",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Türkçe çalışmasında: aşağıdakilerden hangisinde ünsüz yumuşaması vardır?",
     "options": [
-      "Kalemler",
+      "Ağaçlar",
       "Kitapı > kitabı",
-      "Geliyor",
-      "Ağaçlar"
+      "Kalemler",
+      "Geliyor"
     ],
     "answer": "Kitapı > kitabı",
     "answerLetter": "B",
     "explanation": "p sesi b'ye dönüşür.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-108",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Ses Bilgisi",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Türkçe çalışmasında: aşağıdaki kelimelerden hangisi ünlü düşmesine örnektir?",
     "options": [
       "Ağızı > ağzı",
@@ -10255,14 +15441,14 @@ window.QUESTIONS = [
     "answer": "Ağızı > ağzı",
     "answerLetter": "A",
     "explanation": "İkinci hecedeki ünlü düşer.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-109",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Ses Bilgisi",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Türkçe çalışmasında: ünlü daralmasına örnek olan kullanım hangisidir?",
     "options": [
       "Kitap-lar",
@@ -10273,43 +15459,43 @@ window.QUESTIONS = [
     "answer": "Başla-yor > başlıyor",
     "answerLetter": "D",
     "explanation": "a sesi ı'ya daralır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-110",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Ses Bilgisi",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Aşağıdakilerden hangisinde ünsüz yumuşaması vardır? (Tekrar)",
     "options": [
-      "Ağaçlar",
       "Kalemler",
+      "Geliyor",
       "Kitapı > kitabı",
-      "Geliyor"
+      "Ağaçlar"
     ],
     "answer": "Kitapı > kitabı",
     "answerLetter": "C",
     "explanation": "p sesi b'ye dönüşür.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-111",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Ses Bilgisi",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Aşağıdaki kelimelerden hangisi ünlü düşmesine örnektir? (Tekrar)",
     "options": [
-      "Kitaplar",
+      "Evde",
       "Ağızı > ağzı",
-      "Kalemler",
-      "Evde"
+      "Kitaplar",
+      "Kalemler"
     ],
     "answer": "Ağızı > ağzı",
     "answerLetter": "B",
     "explanation": "İkinci hecedeki ünlü düşer.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-112",
@@ -10327,7 +15513,7 @@ window.QUESTIONS = [
     "answer": "Başla-yor > başlıyor",
     "answerLetter": "A",
     "explanation": "a sesi ı'ya daralır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-113",
@@ -10345,25 +15531,25 @@ window.QUESTIONS = [
     "answer": "Kitapı > kitabı",
     "answerLetter": "D",
     "explanation": "p sesi b'ye dönüşür.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-114",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Ses Bilgisi",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Aşağıdaki kelimelerden hangisi ünlü düşmesine örnektir? (Tekrar)",
     "options": [
-      "Evde",
       "Kitaplar",
+      "Kalemler",
       "Ağızı > ağzı",
-      "Kalemler"
+      "Evde"
     ],
     "answer": "Ağızı > ağzı",
     "answerLetter": "C",
     "explanation": "İkinci hecedeki ünlü düşer.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-115",
@@ -10373,22 +15559,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Ünlü daralmasına örnek olan kullanım hangisidir? (Tekrar)",
     "options": [
-      "Kalem-im",
+      "Ev-de",
       "Başla-yor > başlıyor",
-      "Kitap-lar",
-      "Ev-de"
+      "Kalem-im",
+      "Kitap-lar"
     ],
     "answer": "Başla-yor > başlıyor",
     "answerLetter": "B",
     "explanation": "a sesi ı'ya daralır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-116",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Ses Bilgisi",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Aşağıdakilerden hangisinde ünsüz yumuşaması vardır? (Tekrar)",
     "options": [
       "Kitapı > kitabı",
@@ -10399,14 +15585,14 @@ window.QUESTIONS = [
     "answer": "Kitapı > kitabı",
     "answerLetter": "A",
     "explanation": "p sesi b'ye dönüşür.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-117",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Ses Bilgisi",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Aşağıdaki kelimelerden hangisi ünlü düşmesine örnektir? (Tekrar)",
     "options": [
       "Kalemler",
@@ -10417,7 +15603,7 @@ window.QUESTIONS = [
     "answer": "Ağızı > ağzı",
     "answerLetter": "D",
     "explanation": "İkinci hecedeki ünlü düşer.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-118",
@@ -10427,33 +15613,33 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "Ünlü daralmasına örnek olan kullanım hangisidir? (Tekrar)",
     "options": [
-      "Ev-de",
       "Kalem-im",
+      "Kitap-lar",
       "Başla-yor > başlıyor",
-      "Kitap-lar"
+      "Ev-de"
     ],
     "answer": "Başla-yor > başlıyor",
     "answerLetter": "C",
     "explanation": "a sesi ı'ya daralır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-119",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Ses Bilgisi",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Aşağıdakilerden hangisinde ünsüz yumuşaması vardır? (Tekrar)",
     "options": [
-      "Kalemler",
+      "Ağaçlar",
       "Kitapı > kitabı",
-      "Geliyor",
-      "Ağaçlar"
+      "Kalemler",
+      "Geliyor"
     ],
     "answer": "Kitapı > kitabı",
     "answerLetter": "B",
     "explanation": "p sesi b'ye dönüşür.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-120",
@@ -10471,14 +15657,14 @@ window.QUESTIONS = [
     "answer": "Ağızı > ağzı",
     "answerLetter": "A",
     "explanation": "İkinci hecedeki ünlü düşer.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-121",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yapı Bilgisi",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Yapım eki için hangisi doğrudur?",
     "options": [
       "Sadece cümleyi bitirir",
@@ -10489,50 +15675,50 @@ window.QUESTIONS = [
     "answer": "Yeni anlamlı kelime türetir",
     "answerLetter": "D",
     "explanation": "Yapım eki kelimenin anlamını değiştirir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-122",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yapı Bilgisi",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Çekim eki ne işe yarar?",
     "options": [
-      "Her zaman kökü siler",
       "Noktalama oluşturur",
+      "Yeni kelime yapmaz",
       "Kelimeye cümlede görev kazandırır",
-      "Yeni kelime yapmaz"
+      "Her zaman kökü siler"
     ],
     "answer": "Kelimeye cümlede görev kazandırır",
     "answerLetter": "C",
     "explanation": "Çekim ekleri görev ilişkisi kurar.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-123",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yapı Bilgisi",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Bir kelimenin anlamlı en küçük birimine ne denir?",
     "options": [
-      "Paragraf",
+      "Cümle",
       "Kök",
-      "Ek",
-      "Cümle"
+      "Paragraf",
+      "Ek"
     ],
     "answer": "Kök",
     "answerLetter": "B",
     "explanation": "Kök anlamlı en küçük birimdir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-124",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yapı Bilgisi",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Yapım eki için hangisi doğrudur?",
     "options": [
       "Yeni anlamlı kelime türetir",
@@ -10543,7 +15729,7 @@ window.QUESTIONS = [
     "answer": "Yeni anlamlı kelime türetir",
     "answerLetter": "A",
     "explanation": "Yapım eki kelimenin anlamını değiştirir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-125",
@@ -10561,50 +15747,50 @@ window.QUESTIONS = [
     "answer": "Kelimeye cümlede görev kazandırır",
     "answerLetter": "D",
     "explanation": "Çekim ekleri görev ilişkisi kurar.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-126",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yapı Bilgisi",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Bir kelimenin anlamlı en küçük birimine ne denir?",
     "options": [
-      "Cümle",
       "Paragraf",
+      "Ek",
       "Kök",
-      "Ek"
+      "Cümle"
     ],
     "answer": "Kök",
     "answerLetter": "C",
     "explanation": "Kök anlamlı en küçük birimdir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-127",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yapı Bilgisi",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Türkçe çalışmasında: yapım eki için hangisi doğrudur?",
     "options": [
-      "Her zaman ayrı yazılır",
+      "Noktalama işaretidir",
       "Yeni anlamlı kelime türetir",
-      "Sadece cümleyi bitirir",
-      "Noktalama işaretidir"
+      "Her zaman ayrı yazılır",
+      "Sadece cümleyi bitirir"
     ],
     "answer": "Yeni anlamlı kelime türetir",
     "answerLetter": "B",
     "explanation": "Yapım eki kelimenin anlamını değiştirir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-128",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yapı Bilgisi",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Türkçe çalışmasında: çekim eki ne işe yarar?",
     "options": [
       "Kelimeye cümlede görev kazandırır",
@@ -10615,14 +15801,14 @@ window.QUESTIONS = [
     "answer": "Kelimeye cümlede görev kazandırır",
     "answerLetter": "A",
     "explanation": "Çekim ekleri görev ilişkisi kurar.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-129",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yapı Bilgisi",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Türkçe çalışmasında: bir kelimenin anlamlı en küçük birimine ne denir?",
     "options": [
       "Ek",
@@ -10633,43 +15819,43 @@ window.QUESTIONS = [
     "answer": "Kök",
     "answerLetter": "D",
     "explanation": "Kök anlamlı en küçük birimdir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-130",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yapı Bilgisi",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Yapım eki için hangisi doğrudur? (Tekrar)",
     "options": [
-      "Noktalama işaretidir",
       "Her zaman ayrı yazılır",
+      "Sadece cümleyi bitirir",
       "Yeni anlamlı kelime türetir",
-      "Sadece cümleyi bitirir"
+      "Noktalama işaretidir"
     ],
     "answer": "Yeni anlamlı kelime türetir",
     "answerLetter": "C",
     "explanation": "Yapım eki kelimenin anlamını değiştirir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-131",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yapı Bilgisi",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Çekim eki ne işe yarar? (Tekrar)",
     "options": [
-      "Noktalama oluşturur",
+      "Her zaman kökü siler",
       "Kelimeye cümlede görev kazandırır",
-      "Yeni kelime yapmaz",
-      "Her zaman kökü siler"
+      "Noktalama oluşturur",
+      "Yeni kelime yapmaz"
     ],
     "answer": "Kelimeye cümlede görev kazandırır",
     "answerLetter": "B",
     "explanation": "Çekim ekleri görev ilişkisi kurar.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-132",
@@ -10687,7 +15873,7 @@ window.QUESTIONS = [
     "answer": "Kök",
     "answerLetter": "A",
     "explanation": "Kök anlamlı en küçük birimdir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-133",
@@ -10705,25 +15891,25 @@ window.QUESTIONS = [
     "answer": "Yeni anlamlı kelime türetir",
     "answerLetter": "D",
     "explanation": "Yapım eki kelimenin anlamını değiştirir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-134",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yapı Bilgisi",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Çekim eki ne işe yarar? (Tekrar)",
     "options": [
-      "Her zaman kökü siler",
       "Noktalama oluşturur",
+      "Yeni kelime yapmaz",
       "Kelimeye cümlede görev kazandırır",
-      "Yeni kelime yapmaz"
+      "Her zaman kökü siler"
     ],
     "answer": "Kelimeye cümlede görev kazandırır",
     "answerLetter": "C",
     "explanation": "Çekim ekleri görev ilişkisi kurar.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-135",
@@ -10733,22 +15919,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Bir kelimenin anlamlı en küçük birimine ne denir? (Tekrar)",
     "options": [
-      "Paragraf",
+      "Cümle",
       "Kök",
-      "Ek",
-      "Cümle"
+      "Paragraf",
+      "Ek"
     ],
     "answer": "Kök",
     "answerLetter": "B",
     "explanation": "Kök anlamlı en küçük birimdir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-136",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yapı Bilgisi",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Yapım eki için hangisi doğrudur? (Tekrar)",
     "options": [
       "Yeni anlamlı kelime türetir",
@@ -10759,14 +15945,14 @@ window.QUESTIONS = [
     "answer": "Yeni anlamlı kelime türetir",
     "answerLetter": "A",
     "explanation": "Yapım eki kelimenin anlamını değiştirir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-137",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yapı Bilgisi",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Çekim eki ne işe yarar? (Tekrar)",
     "options": [
       "Yeni kelime yapmaz",
@@ -10777,7 +15963,7 @@ window.QUESTIONS = [
     "answer": "Kelimeye cümlede görev kazandırır",
     "answerLetter": "D",
     "explanation": "Çekim ekleri görev ilişkisi kurar.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-138",
@@ -10787,33 +15973,33 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "Bir kelimenin anlamlı en küçük birimine ne denir? (Tekrar)",
     "options": [
-      "Cümle",
       "Paragraf",
+      "Ek",
       "Kök",
-      "Ek"
+      "Cümle"
     ],
     "answer": "Kök",
     "answerLetter": "C",
     "explanation": "Kök anlamlı en küçük birimdir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-139",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Yapı Bilgisi",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Yapım eki için hangisi doğrudur? (Tekrar)",
     "options": [
-      "Her zaman ayrı yazılır",
+      "Noktalama işaretidir",
       "Yeni anlamlı kelime türetir",
-      "Sadece cümleyi bitirir",
-      "Noktalama işaretidir"
+      "Her zaman ayrı yazılır",
+      "Sadece cümleyi bitirir"
     ],
     "answer": "Yeni anlamlı kelime türetir",
     "answerLetter": "B",
     "explanation": "Yapım eki kelimenin anlamını değiştirir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-140",
@@ -10831,14 +16017,14 @@ window.QUESTIONS = [
     "answer": "Kelimeye cümlede görev kazandırır",
     "answerLetter": "A",
     "explanation": "Çekim ekleri görev ilişkisi kurar.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-141",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Fiiller",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Fiiller ne bildirir?",
     "options": [
       "Sadece nesne adı",
@@ -10849,50 +16035,50 @@ window.QUESTIONS = [
     "answer": "İş, oluş veya durum",
     "answerLetter": "D",
     "explanation": "Fiiller hareket veya durum bildirir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-142",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Fiiller",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Aşağıdakilerden hangisi fiildir?",
     "options": [
-      "Güzel",
       "Kırmızı",
+      "Masa",
       "Koşmak",
-      "Masa"
+      "Güzel"
     ],
     "answer": "Koşmak",
     "answerLetter": "C",
     "explanation": "Koşmak iş bildiren fiildir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-143",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Fiiller",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Fiil çekiminde hangi unsur bulunabilir?",
     "options": [
-      "Sadece paragraf",
+      "Sadece başlık",
       "Kip ve kişi eki",
-      "Sadece nokta",
-      "Sadece başlık"
+      "Sadece paragraf",
+      "Sadece nokta"
     ],
     "answer": "Kip ve kişi eki",
     "answerLetter": "B",
     "explanation": "Fiiller kip ve kişi eki alır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-144",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Fiiller",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Fiiller ne bildirir?",
     "options": [
       "İş, oluş veya durum",
@@ -10903,7 +16089,7 @@ window.QUESTIONS = [
     "answer": "İş, oluş veya durum",
     "answerLetter": "A",
     "explanation": "Fiiller hareket veya durum bildirir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-145",
@@ -10921,50 +16107,50 @@ window.QUESTIONS = [
     "answer": "Koşmak",
     "answerLetter": "D",
     "explanation": "Koşmak iş bildiren fiildir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-146",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Fiiller",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Fiil çekiminde hangi unsur bulunabilir?",
     "options": [
-      "Sadece başlık",
       "Sadece paragraf",
+      "Sadece nokta",
       "Kip ve kişi eki",
-      "Sadece nokta"
+      "Sadece başlık"
     ],
     "answer": "Kip ve kişi eki",
     "answerLetter": "C",
     "explanation": "Fiiller kip ve kişi eki alır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-147",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Fiiller",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Türkçe çalışmasında: fiiller ne bildirir?",
     "options": [
-      "Sadece sayı",
+      "Sadece renk",
       "İş, oluş veya durum",
-      "Sadece nesne adı",
-      "Sadece renk"
+      "Sadece sayı",
+      "Sadece nesne adı"
     ],
     "answer": "İş, oluş veya durum",
     "answerLetter": "B",
     "explanation": "Fiiller hareket veya durum bildirir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-148",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Fiiller",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Türkçe çalışmasında: aşağıdakilerden hangisi fiildir?",
     "options": [
       "Koşmak",
@@ -10975,14 +16161,14 @@ window.QUESTIONS = [
     "answer": "Koşmak",
     "answerLetter": "A",
     "explanation": "Koşmak iş bildiren fiildir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-149",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Fiiller",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Türkçe çalışmasında: fiil çekiminde hangi unsur bulunabilir?",
     "options": [
       "Sadece nokta",
@@ -10993,43 +16179,43 @@ window.QUESTIONS = [
     "answer": "Kip ve kişi eki",
     "answerLetter": "D",
     "explanation": "Fiiller kip ve kişi eki alır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-150",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Fiiller",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Fiiller ne bildirir? (Tekrar)",
     "options": [
-      "Sadece renk",
       "Sadece sayı",
+      "Sadece nesne adı",
       "İş, oluş veya durum",
-      "Sadece nesne adı"
+      "Sadece renk"
     ],
     "answer": "İş, oluş veya durum",
     "answerLetter": "C",
     "explanation": "Fiiller hareket veya durum bildirir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-151",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Fiiller",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Aşağıdakilerden hangisi fiildir? (Tekrar)",
     "options": [
-      "Kırmızı",
+      "Güzel",
       "Koşmak",
-      "Masa",
-      "Güzel"
+      "Kırmızı",
+      "Masa"
     ],
     "answer": "Koşmak",
     "answerLetter": "B",
     "explanation": "Koşmak iş bildiren fiildir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-152",
@@ -11047,7 +16233,7 @@ window.QUESTIONS = [
     "answer": "Kip ve kişi eki",
     "answerLetter": "A",
     "explanation": "Fiiller kip ve kişi eki alır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-153",
@@ -11065,25 +16251,25 @@ window.QUESTIONS = [
     "answer": "İş, oluş veya durum",
     "answerLetter": "D",
     "explanation": "Fiiller hareket veya durum bildirir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-154",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Fiiller",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Aşağıdakilerden hangisi fiildir? (Tekrar)",
     "options": [
-      "Güzel",
       "Kırmızı",
+      "Masa",
       "Koşmak",
-      "Masa"
+      "Güzel"
     ],
     "answer": "Koşmak",
     "answerLetter": "C",
     "explanation": "Koşmak iş bildiren fiildir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-155",
@@ -11093,22 +16279,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Fiil çekiminde hangi unsur bulunabilir? (Tekrar)",
     "options": [
-      "Sadece paragraf",
+      "Sadece başlık",
       "Kip ve kişi eki",
-      "Sadece nokta",
-      "Sadece başlık"
+      "Sadece paragraf",
+      "Sadece nokta"
     ],
     "answer": "Kip ve kişi eki",
     "answerLetter": "B",
     "explanation": "Fiiller kip ve kişi eki alır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-156",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Fiiller",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Fiiller ne bildirir? (Tekrar)",
     "options": [
       "İş, oluş veya durum",
@@ -11119,14 +16305,14 @@ window.QUESTIONS = [
     "answer": "İş, oluş veya durum",
     "answerLetter": "A",
     "explanation": "Fiiller hareket veya durum bildirir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-157",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Fiiller",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Aşağıdakilerden hangisi fiildir? (Tekrar)",
     "options": [
       "Masa",
@@ -11137,7 +16323,7 @@ window.QUESTIONS = [
     "answer": "Koşmak",
     "answerLetter": "D",
     "explanation": "Koşmak iş bildiren fiildir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-158",
@@ -11147,33 +16333,33 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "Fiil çekiminde hangi unsur bulunabilir? (Tekrar)",
     "options": [
-      "Sadece başlık",
       "Sadece paragraf",
+      "Sadece nokta",
       "Kip ve kişi eki",
-      "Sadece nokta"
+      "Sadece başlık"
     ],
     "answer": "Kip ve kişi eki",
     "answerLetter": "C",
     "explanation": "Fiiller kip ve kişi eki alır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-159",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Fiiller",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Fiiller ne bildirir? (Tekrar)",
     "options": [
-      "Sadece sayı",
+      "Sadece renk",
       "İş, oluş veya durum",
-      "Sadece nesne adı",
-      "Sadece renk"
+      "Sadece sayı",
+      "Sadece nesne adı"
     ],
     "answer": "İş, oluş veya durum",
     "answerLetter": "B",
     "explanation": "Fiiller hareket veya durum bildirir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-160",
@@ -11191,14 +16377,14 @@ window.QUESTIONS = [
     "answer": "Koşmak",
     "answerLetter": "A",
     "explanation": "Koşmak iş bildiren fiildir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-161",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümle Türleri",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Yüklemi fiil olan cümleye ne denir?",
     "options": [
       "İsim cümlesi",
@@ -11209,50 +16395,50 @@ window.QUESTIONS = [
     "answer": "Fiil cümlesi",
     "answerLetter": "D",
     "explanation": "Yüklem fiilse fiil cümlesidir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-162",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümle Türleri",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Yüklemi sonda olan cümle hangisidir?",
     "options": [
-      "Eksiltili cümle",
       "Soru cümlesi",
+      "Devrik cümle",
       "Kurallı cümle",
-      "Devrik cümle"
+      "Eksiltili cümle"
     ],
     "answer": "Kurallı cümle",
     "answerLetter": "C",
     "explanation": "Türkçede yüklem sonda ise cümle kurallıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-163",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümle Türleri",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Olumsuz cümle için hangisi doğrudur?",
     "options": [
-      "Yüklemsizdir",
+      "Her zaman emir verir",
       "Yargının gerçekleşmediğini bildirir",
-      "Her zaman soru sorar",
-      "Her zaman emir verir"
+      "Yüklemsizdir",
+      "Her zaman soru sorar"
     ],
     "answer": "Yargının gerçekleşmediğini bildirir",
     "answerLetter": "B",
     "explanation": "Olumsuzluk eylemin yapılmadığını gösterir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-164",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümle Türleri",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Yüklemi fiil olan cümleye ne denir?",
     "options": [
       "Fiil cümlesi",
@@ -11263,7 +16449,7 @@ window.QUESTIONS = [
     "answer": "Fiil cümlesi",
     "answerLetter": "A",
     "explanation": "Yüklem fiilse fiil cümlesidir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-165",
@@ -11281,50 +16467,50 @@ window.QUESTIONS = [
     "answer": "Kurallı cümle",
     "answerLetter": "D",
     "explanation": "Türkçede yüklem sonda ise cümle kurallıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-166",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümle Türleri",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Olumsuz cümle için hangisi doğrudur?",
     "options": [
-      "Her zaman emir verir",
       "Yüklemsizdir",
+      "Her zaman soru sorar",
       "Yargının gerçekleşmediğini bildirir",
-      "Her zaman soru sorar"
+      "Her zaman emir verir"
     ],
     "answer": "Yargının gerçekleşmediğini bildirir",
     "answerLetter": "C",
     "explanation": "Olumsuzluk eylemin yapılmadığını gösterir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-167",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümle Türleri",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Türkçe çalışmasında: yüklemi fiil olan cümleye ne denir?",
     "options": [
-      "Deyim",
+      "Paragraf",
       "Fiil cümlesi",
-      "İsim cümlesi",
-      "Paragraf"
+      "Deyim",
+      "İsim cümlesi"
     ],
     "answer": "Fiil cümlesi",
     "answerLetter": "B",
     "explanation": "Yüklem fiilse fiil cümlesidir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-168",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümle Türleri",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Türkçe çalışmasında: yüklemi sonda olan cümle hangisidir?",
     "options": [
       "Kurallı cümle",
@@ -11335,14 +16521,14 @@ window.QUESTIONS = [
     "answer": "Kurallı cümle",
     "answerLetter": "A",
     "explanation": "Türkçede yüklem sonda ise cümle kurallıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-169",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümle Türleri",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Türkçe çalışmasında: olumsuz cümle için hangisi doğrudur?",
     "options": [
       "Her zaman soru sorar",
@@ -11353,43 +16539,43 @@ window.QUESTIONS = [
     "answer": "Yargının gerçekleşmediğini bildirir",
     "answerLetter": "D",
     "explanation": "Olumsuzluk eylemin yapılmadığını gösterir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-170",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümle Türleri",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Yüklemi fiil olan cümleye ne denir? (Tekrar)",
     "options": [
-      "Paragraf",
       "Deyim",
+      "İsim cümlesi",
       "Fiil cümlesi",
-      "İsim cümlesi"
+      "Paragraf"
     ],
     "answer": "Fiil cümlesi",
     "answerLetter": "C",
     "explanation": "Yüklem fiilse fiil cümlesidir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-171",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümle Türleri",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Yüklemi sonda olan cümle hangisidir? (Tekrar)",
     "options": [
-      "Soru cümlesi",
+      "Eksiltili cümle",
       "Kurallı cümle",
-      "Devrik cümle",
-      "Eksiltili cümle"
+      "Soru cümlesi",
+      "Devrik cümle"
     ],
     "answer": "Kurallı cümle",
     "answerLetter": "B",
     "explanation": "Türkçede yüklem sonda ise cümle kurallıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-172",
@@ -11407,7 +16593,7 @@ window.QUESTIONS = [
     "answer": "Yargının gerçekleşmediğini bildirir",
     "answerLetter": "A",
     "explanation": "Olumsuzluk eylemin yapılmadığını gösterir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-173",
@@ -11425,25 +16611,25 @@ window.QUESTIONS = [
     "answer": "Fiil cümlesi",
     "answerLetter": "D",
     "explanation": "Yüklem fiilse fiil cümlesidir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-174",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümle Türleri",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Yüklemi sonda olan cümle hangisidir? (Tekrar)",
     "options": [
-      "Eksiltili cümle",
       "Soru cümlesi",
+      "Devrik cümle",
       "Kurallı cümle",
-      "Devrik cümle"
+      "Eksiltili cümle"
     ],
     "answer": "Kurallı cümle",
     "answerLetter": "C",
     "explanation": "Türkçede yüklem sonda ise cümle kurallıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-175",
@@ -11453,22 +16639,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Olumsuz cümle için hangisi doğrudur? (Tekrar)",
     "options": [
-      "Yüklemsizdir",
+      "Her zaman emir verir",
       "Yargının gerçekleşmediğini bildirir",
-      "Her zaman soru sorar",
-      "Her zaman emir verir"
+      "Yüklemsizdir",
+      "Her zaman soru sorar"
     ],
     "answer": "Yargının gerçekleşmediğini bildirir",
     "answerLetter": "B",
     "explanation": "Olumsuzluk eylemin yapılmadığını gösterir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-176",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümle Türleri",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Yüklemi fiil olan cümleye ne denir? (Tekrar)",
     "options": [
       "Fiil cümlesi",
@@ -11479,14 +16665,14 @@ window.QUESTIONS = [
     "answer": "Fiil cümlesi",
     "answerLetter": "A",
     "explanation": "Yüklem fiilse fiil cümlesidir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-177",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümle Türleri",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Yüklemi sonda olan cümle hangisidir? (Tekrar)",
     "options": [
       "Devrik cümle",
@@ -11497,7 +16683,7 @@ window.QUESTIONS = [
     "answer": "Kurallı cümle",
     "answerLetter": "D",
     "explanation": "Türkçede yüklem sonda ise cümle kurallıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-178",
@@ -11507,33 +16693,33 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "Olumsuz cümle için hangisi doğrudur? (Tekrar)",
     "options": [
-      "Her zaman emir verir",
       "Yüklemsizdir",
+      "Her zaman soru sorar",
       "Yargının gerçekleşmediğini bildirir",
-      "Her zaman soru sorar"
+      "Her zaman emir verir"
     ],
     "answer": "Yargının gerçekleşmediğini bildirir",
     "answerLetter": "C",
     "explanation": "Olumsuzluk eylemin yapılmadığını gösterir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-179",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Cümle Türleri",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Yüklemi fiil olan cümleye ne denir? (Tekrar)",
     "options": [
-      "Deyim",
+      "Paragraf",
       "Fiil cümlesi",
-      "İsim cümlesi",
-      "Paragraf"
+      "Deyim",
+      "İsim cümlesi"
     ],
     "answer": "Fiil cümlesi",
     "answerLetter": "B",
     "explanation": "Yüklem fiilse fiil cümlesidir.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-180",
@@ -11551,14 +16737,14 @@ window.QUESTIONS = [
     "answer": "Kurallı cümle",
     "answerLetter": "A",
     "explanation": "Türkçede yüklem sonda ise cümle kurallıdır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-181",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Anlatım Bozuklukları",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Aşağıdaki cümledeki bozukluk türü nedir: 'Geri iade ettim.'",
     "options": [
       "Özne eksikliği",
@@ -11569,50 +16755,50 @@ window.QUESTIONS = [
     "answer": "Gereksiz sözcük kullanımı",
     "answerLetter": "D",
     "explanation": "İade zaten geri verme anlamı taşır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-182",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Anlatım Bozuklukları",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Anlatım bozukluğunun temel nedeni hangisi olabilir?",
     "options": [
-      "Cümlenin kısa olması",
       "Nokta kullanılması",
+      "Yazının güzel olması",
       "Anlam veya dil bilgisi yanlışlığı",
-      "Yazının güzel olması"
+      "Cümlenin kısa olması"
     ],
     "answer": "Anlam veya dil bilgisi yanlışlığı",
     "answerLetter": "C",
     "explanation": "Anlatım bozukluğu anlam veya yapı hatasından doğar.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-183",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Anlatım Bozuklukları",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Aşağıdaki cümlelerin hangisi anlatımca doğrudur?",
     "options": [
-      "Toplantıya geri tekrar katıldı.",
+      "Toplantıya bütün herkes katıldı.",
       "Toplantıya herkes katıldı.",
-      "Toplantıya herkesler katıldı.",
-      "Toplantıya bütün herkes katıldı."
+      "Toplantıya geri tekrar katıldı.",
+      "Toplantıya herkesler katıldı."
     ],
     "answer": "Toplantıya herkes katıldı.",
     "answerLetter": "B",
     "explanation": "Diğer seçeneklerde gereksiz sözcük vardır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-184",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Anlatım Bozuklukları",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Verilen cümledeki bozukluk türü nedir: 'Geri iade ettim.'",
     "options": [
       "Gereksiz sözcük kullanımı",
@@ -11623,7 +16809,7 @@ window.QUESTIONS = [
     "answer": "Gereksiz sözcük kullanımı",
     "answerLetter": "A",
     "explanation": "İade zaten geri verme anlamı taşır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-185",
@@ -11641,50 +16827,50 @@ window.QUESTIONS = [
     "answer": "Anlam veya dil bilgisi yanlışlığı",
     "answerLetter": "D",
     "explanation": "Anlatım bozukluğu anlam veya yapı hatasından doğar.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-186",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Anlatım Bozuklukları",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Verilen cümlelerin hangisi anlatımca doğrudur?",
     "options": [
-      "Toplantıya bütün herkes katıldı.",
       "Toplantıya geri tekrar katıldı.",
+      "Toplantıya herkesler katıldı.",
       "Toplantıya herkes katıldı.",
-      "Toplantıya herkesler katıldı."
+      "Toplantıya bütün herkes katıldı."
     ],
     "answer": "Toplantıya herkes katıldı.",
     "answerLetter": "C",
     "explanation": "Diğer seçeneklerde gereksiz sözcük vardır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-187",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Anlatım Bozuklukları",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Türkçe çalışmasında: aşağıdaki cümledeki bozukluk türü nedir: 'Geri iade ettim.'",
     "options": [
-      "Fiilimsi eksikliği",
+      "Noktalama yanlışı",
       "Gereksiz sözcük kullanımı",
-      "Özne eksikliği",
-      "Noktalama yanlışı"
+      "Fiilimsi eksikliği",
+      "Özne eksikliği"
     ],
     "answer": "Gereksiz sözcük kullanımı",
     "answerLetter": "B",
     "explanation": "İade zaten geri verme anlamı taşır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-188",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Anlatım Bozuklukları",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Türkçe çalışmasında: anlatım bozukluğunun temel nedeni hangisi olabilir?",
     "options": [
       "Anlam veya dil bilgisi yanlışlığı",
@@ -11695,14 +16881,14 @@ window.QUESTIONS = [
     "answer": "Anlam veya dil bilgisi yanlışlığı",
     "answerLetter": "A",
     "explanation": "Anlatım bozukluğu anlam veya yapı hatasından doğar.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-189",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Anlatım Bozuklukları",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Türkçe çalışmasında: aşağıdaki cümlelerin hangisi anlatımca doğrudur?",
     "options": [
       "Toplantıya herkesler katıldı.",
@@ -11713,43 +16899,43 @@ window.QUESTIONS = [
     "answer": "Toplantıya herkes katıldı.",
     "answerLetter": "D",
     "explanation": "Diğer seçeneklerde gereksiz sözcük vardır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-190",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Anlatım Bozuklukları",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Aşağıdaki cümledeki bozukluk türü nedir: 'Geri iade ettim.' (Tekrar)",
     "options": [
-      "Noktalama yanlışı",
       "Fiilimsi eksikliği",
+      "Özne eksikliği",
       "Gereksiz sözcük kullanımı",
-      "Özne eksikliği"
+      "Noktalama yanlışı"
     ],
     "answer": "Gereksiz sözcük kullanımı",
     "answerLetter": "C",
     "explanation": "İade zaten geri verme anlamı taşır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-191",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Anlatım Bozuklukları",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Anlatım bozukluğunun temel nedeni hangisi olabilir? (Tekrar)",
     "options": [
-      "Nokta kullanılması",
+      "Cümlenin kısa olması",
       "Anlam veya dil bilgisi yanlışlığı",
-      "Yazının güzel olması",
-      "Cümlenin kısa olması"
+      "Nokta kullanılması",
+      "Yazının güzel olması"
     ],
     "answer": "Anlam veya dil bilgisi yanlışlığı",
     "answerLetter": "B",
     "explanation": "Anlatım bozukluğu anlam veya yapı hatasından doğar.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-192",
@@ -11767,7 +16953,7 @@ window.QUESTIONS = [
     "answer": "Toplantıya herkes katıldı.",
     "answerLetter": "A",
     "explanation": "Diğer seçeneklerde gereksiz sözcük vardır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-193",
@@ -11785,25 +16971,25 @@ window.QUESTIONS = [
     "answer": "Gereksiz sözcük kullanımı",
     "answerLetter": "D",
     "explanation": "İade zaten geri verme anlamı taşır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-194",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Anlatım Bozuklukları",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Anlatım bozukluğunun temel nedeni hangisi olabilir? (Tekrar)",
     "options": [
-      "Cümlenin kısa olması",
       "Nokta kullanılması",
+      "Yazının güzel olması",
       "Anlam veya dil bilgisi yanlışlığı",
-      "Yazının güzel olması"
+      "Cümlenin kısa olması"
     ],
     "answer": "Anlam veya dil bilgisi yanlışlığı",
     "answerLetter": "C",
     "explanation": "Anlatım bozukluğu anlam veya yapı hatasından doğar.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-195",
@@ -11813,22 +16999,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Aşağıdaki cümlelerin hangisi anlatımca doğrudur? (Tekrar)",
     "options": [
-      "Toplantıya geri tekrar katıldı.",
+      "Toplantıya bütün herkes katıldı.",
       "Toplantıya herkes katıldı.",
-      "Toplantıya herkesler katıldı.",
-      "Toplantıya bütün herkes katıldı."
+      "Toplantıya geri tekrar katıldı.",
+      "Toplantıya herkesler katıldı."
     ],
     "answer": "Toplantıya herkes katıldı.",
     "answerLetter": "B",
     "explanation": "Diğer seçeneklerde gereksiz sözcük vardır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-196",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Anlatım Bozuklukları",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Aşağıdaki cümledeki bozukluk türü nedir: 'Geri iade ettim.' (Tekrar)",
     "options": [
       "Gereksiz sözcük kullanımı",
@@ -11839,14 +17025,14 @@ window.QUESTIONS = [
     "answer": "Gereksiz sözcük kullanımı",
     "answerLetter": "A",
     "explanation": "İade zaten geri verme anlamı taşır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-197",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Anlatım Bozuklukları",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Anlatım bozukluğunun temel nedeni hangisi olabilir? (Tekrar)",
     "options": [
       "Yazının güzel olması",
@@ -11857,7 +17043,7 @@ window.QUESTIONS = [
     "answer": "Anlam veya dil bilgisi yanlışlığı",
     "answerLetter": "D",
     "explanation": "Anlatım bozukluğu anlam veya yapı hatasından doğar.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-198",
@@ -11867,33 +17053,33 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "Aşağıdaki cümlelerin hangisi anlatımca doğrudur? (Tekrar)",
     "options": [
-      "Toplantıya bütün herkes katıldı.",
       "Toplantıya geri tekrar katıldı.",
+      "Toplantıya herkesler katıldı.",
       "Toplantıya herkes katıldı.",
-      "Toplantıya herkesler katıldı."
+      "Toplantıya bütün herkes katıldı."
     ],
     "answer": "Toplantıya herkes katıldı.",
     "answerLetter": "C",
     "explanation": "Diğer seçeneklerde gereksiz sözcük vardır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-199",
     "testGroup": "Türkçe",
     "category": "Türkçe",
     "topic": "Anlatım Bozuklukları",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Aşağıdaki cümledeki bozukluk türü nedir: 'Geri iade ettim.' (Tekrar)",
     "options": [
-      "Fiilimsi eksikliği",
+      "Noktalama yanlışı",
       "Gereksiz sözcük kullanımı",
-      "Özne eksikliği",
-      "Noktalama yanlışı"
+      "Fiilimsi eksikliği",
+      "Özne eksikliği"
     ],
     "answer": "Gereksiz sözcük kullanımı",
     "answerLetter": "B",
     "explanation": "İade zaten geri verme anlamı taşır.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "tr-200",
@@ -11911,79 +17097,979 @@ window.QUESTIONS = [
     "answer": "Anlam veya dil bilgisi yanlışlığı",
     "answerLetter": "A",
     "explanation": "Anlatım bozukluğu anlam veya yapı hatasından doğar.",
-    "source": "Türkçe lise düzeyi soru havuzu"
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-201",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Zor",
+    "question": "Aşağıdaki cümlelerin hangisinde mecaz anlam vardır? (Konu tekrarı)",
+    "options": [
+      "Çocuk bahçede koştu.",
+      "Bugün hava çok soğuktu.",
+      "Bu sözleriyle kalbimi kırdı.",
+      "Kitabı masaya bıraktı."
+    ],
+    "answer": "Bu sözleriyle kalbimi kırdı.",
+    "answerLetter": "C",
+    "explanation": "Kalp kırmak mecaz anlamlıdır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-202",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisi 'hızlı' sözcüğünün eş anlamlısıdır? (Konu tekrarı)",
+    "options": [
+      "Yavaş",
+      "Süratli",
+      "Sessiz",
+      "Geniş"
+    ],
+    "answer": "Süratli",
+    "answerLetter": "B",
+    "explanation": "Hızlı ve süratli eş anlamlıdır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-203",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi terim anlamlıdır? (Konu tekrarı)",
+    "options": [
+      "Kök",
+      "Kalabalık",
+      "Güzel",
+      "Yarın"
+    ],
+    "answer": "Kök",
+    "answerLetter": "A",
+    "explanation": "Kök dil bilgisi ve matematikte terim olarak kullanılabilir.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-204",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Orta",
+    "question": "Verilen cümlelerin hangisinde mecaz anlam vardır? (Konu tekrarı)",
+    "options": [
+      "Bugün hava çok soğuktu.",
+      "Kitabı masaya bıraktı.",
+      "Çocuk bahçede koştu.",
+      "Bu sözleriyle kalbimi kırdı."
+    ],
+    "answer": "Bu sözleriyle kalbimi kırdı.",
+    "answerLetter": "D",
+    "explanation": "Kalp kırmak mecaz anlamlıdır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-205",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Zor",
+    "question": "Verilenlerden hangisi 'hızlı' sözcüğünün eş anlamlısıdır? (Konu tekrarı)",
+    "options": [
+      "Geniş",
+      "Yavaş",
+      "Süratli",
+      "Sessiz"
+    ],
+    "answer": "Süratli",
+    "answerLetter": "C",
+    "explanation": "Hızlı ve süratli eş anlamlıdır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-206",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Orta",
+    "question": "Verilenlerden hangisi terim anlamlıdır? (Konu tekrarı)",
+    "options": [
+      "Güzel",
+      "Kök",
+      "Yarın",
+      "Kalabalık"
+    ],
+    "answer": "Kök",
+    "answerLetter": "B",
+    "explanation": "Kök dil bilgisi ve matematikte terim olarak kullanılabilir.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-207",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Kolay",
+    "question": "Türkçe çalışmasında: aşağıdaki cümlelerin hangisinde mecaz anlam vardır? (Konu tekrarı)",
+    "options": [
+      "Bu sözleriyle kalbimi kırdı.",
+      "Çocuk bahçede koştu.",
+      "Bugün hava çok soğuktu.",
+      "Kitabı masaya bıraktı."
+    ],
+    "answer": "Bu sözleriyle kalbimi kırdı.",
+    "answerLetter": "A",
+    "explanation": "Kalp kırmak mecaz anlamlıdır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-208",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Orta",
+    "question": "Türkçe çalışmasında: aşağıdakilerden hangisi 'hızlı' sözcüğünün eş anlamlısıdır? (Konu tekrarı)",
+    "options": [
+      "Yavaş",
+      "Sessiz",
+      "Geniş",
+      "Süratli"
+    ],
+    "answer": "Süratli",
+    "answerLetter": "D",
+    "explanation": "Hızlı ve süratli eş anlamlıdır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-209",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: aşağıdakilerden hangisi terim anlamlıdır? (Konu tekrarı)",
+    "options": [
+      "Yarın",
+      "Kalabalık",
+      "Kök",
+      "Güzel"
+    ],
+    "answer": "Kök",
+    "answerLetter": "C",
+    "explanation": "Kök dil bilgisi ve matematikte terim olarak kullanılabilir.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-210",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Orta",
+    "question": "Aşağıdaki cümlelerin hangisinde mecaz anlam vardır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Bugün hava çok soğuktu.",
+      "Bu sözleriyle kalbimi kırdı.",
+      "Kitabı masaya bıraktı.",
+      "Çocuk bahçede koştu."
+    ],
+    "answer": "Bu sözleriyle kalbimi kırdı.",
+    "answerLetter": "B",
+    "explanation": "Kalp kırmak mecaz anlamlıdır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-211",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi 'hızlı' sözcüğünün eş anlamlısıdır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Süratli",
+      "Geniş",
+      "Yavaş",
+      "Sessiz"
+    ],
+    "answer": "Süratli",
+    "answerLetter": "A",
+    "explanation": "Hızlı ve süratli eş anlamlıdır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-212",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisi terim anlamlıdır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Güzel",
+      "Yarın",
+      "Kalabalık",
+      "Kök"
+    ],
+    "answer": "Kök",
+    "answerLetter": "D",
+    "explanation": "Kök dil bilgisi ve matematikte terim olarak kullanılabilir.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-213",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Zor",
+    "question": "Aşağıdaki cümlelerin hangisinde mecaz anlam vardır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Çocuk bahçede koştu.",
+      "Bugün hava çok soğuktu.",
+      "Bu sözleriyle kalbimi kırdı.",
+      "Kitabı masaya bıraktı."
+    ],
+    "answer": "Bu sözleriyle kalbimi kırdı.",
+    "answerLetter": "C",
+    "explanation": "Kalp kırmak mecaz anlamlıdır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-214",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisi 'hızlı' sözcüğünün eş anlamlısıdır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Yavaş",
+      "Süratli",
+      "Sessiz",
+      "Geniş"
+    ],
+    "answer": "Süratli",
+    "answerLetter": "B",
+    "explanation": "Hızlı ve süratli eş anlamlıdır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-215",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi terim anlamlıdır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Kök",
+      "Kalabalık",
+      "Güzel",
+      "Yarın"
+    ],
+    "answer": "Kök",
+    "answerLetter": "A",
+    "explanation": "Kök dil bilgisi ve matematikte terim olarak kullanılabilir.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-216",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Orta",
+    "question": "Aşağıdaki cümlelerin hangisinde mecaz anlam vardır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Bugün hava çok soğuktu.",
+      "Kitabı masaya bıraktı.",
+      "Çocuk bahçede koştu.",
+      "Bu sözleriyle kalbimi kırdı."
+    ],
+    "answer": "Bu sözleriyle kalbimi kırdı.",
+    "answerLetter": "D",
+    "explanation": "Kalp kırmak mecaz anlamlıdır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-217",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Zor",
+    "question": "Aşağıdakilerden hangisi 'hızlı' sözcüğünün eş anlamlısıdır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Geniş",
+      "Yavaş",
+      "Süratli",
+      "Sessiz"
+    ],
+    "answer": "Süratli",
+    "answerLetter": "C",
+    "explanation": "Hızlı ve süratli eş anlamlıdır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-218",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisi terim anlamlıdır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Güzel",
+      "Kök",
+      "Yarın",
+      "Kalabalık"
+    ],
+    "answer": "Kök",
+    "answerLetter": "B",
+    "explanation": "Kök dil bilgisi ve matematikte terim olarak kullanılabilir.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-219",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki cümlelerin hangisinde mecaz anlam vardır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Bu sözleriyle kalbimi kırdı.",
+      "Çocuk bahçede koştu.",
+      "Bugün hava çok soğuktu.",
+      "Kitabı masaya bıraktı."
+    ],
+    "answer": "Bu sözleriyle kalbimi kırdı.",
+    "answerLetter": "A",
+    "explanation": "Kalp kırmak mecaz anlamlıdır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-220",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisi 'hızlı' sözcüğünün eş anlamlısıdır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Yavaş",
+      "Sessiz",
+      "Geniş",
+      "Süratli"
+    ],
+    "answer": "Süratli",
+    "answerLetter": "D",
+    "explanation": "Hızlı ve süratli eş anlamlıdır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-221",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Zor",
+    "question": "Aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi vardır? (Konu tekrarı)",
+    "options": [
+      "Kitabı okuyabilirim.",
+      "Yarın gelirim.",
+      "Yağmur yağdığı için dışarı çıkmadık.",
+      "Dışarı çıkmak istiyorum."
+    ],
+    "answer": "Yağmur yağdığı için dışarı çıkmadık.",
+    "answerLetter": "C",
+    "explanation": "İlk bölüm neden, ikinci bölüm sonuçtur.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-222",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisinde amaç-sonuç anlamı vardır? (Konu tekrarı)",
+    "options": [
+      "Hasta olduğu için gelmedi.",
+      "Sınavı kazanmak için çalışıyor.",
+      "Hava soğuktu.",
+      "Kitap çok güzeldi."
+    ],
+    "answer": "Sınavı kazanmak için çalışıyor.",
+    "answerLetter": "B",
+    "explanation": "Çalışmanın amacı sınavı kazanmaktır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-223",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki cümlelerin hangisinde karşılaştırma vardır? (Konu tekrarı)",
+    "options": [
+      "Bu kitap diğerinden daha anlaşılır.",
+      "Ders başladı.",
+      "Bugün okula gittim.",
+      "Kalem masadadır."
+    ],
+    "answer": "Bu kitap diğerinden daha anlaşılır.",
+    "answerLetter": "A",
+    "explanation": "Daha sözcüğü karşılaştırma yapar.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-224",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Orta",
+    "question": "Verilen cümlelerin hangisinde neden-sonuç ilişkisi vardır? (Konu tekrarı)",
+    "options": [
+      "Dışarı çıkmak istiyorum.",
+      "Kitabı okuyabilirim.",
+      "Yarın gelirim.",
+      "Yağmur yağdığı için dışarı çıkmadık."
+    ],
+    "answer": "Yağmur yağdığı için dışarı çıkmadık.",
+    "answerLetter": "D",
+    "explanation": "İlk bölüm neden, ikinci bölüm sonuçtur.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-225",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Zor",
+    "question": "Verilenlerden hangisinde amaç-sonuç anlamı vardır? (Konu tekrarı)",
+    "options": [
+      "Hava soğuktu.",
+      "Kitap çok güzeldi.",
+      "Sınavı kazanmak için çalışıyor.",
+      "Hasta olduğu için gelmedi."
+    ],
+    "answer": "Sınavı kazanmak için çalışıyor.",
+    "answerLetter": "C",
+    "explanation": "Çalışmanın amacı sınavı kazanmaktır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-226",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Orta",
+    "question": "Verilen cümlelerin hangisinde karşılaştırma vardır? (Konu tekrarı)",
+    "options": [
+      "Bugün okula gittim.",
+      "Bu kitap diğerinden daha anlaşılır.",
+      "Kalem masadadır.",
+      "Ders başladı."
+    ],
+    "answer": "Bu kitap diğerinden daha anlaşılır.",
+    "answerLetter": "B",
+    "explanation": "Daha sözcüğü karşılaştırma yapar.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-227",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Kolay",
+    "question": "Türkçe çalışmasında: aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi vardır? (Konu tekrarı)",
+    "options": [
+      "Yağmur yağdığı için dışarı çıkmadık.",
+      "Yarın gelirim.",
+      "Dışarı çıkmak istiyorum.",
+      "Kitabı okuyabilirim."
+    ],
+    "answer": "Yağmur yağdığı için dışarı çıkmadık.",
+    "answerLetter": "A",
+    "explanation": "İlk bölüm neden, ikinci bölüm sonuçtur.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-228",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Orta",
+    "question": "Türkçe çalışmasında: aşağıdakilerden hangisinde amaç-sonuç anlamı vardır? (Konu tekrarı)",
+    "options": [
+      "Hasta olduğu için gelmedi.",
+      "Hava soğuktu.",
+      "Kitap çok güzeldi.",
+      "Sınavı kazanmak için çalışıyor."
+    ],
+    "answer": "Sınavı kazanmak için çalışıyor.",
+    "answerLetter": "D",
+    "explanation": "Çalışmanın amacı sınavı kazanmaktır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-229",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: aşağıdaki cümlelerin hangisinde karşılaştırma vardır? (Konu tekrarı)",
+    "options": [
+      "Kalem masadadır.",
+      "Ders başladı.",
+      "Bu kitap diğerinden daha anlaşılır.",
+      "Bugün okula gittim."
+    ],
+    "answer": "Bu kitap diğerinden daha anlaşılır.",
+    "answerLetter": "C",
+    "explanation": "Daha sözcüğü karşılaştırma yapar.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-230",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Orta",
+    "question": "Aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi vardır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Dışarı çıkmak istiyorum.",
+      "Yağmur yağdığı için dışarı çıkmadık.",
+      "Kitabı okuyabilirim.",
+      "Yarın gelirim."
+    ],
+    "answer": "Yağmur yağdığı için dışarı çıkmadık.",
+    "answerLetter": "B",
+    "explanation": "İlk bölüm neden, ikinci bölüm sonuçtur.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-231",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisinde amaç-sonuç anlamı vardır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Sınavı kazanmak için çalışıyor.",
+      "Kitap çok güzeldi.",
+      "Hasta olduğu için gelmedi.",
+      "Hava soğuktu."
+    ],
+    "answer": "Sınavı kazanmak için çalışıyor.",
+    "answerLetter": "A",
+    "explanation": "Çalışmanın amacı sınavı kazanmaktır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-232",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Orta",
+    "question": "Aşağıdaki cümlelerin hangisinde karşılaştırma vardır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Bugün okula gittim.",
+      "Kalem masadadır.",
+      "Ders başladı.",
+      "Bu kitap diğerinden daha anlaşılır."
+    ],
+    "answer": "Bu kitap diğerinden daha anlaşılır.",
+    "answerLetter": "D",
+    "explanation": "Daha sözcüğü karşılaştırma yapar.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-233",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Zor",
+    "question": "Aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi vardır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Kitabı okuyabilirim.",
+      "Yarın gelirim.",
+      "Yağmur yağdığı için dışarı çıkmadık.",
+      "Dışarı çıkmak istiyorum."
+    ],
+    "answer": "Yağmur yağdığı için dışarı çıkmadık.",
+    "answerLetter": "C",
+    "explanation": "İlk bölüm neden, ikinci bölüm sonuçtur.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-234",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisinde amaç-sonuç anlamı vardır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Hasta olduğu için gelmedi.",
+      "Sınavı kazanmak için çalışıyor.",
+      "Hava soğuktu.",
+      "Kitap çok güzeldi."
+    ],
+    "answer": "Sınavı kazanmak için çalışıyor.",
+    "answerLetter": "B",
+    "explanation": "Çalışmanın amacı sınavı kazanmaktır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-235",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki cümlelerin hangisinde karşılaştırma vardır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Bu kitap diğerinden daha anlaşılır.",
+      "Ders başladı.",
+      "Bugün okula gittim.",
+      "Kalem masadadır."
+    ],
+    "answer": "Bu kitap diğerinden daha anlaşılır.",
+    "answerLetter": "A",
+    "explanation": "Daha sözcüğü karşılaştırma yapar.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-236",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Orta",
+    "question": "Aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi vardır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Dışarı çıkmak istiyorum.",
+      "Kitabı okuyabilirim.",
+      "Yarın gelirim.",
+      "Yağmur yağdığı için dışarı çıkmadık."
+    ],
+    "answer": "Yağmur yağdığı için dışarı çıkmadık.",
+    "answerLetter": "D",
+    "explanation": "İlk bölüm neden, ikinci bölüm sonuçtur.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-237",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Zor",
+    "question": "Aşağıdakilerden hangisinde amaç-sonuç anlamı vardır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Hava soğuktu.",
+      "Kitap çok güzeldi.",
+      "Sınavı kazanmak için çalışıyor.",
+      "Hasta olduğu için gelmedi."
+    ],
+    "answer": "Sınavı kazanmak için çalışıyor.",
+    "answerLetter": "C",
+    "explanation": "Çalışmanın amacı sınavı kazanmaktır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-238",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Orta",
+    "question": "Aşağıdaki cümlelerin hangisinde karşılaştırma vardır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Bugün okula gittim.",
+      "Bu kitap diğerinden daha anlaşılır.",
+      "Kalem masadadır.",
+      "Ders başladı."
+    ],
+    "answer": "Bu kitap diğerinden daha anlaşılır.",
+    "answerLetter": "B",
+    "explanation": "Daha sözcüğü karşılaştırma yapar.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-239",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi vardır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Yağmur yağdığı için dışarı çıkmadık.",
+      "Yarın gelirim.",
+      "Dışarı çıkmak istiyorum.",
+      "Kitabı okuyabilirim."
+    ],
+    "answer": "Yağmur yağdığı için dışarı çıkmadık.",
+    "answerLetter": "A",
+    "explanation": "İlk bölüm neden, ikinci bölüm sonuçtur.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-240",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisinde amaç-sonuç anlamı vardır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Hasta olduğu için gelmedi.",
+      "Hava soğuktu.",
+      "Kitap çok güzeldi.",
+      "Sınavı kazanmak için çalışıyor."
+    ],
+    "answer": "Sınavı kazanmak için çalışıyor.",
+    "answerLetter": "D",
+    "explanation": "Çalışmanın amacı sınavı kazanmaktır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-241",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Zor",
+    "question": "Paragrafın ana düşüncesi neyi ifade eder? (Konu tekrarı)",
+    "options": [
+      "Yazarın adını",
+      "Noktalama işaretini",
+      "Parçada verilmek istenen temel mesajı",
+      "Sadece ilk kelimeyi"
+    ],
+    "answer": "Parçada verilmek istenen temel mesajı",
+    "answerLetter": "C",
+    "explanation": "Ana düşünce temel mesajdır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-242",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Orta",
+    "question": "Paragrafta başlık seçerken neye dikkat edilir? (Konu tekrarı)",
+    "options": [
+      "En uzun kelime olmasına",
+      "Paragrafın konusunu kapsamasına",
+      "Yabancı kelime olmasına",
+      "Soru işareti içermesine"
+    ],
+    "answer": "Paragrafın konusunu kapsamasına",
+    "answerLetter": "B",
+    "explanation": "Başlık konuyu genel olarak karşılamalıdır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-243",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Kolay",
+    "question": "Paragraf sorularında önce ne okunması faydalıdır? (Konu tekrarı)",
+    "options": [
+      "Soru kökü",
+      "Sayfa numarası",
+      "Son seçenek",
+      "Yazarın yaşı"
+    ],
+    "answer": "Soru kökü",
+    "answerLetter": "A",
+    "explanation": "Soru kökü ne aranacağını gösterir.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-244",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Orta",
+    "question": "Paragrafın ana düşüncesi neyi ifade eder? (Konu tekrarı)",
+    "options": [
+      "Sadece ilk kelimeyi",
+      "Yazarın adını",
+      "Noktalama işaretini",
+      "Parçada verilmek istenen temel mesajı"
+    ],
+    "answer": "Parçada verilmek istenen temel mesajı",
+    "answerLetter": "D",
+    "explanation": "Ana düşünce temel mesajdır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-245",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Zor",
+    "question": "Paragrafta başlık seçerken neye dikkat edilir? (Konu tekrarı)",
+    "options": [
+      "Yabancı kelime olmasına",
+      "Soru işareti içermesine",
+      "Paragrafın konusunu kapsamasına",
+      "En uzun kelime olmasına"
+    ],
+    "answer": "Paragrafın konusunu kapsamasına",
+    "answerLetter": "C",
+    "explanation": "Başlık konuyu genel olarak karşılamalıdır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-246",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Orta",
+    "question": "Paragraf sorularında önce ne okunması faydalıdır? (Konu tekrarı)",
+    "options": [
+      "Son seçenek",
+      "Soru kökü",
+      "Yazarın yaşı",
+      "Sayfa numarası"
+    ],
+    "answer": "Soru kökü",
+    "answerLetter": "B",
+    "explanation": "Soru kökü ne aranacağını gösterir.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-247",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Kolay",
+    "question": "Türkçe çalışmasında: paragrafın ana düşüncesi neyi ifade eder? (Konu tekrarı)",
+    "options": [
+      "Parçada verilmek istenen temel mesajı",
+      "Noktalama işaretini",
+      "Sadece ilk kelimeyi",
+      "Yazarın adını"
+    ],
+    "answer": "Parçada verilmek istenen temel mesajı",
+    "answerLetter": "A",
+    "explanation": "Ana düşünce temel mesajdır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-248",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Orta",
+    "question": "Türkçe çalışmasında: paragrafta başlık seçerken neye dikkat edilir? (Konu tekrarı)",
+    "options": [
+      "En uzun kelime olmasına",
+      "Yabancı kelime olmasına",
+      "Soru işareti içermesine",
+      "Paragrafın konusunu kapsamasına"
+    ],
+    "answer": "Paragrafın konusunu kapsamasına",
+    "answerLetter": "D",
+    "explanation": "Başlık konuyu genel olarak karşılamalıdır.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-249",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: paragraf sorularında önce ne okunması faydalıdır? (Konu tekrarı)",
+    "options": [
+      "Yazarın yaşı",
+      "Sayfa numarası",
+      "Soru kökü",
+      "Son seçenek"
+    ],
+    "answer": "Soru kökü",
+    "answerLetter": "C",
+    "explanation": "Soru kökü ne aranacağını gösterir.",
+    "source": "Türkçe 250 soru havuzu"
+  },
+  {
+    "id": "tr-250",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Orta",
+    "question": "Paragrafın ana düşüncesi neyi ifade eder? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Sadece ilk kelimeyi",
+      "Parçada verilmek istenen temel mesajı",
+      "Yazarın adını",
+      "Noktalama işaretini"
+    ],
+    "answer": "Parçada verilmek istenen temel mesajı",
+    "answerLetter": "B",
+    "explanation": "Ana düşünce temel mesajdır.",
+    "source": "Türkçe 250 soru havuzu"
   },
   {
     "id": "mt-001",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Temel İşlemler",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "3 + 5 × 2 işleminin sonucu kaçtır?",
     "options": [
-      "13",
       "10",
       "11",
-      "16"
+      "16",
+      "13"
     ],
     "answer": "13",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "Çarpma önce yapılır: 5×2=10, 3+10=13.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-002",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Temel İşlemler",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "(12 - 4) ÷ 2 sonucu kaçtır?",
     "options": [
-      "6",
       "8",
       "2",
-      "4"
+      "4",
+      "6"
     ],
     "answer": "4",
-    "answerLetter": "D",
+    "answerLetter": "C",
     "explanation": "Parantez önce yapılır: 8÷2=4.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-003",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Temel İşlemler",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "7 × 6 - 10 sonucu kaçtır?",
     "options": [
-      "30",
+      "52",
       "32",
-      "42",
-      "52"
+      "30",
+      "42"
     ],
     "answer": "32",
     "answerLetter": "B",
     "explanation": "7×6=42, 42-10=32.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-004",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Temel İşlemler",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "3 + 5 × 2 işleminin sonucu kaç olarak bulunur?",
     "options": [
-      "16",
       "13",
+      "16",
       "10",
       "11"
     ],
     "answer": "13",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "Çarpma önce yapılır: 5×2=10, 3+10=13.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-005",
@@ -11993,76 +18079,76 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "(12 - 4) ÷ 2 sonucu kaç olarak bulunur?",
     "options": [
-      "4",
       "6",
       "8",
-      "2"
+      "2",
+      "4"
     ],
     "answer": "4",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "Parantez önce yapılır: 8÷2=4.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-006",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Temel İşlemler",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "7 × 6 - 10 sonucu kaç olarak bulunur?",
     "options": [
-      "52",
       "30",
+      "42",
       "32",
-      "42"
+      "52"
     ],
     "answer": "32",
     "answerLetter": "C",
     "explanation": "7×6=42, 42-10=32.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-007",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Temel İşlemler",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Matematik çalışmasında: 3 + 5 × 2 işleminin sonucu kaçtır?",
     "options": [
-      "11",
-      "16",
+      "10",
       "13",
-      "10"
+      "11",
+      "16"
     ],
     "answer": "13",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Çarpma önce yapılır: 5×2=10, 3+10=13.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-008",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Temel İşlemler",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Matematik çalışmasında: (12 - 4) ÷ 2 sonucu kaçtır?",
     "options": [
-      "2",
       "4",
+      "2",
       "6",
       "8"
     ],
     "answer": "4",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "Parantez önce yapılır: 8÷2=4.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-009",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Temel İşlemler",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Matematik çalışmasında: 7 × 6 - 10 sonucu kaçtır?",
     "options": [
       "42",
@@ -12073,43 +18159,43 @@ window.QUESTIONS = [
     "answer": "32",
     "answerLetter": "D",
     "explanation": "7×6=42, 42-10=32.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-010",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Temel İşlemler",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "3 + 5 × 2 işleminin sonucu kaçtır? (Tekrar)",
     "options": [
-      "10",
       "11",
       "16",
-      "13"
+      "13",
+      "10"
     ],
     "answer": "13",
-    "answerLetter": "D",
+    "answerLetter": "C",
     "explanation": "Çarpma önce yapılır: 5×2=10, 3+10=13.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-011",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Temel İşlemler",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "(12 - 4) ÷ 2 sonucu kaçtır? (Tekrar)",
     "options": [
-      "8",
-      "2",
+      "6",
       "4",
-      "6"
+      "8",
+      "2"
     ],
     "answer": "4",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Parantez önce yapılır: 8÷2=4.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-012",
@@ -12127,7 +18213,7 @@ window.QUESTIONS = [
     "answer": "32",
     "answerLetter": "A",
     "explanation": "7×6=42, 42-10=32.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-013",
@@ -12137,18 +18223,72 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "3 + 5 × 2 işleminin sonucu kaçtır? (Tekrar)",
     "options": [
-      "13",
       "10",
       "11",
-      "16"
+      "16",
+      "13"
+    ],
+    "answer": "13",
+    "answerLetter": "D",
+    "explanation": "Çarpma önce yapılır: 5×2=10, 3+10=13.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-014",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Zor",
+    "question": "(12 - 4) ÷ 2 sonucu kaçtır? (Tekrar)",
+    "options": [
+      "8",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": "4",
+    "answerLetter": "C",
+    "explanation": "Parantez önce yapılır: 8÷2=4.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-015",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Orta",
+    "question": "7 × 6 - 10 sonucu kaçtır? (Tekrar)",
+    "options": [
+      "52",
+      "32",
+      "30",
+      "42"
+    ],
+    "answer": "32",
+    "answerLetter": "B",
+    "explanation": "7×6=42, 42-10=32.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-016",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Kolay",
+    "question": "3 + 5 × 2 işleminin sonucu kaçtır? (Tekrar)",
+    "options": [
+      "13",
+      "16",
+      "10",
+      "11"
     ],
     "answer": "13",
     "answerLetter": "A",
     "explanation": "Çarpma önce yapılır: 5×2=10, 3+10=13.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
-    "id": "mt-014",
+    "id": "mt-017",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Temel İşlemler",
@@ -12163,61 +18303,7 @@ window.QUESTIONS = [
     "answer": "4",
     "answerLetter": "D",
     "explanation": "Parantez önce yapılır: 8÷2=4.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-015",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Temel İşlemler",
-    "difficulty": "Orta",
-    "question": "7 × 6 - 10 sonucu kaçtır? (Tekrar)",
-    "options": [
-      "30",
-      "32",
-      "42",
-      "52"
-    ],
-    "answer": "32",
-    "answerLetter": "B",
-    "explanation": "7×6=42, 42-10=32.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-016",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Temel İşlemler",
-    "difficulty": "Zor",
-    "question": "3 + 5 × 2 işleminin sonucu kaçtır? (Tekrar)",
-    "options": [
-      "16",
-      "13",
-      "10",
-      "11"
-    ],
-    "answer": "13",
-    "answerLetter": "B",
-    "explanation": "Çarpma önce yapılır: 5×2=10, 3+10=13.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-017",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Temel İşlemler",
-    "difficulty": "Zor",
-    "question": "(12 - 4) ÷ 2 sonucu kaçtır? (Tekrar)",
-    "options": [
-      "4",
-      "6",
-      "8",
-      "2"
-    ],
-    "answer": "4",
-    "answerLetter": "A",
-    "explanation": "Parantez önce yapılır: 8÷2=4.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-018",
@@ -12227,33 +18313,33 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "7 × 6 - 10 sonucu kaçtır? (Tekrar)",
     "options": [
-      "52",
       "30",
+      "42",
       "32",
-      "42"
+      "52"
     ],
     "answer": "32",
     "answerLetter": "C",
     "explanation": "7×6=42, 42-10=32.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-019",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Temel İşlemler",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "3 + 5 × 2 işleminin sonucu kaçtır? (Tekrar)",
     "options": [
-      "11",
-      "16",
+      "10",
       "13",
-      "10"
+      "11",
+      "16"
     ],
     "answer": "13",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Çarpma önce yapılır: 5×2=10, 3+10=13.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-020",
@@ -12263,22 +18349,22 @@ window.QUESTIONS = [
     "difficulty": "Kolay",
     "question": "(12 - 4) ÷ 2 sonucu kaçtır? (Tekrar)",
     "options": [
-      "2",
       "4",
+      "2",
       "6",
       "8"
     ],
     "answer": "4",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "Parantez önce yapılır: 8÷2=4.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-021",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Bölünebilme",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Bir sayının 3 ile bölünebilmesi için hangi şart gerekir?",
     "options": [
       "Son basamağı 0 olmalıdır",
@@ -12289,50 +18375,50 @@ window.QUESTIONS = [
     "answer": "Rakamları toplamı 3'ün katı olmalıdır",
     "answerLetter": "D",
     "explanation": "3 ile bölünebilmede rakamlar toplamına bakılır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-022",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Bölünebilme",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Bir sayının 5 ile bölünebilmesi için son basamağı ne olmalıdır?",
     "options": [
-      "1 veya 3",
       "6 veya 8",
+      "2 veya 4",
       "0 veya 5",
-      "2 veya 4"
+      "1 veya 3"
     ],
     "answer": "0 veya 5",
     "answerLetter": "C",
     "explanation": "5 ile bölünebilme son basamağa bağlıdır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-023",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Bölünebilme",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "246 sayısı 2 ile bölünebilir mi?",
     "options": [
-      "Hayır, üç basamaklıdır",
+      "Evet, sonu 5'tir",
       "Evet, çünkü çift sayıdır",
-      "Hayır, tek sayıdır",
-      "Evet, sonu 5'tir"
+      "Hayır, üç basamaklıdır",
+      "Hayır, tek sayıdır"
     ],
     "answer": "Evet, çünkü çift sayıdır",
     "answerLetter": "B",
     "explanation": "Çift sayılar 2 ile bölünür.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-024",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Bölünebilme",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Bir sayının 3 ile bölünebilmesi için hangi şart gerekir?",
     "options": [
       "Rakamları toplamı 3'ün katı olmalıdır",
@@ -12343,7 +18429,7 @@ window.QUESTIONS = [
     "answer": "Rakamları toplamı 3'ün katı olmalıdır",
     "answerLetter": "A",
     "explanation": "3 ile bölünebilmede rakamlar toplamına bakılır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-025",
@@ -12361,50 +18447,50 @@ window.QUESTIONS = [
     "answer": "0 veya 5",
     "answerLetter": "D",
     "explanation": "5 ile bölünebilme son basamağa bağlıdır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-026",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Bölünebilme",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "246 sayısı 2 ile bölünebilir mi?",
     "options": [
-      "Evet, sonu 5'tir",
       "Hayır, üç basamaklıdır",
+      "Hayır, tek sayıdır",
       "Evet, çünkü çift sayıdır",
-      "Hayır, tek sayıdır"
+      "Evet, sonu 5'tir"
     ],
     "answer": "Evet, çünkü çift sayıdır",
     "answerLetter": "C",
     "explanation": "Çift sayılar 2 ile bölünür.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-027",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Bölünebilme",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Matematik çalışmasında: bir sayının 3 ile bölünebilmesi için hangi şart gerekir?",
     "options": [
-      "İlk rakamı 3 olmalıdır",
+      "Çift olmalıdır",
       "Rakamları toplamı 3'ün katı olmalıdır",
-      "Son basamağı 0 olmalıdır",
-      "Çift olmalıdır"
+      "İlk rakamı 3 olmalıdır",
+      "Son basamağı 0 olmalıdır"
     ],
     "answer": "Rakamları toplamı 3'ün katı olmalıdır",
     "answerLetter": "B",
     "explanation": "3 ile bölünebilmede rakamlar toplamına bakılır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-028",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Bölünebilme",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Matematik çalışmasında: bir sayının 5 ile bölünebilmesi için son basamağı ne olmalıdır?",
     "options": [
       "0 veya 5",
@@ -12415,14 +18501,14 @@ window.QUESTIONS = [
     "answer": "0 veya 5",
     "answerLetter": "A",
     "explanation": "5 ile bölünebilme son basamağa bağlıdır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-029",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Bölünebilme",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Matematik çalışmasında: 246 sayısı 2 ile bölünebilir mi?",
     "options": [
       "Hayır, tek sayıdır",
@@ -12433,43 +18519,43 @@ window.QUESTIONS = [
     "answer": "Evet, çünkü çift sayıdır",
     "answerLetter": "D",
     "explanation": "Çift sayılar 2 ile bölünür.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-030",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Bölünebilme",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Bir sayının 3 ile bölünebilmesi için hangi şart gerekir? (Tekrar)",
     "options": [
-      "Çift olmalıdır",
       "İlk rakamı 3 olmalıdır",
+      "Son basamağı 0 olmalıdır",
       "Rakamları toplamı 3'ün katı olmalıdır",
-      "Son basamağı 0 olmalıdır"
+      "Çift olmalıdır"
     ],
     "answer": "Rakamları toplamı 3'ün katı olmalıdır",
     "answerLetter": "C",
     "explanation": "3 ile bölünebilmede rakamlar toplamına bakılır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-031",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Bölünebilme",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Bir sayının 5 ile bölünebilmesi için son basamağı ne olmalıdır? (Tekrar)",
     "options": [
-      "6 veya 8",
+      "1 veya 3",
       "0 veya 5",
-      "2 veya 4",
-      "1 veya 3"
+      "6 veya 8",
+      "2 veya 4"
     ],
     "answer": "0 veya 5",
     "answerLetter": "B",
     "explanation": "5 ile bölünebilme son basamağa bağlıdır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-032",
@@ -12487,7 +18573,7 @@ window.QUESTIONS = [
     "answer": "Evet, çünkü çift sayıdır",
     "answerLetter": "A",
     "explanation": "Çift sayılar 2 ile bölünür.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-033",
@@ -12505,25 +18591,25 @@ window.QUESTIONS = [
     "answer": "Rakamları toplamı 3'ün katı olmalıdır",
     "answerLetter": "D",
     "explanation": "3 ile bölünebilmede rakamlar toplamına bakılır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-034",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Bölünebilme",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Bir sayının 5 ile bölünebilmesi için son basamağı ne olmalıdır? (Tekrar)",
     "options": [
-      "1 veya 3",
       "6 veya 8",
+      "2 veya 4",
       "0 veya 5",
-      "2 veya 4"
+      "1 veya 3"
     ],
     "answer": "0 veya 5",
     "answerLetter": "C",
     "explanation": "5 ile bölünebilme son basamağa bağlıdır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-035",
@@ -12533,22 +18619,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "246 sayısı 2 ile bölünebilir mi? (Tekrar)",
     "options": [
-      "Hayır, üç basamaklıdır",
+      "Evet, sonu 5'tir",
       "Evet, çünkü çift sayıdır",
-      "Hayır, tek sayıdır",
-      "Evet, sonu 5'tir"
+      "Hayır, üç basamaklıdır",
+      "Hayır, tek sayıdır"
     ],
     "answer": "Evet, çünkü çift sayıdır",
     "answerLetter": "B",
     "explanation": "Çift sayılar 2 ile bölünür.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-036",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Bölünebilme",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Bir sayının 3 ile bölünebilmesi için hangi şart gerekir? (Tekrar)",
     "options": [
       "Rakamları toplamı 3'ün katı olmalıdır",
@@ -12559,14 +18645,14 @@ window.QUESTIONS = [
     "answer": "Rakamları toplamı 3'ün katı olmalıdır",
     "answerLetter": "A",
     "explanation": "3 ile bölünebilmede rakamlar toplamına bakılır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-037",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Bölünebilme",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Bir sayının 5 ile bölünebilmesi için son basamağı ne olmalıdır? (Tekrar)",
     "options": [
       "2 veya 4",
@@ -12577,7 +18663,7 @@ window.QUESTIONS = [
     "answer": "0 veya 5",
     "answerLetter": "D",
     "explanation": "5 ile bölünebilme son basamağa bağlıdır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-038",
@@ -12587,33 +18673,33 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "246 sayısı 2 ile bölünebilir mi? (Tekrar)",
     "options": [
-      "Evet, sonu 5'tir",
       "Hayır, üç basamaklıdır",
+      "Hayır, tek sayıdır",
       "Evet, çünkü çift sayıdır",
-      "Hayır, tek sayıdır"
+      "Evet, sonu 5'tir"
     ],
     "answer": "Evet, çünkü çift sayıdır",
     "answerLetter": "C",
     "explanation": "Çift sayılar 2 ile bölünür.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-039",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Bölünebilme",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Bir sayının 3 ile bölünebilmesi için hangi şart gerekir? (Tekrar)",
     "options": [
-      "İlk rakamı 3 olmalıdır",
+      "Çift olmalıdır",
       "Rakamları toplamı 3'ün katı olmalıdır",
-      "Son basamağı 0 olmalıdır",
-      "Çift olmalıdır"
+      "İlk rakamı 3 olmalıdır",
+      "Son basamağı 0 olmalıdır"
     ],
     "answer": "Rakamları toplamı 3'ün katı olmalıdır",
     "answerLetter": "B",
     "explanation": "3 ile bölünebilmede rakamlar toplamına bakılır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-040",
@@ -12631,14 +18717,14 @@ window.QUESTIONS = [
     "answer": "0 veya 5",
     "answerLetter": "A",
     "explanation": "5 ile bölünebilme son basamağa bağlıdır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-041",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "OBEB-OKEK",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "12 ve 18'in OBEB'i kaçtır?",
     "options": [
       "12",
@@ -12649,50 +18735,50 @@ window.QUESTIONS = [
     "answer": "6",
     "answerLetter": "D",
     "explanation": "Ortak bölenlerin en büyüğü 6'dır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-042",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "OBEB-OKEK",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "4 ve 6'nın OKEK'i kaçtır?",
     "options": [
-      "24",
       "6",
       "10",
-      "12"
+      "12",
+      "24"
     ],
     "answer": "12",
-    "answerLetter": "D",
+    "answerLetter": "C",
     "explanation": "4 ve 6'nın ortak katlarının en küçüğü 12'dir.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-043",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "OBEB-OKEK",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Paylaştırma problemlerinde genellikle hangisi kullanılır?",
     "options": [
-      "Denklem",
+      "Yüzde",
       "OBEB",
-      "OKEK",
-      "Yüzde"
+      "Denklem",
+      "OKEK"
     ],
     "answer": "OBEB",
     "answerLetter": "B",
     "explanation": "En büyük eş parçalara ayırma OBEB ile ilgilidir.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-044",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "OBEB-OKEK",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "12 ve 18'in OBEB'i kaç olarak bulunur?",
     "options": [
       "6",
@@ -12703,7 +18789,7 @@ window.QUESTIONS = [
     "answer": "6",
     "answerLetter": "A",
     "explanation": "Ortak bölenlerin en büyüğü 6'dır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-045",
@@ -12713,76 +18799,76 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "4 ve 6'nın OKEK'i kaç olarak bulunur?",
     "options": [
-      "12",
       "24",
       "6",
-      "10"
+      "10",
+      "12"
     ],
     "answer": "12",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "4 ve 6'nın ortak katlarının en küçüğü 12'dir.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-046",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "OBEB-OKEK",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Paylaştırma problemlerinde genellikle hangisi kullanılır?",
     "options": [
-      "Yüzde",
       "Denklem",
+      "OKEK",
       "OBEB",
-      "OKEK"
+      "Yüzde"
     ],
     "answer": "OBEB",
     "answerLetter": "C",
     "explanation": "En büyük eş parçalara ayırma OBEB ile ilgilidir.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-047",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "OBEB-OKEK",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Matematik çalışmasında: 12 ve 18'in OBEB'i kaçtır?",
     "options": [
-      "36",
+      "18",
       "6",
-      "12",
-      "18"
+      "36",
+      "12"
     ],
     "answer": "6",
     "answerLetter": "B",
     "explanation": "Ortak bölenlerin en büyüğü 6'dır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-048",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "OBEB-OKEK",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Matematik çalışmasında: 4 ve 6'nın OKEK'i kaçtır?",
     "options": [
-      "10",
       "12",
+      "10",
       "24",
       "6"
     ],
     "answer": "12",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "4 ve 6'nın ortak katlarının en küçüğü 12'dir.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-049",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "OBEB-OKEK",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Matematik çalışmasında: paylaştırma problemlerinde genellikle hangisi kullanılır?",
     "options": [
       "OKEK",
@@ -12793,43 +18879,43 @@ window.QUESTIONS = [
     "answer": "OBEB",
     "answerLetter": "D",
     "explanation": "En büyük eş parçalara ayırma OBEB ile ilgilidir.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-050",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "OBEB-OKEK",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "12 ve 18'in OBEB'i kaçtır? (Tekrar)",
     "options": [
-      "18",
       "36",
+      "12",
       "6",
-      "12"
+      "18"
     ],
     "answer": "6",
     "answerLetter": "C",
     "explanation": "Ortak bölenlerin en büyüğü 6'dır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-051",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "OBEB-OKEK",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "4 ve 6'nın OKEK'i kaçtır? (Tekrar)",
     "options": [
-      "6",
-      "10",
+      "24",
       "12",
-      "24"
+      "6",
+      "10"
     ],
     "answer": "12",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "4 ve 6'nın ortak katlarının en küçüğü 12'dir.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-052",
@@ -12847,7 +18933,7 @@ window.QUESTIONS = [
     "answer": "OBEB",
     "answerLetter": "A",
     "explanation": "En büyük eş parçalara ayırma OBEB ile ilgilidir.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-053",
@@ -12865,10 +18951,64 @@ window.QUESTIONS = [
     "answer": "6",
     "answerLetter": "D",
     "explanation": "Ortak bölenlerin en büyüğü 6'dır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-054",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Zor",
+    "question": "4 ve 6'nın OKEK'i kaçtır? (Tekrar)",
+    "options": [
+      "6",
+      "10",
+      "12",
+      "24"
+    ],
+    "answer": "12",
+    "answerLetter": "C",
+    "explanation": "4 ve 6'nın ortak katlarının en küçüğü 12'dir.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-055",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Orta",
+    "question": "Paylaştırma problemlerinde genellikle hangisi kullanılır? (Tekrar)",
+    "options": [
+      "Yüzde",
+      "OBEB",
+      "Denklem",
+      "OKEK"
+    ],
+    "answer": "OBEB",
+    "answerLetter": "B",
+    "explanation": "En büyük eş parçalara ayırma OBEB ile ilgilidir.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-056",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Kolay",
+    "question": "12 ve 18'in OBEB'i kaçtır? (Tekrar)",
+    "options": [
+      "6",
+      "12",
+      "18",
+      "36"
+    ],
+    "answer": "6",
+    "answerLetter": "A",
+    "explanation": "Ortak bölenlerin en büyüğü 6'dır.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-057",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "OBEB-OKEK",
@@ -12883,61 +19023,7 @@ window.QUESTIONS = [
     "answer": "12",
     "answerLetter": "D",
     "explanation": "4 ve 6'nın ortak katlarının en küçüğü 12'dir.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-055",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "OBEB-OKEK",
-    "difficulty": "Orta",
-    "question": "Paylaştırma problemlerinde genellikle hangisi kullanılır? (Tekrar)",
-    "options": [
-      "Denklem",
-      "OBEB",
-      "OKEK",
-      "Yüzde"
-    ],
-    "answer": "OBEB",
-    "answerLetter": "B",
-    "explanation": "En büyük eş parçalara ayırma OBEB ile ilgilidir.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-056",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "OBEB-OKEK",
-    "difficulty": "Zor",
-    "question": "12 ve 18'in OBEB'i kaçtır? (Tekrar)",
-    "options": [
-      "6",
-      "12",
-      "18",
-      "36"
-    ],
-    "answer": "6",
-    "answerLetter": "A",
-    "explanation": "Ortak bölenlerin en büyüğü 6'dır.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-057",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "OBEB-OKEK",
-    "difficulty": "Zor",
-    "question": "4 ve 6'nın OKEK'i kaçtır? (Tekrar)",
-    "options": [
-      "12",
-      "24",
-      "6",
-      "10"
-    ],
-    "answer": "12",
-    "answerLetter": "A",
-    "explanation": "4 ve 6'nın ortak katlarının en küçüğü 12'dir.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-058",
@@ -12947,33 +19033,33 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "Paylaştırma problemlerinde genellikle hangisi kullanılır? (Tekrar)",
     "options": [
-      "Yüzde",
       "Denklem",
+      "OKEK",
       "OBEB",
-      "OKEK"
+      "Yüzde"
     ],
     "answer": "OBEB",
     "answerLetter": "C",
     "explanation": "En büyük eş parçalara ayırma OBEB ile ilgilidir.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-059",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "OBEB-OKEK",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "12 ve 18'in OBEB'i kaçtır? (Tekrar)",
     "options": [
-      "36",
+      "18",
       "6",
-      "12",
-      "18"
+      "36",
+      "12"
     ],
     "answer": "6",
     "answerLetter": "B",
     "explanation": "Ortak bölenlerin en büyüğü 6'dır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-060",
@@ -12983,22 +19069,22 @@ window.QUESTIONS = [
     "difficulty": "Kolay",
     "question": "4 ve 6'nın OKEK'i kaçtır? (Tekrar)",
     "options": [
-      "10",
       "12",
+      "10",
       "24",
       "6"
     ],
     "answer": "12",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "4 ve 6'nın ortak katlarının en küçüğü 12'dir.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-061",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Rasyonel Sayılar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "1/2 + 1/4 sonucu kaçtır?",
     "options": [
       "2/6",
@@ -13009,50 +19095,50 @@ window.QUESTIONS = [
     "answer": "3/4",
     "answerLetter": "D",
     "explanation": "Ortak payda 4 alınır: 2/4+1/4=3/4.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-062",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Rasyonel Sayılar",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "0,5 sayısı kesir olarak hangisine eşittir?",
     "options": [
-      "5/1",
       "2/5",
+      "1/5",
       "1/2",
-      "1/5"
+      "5/1"
     ],
     "answer": "1/2",
     "answerLetter": "C",
     "explanation": "0,5 yarım demektir.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-063",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Rasyonel Sayılar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "2/3 ile 1/3 toplamı kaçtır?",
     "options": [
-      "1/3",
+      "2/6",
       "1",
-      "3/6",
-      "2/6"
+      "1/3",
+      "3/6"
     ],
     "answer": "1",
     "answerLetter": "B",
     "explanation": "Paydalar aynıysa paylar toplanır: 3/3=1.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-064",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Rasyonel Sayılar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "1/2 + 1/4 sonucu kaç olarak bulunur?",
     "options": [
       "3/4",
@@ -13063,7 +19149,7 @@ window.QUESTIONS = [
     "answer": "3/4",
     "answerLetter": "A",
     "explanation": "Ortak payda 4 alınır: 2/4+1/4=3/4.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-065",
@@ -13081,50 +19167,50 @@ window.QUESTIONS = [
     "answer": "1/2",
     "answerLetter": "D",
     "explanation": "0,5 yarım demektir.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-066",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Rasyonel Sayılar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "2/3 ile 1/3 toplamı kaç olarak bulunur?",
     "options": [
-      "2/6",
       "1/3",
+      "3/6",
       "1",
-      "3/6"
+      "2/6"
     ],
     "answer": "1",
     "answerLetter": "C",
     "explanation": "Paydalar aynıysa paylar toplanır: 3/3=1.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-067",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Rasyonel Sayılar",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Matematik çalışmasında: 1/2 + 1/4 sonucu kaçtır?",
     "options": [
-      "1/4",
+      "1/8",
       "3/4",
-      "2/6",
-      "1/8"
+      "1/4",
+      "2/6"
     ],
     "answer": "3/4",
     "answerLetter": "B",
     "explanation": "Ortak payda 4 alınır: 2/4+1/4=3/4.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-068",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Rasyonel Sayılar",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Matematik çalışmasında: 0,5 sayısı kesir olarak hangisine eşittir?",
     "options": [
       "1/2",
@@ -13135,14 +19221,14 @@ window.QUESTIONS = [
     "answer": "1/2",
     "answerLetter": "A",
     "explanation": "0,5 yarım demektir.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-069",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Rasyonel Sayılar",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Matematik çalışmasında: 2/3 ile 1/3 toplamı kaçtır?",
     "options": [
       "3/6",
@@ -13153,43 +19239,43 @@ window.QUESTIONS = [
     "answer": "1",
     "answerLetter": "D",
     "explanation": "Paydalar aynıysa paylar toplanır: 3/3=1.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-070",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Rasyonel Sayılar",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "1/2 + 1/4 sonucu kaçtır? (Tekrar)",
     "options": [
-      "1/8",
       "1/4",
+      "2/6",
       "3/4",
-      "2/6"
+      "1/8"
     ],
     "answer": "3/4",
     "answerLetter": "C",
     "explanation": "Ortak payda 4 alınır: 2/4+1/4=3/4.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-071",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Rasyonel Sayılar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "0,5 sayısı kesir olarak hangisine eşittir? (Tekrar)",
     "options": [
-      "2/5",
+      "5/1",
       "1/2",
-      "1/5",
-      "5/1"
+      "2/5",
+      "1/5"
     ],
     "answer": "1/2",
     "answerLetter": "B",
     "explanation": "0,5 yarım demektir.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-072",
@@ -13207,7 +19293,7 @@ window.QUESTIONS = [
     "answer": "1",
     "answerLetter": "A",
     "explanation": "Paydalar aynıysa paylar toplanır: 3/3=1.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-073",
@@ -13225,25 +19311,25 @@ window.QUESTIONS = [
     "answer": "3/4",
     "answerLetter": "D",
     "explanation": "Ortak payda 4 alınır: 2/4+1/4=3/4.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-074",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Rasyonel Sayılar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "0,5 sayısı kesir olarak hangisine eşittir? (Tekrar)",
     "options": [
-      "5/1",
       "2/5",
+      "1/5",
       "1/2",
-      "1/5"
+      "5/1"
     ],
     "answer": "1/2",
     "answerLetter": "C",
     "explanation": "0,5 yarım demektir.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-075",
@@ -13253,22 +19339,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "2/3 ile 1/3 toplamı kaçtır? (Tekrar)",
     "options": [
-      "1/3",
+      "2/6",
       "1",
-      "3/6",
-      "2/6"
+      "1/3",
+      "3/6"
     ],
     "answer": "1",
     "answerLetter": "B",
     "explanation": "Paydalar aynıysa paylar toplanır: 3/3=1.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-076",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Rasyonel Sayılar",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "1/2 + 1/4 sonucu kaçtır? (Tekrar)",
     "options": [
       "3/4",
@@ -13279,14 +19365,14 @@ window.QUESTIONS = [
     "answer": "3/4",
     "answerLetter": "A",
     "explanation": "Ortak payda 4 alınır: 2/4+1/4=3/4.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-077",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Rasyonel Sayılar",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "0,5 sayısı kesir olarak hangisine eşittir? (Tekrar)",
     "options": [
       "1/5",
@@ -13297,7 +19383,7 @@ window.QUESTIONS = [
     "answer": "1/2",
     "answerLetter": "D",
     "explanation": "0,5 yarım demektir.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-078",
@@ -13307,33 +19393,33 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "2/3 ile 1/3 toplamı kaçtır? (Tekrar)",
     "options": [
-      "2/6",
       "1/3",
+      "3/6",
       "1",
-      "3/6"
+      "2/6"
     ],
     "answer": "1",
     "answerLetter": "C",
     "explanation": "Paydalar aynıysa paylar toplanır: 3/3=1.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-079",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Rasyonel Sayılar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "1/2 + 1/4 sonucu kaçtır? (Tekrar)",
     "options": [
-      "1/4",
+      "1/8",
       "3/4",
-      "2/6",
-      "1/8"
+      "1/4",
+      "2/6"
     ],
     "answer": "3/4",
     "answerLetter": "B",
     "explanation": "Ortak payda 4 alınır: 2/4+1/4=3/4.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-080",
@@ -13351,79 +19437,79 @@ window.QUESTIONS = [
     "answer": "1/2",
     "answerLetter": "A",
     "explanation": "0,5 yarım demektir.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-081",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Üslü Sayılar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "2³ değeri kaçtır?",
     "options": [
-      "8",
       "9",
       "4",
-      "6"
+      "6",
+      "8"
     ],
     "answer": "8",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "2×2×2=8.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-082",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Üslü Sayılar",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "3² + 1 sonucu kaçtır?",
     "options": [
-      "9",
       "6",
       "7",
-      "10"
+      "10",
+      "9"
     ],
     "answer": "10",
-    "answerLetter": "D",
+    "answerLetter": "C",
     "explanation": "3²=9, 9+1=10.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-083",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Üslü Sayılar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Aynı tabanlı üslü ifadeler çarpılırken üsler ne yapılır?",
     "options": [
-      "Bölünür",
+      "Çarpılır",
       "Toplanır",
-      "Çıkarılır",
-      "Çarpılır"
+      "Bölünür",
+      "Çıkarılır"
     ],
     "answer": "Toplanır",
     "answerLetter": "B",
     "explanation": "a^m × a^n = a^(m+n).",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-084",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Üslü Sayılar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "2³ değeri kaç olarak bulunur?",
     "options": [
-      "6",
       "8",
+      "6",
       "9",
       "4"
     ],
     "answer": "8",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "2×2×2=8.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-085",
@@ -13433,76 +19519,76 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "3² + 1 sonucu kaç olarak bulunur?",
     "options": [
-      "10",
       "9",
       "6",
-      "7"
+      "7",
+      "10"
     ],
     "answer": "10",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "3²=9, 9+1=10.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-086",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Üslü Sayılar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Aynı tabanlı üslü ifadeler çarpılırken üsler ne yapılır?",
     "options": [
-      "Çarpılır",
       "Bölünür",
+      "Çıkarılır",
       "Toplanır",
-      "Çıkarılır"
+      "Çarpılır"
     ],
     "answer": "Toplanır",
     "answerLetter": "C",
     "explanation": "a^m × a^n = a^(m+n).",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-087",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Üslü Sayılar",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Matematik çalışmasında: 2³ değeri kaçtır?",
     "options": [
-      "4",
-      "6",
+      "9",
       "8",
-      "9"
+      "4",
+      "6"
     ],
     "answer": "8",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "2×2×2=8.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-088",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Üslü Sayılar",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Matematik çalışmasında: 3² + 1 sonucu kaçtır?",
     "options": [
-      "7",
       "10",
+      "7",
       "9",
       "6"
     ],
     "answer": "10",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "3²=9, 9+1=10.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-089",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Üslü Sayılar",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Matematik çalışmasında: aynı tabanlı üslü ifadeler çarpılırken üsler ne yapılır?",
     "options": [
       "Çıkarılır",
@@ -13513,43 +19599,43 @@ window.QUESTIONS = [
     "answer": "Toplanır",
     "answerLetter": "D",
     "explanation": "a^m × a^n = a^(m+n).",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-090",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Üslü Sayılar",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "2³ değeri kaçtır? (Tekrar)",
     "options": [
-      "9",
       "4",
       "6",
-      "8"
+      "8",
+      "9"
     ],
     "answer": "8",
-    "answerLetter": "D",
+    "answerLetter": "C",
     "explanation": "2×2×2=8.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-091",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Üslü Sayılar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "3² + 1 sonucu kaçtır? (Tekrar)",
     "options": [
-      "6",
-      "7",
+      "9",
       "10",
-      "9"
+      "6",
+      "7"
     ],
     "answer": "10",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "3²=9, 9+1=10.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-092",
@@ -13567,7 +19653,7 @@ window.QUESTIONS = [
     "answer": "Toplanır",
     "answerLetter": "A",
     "explanation": "a^m × a^n = a^(m+n).",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-093",
@@ -13577,33 +19663,33 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "2³ değeri kaçtır? (Tekrar)",
     "options": [
-      "8",
       "9",
       "4",
-      "6"
+      "6",
+      "8"
     ],
     "answer": "8",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "2×2×2=8.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-094",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Üslü Sayılar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "3² + 1 sonucu kaçtır? (Tekrar)",
     "options": [
-      "9",
       "6",
       "7",
-      "10"
+      "10",
+      "9"
     ],
     "answer": "10",
-    "answerLetter": "D",
+    "answerLetter": "C",
     "explanation": "3²=9, 9+1=10.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-095",
@@ -13613,51 +19699,51 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "Aynı tabanlı üslü ifadeler çarpılırken üsler ne yapılır? (Tekrar)",
     "options": [
-      "Bölünür",
+      "Çarpılır",
       "Toplanır",
-      "Çıkarılır",
-      "Çarpılır"
+      "Bölünür",
+      "Çıkarılır"
     ],
     "answer": "Toplanır",
     "answerLetter": "B",
     "explanation": "a^m × a^n = a^(m+n).",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-096",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Üslü Sayılar",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "2³ değeri kaçtır? (Tekrar)",
     "options": [
-      "6",
       "8",
+      "6",
       "9",
       "4"
     ],
     "answer": "8",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "2×2×2=8.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-097",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Üslü Sayılar",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "3² + 1 sonucu kaçtır? (Tekrar)",
     "options": [
-      "10",
       "9",
       "6",
-      "7"
+      "7",
+      "10"
     ],
     "answer": "10",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "3²=9, 9+1=10.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-098",
@@ -13667,33 +19753,33 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "Aynı tabanlı üslü ifadeler çarpılırken üsler ne yapılır? (Tekrar)",
     "options": [
-      "Çarpılır",
       "Bölünür",
+      "Çıkarılır",
       "Toplanır",
-      "Çıkarılır"
+      "Çarpılır"
     ],
     "answer": "Toplanır",
     "answerLetter": "C",
     "explanation": "a^m × a^n = a^(m+n).",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-099",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Üslü Sayılar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "2³ değeri kaçtır? (Tekrar)",
     "options": [
-      "4",
-      "6",
+      "9",
       "8",
-      "9"
+      "4",
+      "6"
     ],
     "answer": "8",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "2×2×2=8.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-100",
@@ -13703,87 +19789,87 @@ window.QUESTIONS = [
     "difficulty": "Kolay",
     "question": "3² + 1 sonucu kaçtır? (Tekrar)",
     "options": [
-      "7",
       "10",
+      "7",
       "9",
       "6"
     ],
     "answer": "10",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "3²=9, 9+1=10.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-101",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Köklü Sayılar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "√16 kaçtır?",
     "options": [
-      "4",
       "8",
       "16",
-      "2"
+      "2",
+      "4"
     ],
     "answer": "4",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "4×4=16.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-102",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Köklü Sayılar",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "√25 + √9 sonucu kaçtır?",
     "options": [
-      "10",
       "14",
       "5",
-      "8"
+      "8",
+      "10"
     ],
     "answer": "8",
-    "answerLetter": "D",
+    "answerLetter": "C",
     "explanation": "√25=5, √9=3, toplam 8.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-103",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Köklü Sayılar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "√49 kaçtır?",
     "options": [
-      "9",
-      "6",
+      "8",
       "7",
-      "8"
+      "9",
+      "6"
     ],
     "answer": "7",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "7×7=49.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-104",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Köklü Sayılar",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "√16 kaç olarak bulunur?",
     "options": [
-      "2",
       "4",
+      "2",
       "8",
       "16"
     ],
     "answer": "4",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "4×4=16.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-105",
@@ -13793,23 +19879,77 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "√25 + √9 sonucu kaç olarak bulunur?",
     "options": [
-      "8",
       "10",
       "14",
-      "5"
+      "5",
+      "8"
     ],
     "answer": "8",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "√25=5, √9=3, toplam 8.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-106",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Köklü Sayılar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "√49 kaç olarak bulunur?",
+    "options": [
+      "9",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "7",
+    "answerLetter": "C",
+    "explanation": "7×7=49.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-107",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": "Orta",
+    "question": "Matematik çalışmasında: √16 kaçtır?",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "2"
+    ],
+    "answer": "4",
+    "answerLetter": "B",
+    "explanation": "4×4=16.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-108",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": "Kolay",
+    "question": "Matematik çalışmasında: √25 + √9 sonucu kaçtır?",
+    "options": [
+      "8",
+      "5",
+      "10",
+      "14"
+    ],
+    "answer": "8",
+    "answerLetter": "A",
+    "explanation": "√25=5, √9=3, toplam 8.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-109",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": "Orta",
+    "question": "Matematik çalışmasında: √49 kaçtır?",
     "options": [
       "8",
       "9",
@@ -13819,15 +19959,15 @@ window.QUESTIONS = [
     "answer": "7",
     "answerLetter": "D",
     "explanation": "7×7=49.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
-    "id": "mt-107",
+    "id": "mt-110",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Köklü Sayılar",
     "difficulty": "Zor",
-    "question": "Matematik çalışmasında: √16 kaçtır?",
+    "question": "√16 kaçtır? (Tekrar)",
     "options": [
       "16",
       "2",
@@ -13837,50 +19977,50 @@ window.QUESTIONS = [
     "answer": "4",
     "answerLetter": "C",
     "explanation": "4×4=16.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
-    "id": "mt-108",
+    "id": "mt-111",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Köklü Sayılar",
-    "difficulty": "Zor",
-    "question": "Matematik çalışmasında: √25 + √9 sonucu kaçtır?",
+    "difficulty": "Orta",
+    "question": "√25 + √9 sonucu kaçtır? (Tekrar)",
     "options": [
-      "5",
-      "8",
       "10",
-      "14"
+      "8",
+      "14",
+      "5"
     ],
     "answer": "8",
     "answerLetter": "B",
     "explanation": "√25=5, √9=3, toplam 8.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
-    "id": "mt-109",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Köklü Sayılar",
-    "difficulty": "Zor",
-    "question": "Matematik çalışmasında: √49 kaçtır?",
-    "options": [
-      "7",
-      "8",
-      "9",
-      "6"
-    ],
-    "answer": "7",
-    "answerLetter": "A",
-    "explanation": "7×7=49.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-110",
+    "id": "mt-112",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Köklü Sayılar",
     "difficulty": "Kolay",
+    "question": "√49 kaçtır? (Tekrar)",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer": "7",
+    "answerLetter": "A",
+    "explanation": "7×7=49.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-113",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": "Orta",
     "question": "√16 kaçtır? (Tekrar)",
     "options": [
       "8",
@@ -13891,14 +20031,14 @@ window.QUESTIONS = [
     "answer": "4",
     "answerLetter": "D",
     "explanation": "4×4=16.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
-    "id": "mt-111",
+    "id": "mt-114",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Köklü Sayılar",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "√25 + √9 sonucu kaçtır? (Tekrar)",
     "options": [
       "14",
@@ -13909,61 +20049,7 @@ window.QUESTIONS = [
     "answer": "8",
     "answerLetter": "C",
     "explanation": "√25=5, √9=3, toplam 8.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-112",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Köklü Sayılar",
-    "difficulty": "Kolay",
-    "question": "√49 kaçtır? (Tekrar)",
-    "options": [
-      "6",
-      "7",
-      "8",
-      "9"
-    ],
-    "answer": "7",
-    "answerLetter": "B",
-    "explanation": "7×7=49.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-113",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Köklü Sayılar",
-    "difficulty": "Orta",
-    "question": "√16 kaçtır? (Tekrar)",
-    "options": [
-      "4",
-      "8",
-      "16",
-      "2"
-    ],
-    "answer": "4",
-    "answerLetter": "A",
-    "explanation": "4×4=16.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-114",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Köklü Sayılar",
-    "difficulty": "Orta",
-    "question": "√25 + √9 sonucu kaçtır? (Tekrar)",
-    "options": [
-      "10",
-      "14",
-      "5",
-      "8"
-    ],
-    "answer": "8",
-    "answerLetter": "D",
-    "explanation": "√25=5, √9=3, toplam 8.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-115",
@@ -13973,51 +20059,51 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "√49 kaçtır? (Tekrar)",
     "options": [
-      "9",
-      "6",
+      "8",
       "7",
-      "8"
+      "9",
+      "6"
     ],
     "answer": "7",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "7×7=49.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-116",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Köklü Sayılar",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "√16 kaçtır? (Tekrar)",
     "options": [
-      "2",
       "4",
+      "2",
       "8",
       "16"
     ],
     "answer": "4",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "4×4=16.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-117",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Köklü Sayılar",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "√25 + √9 sonucu kaçtır? (Tekrar)",
     "options": [
-      "8",
       "10",
       "14",
-      "5"
+      "5",
+      "8"
     ],
     "answer": "8",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "√25=5, √9=3, toplam 8.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-118",
@@ -14027,33 +20113,33 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "√49 kaçtır? (Tekrar)",
     "options": [
-      "8",
       "9",
       "6",
-      "7"
+      "7",
+      "8"
     ],
     "answer": "7",
-    "answerLetter": "D",
+    "answerLetter": "C",
     "explanation": "7×7=49.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-119",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Köklü Sayılar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "√16 kaçtır? (Tekrar)",
     "options": [
-      "16",
-      "2",
+      "8",
       "4",
-      "8"
+      "16",
+      "2"
     ],
     "answer": "4",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "4×4=16.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-120",
@@ -14063,167 +20149,59 @@ window.QUESTIONS = [
     "difficulty": "Kolay",
     "question": "√25 + √9 sonucu kaçtır? (Tekrar)",
     "options": [
-      "5",
       "8",
+      "5",
       "10",
       "14"
     ],
     "answer": "8",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "√25=5, √9=3, toplam 8.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-121",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Denklem Çözme",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "x + 5 = 12 ise x kaçtır?",
     "options": [
-      "7",
       "12",
       "17",
-      "5"
+      "5",
+      "7"
     ],
     "answer": "7",
-    "answerLetter": "A",
+    "answerLetter": "D",
     "explanation": "Her iki taraftan 5 çıkarılır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-122",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Denklem Çözme",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "2x = 18 ise x kaçtır?",
     "options": [
-      "18",
       "20",
       "6",
-      "9"
+      "9",
+      "18"
     ],
     "answer": "9",
-    "answerLetter": "D",
+    "answerLetter": "C",
     "explanation": "Her iki taraf 2'ye bölünür.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-123",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Denklem Çözme",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "3x - 6 = 12 ise x kaçtır?",
-    "options": [
-      "8",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "6",
-    "answerLetter": "D",
-    "explanation": "3x=18, x=6.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-124",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Denklem Çözme",
-    "difficulty": "Orta",
-    "question": "x + 5 = 12 ise x kaç olarak bulunur?",
-    "options": [
-      "5",
-      "7",
-      "12",
-      "17"
-    ],
-    "answer": "7",
-    "answerLetter": "B",
-    "explanation": "Her iki taraftan 5 çıkarılır.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-125",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Denklem Çözme",
-    "difficulty": "Orta",
-    "question": "2x = 18 ise x kaç olarak bulunur?",
-    "options": [
-      "9",
-      "18",
-      "20",
-      "6"
-    ],
-    "answer": "9",
-    "answerLetter": "A",
-    "explanation": "Her iki taraf 2'ye bölünür.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-126",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Denklem Çözme",
-    "difficulty": "Orta",
-    "question": "3x - 6 = 12 ise x kaç olarak bulunur?",
-    "options": [
-      "6",
-      "8",
-      "4",
-      "5"
-    ],
-    "answer": "6",
-    "answerLetter": "A",
-    "explanation": "3x=18, x=6.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-127",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Denklem Çözme",
-    "difficulty": "Zor",
-    "question": "Matematik çalışmasında: x + 5 = 12 ise x kaçtır?",
-    "options": [
-      "17",
-      "5",
-      "7",
-      "12"
-    ],
-    "answer": "7",
-    "answerLetter": "C",
-    "explanation": "Her iki taraftan 5 çıkarılır.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-128",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Denklem Çözme",
-    "difficulty": "Zor",
-    "question": "Matematik çalışmasında: 2x = 18 ise x kaçtır?",
-    "options": [
-      "6",
-      "9",
-      "18",
-      "20"
-    ],
-    "answer": "9",
-    "answerLetter": "B",
-    "explanation": "Her iki taraf 2'ye bölünür.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-129",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Denklem Çözme",
-    "difficulty": "Zor",
-    "question": "Matematik çalışmasında: 3x - 6 = 12 ise x kaçtır?",
     "options": [
       "5",
       "6",
@@ -14233,14 +20211,176 @@ window.QUESTIONS = [
     "answer": "6",
     "answerLetter": "B",
     "explanation": "3x=18, x=6.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-124",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Kolay",
+    "question": "x + 5 = 12 ise x kaç olarak bulunur?",
+    "options": [
+      "7",
+      "5",
+      "12",
+      "17"
+    ],
+    "answer": "7",
+    "answerLetter": "A",
+    "explanation": "Her iki taraftan 5 çıkarılır.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-125",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Orta",
+    "question": "2x = 18 ise x kaç olarak bulunur?",
+    "options": [
+      "18",
+      "20",
+      "6",
+      "9"
+    ],
+    "answer": "9",
+    "answerLetter": "D",
+    "explanation": "Her iki taraf 2'ye bölünür.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-126",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Zor",
+    "question": "3x - 6 = 12 ise x kaç olarak bulunur?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": "6",
+    "answerLetter": "C",
+    "explanation": "3x=18, x=6.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-127",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Orta",
+    "question": "Matematik çalışmasında: x + 5 = 12 ise x kaçtır?",
+    "options": [
+      "12",
+      "7",
+      "17",
+      "5"
+    ],
+    "answer": "7",
+    "answerLetter": "B",
+    "explanation": "Her iki taraftan 5 çıkarılır.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-128",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Kolay",
+    "question": "Matematik çalışmasında: 2x = 18 ise x kaçtır?",
+    "options": [
+      "9",
+      "6",
+      "18",
+      "20"
+    ],
+    "answer": "9",
+    "answerLetter": "A",
+    "explanation": "Her iki taraf 2'ye bölünür.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-129",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Orta",
+    "question": "Matematik çalışmasında: 3x - 6 = 12 ise x kaçtır?",
+    "options": [
+      "5",
+      "8",
+      "4",
+      "6"
+    ],
+    "answer": "6",
+    "answerLetter": "D",
+    "explanation": "3x=18, x=6.",
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-130",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Denklem Çözme",
+    "difficulty": "Zor",
+    "question": "x + 5 = 12 ise x kaçtır? (Tekrar)",
+    "options": [
+      "17",
+      "5",
+      "7",
+      "12"
+    ],
+    "answer": "7",
+    "answerLetter": "C",
+    "explanation": "Her iki taraftan 5 çıkarılır.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-131",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Orta",
+    "question": "2x = 18 ise x kaçtır? (Tekrar)",
+    "options": [
+      "18",
+      "9",
+      "20",
+      "6"
+    ],
+    "answer": "9",
+    "answerLetter": "B",
+    "explanation": "Her iki taraf 2'ye bölünür.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-132",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
     "difficulty": "Kolay",
+    "question": "3x - 6 = 12 ise x kaçtır? (Tekrar)",
+    "options": [
+      "6",
+      "4",
+      "5",
+      "8"
+    ],
+    "answer": "6",
+    "answerLetter": "A",
+    "explanation": "3x=18, x=6.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-133",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Orta",
     "question": "x + 5 = 12 ise x kaçtır? (Tekrar)",
     "options": [
       "12",
@@ -14251,14 +20391,14 @@ window.QUESTIONS = [
     "answer": "7",
     "answerLetter": "D",
     "explanation": "Her iki taraftan 5 çıkarılır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
-    "id": "mt-131",
+    "id": "mt-134",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Denklem Çözme",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "2x = 18 ise x kaçtır? (Tekrar)",
     "options": [
       "20",
@@ -14269,46 +20409,46 @@ window.QUESTIONS = [
     "answer": "9",
     "answerLetter": "C",
     "explanation": "Her iki taraf 2'ye bölünür.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
-    "id": "mt-132",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Denklem Çözme",
-    "difficulty": "Kolay",
-    "question": "3x - 6 = 12 ise x kaçtır? (Tekrar)",
-    "options": [
-      "4",
-      "5",
-      "6",
-      "8"
-    ],
-    "answer": "6",
-    "answerLetter": "C",
-    "explanation": "3x=18, x=6.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-133",
+    "id": "mt-135",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Denklem Çözme",
     "difficulty": "Orta",
+    "question": "3x - 6 = 12 ise x kaçtır? (Tekrar)",
+    "options": [
+      "5",
+      "6",
+      "8",
+      "4"
+    ],
+    "answer": "6",
+    "answerLetter": "B",
+    "explanation": "3x=18, x=6.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-136",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Kolay",
     "question": "x + 5 = 12 ise x kaçtır? (Tekrar)",
     "options": [
       "7",
+      "5",
       "12",
-      "17",
-      "5"
+      "17"
     ],
     "answer": "7",
     "answerLetter": "A",
     "explanation": "Her iki taraftan 5 çıkarılır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
-    "id": "mt-134",
+    "id": "mt-137",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Denklem Çözme",
@@ -14323,61 +20463,7 @@ window.QUESTIONS = [
     "answer": "9",
     "answerLetter": "D",
     "explanation": "Her iki taraf 2'ye bölünür.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-135",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Denklem Çözme",
-    "difficulty": "Orta",
-    "question": "3x - 6 = 12 ise x kaçtır? (Tekrar)",
-    "options": [
-      "8",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "6",
-    "answerLetter": "D",
-    "explanation": "3x=18, x=6.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-136",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Denklem Çözme",
-    "difficulty": "Zor",
-    "question": "x + 5 = 12 ise x kaçtır? (Tekrar)",
-    "options": [
-      "5",
-      "7",
-      "12",
-      "17"
-    ],
-    "answer": "7",
-    "answerLetter": "B",
-    "explanation": "Her iki taraftan 5 çıkarılır.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-137",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Denklem Çözme",
-    "difficulty": "Zor",
-    "question": "2x = 18 ise x kaçtır? (Tekrar)",
-    "options": [
-      "9",
-      "18",
-      "20",
-      "6"
-    ],
-    "answer": "9",
-    "answerLetter": "A",
-    "explanation": "Her iki taraf 2'ye bölünür.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-138",
@@ -14387,33 +20473,33 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "3x - 6 = 12 ise x kaçtır? (Tekrar)",
     "options": [
-      "6",
-      "8",
       "4",
-      "5"
+      "5",
+      "6",
+      "8"
     ],
     "answer": "6",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "3x=18, x=6.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-139",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Denklem Çözme",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "x + 5 = 12 ise x kaçtır? (Tekrar)",
     "options": [
-      "17",
-      "5",
+      "12",
       "7",
-      "12"
+      "17",
+      "5"
     ],
     "answer": "7",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Her iki taraftan 5 çıkarılır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-140",
@@ -14423,22 +20509,22 @@ window.QUESTIONS = [
     "difficulty": "Kolay",
     "question": "2x = 18 ise x kaçtır? (Tekrar)",
     "options": [
-      "6",
       "9",
+      "6",
       "18",
       "20"
     ],
     "answer": "9",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "Her iki taraf 2'ye bölünür.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-141",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Problemler",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Ali'nin 20 TL'si vardı, 7 TL harcadı. Kaç TL kaldı?",
     "options": [
       "14",
@@ -14449,50 +20535,50 @@ window.QUESTIONS = [
     "answer": "13",
     "answerLetter": "D",
     "explanation": "20-7=13.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-142",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Problemler",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Bir araç saatte 60 km hızla 3 saatte kaç km gider?",
     "options": [
-      "180",
-      "200",
       "120",
-      "150"
+      "150",
+      "180",
+      "200"
     ],
     "answer": "180",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "Yol=hız×zaman=60×3=180.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-143",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Problemler",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "5 kalem 25 TL ise 1 kalem kaç TL'dir?",
     "options": [
-      "10",
-      "4",
+      "6",
       "5",
-      "6"
+      "10",
+      "4"
     ],
     "answer": "5",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "25÷5=5.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-144",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Problemler",
-    "difficulty": "Orta",
+    "difficulty": "Kolay",
     "question": "Ali'nin 20 TL'si vardı, 7 TL harcadı. Kaç TL kaldı?",
     "options": [
       "13",
@@ -14503,7 +20589,7 @@ window.QUESTIONS = [
     "answer": "13",
     "answerLetter": "A",
     "explanation": "20-7=13.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-145",
@@ -14514,22 +20600,76 @@ window.QUESTIONS = [
     "question": "Bir araç saatte 60 km hızla 3 saatte kaç km gider?",
     "options": [
       "150",
-      "180",
       "200",
-      "120"
+      "120",
+      "180"
     ],
     "answer": "180",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Yol=hız×zaman=60×3=180.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-146",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Problemler",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "5 kalem 25 TL ise 1 kalem kaç TL'dir?",
+    "options": [
+      "10",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "5",
+    "answerLetter": "C",
+    "explanation": "25÷5=5.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-147",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Problemler",
+    "difficulty": "Orta",
+    "question": "Matematik çalışmasında: ali'nin 20 TL'si vardı, 7 TL harcadı. Kaç TL kaldı?",
+    "options": [
+      "15",
+      "13",
+      "27",
+      "14"
+    ],
+    "answer": "13",
+    "answerLetter": "B",
+    "explanation": "20-7=13.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-148",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Problemler",
+    "difficulty": "Kolay",
+    "question": "Matematik çalışmasında: bir araç saatte 60 km hızla 3 saatte kaç km gider?",
+    "options": [
+      "180",
+      "120",
+      "150",
+      "200"
+    ],
+    "answer": "180",
+    "answerLetter": "A",
+    "explanation": "Yol=hız×zaman=60×3=180.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-149",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Problemler",
+    "difficulty": "Orta",
+    "question": "Matematik çalışmasında: 5 kalem 25 TL ise 1 kalem kaç TL'dir?",
     "options": [
       "6",
       "10",
@@ -14539,97 +20679,43 @@ window.QUESTIONS = [
     "answer": "5",
     "answerLetter": "D",
     "explanation": "25÷5=5.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-147",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Problemler",
-    "difficulty": "Zor",
-    "question": "Matematik çalışmasında: ali'nin 20 TL'si vardı, 7 TL harcadı. Kaç TL kaldı?",
-    "options": [
-      "27",
-      "13",
-      "14",
-      "15"
-    ],
-    "answer": "13",
-    "answerLetter": "B",
-    "explanation": "20-7=13.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-148",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Problemler",
-    "difficulty": "Zor",
-    "question": "Matematik çalışmasında: bir araç saatte 60 km hızla 3 saatte kaç km gider?",
-    "options": [
-      "120",
-      "150",
-      "180",
-      "200"
-    ],
-    "answer": "180",
-    "answerLetter": "C",
-    "explanation": "Yol=hız×zaman=60×3=180.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-149",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Problemler",
-    "difficulty": "Zor",
-    "question": "Matematik çalışmasında: 5 kalem 25 TL ise 1 kalem kaç TL'dir?",
-    "options": [
-      "5",
-      "6",
-      "10",
-      "4"
-    ],
-    "answer": "5",
-    "answerLetter": "A",
-    "explanation": "25÷5=5.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-150",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Problemler",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "Ali'nin 20 TL'si vardı, 7 TL harcadı. Kaç TL kaldı? (Tekrar)",
     "options": [
-      "15",
       "27",
+      "14",
       "13",
-      "14"
+      "15"
     ],
     "answer": "13",
     "answerLetter": "C",
     "explanation": "20-7=13.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-151",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Problemler",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Bir araç saatte 60 km hızla 3 saatte kaç km gider? (Tekrar)",
     "options": [
-      "200",
-      "120",
       "150",
-      "180"
+      "180",
+      "200",
+      "120"
     ],
     "answer": "180",
-    "answerLetter": "D",
+    "answerLetter": "B",
     "explanation": "Yol=hız×zaman=60×3=180.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-152",
@@ -14639,15 +20725,15 @@ window.QUESTIONS = [
     "difficulty": "Kolay",
     "question": "5 kalem 25 TL ise 1 kalem kaç TL'dir? (Tekrar)",
     "options": [
-      "4",
       "5",
+      "4",
       "6",
       "10"
     ],
     "answer": "5",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "25÷5=5.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-153",
@@ -14665,25 +20751,25 @@ window.QUESTIONS = [
     "answer": "13",
     "answerLetter": "D",
     "explanation": "20-7=13.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-154",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Problemler",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "Bir araç saatte 60 km hızla 3 saatte kaç km gider? (Tekrar)",
     "options": [
-      "180",
-      "200",
       "120",
-      "150"
+      "150",
+      "180",
+      "200"
     ],
     "answer": "180",
-    "answerLetter": "A",
+    "answerLetter": "C",
     "explanation": "Yol=hız×zaman=60×3=180.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-155",
@@ -14693,22 +20779,22 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "5 kalem 25 TL ise 1 kalem kaç TL'dir? (Tekrar)",
     "options": [
-      "10",
-      "4",
+      "6",
       "5",
-      "6"
+      "10",
+      "4"
     ],
     "answer": "5",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "25÷5=5.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-156",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Problemler",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Ali'nin 20 TL'si vardı, 7 TL harcadı. Kaç TL kaldı? (Tekrar)",
     "options": [
       "13",
@@ -14719,25 +20805,25 @@ window.QUESTIONS = [
     "answer": "13",
     "answerLetter": "A",
     "explanation": "20-7=13.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-157",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Problemler",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Bir araç saatte 60 km hızla 3 saatte kaç km gider? (Tekrar)",
     "options": [
       "150",
-      "180",
       "200",
-      "120"
+      "120",
+      "180"
     ],
     "answer": "180",
-    "answerLetter": "B",
+    "answerLetter": "D",
     "explanation": "Yol=hız×zaman=60×3=180.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-158",
@@ -14747,33 +20833,33 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "5 kalem 25 TL ise 1 kalem kaç TL'dir? (Tekrar)",
     "options": [
-      "6",
       "10",
       "4",
-      "5"
+      "5",
+      "6"
     ],
     "answer": "5",
-    "answerLetter": "D",
+    "answerLetter": "C",
     "explanation": "25÷5=5.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-159",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Problemler",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "Ali'nin 20 TL'si vardı, 7 TL harcadı. Kaç TL kaldı? (Tekrar)",
     "options": [
-      "27",
+      "15",
       "13",
-      "14",
-      "15"
+      "27",
+      "14"
     ],
     "answer": "13",
     "answerLetter": "B",
     "explanation": "20-7=13.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-160",
@@ -14783,18 +20869,72 @@ window.QUESTIONS = [
     "difficulty": "Kolay",
     "question": "Bir araç saatte 60 km hızla 3 saatte kaç km gider? (Tekrar)",
     "options": [
+      "180",
       "120",
       "150",
-      "180",
       "200"
     ],
     "answer": "180",
-    "answerLetter": "C",
+    "answerLetter": "A",
     "explanation": "Yol=hız×zaman=60×3=180.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-161",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Orta",
+    "question": "2 kalem 10 TL ise 4 kalem kaç TL'dir?",
+    "options": [
+      "25",
+      "30",
+      "15",
+      "20"
+    ],
+    "answer": "20",
+    "answerLetter": "D",
+    "explanation": "Kalem sayısı iki katına çıktığı için fiyat da iki katına çıkar.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-162",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Zor",
+    "question": "3 işçi bir işi 6 günde bitirirse, 6 işçi aynı işi kaç günde bitirir?",
+    "options": [
+      "12",
+      "2",
+      "3",
+      "6"
+    ],
+    "answer": "3",
+    "answerLetter": "C",
+    "explanation": "İşçi sayısı artarsa süre azalır; ters orantı vardır.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-163",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Orta",
+    "question": "1/2 oranı yüzde kaçtır?",
+    "options": [
+      "75",
+      "50",
+      "100",
+      "25"
+    ],
+    "answer": "50",
+    "answerLetter": "B",
+    "explanation": "1/2 = 0,5 = %50.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-164",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Oran-Orantı",
@@ -14802,21 +20942,21 @@ window.QUESTIONS = [
     "question": "2 kalem 10 TL ise 4 kalem kaç TL'dir?",
     "options": [
       "20",
+      "15",
       "25",
-      "30",
-      "15"
+      "30"
     ],
     "answer": "20",
     "answerLetter": "A",
     "explanation": "Kalem sayısı iki katına çıktığı için fiyat da iki katına çıkar.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
-    "id": "mt-162",
+    "id": "mt-165",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Oran-Orantı",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "3 işçi bir işi 6 günde bitirirse, 6 işçi aynı işi kaç günde bitirir?",
     "options": [
       "6",
@@ -14827,15 +20967,15 @@ window.QUESTIONS = [
     "answer": "3",
     "answerLetter": "D",
     "explanation": "İşçi sayısı artarsa süre azalır; ters orantı vardır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
-    "id": "mt-163",
+    "id": "mt-166",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Oran-Orantı",
-    "difficulty": "Kolay",
-    "question": "1/2 oranı yüzde kaçtır?",
+    "difficulty": "Zor",
+    "question": "1/2 oranı yüzde kaç olarak bulunur?",
     "options": [
       "100",
       "25",
@@ -14845,51 +20985,51 @@ window.QUESTIONS = [
     "answer": "50",
     "answerLetter": "C",
     "explanation": "1/2 = 0,5 = %50.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
-    "id": "mt-164",
+    "id": "mt-167",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Oran-Orantı",
     "difficulty": "Orta",
-    "question": "2 kalem 10 TL ise 4 kalem kaç TL'dir?",
+    "question": "Matematik çalışmasında: 2 kalem 10 TL ise 4 kalem kaç TL'dir?",
     "options": [
-      "15",
-      "20",
       "25",
-      "30"
+      "20",
+      "30",
+      "15"
     ],
     "answer": "20",
     "answerLetter": "B",
     "explanation": "Kalem sayısı iki katına çıktığı için fiyat da iki katına çıkar.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
-    "id": "mt-165",
+    "id": "mt-168",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Oran-Orantı",
-    "difficulty": "Orta",
-    "question": "3 işçi bir işi 6 günde bitirirse, 6 işçi aynı işi kaç günde bitirir?",
+    "difficulty": "Kolay",
+    "question": "Matematik çalışmasında: 3 işçi bir işi 6 günde bitirirse, 6 işçi aynı işi kaç günde bitirir?",
     "options": [
       "3",
+      "2",
       "6",
-      "12",
-      "2"
+      "12"
     ],
     "answer": "3",
     "answerLetter": "A",
     "explanation": "İşçi sayısı artarsa süre azalır; ters orantı vardır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
-    "id": "mt-166",
+    "id": "mt-169",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Oran-Orantı",
     "difficulty": "Orta",
-    "question": "1/2 oranı yüzde kaç olarak bulunur?",
+    "question": "Matematik çalışmasında: 1/2 oranı yüzde kaçtır?",
     "options": [
       "75",
       "100",
@@ -14899,15 +21039,15 @@ window.QUESTIONS = [
     "answer": "50",
     "answerLetter": "D",
     "explanation": "1/2 = 0,5 = %50.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
-    "id": "mt-167",
+    "id": "mt-170",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Oran-Orantı",
     "difficulty": "Zor",
-    "question": "Matematik çalışmasında: 2 kalem 10 TL ise 4 kalem kaç TL'dir?",
+    "question": "2 kalem 10 TL ise 4 kalem kaç TL'dir? (Tekrar)",
     "options": [
       "30",
       "15",
@@ -14917,50 +21057,50 @@ window.QUESTIONS = [
     "answer": "20",
     "answerLetter": "C",
     "explanation": "Kalem sayısı iki katına çıktığı için fiyat da iki katına çıkar.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
-    "id": "mt-168",
+    "id": "mt-171",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Oran-Orantı",
-    "difficulty": "Zor",
-    "question": "Matematik çalışmasında: 3 işçi bir işi 6 günde bitirirse, 6 işçi aynı işi kaç günde bitirir?",
+    "difficulty": "Orta",
+    "question": "3 işçi bir işi 6 günde bitirirse, 6 işçi aynı işi kaç günde bitirir? (Tekrar)",
     "options": [
-      "2",
-      "3",
       "6",
-      "12"
+      "3",
+      "12",
+      "2"
     ],
     "answer": "3",
     "answerLetter": "B",
     "explanation": "İşçi sayısı artarsa süre azalır; ters orantı vardır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
-    "id": "mt-169",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Oran-Orantı",
-    "difficulty": "Zor",
-    "question": "Matematik çalışmasında: 1/2 oranı yüzde kaçtır?",
-    "options": [
-      "50",
-      "75",
-      "100",
-      "25"
-    ],
-    "answer": "50",
-    "answerLetter": "A",
-    "explanation": "1/2 = 0,5 = %50.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-170",
+    "id": "mt-172",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Oran-Orantı",
     "difficulty": "Kolay",
+    "question": "1/2 oranı yüzde kaçtır? (Tekrar)",
+    "options": [
+      "50",
+      "25",
+      "75",
+      "100"
+    ],
+    "answer": "50",
+    "answerLetter": "A",
+    "explanation": "1/2 = 0,5 = %50.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-173",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Orta",
     "question": "2 kalem 10 TL ise 4 kalem kaç TL'dir? (Tekrar)",
     "options": [
       "25",
@@ -14971,14 +21111,14 @@ window.QUESTIONS = [
     "answer": "20",
     "answerLetter": "D",
     "explanation": "Kalem sayısı iki katına çıktığı için fiyat da iki katına çıkar.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
-    "id": "mt-171",
+    "id": "mt-174",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Oran-Orantı",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "3 işçi bir işi 6 günde bitirirse, 6 işçi aynı işi kaç günde bitirir? (Tekrar)",
     "options": [
       "12",
@@ -14989,46 +21129,46 @@ window.QUESTIONS = [
     "answer": "3",
     "answerLetter": "C",
     "explanation": "İşçi sayısı artarsa süre azalır; ters orantı vardır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
-    "id": "mt-172",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Oran-Orantı",
-    "difficulty": "Kolay",
-    "question": "1/2 oranı yüzde kaçtır? (Tekrar)",
-    "options": [
-      "25",
-      "50",
-      "75",
-      "100"
-    ],
-    "answer": "50",
-    "answerLetter": "B",
-    "explanation": "1/2 = 0,5 = %50.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-173",
+    "id": "mt-175",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Oran-Orantı",
     "difficulty": "Orta",
+    "question": "1/2 oranı yüzde kaçtır? (Tekrar)",
+    "options": [
+      "75",
+      "50",
+      "100",
+      "25"
+    ],
+    "answer": "50",
+    "answerLetter": "B",
+    "explanation": "1/2 = 0,5 = %50.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-176",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Kolay",
     "question": "2 kalem 10 TL ise 4 kalem kaç TL'dir? (Tekrar)",
     "options": [
       "20",
+      "15",
       "25",
-      "30",
-      "15"
+      "30"
     ],
     "answer": "20",
     "answerLetter": "A",
     "explanation": "Kalem sayısı iki katına çıktığı için fiyat da iki katına çıkar.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
-    "id": "mt-174",
+    "id": "mt-177",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Oran-Orantı",
@@ -15043,14 +21183,14 @@ window.QUESTIONS = [
     "answer": "3",
     "answerLetter": "D",
     "explanation": "İşçi sayısı artarsa süre azalır; ters orantı vardır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
-    "id": "mt-175",
+    "id": "mt-178",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Oran-Orantı",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "1/2 oranı yüzde kaçtır? (Tekrar)",
     "options": [
       "100",
@@ -15061,79 +21201,25 @@ window.QUESTIONS = [
     "answer": "50",
     "answerLetter": "C",
     "explanation": "1/2 = 0,5 = %50.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-176",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Oran-Orantı",
-    "difficulty": "Zor",
-    "question": "2 kalem 10 TL ise 4 kalem kaç TL'dir? (Tekrar)",
-    "options": [
-      "15",
-      "20",
-      "25",
-      "30"
-    ],
-    "answer": "20",
-    "answerLetter": "B",
-    "explanation": "Kalem sayısı iki katına çıktığı için fiyat da iki katına çıkar.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-177",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Oran-Orantı",
-    "difficulty": "Zor",
-    "question": "3 işçi bir işi 6 günde bitirirse, 6 işçi aynı işi kaç günde bitirir? (Tekrar)",
-    "options": [
-      "3",
-      "6",
-      "12",
-      "2"
-    ],
-    "answer": "3",
-    "answerLetter": "A",
-    "explanation": "İşçi sayısı artarsa süre azalır; ters orantı vardır.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-178",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Oran-Orantı",
-    "difficulty": "Zor",
-    "question": "1/2 oranı yüzde kaçtır? (Tekrar)",
-    "options": [
-      "75",
-      "100",
-      "25",
-      "50"
-    ],
-    "answer": "50",
-    "answerLetter": "D",
-    "explanation": "1/2 = 0,5 = %50.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-179",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Oran-Orantı",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "2 kalem 10 TL ise 4 kalem kaç TL'dir? (Tekrar)",
     "options": [
-      "30",
-      "15",
+      "25",
       "20",
-      "25"
+      "30",
+      "15"
     ],
     "answer": "20",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "Kalem sayısı iki katına çıktığı için fiyat da iki katına çıkar.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-180",
@@ -15143,18 +21229,72 @@ window.QUESTIONS = [
     "difficulty": "Kolay",
     "question": "3 işçi bir işi 6 günde bitirirse, 6 işçi aynı işi kaç günde bitirir? (Tekrar)",
     "options": [
-      "2",
       "3",
+      "2",
       "6",
       "12"
     ],
     "answer": "3",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "İşçi sayısı artarsa süre azalır; ters orantı vardır.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-181",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Orta",
+    "question": "100 TL'nin %20'si kaç TL'dir?",
+    "options": [
+      "25",
+      "50",
+      "10",
+      "20"
+    ],
+    "answer": "20",
+    "answerLetter": "D",
+    "explanation": "100×20/100=20.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-182",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Zor",
+    "question": "80 TL'ye alınan ürün 100 TL'ye satılırsa kâr kaç TL'dir?",
+    "options": [
+      "40",
+      "10",
+      "20",
+      "30"
+    ],
+    "answer": "20",
+    "answerLetter": "C",
+    "explanation": "100-80=20.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-183",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Orta",
+    "question": "200 TL'nin %10 indirimli fiyatı kaç TL'dir?",
+    "options": [
+      "200",
+      "180",
+      "210",
+      "190"
+    ],
+    "answer": "180",
+    "answerLetter": "B",
+    "explanation": "%10 indirim 20 TL'dir; 200-20=180.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-184",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Yüzde-Kar-Zarar",
@@ -15162,21 +21302,21 @@ window.QUESTIONS = [
     "question": "100 TL'nin %20'si kaç TL'dir?",
     "options": [
       "20",
+      "10",
       "25",
-      "50",
-      "10"
+      "50"
     ],
     "answer": "20",
     "answerLetter": "A",
     "explanation": "100×20/100=20.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
-    "id": "mt-182",
+    "id": "mt-185",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Yüzde-Kar-Zarar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "80 TL'ye alınan ürün 100 TL'ye satılırsa kâr kaç TL'dir?",
     "options": [
       "30",
@@ -15187,122 +21327,68 @@ window.QUESTIONS = [
     "answer": "20",
     "answerLetter": "D",
     "explanation": "100-80=20.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-183",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Yüzde-Kar-Zarar",
-    "difficulty": "Kolay",
-    "question": "200 TL'nin %10 indirimli fiyatı kaç TL'dir?",
-    "options": [
-      "210",
-      "180",
-      "190",
-      "200"
-    ],
-    "answer": "180",
-    "answerLetter": "B",
-    "explanation": "%10 indirim 20 TL'dir; 200-20=180.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-184",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Yüzde-Kar-Zarar",
-    "difficulty": "Orta",
-    "question": "100 TL'nin %20'si kaç TL'dir?",
-    "options": [
-      "10",
-      "20",
-      "25",
-      "50"
-    ],
-    "answer": "20",
-    "answerLetter": "B",
-    "explanation": "100×20/100=20.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-185",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Yüzde-Kar-Zarar",
-    "difficulty": "Orta",
-    "question": "80 TL'ye alınan ürün 100 TL'ye satılırsa kâr kaç TL'dir?",
-    "options": [
-      "20",
-      "30",
-      "40",
-      "10"
-    ],
-    "answer": "20",
-    "answerLetter": "A",
-    "explanation": "100-80=20.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-186",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Yüzde-Kar-Zarar",
-    "difficulty": "Orta",
+    "difficulty": "Zor",
     "question": "200 TL'nin %10 indirimli fiyatı kaç TL'dir?",
     "options": [
-      "200",
       "210",
+      "190",
       "180",
-      "190"
+      "200"
     ],
     "answer": "180",
     "answerLetter": "C",
     "explanation": "%10 indirim 20 TL'dir; 200-20=180.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-187",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Yüzde-Kar-Zarar",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Matematik çalışmasında: 100 TL'nin %20'si kaç TL'dir?",
     "options": [
-      "50",
-      "10",
+      "25",
       "20",
-      "25"
+      "50",
+      "10"
     ],
     "answer": "20",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "100×20/100=20.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-188",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Yüzde-Kar-Zarar",
-    "difficulty": "Zor",
+    "difficulty": "Kolay",
     "question": "Matematik çalışmasında: 80 TL'ye alınan ürün 100 TL'ye satılırsa kâr kaç TL'dir?",
     "options": [
-      "10",
       "20",
+      "10",
       "30",
       "40"
     ],
     "answer": "20",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "100-80=20.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-189",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Yüzde-Kar-Zarar",
-    "difficulty": "Zor",
+    "difficulty": "Orta",
     "question": "Matematik çalışmasında: 200 TL'nin %10 indirimli fiyatı kaç TL'dir?",
     "options": [
       "190",
@@ -15313,43 +21399,43 @@ window.QUESTIONS = [
     "answer": "180",
     "answerLetter": "D",
     "explanation": "%10 indirim 20 TL'dir; 200-20=180.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-190",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Yüzde-Kar-Zarar",
-    "difficulty": "Kolay",
+    "difficulty": "Zor",
     "question": "100 TL'nin %20'si kaç TL'dir? (Tekrar)",
     "options": [
-      "25",
       "50",
       "10",
-      "20"
+      "20",
+      "25"
     ],
     "answer": "20",
-    "answerLetter": "D",
+    "answerLetter": "C",
     "explanation": "100×20/100=20.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-191",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Yüzde-Kar-Zarar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "80 TL'ye alınan ürün 100 TL'ye satılırsa kâr kaç TL'dir? (Tekrar)",
     "options": [
-      "40",
-      "10",
+      "30",
       "20",
-      "30"
+      "40",
+      "10"
     ],
     "answer": "20",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "100-80=20.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-192",
@@ -15367,7 +21453,7 @@ window.QUESTIONS = [
     "answer": "180",
     "answerLetter": "A",
     "explanation": "%10 indirim 20 TL'dir; 200-20=180.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-193",
@@ -15377,18 +21463,72 @@ window.QUESTIONS = [
     "difficulty": "Orta",
     "question": "100 TL'nin %20'si kaç TL'dir? (Tekrar)",
     "options": [
-      "20",
       "25",
       "50",
-      "10"
+      "10",
+      "20"
+    ],
+    "answer": "20",
+    "answerLetter": "D",
+    "explanation": "100×20/100=20.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-194",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Zor",
+    "question": "80 TL'ye alınan ürün 100 TL'ye satılırsa kâr kaç TL'dir? (Tekrar)",
+    "options": [
+      "40",
+      "10",
+      "20",
+      "30"
+    ],
+    "answer": "20",
+    "answerLetter": "C",
+    "explanation": "100-80=20.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-195",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Orta",
+    "question": "200 TL'nin %10 indirimli fiyatı kaç TL'dir? (Tekrar)",
+    "options": [
+      "200",
+      "180",
+      "210",
+      "190"
+    ],
+    "answer": "180",
+    "answerLetter": "B",
+    "explanation": "%10 indirim 20 TL'dir; 200-20=180.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-196",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Kolay",
+    "question": "100 TL'nin %20'si kaç TL'dir? (Tekrar)",
+    "options": [
+      "20",
+      "10",
+      "25",
+      "50"
     ],
     "answer": "20",
     "answerLetter": "A",
     "explanation": "100×20/100=20.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
-    "id": "mt-194",
+    "id": "mt-197",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Yüzde-Kar-Zarar",
@@ -15403,61 +21543,7 @@ window.QUESTIONS = [
     "answer": "20",
     "answerLetter": "D",
     "explanation": "100-80=20.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-195",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Yüzde-Kar-Zarar",
-    "difficulty": "Orta",
-    "question": "200 TL'nin %10 indirimli fiyatı kaç TL'dir? (Tekrar)",
-    "options": [
-      "210",
-      "180",
-      "190",
-      "200"
-    ],
-    "answer": "180",
-    "answerLetter": "B",
-    "explanation": "%10 indirim 20 TL'dir; 200-20=180.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-196",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Yüzde-Kar-Zarar",
-    "difficulty": "Zor",
-    "question": "100 TL'nin %20'si kaç TL'dir? (Tekrar)",
-    "options": [
-      "10",
-      "20",
-      "25",
-      "50"
-    ],
-    "answer": "20",
-    "answerLetter": "B",
-    "explanation": "100×20/100=20.",
-    "source": "Matematik lise düzeyi soru havuzu"
-  },
-  {
-    "id": "mt-197",
-    "testGroup": "Matematik",
-    "category": "Matematik",
-    "topic": "Yüzde-Kar-Zarar",
-    "difficulty": "Zor",
-    "question": "80 TL'ye alınan ürün 100 TL'ye satılırsa kâr kaç TL'dir? (Tekrar)",
-    "options": [
-      "20",
-      "30",
-      "40",
-      "10"
-    ],
-    "answer": "20",
-    "answerLetter": "A",
-    "explanation": "100-80=20.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-198",
@@ -15467,33 +21553,33 @@ window.QUESTIONS = [
     "difficulty": "Zor",
     "question": "200 TL'nin %10 indirimli fiyatı kaç TL'dir? (Tekrar)",
     "options": [
-      "200",
       "210",
+      "190",
       "180",
-      "190"
+      "200"
     ],
     "answer": "180",
     "answerLetter": "C",
     "explanation": "%10 indirim 20 TL'dir; 200-20=180.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-199",
     "testGroup": "Matematik",
     "category": "Matematik",
     "topic": "Yüzde-Kar-Zarar",
-    "difficulty": "Kolay",
+    "difficulty": "Orta",
     "question": "100 TL'nin %20'si kaç TL'dir? (Tekrar)",
     "options": [
-      "50",
-      "10",
+      "25",
       "20",
-      "25"
+      "50",
+      "10"
     ],
     "answer": "20",
-    "answerLetter": "C",
+    "answerLetter": "B",
     "explanation": "100×20/100=20.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
   },
   {
     "id": "mt-200",
@@ -15503,14 +21589,914 @@ window.QUESTIONS = [
     "difficulty": "Kolay",
     "question": "80 TL'ye alınan ürün 100 TL'ye satılırsa kâr kaç TL'dir? (Tekrar)",
     "options": [
-      "10",
       "20",
+      "10",
       "30",
       "40"
     ],
     "answer": "20",
-    "answerLetter": "B",
+    "answerLetter": "A",
     "explanation": "100-80=20.",
-    "source": "Matematik lise düzeyi soru havuzu"
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-201",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Zor",
+    "question": "3 + 5 × 2 işleminin sonucu kaçtır? (Konu tekrarı)",
+    "options": [
+      "11",
+      "16",
+      "13",
+      "10"
+    ],
+    "answer": "13",
+    "answerLetter": "C",
+    "explanation": "Çarpma önce yapılır: 5×2=10, 3+10=13.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-202",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Orta",
+    "question": "(12 - 4) ÷ 2 sonucu kaçtır? (Konu tekrarı)",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "4",
+    "answerLetter": "B",
+    "explanation": "Parantez önce yapılır: 8÷2=4.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-203",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Kolay",
+    "question": "7 × 6 - 10 sonucu kaçtır? (Konu tekrarı)",
+    "options": [
+      "32",
+      "30",
+      "42",
+      "52"
+    ],
+    "answer": "32",
+    "answerLetter": "A",
+    "explanation": "7×6=42, 42-10=32.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-204",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Orta",
+    "question": "3 + 5 × 2 işleminin sonucu kaç olarak bulunur? (Konu tekrarı)",
+    "options": [
+      "16",
+      "10",
+      "11",
+      "13"
+    ],
+    "answer": "13",
+    "answerLetter": "D",
+    "explanation": "Çarpma önce yapılır: 5×2=10, 3+10=13.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-205",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Zor",
+    "question": "(12 - 4) ÷ 2 sonucu kaç olarak bulunur? (Konu tekrarı)",
+    "options": [
+      "8",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": "4",
+    "answerLetter": "C",
+    "explanation": "Parantez önce yapılır: 8÷2=4.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-206",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Orta",
+    "question": "7 × 6 - 10 sonucu kaç olarak bulunur? (Konu tekrarı)",
+    "options": [
+      "42",
+      "32",
+      "52",
+      "30"
+    ],
+    "answer": "32",
+    "answerLetter": "B",
+    "explanation": "7×6=42, 42-10=32.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-207",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Kolay",
+    "question": "Matematik çalışmasında: 3 + 5 × 2 işleminin sonucu kaçtır? (Konu tekrarı)",
+    "options": [
+      "13",
+      "11",
+      "16",
+      "10"
+    ],
+    "answer": "13",
+    "answerLetter": "A",
+    "explanation": "Çarpma önce yapılır: 5×2=10, 3+10=13.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-208",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Orta",
+    "question": "Matematik çalışmasında: (12 - 4) ÷ 2 sonucu kaçtır? (Konu tekrarı)",
+    "options": [
+      "2",
+      "6",
+      "8",
+      "4"
+    ],
+    "answer": "4",
+    "answerLetter": "D",
+    "explanation": "Parantez önce yapılır: 8÷2=4.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-209",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: 7 × 6 - 10 sonucu kaçtır? (Konu tekrarı)",
+    "options": [
+      "52",
+      "30",
+      "32",
+      "42"
+    ],
+    "answer": "32",
+    "answerLetter": "C",
+    "explanation": "7×6=42, 42-10=32.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-210",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Orta",
+    "question": "3 + 5 × 2 işleminin sonucu kaçtır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "16",
+      "13",
+      "10",
+      "11"
+    ],
+    "answer": "13",
+    "answerLetter": "B",
+    "explanation": "Çarpma önce yapılır: 5×2=10, 3+10=13.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-211",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Kolay",
+    "question": "(12 - 4) ÷ 2 sonucu kaçtır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "4",
+      "8",
+      "2",
+      "6"
+    ],
+    "answer": "4",
+    "answerLetter": "A",
+    "explanation": "Parantez önce yapılır: 8÷2=4.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-212",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Orta",
+    "question": "7 × 6 - 10 sonucu kaçtır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "42",
+      "52",
+      "30",
+      "32"
+    ],
+    "answer": "32",
+    "answerLetter": "D",
+    "explanation": "7×6=42, 42-10=32.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-213",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Zor",
+    "question": "3 + 5 × 2 işleminin sonucu kaçtır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "11",
+      "16",
+      "13",
+      "10"
+    ],
+    "answer": "13",
+    "answerLetter": "C",
+    "explanation": "Çarpma önce yapılır: 5×2=10, 3+10=13.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-214",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Orta",
+    "question": "(12 - 4) ÷ 2 sonucu kaçtır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "4",
+    "answerLetter": "B",
+    "explanation": "Parantez önce yapılır: 8÷2=4.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-215",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Kolay",
+    "question": "7 × 6 - 10 sonucu kaçtır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "32",
+      "30",
+      "42",
+      "52"
+    ],
+    "answer": "32",
+    "answerLetter": "A",
+    "explanation": "7×6=42, 42-10=32.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-216",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Orta",
+    "question": "3 + 5 × 2 işleminin sonucu kaçtır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "16",
+      "10",
+      "11",
+      "13"
+    ],
+    "answer": "13",
+    "answerLetter": "D",
+    "explanation": "Çarpma önce yapılır: 5×2=10, 3+10=13.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-217",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Zor",
+    "question": "(12 - 4) ÷ 2 sonucu kaçtır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "8",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": "4",
+    "answerLetter": "C",
+    "explanation": "Parantez önce yapılır: 8÷2=4.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-218",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Orta",
+    "question": "7 × 6 - 10 sonucu kaçtır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "42",
+      "32",
+      "52",
+      "30"
+    ],
+    "answer": "32",
+    "answerLetter": "B",
+    "explanation": "7×6=42, 42-10=32.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-219",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Kolay",
+    "question": "3 + 5 × 2 işleminin sonucu kaçtır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "13",
+      "11",
+      "16",
+      "10"
+    ],
+    "answer": "13",
+    "answerLetter": "A",
+    "explanation": "Çarpma önce yapılır: 5×2=10, 3+10=13.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-220",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Orta",
+    "question": "(12 - 4) ÷ 2 sonucu kaçtır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "2",
+      "6",
+      "8",
+      "4"
+    ],
+    "answer": "4",
+    "answerLetter": "D",
+    "explanation": "Parantez önce yapılır: 8÷2=4.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-221",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Zor",
+    "question": "Bir sayının 3 ile bölünebilmesi için hangi şart gerekir? (Konu tekrarı)",
+    "options": [
+      "Çift olmalıdır",
+      "İlk rakamı 3 olmalıdır",
+      "Rakamları toplamı 3'ün katı olmalıdır",
+      "Son basamağı 0 olmalıdır"
+    ],
+    "answer": "Rakamları toplamı 3'ün katı olmalıdır",
+    "answerLetter": "C",
+    "explanation": "3 ile bölünebilmede rakamlar toplamına bakılır.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-222",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Orta",
+    "question": "Bir sayının 5 ile bölünebilmesi için son basamağı ne olmalıdır? (Konu tekrarı)",
+    "options": [
+      "2 veya 4",
+      "0 veya 5",
+      "1 veya 3",
+      "6 veya 8"
+    ],
+    "answer": "0 veya 5",
+    "answerLetter": "B",
+    "explanation": "5 ile bölünebilme son basamağa bağlıdır.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-223",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Kolay",
+    "question": "246 sayısı 2 ile bölünebilir mi? (Konu tekrarı)",
+    "options": [
+      "Evet, çünkü çift sayıdır",
+      "Hayır, üç basamaklıdır",
+      "Hayır, tek sayıdır",
+      "Evet, sonu 5'tir"
+    ],
+    "answer": "Evet, çünkü çift sayıdır",
+    "answerLetter": "A",
+    "explanation": "Çift sayılar 2 ile bölünür.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-224",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Orta",
+    "question": "Bir sayının 3 ile bölünebilmesi için hangi şart gerekir? (Konu tekrarı)",
+    "options": [
+      "Son basamağı 0 olmalıdır",
+      "Çift olmalıdır",
+      "İlk rakamı 3 olmalıdır",
+      "Rakamları toplamı 3'ün katı olmalıdır"
+    ],
+    "answer": "Rakamları toplamı 3'ün katı olmalıdır",
+    "answerLetter": "D",
+    "explanation": "3 ile bölünebilmede rakamlar toplamına bakılır.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-225",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Zor",
+    "question": "Bir sayının 5 ile bölünebilmesi için son basamağı ne olmalıdır? (Konu tekrarı)",
+    "options": [
+      "1 veya 3",
+      "6 veya 8",
+      "0 veya 5",
+      "2 veya 4"
+    ],
+    "answer": "0 veya 5",
+    "answerLetter": "C",
+    "explanation": "5 ile bölünebilme son basamağa bağlıdır.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-226",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Orta",
+    "question": "246 sayısı 2 ile bölünebilir mi? (Konu tekrarı)",
+    "options": [
+      "Hayır, tek sayıdır",
+      "Evet, çünkü çift sayıdır",
+      "Evet, sonu 5'tir",
+      "Hayır, üç basamaklıdır"
+    ],
+    "answer": "Evet, çünkü çift sayıdır",
+    "answerLetter": "B",
+    "explanation": "Çift sayılar 2 ile bölünür.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-227",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Kolay",
+    "question": "Matematik çalışmasında: bir sayının 3 ile bölünebilmesi için hangi şart gerekir? (Konu tekrarı)",
+    "options": [
+      "Rakamları toplamı 3'ün katı olmalıdır",
+      "İlk rakamı 3 olmalıdır",
+      "Son basamağı 0 olmalıdır",
+      "Çift olmalıdır"
+    ],
+    "answer": "Rakamları toplamı 3'ün katı olmalıdır",
+    "answerLetter": "A",
+    "explanation": "3 ile bölünebilmede rakamlar toplamına bakılır.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-228",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Orta",
+    "question": "Matematik çalışmasında: bir sayının 5 ile bölünebilmesi için son basamağı ne olmalıdır? (Konu tekrarı)",
+    "options": [
+      "2 veya 4",
+      "1 veya 3",
+      "6 veya 8",
+      "0 veya 5"
+    ],
+    "answer": "0 veya 5",
+    "answerLetter": "D",
+    "explanation": "5 ile bölünebilme son basamağa bağlıdır.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-229",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: 246 sayısı 2 ile bölünebilir mi? (Konu tekrarı)",
+    "options": [
+      "Evet, sonu 5'tir",
+      "Hayır, üç basamaklıdır",
+      "Evet, çünkü çift sayıdır",
+      "Hayır, tek sayıdır"
+    ],
+    "answer": "Evet, çünkü çift sayıdır",
+    "answerLetter": "C",
+    "explanation": "Çift sayılar 2 ile bölünür.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-230",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Orta",
+    "question": "Bir sayının 3 ile bölünebilmesi için hangi şart gerekir? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Son basamağı 0 olmalıdır",
+      "Rakamları toplamı 3'ün katı olmalıdır",
+      "Çift olmalıdır",
+      "İlk rakamı 3 olmalıdır"
+    ],
+    "answer": "Rakamları toplamı 3'ün katı olmalıdır",
+    "answerLetter": "B",
+    "explanation": "3 ile bölünebilmede rakamlar toplamına bakılır.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-231",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Kolay",
+    "question": "Bir sayının 5 ile bölünebilmesi için son basamağı ne olmalıdır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "0 veya 5",
+      "6 veya 8",
+      "2 veya 4",
+      "1 veya 3"
+    ],
+    "answer": "0 veya 5",
+    "answerLetter": "A",
+    "explanation": "5 ile bölünebilme son basamağa bağlıdır.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-232",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Orta",
+    "question": "246 sayısı 2 ile bölünebilir mi? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Hayır, tek sayıdır",
+      "Evet, sonu 5'tir",
+      "Hayır, üç basamaklıdır",
+      "Evet, çünkü çift sayıdır"
+    ],
+    "answer": "Evet, çünkü çift sayıdır",
+    "answerLetter": "D",
+    "explanation": "Çift sayılar 2 ile bölünür.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-233",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Zor",
+    "question": "Bir sayının 3 ile bölünebilmesi için hangi şart gerekir? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Çift olmalıdır",
+      "İlk rakamı 3 olmalıdır",
+      "Rakamları toplamı 3'ün katı olmalıdır",
+      "Son basamağı 0 olmalıdır"
+    ],
+    "answer": "Rakamları toplamı 3'ün katı olmalıdır",
+    "answerLetter": "C",
+    "explanation": "3 ile bölünebilmede rakamlar toplamına bakılır.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-234",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Orta",
+    "question": "Bir sayının 5 ile bölünebilmesi için son basamağı ne olmalıdır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "2 veya 4",
+      "0 veya 5",
+      "1 veya 3",
+      "6 veya 8"
+    ],
+    "answer": "0 veya 5",
+    "answerLetter": "B",
+    "explanation": "5 ile bölünebilme son basamağa bağlıdır.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-235",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Kolay",
+    "question": "246 sayısı 2 ile bölünebilir mi? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Evet, çünkü çift sayıdır",
+      "Hayır, üç basamaklıdır",
+      "Hayır, tek sayıdır",
+      "Evet, sonu 5'tir"
+    ],
+    "answer": "Evet, çünkü çift sayıdır",
+    "answerLetter": "A",
+    "explanation": "Çift sayılar 2 ile bölünür.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-236",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Orta",
+    "question": "Bir sayının 3 ile bölünebilmesi için hangi şart gerekir? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Son basamağı 0 olmalıdır",
+      "Çift olmalıdır",
+      "İlk rakamı 3 olmalıdır",
+      "Rakamları toplamı 3'ün katı olmalıdır"
+    ],
+    "answer": "Rakamları toplamı 3'ün katı olmalıdır",
+    "answerLetter": "D",
+    "explanation": "3 ile bölünebilmede rakamlar toplamına bakılır.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-237",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Zor",
+    "question": "Bir sayının 5 ile bölünebilmesi için son basamağı ne olmalıdır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "1 veya 3",
+      "6 veya 8",
+      "0 veya 5",
+      "2 veya 4"
+    ],
+    "answer": "0 veya 5",
+    "answerLetter": "C",
+    "explanation": "5 ile bölünebilme son basamağa bağlıdır.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-238",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Orta",
+    "question": "246 sayısı 2 ile bölünebilir mi? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Hayır, tek sayıdır",
+      "Evet, çünkü çift sayıdır",
+      "Evet, sonu 5'tir",
+      "Hayır, üç basamaklıdır"
+    ],
+    "answer": "Evet, çünkü çift sayıdır",
+    "answerLetter": "B",
+    "explanation": "Çift sayılar 2 ile bölünür.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-239",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Kolay",
+    "question": "Bir sayının 3 ile bölünebilmesi için hangi şart gerekir? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "Rakamları toplamı 3'ün katı olmalıdır",
+      "İlk rakamı 3 olmalıdır",
+      "Son basamağı 0 olmalıdır",
+      "Çift olmalıdır"
+    ],
+    "answer": "Rakamları toplamı 3'ün katı olmalıdır",
+    "answerLetter": "A",
+    "explanation": "3 ile bölünebilmede rakamlar toplamına bakılır.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-240",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Orta",
+    "question": "Bir sayının 5 ile bölünebilmesi için son basamağı ne olmalıdır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "2 veya 4",
+      "1 veya 3",
+      "6 veya 8",
+      "0 veya 5"
+    ],
+    "answer": "0 veya 5",
+    "answerLetter": "D",
+    "explanation": "5 ile bölünebilme son basamağa bağlıdır.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-241",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Zor",
+    "question": "12 ve 18'in OBEB'i kaçtır? (Konu tekrarı)",
+    "options": [
+      "18",
+      "36",
+      "6",
+      "12"
+    ],
+    "answer": "6",
+    "answerLetter": "C",
+    "explanation": "Ortak bölenlerin en büyüğü 6'dır.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-242",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Orta",
+    "question": "4 ve 6'nın OKEK'i kaçtır? (Konu tekrarı)",
+    "options": [
+      "10",
+      "12",
+      "24",
+      "6"
+    ],
+    "answer": "12",
+    "answerLetter": "B",
+    "explanation": "4 ve 6'nın ortak katlarının en küçüğü 12'dir.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-243",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Kolay",
+    "question": "Paylaştırma problemlerinde genellikle hangisi kullanılır? (Konu tekrarı)",
+    "options": [
+      "OBEB",
+      "Denklem",
+      "OKEK",
+      "Yüzde"
+    ],
+    "answer": "OBEB",
+    "answerLetter": "A",
+    "explanation": "En büyük eş parçalara ayırma OBEB ile ilgilidir.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-244",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Orta",
+    "question": "12 ve 18'in OBEB'i kaç olarak bulunur? (Konu tekrarı)",
+    "options": [
+      "12",
+      "18",
+      "36",
+      "6"
+    ],
+    "answer": "6",
+    "answerLetter": "D",
+    "explanation": "Ortak bölenlerin en büyüğü 6'dır.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-245",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Zor",
+    "question": "4 ve 6'nın OKEK'i kaç olarak bulunur? (Konu tekrarı)",
+    "options": [
+      "6",
+      "10",
+      "12",
+      "24"
+    ],
+    "answer": "12",
+    "answerLetter": "C",
+    "explanation": "4 ve 6'nın ortak katlarının en küçüğü 12'dir.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-246",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Orta",
+    "question": "Paylaştırma problemlerinde genellikle hangisi kullanılır? (Konu tekrarı)",
+    "options": [
+      "OKEK",
+      "OBEB",
+      "Yüzde",
+      "Denklem"
+    ],
+    "answer": "OBEB",
+    "answerLetter": "B",
+    "explanation": "En büyük eş parçalara ayırma OBEB ile ilgilidir.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-247",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Kolay",
+    "question": "Matematik çalışmasında: 12 ve 18'in OBEB'i kaçtır? (Konu tekrarı)",
+    "options": [
+      "6",
+      "36",
+      "12",
+      "18"
+    ],
+    "answer": "6",
+    "answerLetter": "A",
+    "explanation": "Ortak bölenlerin en büyüğü 6'dır.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-248",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Orta",
+    "question": "Matematik çalışmasında: 4 ve 6'nın OKEK'i kaçtır? (Konu tekrarı)",
+    "options": [
+      "10",
+      "24",
+      "6",
+      "12"
+    ],
+    "answer": "12",
+    "answerLetter": "D",
+    "explanation": "4 ve 6'nın ortak katlarının en küçüğü 12'dir.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-249",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: paylaştırma problemlerinde genellikle hangisi kullanılır? (Konu tekrarı)",
+    "options": [
+      "Yüzde",
+      "Denklem",
+      "OBEB",
+      "OKEK"
+    ],
+    "answer": "OBEB",
+    "answerLetter": "C",
+    "explanation": "En büyük eş parçalara ayırma OBEB ile ilgilidir.",
+    "source": "Matematik 250 soru havuzu"
+  },
+  {
+    "id": "mt-250",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Orta",
+    "question": "12 ve 18'in OBEB'i kaçtır? (Tekrar) (Konu tekrarı)",
+    "options": [
+      "12",
+      "6",
+      "18",
+      "36"
+    ],
+    "answer": "6",
+    "answerLetter": "B",
+    "explanation": "Ortak bölenlerin en büyüğü 6'dır.",
+    "source": "Matematik 250 soru havuzu"
   }
 ];

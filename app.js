@@ -81,7 +81,7 @@ function renderHome(){
     <button class="secondary" onclick="setPage('lessons')">📖 Derslere Başla</button>
    </div>
   </div>
-  <div class="pro-hero-logo"><img src="./logo.png?v=v11premium1" alt="StarQuiz"></div>
+  <div class="pro-hero-logo"><img src="./logo.png?v=v11_1250_1" alt="StarQuiz"></div>
  </section>
  <section class="pro-grid-3">
   <div class="pro-card"><span>📚 Toplam Soru</span><b>${qs.length}</b><small>Genel + Kamu</small></div>
@@ -216,7 +216,7 @@ function renderHome(){
  <div class="final-welcome"><div class="final-badge">KKTC Kamu Sınavı Hazırlık</div><h1>StarQuiz</h1>
  <p>Genel Kültür, Kamu Yasası ve KKTC Anayasası için ayrı ders ve test sistemi.</p>
  <div class="final-actions"><button class="primary" onclick="setPage('exam')">🎯 Test Seç</button><button class="secondary" onclick="setPage('lessons')">📖 Derslere Git</button></div></div>
- <div class="final-score"><img src="./logo.png?v=v11premium1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
+ <div class="final-score"><img src="./logo.png?v=v11_1250_1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
  <section class="final-modules">
  <button onclick="selectTestGroup('Genel Kültür')"><span>📚</span><b>Genel Kültür</b><small>${gc.genel} soru</small></button>
  <button onclick="selectTestGroup('Kamu Yasası')"><span>⚖️</span><b>Kamu Yasası</b><small>${gc.kamu} soru</small></button>
@@ -264,7 +264,7 @@ function renderHome(){
  <div class="final-welcome"><div class="final-badge">KKTC Kamu Sınavı Hazırlık</div><h1>StarQuiz</h1>
  <p>Genel Kültür, Kamu Yasası, KKTC Anayasası, Türkçe ve Matematik için ayrı ders ve test sistemi.</p>
  <div class="final-actions"><button class="primary" onclick="setPage('exam')">🎯 Test Seç</button><button class="secondary" onclick="setPage('lessons')">📖 Derslere Git</button></div></div>
- <div class="final-score"><img src="./logo.png?v=v11premium1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
+ <div class="final-score"><img src="./logo.png?v=v11_1250_1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
  <section class="final-modules five">
  <button onclick="selectTestGroup('Genel Kültür')"><span>📚</span><b>Genel Kültür</b><small>${gc.genel} soru</small></button>
  <button onclick="selectTestGroup('Kamu Yasası')"><span>⚖️</span><b>Kamu Yasası</b><small>${gc.kamu} soru</small></button>
@@ -304,7 +304,7 @@ function renderHome(){
  <div class="final-welcome"><div class="final-badge">KKTC Kamu Sınavı Hazırlık</div><h1>StarQuiz</h1>
  <p>Hedefine odaklan, konuları çalış ve başarıya ulaş. Her alan kendi test havuzunda ayrı ilerler.</p>
  <div class="final-actions"><button class="primary" onclick="setPage('exam')">🎯 Test Seç</button><button class="secondary" onclick="setPage('lessons')">📖 Derslere Git</button></div></div>
- <div class="final-score"><img src="./logo.png?v=v11premium1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
+ <div class="final-score"><img src="./logo.png?v=v11_1250_1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
 
  <section class="neon-section-title">
    <div class="neon-line"></div>
