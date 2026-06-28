@@ -4,21 +4,26 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
   <meta name="theme-color" content="#08111f"/>
-  <title>StarQuiz Final Tasarım</title>
-  <link rel="manifest" href="./manifest.json?v=finalui2">
-  <link rel="icon" href="./favicon.png?v=finalui2">
-  <link rel="apple-touch-icon" href="./apple-touch-icon.png?v=finalui2">
-  <link rel="stylesheet" href="./style.css?v=finalui2">
+  <title>StarQuiz Final Author</title>
+  <link rel="manifest" href="./manifest.json?v=author1">
+  <link rel="icon" href="./favicon.png?v=author1">
+  <link rel="apple-touch-icon" href="./apple-touch-icon.png?v=author1">
+  <link rel="stylesheet" href="./style.css?v=author1">
 </head>
 <body>
   <div class="app-shell">
     <header class="topbar">
       <div class="brand-row">
-        <img src="./icon-192.png?v=finalui2" class="mini-logo" alt="StarQuiz">
+        <img src="./icon-192.png?v=author1" class="mini-logo" alt="StarQuiz">
         <div>
           <div class="brand">StarQuiz</div>
           <div class="subtitle">KKTC Kamu Sınavı Hazırlık</div>
         </div>
+      </div>
+
+      <div class="author-signature">
+        <span>Designed &amp; Developed by</span>
+        <strong>Hüseyin Yıldız</strong>
       </div>
       <button id="resetBtn" class="ghost-btn" type="button">Sıfırla</button>
     </header>
@@ -35,11 +40,11 @@
   </div>
 
   <script>
-    window.STARQUIZ_BUILD = "finalui2";
+    window.STARQUIZ_BUILD = "author1";
     try {
       var old = localStorage.getItem("starquiz_build");
-      if (old !== "finalui2") {
-        localStorage.setItem("starquiz_build", "finalui2");
+      if (old !== "author1") {
+        localStorage.setItem("starquiz_build", "author1");
         if ("caches" in window) {
           caches.keys().then(function(keys){
             return Promise.all(keys.map(function(k){ return caches.delete(k); }));
@@ -48,13 +53,13 @@
       }
     } catch(e) {}
   </script>
-  <script src="./questions.js?v=finalui2"></script>
-  <script src="./lessons.js?v=finalui2"></script>
-  <script src="./app.js?v=finalui2"></script>
+  <script src="./questions.js?v=author1"></script>
+  <script src="./lessons.js?v=author1"></script>
+  <script src="./app.js?v=author1"></script>
   <script>
     if ("serviceWorker" in navigator) {
       window.addEventListener("load", function(){
-        navigator.serviceWorker.register("./service-worker.js?v=finalui2").then(function(reg){
+        navigator.serviceWorker.register("./service-worker.js?v=author1").then(function(reg){
           if(reg && reg.update) reg.update();
         }).catch(function(){});
       });
