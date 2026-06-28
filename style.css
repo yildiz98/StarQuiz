@@ -197,3 +197,396 @@
     padding:28px 18px !important;
   }
 }
+
+/* MINI LESSONS MODULE */
+.lesson-btn{
+  width:100%;
+  display:flex;
+  align-items:center;
+  gap:12px;
+  border:1px solid var(--line);
+  background:rgba(255,255,255,.06);
+  color:var(--text);
+  border-radius:18px;
+  padding:14px;
+  margin-top:10px;
+  text-align:left;
+  cursor:pointer;
+}
+.lesson-btn.done{
+  border-color:rgba(48,209,88,.45);
+  background:rgba(48,209,88,.08);
+}
+.lesson-emoji{
+  width:42px;
+  height:42px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  border-radius:14px;
+  background:rgba(255,211,78,.12);
+  font-size:22px;
+}
+.lesson-info{
+  flex:1;
+}
+.lesson-info b{
+  display:block;
+  font-size:16px;
+}
+.lesson-info small{
+  display:block;
+  color:var(--muted);
+  margin-top:4px;
+}
+.lesson-status{
+  color:var(--accent);
+  font-size:24px;
+  font-weight:900;
+}
+.lesson-reader{
+  max-width:900px !important;
+}
+.back-btn{
+  max-width:220px !important;
+  margin-left:0 !important;
+}
+.lesson-title-row{
+  display:flex;
+  gap:16px;
+  align-items:center;
+  margin:18px 0;
+}
+.lesson-big-emoji{
+  width:72px;
+  height:72px;
+  border-radius:22px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background:linear-gradient(135deg,rgba(255,211,78,.20),rgba(0,229,255,.13));
+  font-size:38px;
+}
+.lesson-section p{
+  font-size:17px;
+  line-height:1.7;
+  color:#dbe9f8;
+}
+.remember-box,
+.exam-note{
+  border:1px solid rgba(255,211,78,.22);
+  background:rgba(255,211,78,.08);
+  border-radius:20px;
+  padding:16px;
+  margin-top:16px;
+}
+.remember-box ul{
+  margin:0;
+  padding-left:20px;
+}
+.remember-box li{
+  margin:8px 0;
+  line-height:1.5;
+}
+.exam-note{
+  border-color:rgba(0,229,255,.22);
+  background:rgba(0,229,255,.07);
+}
+@media(max-width:700px){
+  .lesson-title-row{
+    align-items:flex-start;
+  }
+  .lesson-big-emoji{
+    width:58px;
+    height:58px;
+    font-size:30px;
+  }
+  .lesson-section p{
+    font-size:15.5px;
+  }
+}
+
+/* ===== StarQuiz Dersler Pro Design ===== */
+.app-shell{
+  max-width:1180px !important;
+  padding:22px 22px 110px !important;
+}
+.topbar{
+  max-width:1180px;
+  margin:0 auto;
+}
+.brand{font-size:30px !important}
+.subtitle{font-size:14px !important}
+.mini-logo{
+  width:62px !important;
+  height:62px !important;
+  border-radius:20px !important;
+}
+.pro-hero{
+  max-width:1080px;
+  margin:18px auto;
+  min-height:360px;
+  display:grid;
+  grid-template-columns:1.25fr .75fr;
+  align-items:center;
+  gap:24px;
+  padding:42px;
+  border:1px solid rgba(255,211,78,.25);
+  border-radius:30px;
+  background:
+    radial-gradient(circle at 80% 20%, rgba(255,211,78,.18), transparent 30%),
+    linear-gradient(135deg, rgba(255,255,255,.085), rgba(255,255,255,.035));
+  box-shadow:0 24px 70px rgba(0,0,0,.28);
+}
+.pro-badge{
+  display:inline-flex;
+  align-items:center;
+  width:max-content;
+  padding:8px 12px;
+  border:1px solid rgba(255,211,78,.25);
+  border-radius:999px;
+  background:rgba(255,211,78,.10);
+  color:#ffe28a;
+  font-size:13px;
+  font-weight:900;
+  margin-bottom:12px;
+}
+.pro-hero h1{
+  font-size:46px;
+  line-height:1.05;
+  margin:0 0 14px;
+  letter-spacing:-1.2px;
+}
+.pro-hero p{
+  color:#b7c7db;
+  font-size:18px;
+  line-height:1.6;
+  max-width:650px;
+}
+.pro-actions{
+  display:flex;
+  gap:12px;
+  flex-wrap:wrap;
+  margin-top:18px;
+}
+.pro-actions .primary,
+.pro-actions .secondary{
+  max-width:230px;
+  margin:0 !important;
+}
+.pro-hero-logo{
+  text-align:center;
+}
+.pro-hero-logo img{
+  width:260px;
+  max-width:90%;
+  border-radius:34px;
+  filter:drop-shadow(0 28px 50px rgba(0,0,0,.45));
+}
+.pro-grid-3{
+  max-width:1080px;
+  margin:14px auto;
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:14px;
+}
+.pro-card{
+  border:1px solid var(--line);
+  border-radius:24px;
+  padding:20px;
+  background:rgba(255,255,255,.055);
+}
+.pro-card span,
+.pro-card small{
+  display:block;
+  color:var(--muted);
+}
+.pro-card b{
+  display:block;
+  font-size:34px;
+  margin:8px 0;
+}
+.section-head{
+  display:flex;
+  align-items:flex-start;
+  justify-content:space-between;
+  gap:16px;
+}
+.section-head strong{
+  color:var(--accent);
+  font-size:28px;
+}
+.big-progress,.mini-progress{
+  height:12px;
+  background:rgba(255,255,255,.09);
+  border-radius:999px;
+  overflow:hidden;
+  margin:12px 0 16px;
+}
+.big-progress div,.mini-progress div{
+  height:100%;
+  background:linear-gradient(90deg,var(--accent2),var(--accent));
+}
+.lesson-dashboard{
+  max-width:1080px;
+  margin:18px auto;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:22px;
+  padding:34px;
+  border:1px solid rgba(0,213,255,.22);
+  border-radius:30px;
+  background:linear-gradient(135deg,rgba(0,213,255,.11),rgba(255,211,78,.08));
+}
+.lesson-dashboard h1{
+  font-size:38px;
+  margin-bottom:10px;
+}
+.lesson-dashboard p{
+  color:var(--muted);
+  font-size:17px;
+  max-width:720px;
+}
+.lesson-ring{
+  width:150px;
+  height:150px;
+  border-radius:50%;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  border:12px solid rgba(255,211,78,.32);
+  background:rgba(255,255,255,.055);
+}
+.lesson-ring b{font-size:42px}
+.lesson-ring span,.lesson-ring small{color:var(--muted)}
+.lesson-group-card{
+  max-width:1080px !important;
+}
+.lesson-list-pro{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:10px;
+  margin-top:12px;
+}
+.lesson-row-pro{
+  display:flex;
+  align-items:center;
+  gap:12px;
+  width:100%;
+  border:1px solid var(--line);
+  background:rgba(255,255,255,.055);
+  color:var(--text);
+  border-radius:18px;
+  padding:14px;
+  text-align:left;
+  cursor:pointer;
+}
+.lesson-row-pro.done{
+  border-color:rgba(48,209,88,.45);
+  background:rgba(48,209,88,.08);
+}
+.lesson-num{
+  width:38px;
+  height:38px;
+  flex:0 0 38px;
+  border-radius:14px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background:rgba(255,211,78,.13);
+  color:var(--accent);
+  font-weight:950;
+}
+.lesson-main{flex:1}
+.lesson-main b{display:block}
+.lesson-main small{display:block;color:var(--muted);margin-top:4px}
+.lesson-arrow{
+  font-size:28px;
+  color:var(--accent);
+}
+.reader-shell{
+  max-width:960px;
+  margin:18px auto;
+}
+.reader-hero{
+  display:flex;
+  gap:18px;
+  align-items:center;
+  padding:28px;
+  border:1px solid rgba(255,211,78,.22);
+  border-radius:28px;
+  background:linear-gradient(135deg,rgba(255,211,78,.12),rgba(0,213,255,.09));
+  margin-top:12px;
+}
+.reader-hero h1{
+  font-size:36px;
+  margin:0 0 8px;
+}
+.reader-hero p{color:var(--muted)}
+.lesson-big-emoji{
+  width:84px;
+  height:84px;
+  flex:0 0 84px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  border-radius:26px;
+  font-size:44px;
+  background:rgba(255,211,78,.13);
+}
+.reader-card{
+  margin-top:16px;
+  padding:26px;
+  border:1px solid var(--line);
+  border-radius:26px;
+  background:rgba(255,255,255,.055);
+}
+.reader-card p{
+  font-size:18px;
+  line-height:1.75;
+  color:#dbe9f8;
+}
+.reader-two{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:14px;
+  margin-top:14px;
+}
+.pro-box{
+  margin-top:0 !important;
+  min-height:180px;
+}
+.reader-actions{
+  display:flex;
+  gap:12px;
+  flex-wrap:wrap;
+  margin-top:16px;
+}
+.reader-actions .primary,
+.reader-actions .secondary{
+  max-width:360px;
+  margin:0 !important;
+}
+.bottom-nav{
+  width:min(820px,100%) !important;
+}
+@media(max-width:760px){
+  .app-shell{max-width:540px !important;padding:14px 14px 96px !important}
+  .pro-hero{grid-template-columns:1fr;padding:24px;border-radius:24px;text-align:left}
+  .pro-hero h1{font-size:32px}
+  .pro-hero-logo img{width:190px}
+  .pro-grid-3{grid-template-columns:1fr}
+  .lesson-dashboard{flex-direction:column;align-items:flex-start;padding:24px}
+  .lesson-ring{width:120px;height:120px;border-width:10px}
+  .lesson-list-pro{grid-template-columns:1fr}
+  .reader-hero{align-items:flex-start;padding:20px}
+  .reader-hero h1{font-size:26px}
+  .lesson-big-emoji{width:62px;height:62px;flex-basis:62px;font-size:34px}
+  .reader-card{padding:20px}
+  .reader-card p{font-size:16px}
+  .reader-two{grid-template-columns:1fr}
+  .brand{font-size:23px !important}
+  .mini-logo{width:52px !important;height:52px !important}
+}
