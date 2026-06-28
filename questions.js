@@ -1,4 +1,4 @@
-const QUESTIONS = [
+window.QUESTIONS = [
   {
     "id": "sqv7-001",
     "category": "Coğrafya",

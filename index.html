@@ -3,23 +3,28 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
-  <meta name="theme-color" content="#06101d"/>
+  <meta name="theme-color" content="#08111f"/>
   <title>StarQuiz Web Premium</title>
-  <link rel="manifest" href="./manifest.json?v=webfix1">
-  <link rel="icon" href="./favicon.png?v=webfix1">
-  <link rel="apple-touch-icon" href="./apple-touch-icon.png?v=webfix1">
-  <link rel="stylesheet" href="./style.css?v=webfix1">
+  <link rel="manifest" href="./manifest.json?v=webfull3">
+  <link rel="icon" href="./favicon.png?v=webfull3">
+  <link rel="apple-touch-icon" href="./apple-touch-icon.png?v=webfull3">
+  <link rel="stylesheet" href="./style.css?v=webfull3">
 </head>
 <body>
   <div class="app-shell">
     <header class="topbar">
       <div class="brand-row">
-        <img src="./icon-192.png?v=webfix1" class="mini-logo" alt="StarQuiz">
-        <div><div class="brand">StarQuiz V10 Premium</div><div class="subtitle">KKTC Kamu Sınavı</div></div>
+        <img src="./icon-192.png?v=webfull3" class="mini-logo" alt="StarQuiz">
+        <div>
+          <div class="brand">StarQuiz Web Premium</div>
+          <div class="subtitle">KKTC Kamu Sınavı</div>
+        </div>
       </div>
       <button id="resetBtn" class="ghost-btn" type="button">Sıfırla</button>
     </header>
+
     <main id="app"></main>
+
     <nav class="bottom-nav">
       <button data-page="home" class="nav-btn active" type="button">🏠<span>Ana</span></button>
       <button data-page="exam" class="nav-btn" type="button">🎯<span>Deneme</span></button>
@@ -28,36 +33,31 @@
       <button data-page="stats" class="nav-btn" type="button">📊<span>Analiz</span></button>
     </nav>
   </div>
-  <script>window.STARQUIZ_VERSION="10.0.0";</script>
-  <script src="./questions.js?v=webfix1"></script>
-  <script src="./app.js?v=webfix1"></script>
-  <script>
-    (function(){var current="10.0.0";try{var old=localStorage.getItem("starquiz_version");if(old!==current){localStorage.setItem("starquiz_version",current);if("caches" in window){caches.keys().then(function(keys){return Promise.all(keys.map(function(key){return caches.delete(key);}));});}}}catch(e){} if("serviceWorker" in navigator){window.addEventListener("load",function(){navigator.serviceWorker.register("./service-worker.js?v=10.0.0").then(function(reg){if(reg&&reg.update)reg.update();}).catch(function(){});});}})();
-  </script>
 
   <script>
-    (function(){
-      var v = "webfix1";
-      try {
-        var old = localStorage.getItem("starquiz_web_version");
-        if (old !== v) {
-          localStorage.setItem("starquiz_web_version", v);
-          if ("caches" in window) {
-            caches.keys().then(function(keys){
-              return Promise.all(keys.map(function(k){ return caches.delete(k); }));
-            }).then(function(){ if(old) location.reload(); });
-          }
+    window.STARQUIZ_BUILD = "webfull3";
+    try {
+      var old = localStorage.getItem("starquiz_build");
+      if (old !== "webfull3") {
+        localStorage.setItem("starquiz_build", "webfull3");
+        if ("caches" in window) {
+          caches.keys().then(function(keys){
+            return Promise.all(keys.map(function(k){ return caches.delete(k); }));
+          });
         }
-      } catch(e) {}
-      if ("serviceWorker" in navigator) {
-        window.addEventListener("load", function(){
-          navigator.serviceWorker.register("./service-worker.js?v=webfix1").then(function(reg){
-            if(reg && reg.update) reg.update();
-          }).catch(function(){});
-        });
       }
-    })();
+    } catch(e) {}
   </script>
-
+  <script src="./questions.js?v=webfull3"></script>
+  <script src="./app.js?v=webfull3"></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      window.addEventListener("load", function(){
+        navigator.serviceWorker.register("./service-worker.js?v=webfull3").then(function(reg){
+          if(reg && reg.update) reg.update();
+        }).catch(function(){});
+      });
+    }
+  </script>
 </body>
 </html>
