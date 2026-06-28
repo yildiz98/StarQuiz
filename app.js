@@ -81,7 +81,7 @@ function renderHome(){
     <button class="secondary" onclick="setPage('lessons')">📖 Derslere Başla</button>
    </div>
   </div>
-  <div class="pro-hero-logo"><img src="./logo.png?v=anayasa1" alt="StarQuiz"></div>
+  <div class="pro-hero-logo"><img src="./logo.png?v=finalui2" alt="StarQuiz"></div>
  </section>
  <section class="pro-grid-3">
   <div class="pro-card"><span>📚 Toplam Soru</span><b>${qs.length}</b><small>Genel + Kamu</small></div>
@@ -206,6 +206,38 @@ function renderWrong(){
 function renderStats(){
  const rate=percent(state.correct,state.total);
  app.innerHTML=`<section class="card"><h2>Analiz</h2><div class="grid"><div class="stat">⭐ XP <b>${state.xp}</b></div><div class="stat">📝 Test <b>${state.tests}</b></div><div class="stat">📚 Soru <b>${state.total}</b></div><div class="stat">📊 Başarı <b>%${rate}</b></div></div></section><section class="card"><h2>Son Testler</h2>${state.history.length?state.history.map(h=>`<div class="wrong-item"><b>${esc(h.category)} · ${esc(h.difficulty)}</b><div class="small muted">${esc(h.date)}</div><div>Doğru: <b>${h.correct}/${h.total}</b> · Başarı: <b>%${h.score}</b></div></div>`).join(""):`<p class="muted">Henüz test çözülmedi.</p>`}</section>`;
+}
+
+
+/* FINAL UI OVERRIDE */
+function renderHome(){
+ const qs=getQuestions(), ms=moduleStats(), gc=groupCounts(), rate=percent(state.correct,state.total);
+ app.innerHTML=`<section class="final-home">
+ <div class="final-welcome"><div class="final-badge">KKTC Kamu Sınavı Hazırlık</div><h1>StarQuiz</h1>
+ <p>Genel Kültür, Kamu Yasası ve KKTC Anayasası için ayrı ders ve test sistemi.</p>
+ <div class="final-actions"><button class="primary" onclick="setPage('exam')">🎯 Test Seç</button><button class="secondary" onclick="setPage('lessons')">📖 Derslere Git</button></div></div>
+ <div class="final-score"><img src="./logo.png?v=finalui2" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
+ <section class="final-modules">
+ <button onclick="selectTestGroup('Genel Kültür')"><span>📚</span><b>Genel Kültür</b><small>${gc.genel} soru</small></button>
+ <button onclick="selectTestGroup('Kamu Yasası')"><span>⚖️</span><b>Kamu Yasası</b><small>${gc.kamu} soru</small></button>
+ <button onclick="selectTestGroup('KKTC Anayasası')"><span>🇨🇾</span><b>KKTC Anayasası</b><small>${gc.anayasa} soru</small></button></section>
+ <section class="final-panel"><div><h2>📖 Ders İlerlemesi</h2><p>${ms.total} mini dersin ${ms.done} tanesi tamamlandı.</p></div><strong>%${ms.percentDone}</strong><div class="final-progress"><div style="width:${ms.percentDone}%"></div></div></section>
+ <section class="final-stats"><div><span>⭐ XP</span><b>${state.xp}</b></div><div><span>📝 Test</span><b>${state.tests}</b></div><div><span>📊 Başarı</span><b>%${rate}</b></div></section>`;
+}
+function renderExam(){
+ const gc=groupCounts();
+ app.innerHTML=`<section class="final-title"><div class="final-badge">Test Modu</div><h1>Test Seç</h1><p>Hangi alanı seçersen sadece o alandan soru gelir. Karışık soru yok.</p></section>
+ <section class="final-test-grid">
+ <button class="test-card-blue" onclick="selectTestGroup('Genel Kültür')"><span>📚</span><h2>Genel Kültür</h2><p>${gc.genel} soruluk havuz</p><b>Teste Başla</b></button>
+ <button class="test-card-gold" onclick="selectTestGroup('Kamu Yasası')"><span>⚖️</span><h2>Kamu Yasası</h2><p>${gc.kamu} soruluk havuz</p><b>Teste Başla</b></button>
+ <button class="test-card-purple" onclick="selectTestGroup('KKTC Anayasası')"><span>🇨🇾</span><h2>KKTC Anayasası</h2><p>${gc.anayasa} soruluk havuz</p><b>Teste Başla</b></button></section>`;
+}
+function renderLessons(){
+ const lessons=getLessons(), progress=progressData(), doneCount=lessons.filter(l=>progress[l.id]).length, groups={};
+ lessons.forEach(l=>{const key=l.category||"Genel";groups[key]=groups[key]||[];groups[key].push(l);});
+ app.innerHTML=`<section class="final-title"><div class="final-badge">Ders Modu</div><h1>Mini Dersler</h1><p>Konuları kısa çalışma metinleriyle oku. Her modül ayrı kart sistemiyle düzenlendi.</p></section>
+ <section class="final-panel"><div><h2>Genel İlerleme</h2><p>${doneCount}/${lessons.length} ders tamamlandı.</p></div><strong>%${lessons.length?Math.round(doneCount/lessons.length*100):0}</strong><div class="final-progress"><div style="width:${lessons.length?Math.round(doneCount/lessons.length*100):0}%"></div></div></section>
+ ${Object.entries(groups).map(([cat,items])=>{const catDone=items.filter(l=>progress[l.id]).length,pct=items.length?Math.round(catDone/items.length*100):0;return `<section class="final-lesson-group"><div class="lesson-head"><div><h2>${esc(cat)}</h2><p>${items.length} ders · ${catDone} tamamlandı</p></div><b>%${pct}</b></div><div class="final-progress small"><div style="width:${pct}%"></div></div><div class="final-lesson-list">${items.map((l,idx)=>`<button class="${progress[l.id]?'done':''}" onclick="openLesson('${jsArg(l.id)}')"><i>${progress[l.id]?'✓':idx+1}</i><span><b>${esc(l.emoji||'📖')} ${esc(l.title)}</b><small>${esc(l.module)} · ${l.minutes||2} dk</small></span><em>›</em></button>`).join("")}</div></section>`;}).join("")}`;
 }
 
 render();
