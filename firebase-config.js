@@ -1,12 +1,6 @@
-// Import the functions you need from the SDKs you need
-import { initializeApp } from "firebase/app";
-import { getAnalytics } from "firebase/analytics";
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
+// StarQuiz Firebase Ayarları
 
-// Your web app's Firebase configuration
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
-const firebaseConfig = {
+window.STARQUIZ_FIREBASE_CONFIG = {
   apiKey: "AIzaSyBV3ydTiomgR52f124Zct3MQfhdG5uZ9XQ",
   authDomain: "staracademy-2c13f.firebaseapp.com",
   projectId: "staracademy-2c13f",
@@ -16,6 +10,7 @@ const firebaseConfig = {
   measurementId: "G-1QN2ERDDPG"
 };
 
-// Initialize Firebase
-const app = initializeApp(firebaseConfig);
-const analytics = getAnalytics(app);
+// Admin hesabı
+window.STARQUIZ_ADMINS = [
+  "yildiz.21.98@gmail.com"
+];
