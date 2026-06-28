@@ -1215,3 +1215,8 @@ body{
 .admin-users{margin-top:16px;display:grid;gap:10px}.admin-user-row{border:1px solid rgba(255,255,255,.10);border-radius:16px;padding:14px;background:rgba(0,0,0,.15)}
 .admin-user-row b,.admin-user-row span,.admin-user-row small{display:block}.admin-user-row span{color:#90eaff;margin-top:3px}.admin-user-row small{color:var(--muted);margin-top:6px}
 @media(max-width:760px){.account-bar{justify-content:center;flex-wrap:wrap}.admin-grid{grid-template-columns:1fr 1fr}}
+
+/* LOGIN REQUIRED SCREEN */
+.login-required-screen{min-height:calc(100vh - 160px)}
+.login-required-screen .auth-card{border-color:rgba(255,211,78,.38);box-shadow:0 30px 90px rgba(0,0,0,.45),0 0 45px rgba(255,211,78,.16)}
+.login-required-screen .auth-card::before{content:"Zorunlu kullanıcı girişi";display:inline-flex;padding:7px 11px;border-radius:999px;margin-bottom:12px;color:#ffd34e;font-size:12px;font-weight:900;border:1px solid rgba(255,211,78,.25);background:rgba(255,211,78,.08)}

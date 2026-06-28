@@ -4,17 +4,17 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
   <meta name="theme-color" content="#08111f"/>
-  <title>StarQuiz Firebase Fixed</title>
-  <link rel="manifest" href="./manifest.js?v=firebasefix1on?v=v13firebase1">
-  <link rel="icon" href="./favicon.png?v=firebasefix1">
-  <link rel="apple-touch-icon" href="./apple-touch-icon.png?v=firebasefix1">
-  <link rel="stylesheet" href="./style.css?v=firebasefix1">
+  <title>StarQuiz Login Required</title>
+  <link rel="manifest" href="./manifest.js?v=loginrequired1?v=loginrequired1">
+  <link rel="icon" href="./favicon.png?v=loginrequired1">
+  <link rel="apple-touch-icon" href="./apple-touch-icon.png?v=loginrequired1">
+  <link rel="stylesheet" href="./style.css?v=loginrequired1">
 </head>
 <body>
   <div class="app-shell">
     <header class="topbar">
       <div class="brand-row">
-        <img src="./icon-192.png?v=firebasefix1" class="mini-logo" alt="StarQuiz">
+        <img src="./icon-192.png?v=loginrequired1" class="mini-logo" alt="StarQuiz">
         <div>
           <div class="brand">StarQuiz</div>
           <div class="subtitle">KKTC Kamu Sınavı Hazırlık</div>
@@ -56,15 +56,15 @@
   <script src="https://www.gstatic.com/firebasejs/10.12.5/firebase-app-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/10.12.5/firebase-auth-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/10.12.5/firebase-firestore-compat.js"></script>
-  <script src="./firebase-config.js?v=firebasefix1"></script>
+  <script src="./firebase-config.js?v=loginrequired1"></script>
 
-  <script src="./questions.js?v=firebasefix1"></script>
-  <script src="./lessons.js?v=firebasefix1"></script>
-  <script src="./app.js?v=firebasefix1"></script>
+  <script src="./questions.js?v=loginrequired1"></script>
+  <script src="./lessons.js?v=loginrequired1"></script>
+  <script src="./app.js?v=loginrequired1"></script>
   <script>
     if ("serviceWorker" in navigator) {
       window.addEventListener("load", function(){
-        navigator.serviceWorker.register("./service-worker.js?v=firebasefix1").then(function(reg){
+        navigator.serviceWorker.register("./service-worker.js?v=loginrequired1").then(function(reg){
           if(reg && reg.update) reg.update();
         }).catch(function(){});
       });
