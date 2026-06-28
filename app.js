@@ -147,7 +147,7 @@ function renderHome(){
     <button class="secondary" onclick="setPage('lessons')">📖 Derslere Başla</button>
    </div>
   </div>
-  <div class="pro-hero-logo"><img src="./logo.png?v=loginrequired1" alt="StarQuiz"></div>
+  <div class="pro-hero-logo"><img src="./logo.png?v=loginclean1" alt="StarQuiz"></div>
  </section>
  <section class="pro-grid-3">
   <div class="pro-card"><span>📚 Toplam Soru</span><b>${qs.length}</b><small>Genel + Kamu</small></div>
@@ -282,7 +282,7 @@ function renderHome(){
  <div class="final-welcome"><div class="final-badge">KKTC Kamu Sınavı Hazırlık</div><h1>StarQuiz</h1>
  <p>Genel Kültür, Kamu Yasası ve KKTC Anayasası için ayrı ders ve test sistemi.</p>
  <div class="final-actions"><button class="primary" onclick="setPage('exam')">🎯 Test Seç</button><button class="secondary" onclick="setPage('lessons')">📖 Derslere Git</button></div></div>
- <div class="final-score"><img src="./logo.png?v=loginrequired1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
+ <div class="final-score"><img src="./logo.png?v=loginclean1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
  <section class="final-modules">
  <button onclick="selectTestGroup('Genel Kültür')"><span>📚</span><b>Genel Kültür</b><small>${gc.genel} soru</small></button>
  <button onclick="selectTestGroup('Kamu Yasası')"><span>⚖️</span><b>Kamu Yasası</b><small>${gc.kamu} soru</small></button>
@@ -330,7 +330,7 @@ function renderHome(){
  <div class="final-welcome"><div class="final-badge">KKTC Kamu Sınavı Hazırlık</div><h1>StarQuiz</h1>
  <p>Genel Kültür, Kamu Yasası, KKTC Anayasası, Türkçe ve Matematik için ayrı ders ve test sistemi.</p>
  <div class="final-actions"><button class="primary" onclick="setPage('exam')">🎯 Test Seç</button><button class="secondary" onclick="setPage('lessons')">📖 Derslere Git</button></div></div>
- <div class="final-score"><img src="./logo.png?v=loginrequired1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
+ <div class="final-score"><img src="./logo.png?v=loginclean1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
  <section class="final-modules five">
  <button onclick="selectTestGroup('Genel Kültür')"><span>📚</span><b>Genel Kültür</b><small>${gc.genel} soru</small></button>
  <button onclick="selectTestGroup('Kamu Yasası')"><span>⚖️</span><b>Kamu Yasası</b><small>${gc.kamu} soru</small></button>
@@ -370,7 +370,7 @@ function renderHome(){
  <div class="final-welcome"><div class="final-badge">KKTC Kamu Sınavı Hazırlık</div><h1>StarQuiz</h1>
  <p>Hedefine odaklan, konuları çalış ve başarıya ulaş. Her alan kendi test havuzunda ayrı ilerler.</p>
  <div class="final-actions"><button class="primary" onclick="setPage('exam')">🎯 Test Seç</button><button class="secondary" onclick="setPage('lessons')">📖 Derslere Git</button></div></div>
- <div class="final-score"><img src="./logo.png?v=loginrequired1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
+ <div class="final-score"><img src="./logo.png?v=loginclean1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
 
  <section class="neon-section-title">
    <div class="neon-line"></div>
@@ -706,7 +706,7 @@ function authScreen(mode="login"){
   app.innerHTML = `
     <section class="auth-shell">
       <div class="auth-card">
-        <img src="./logo.png?v=loginrequired1" alt="StarQuiz">
+        <img src="./logo.png?v=loginclean1" alt="StarQuiz">
         <h1>${isRegister ? "Hesap Oluştur" : "Giriş Yap"}</h1>
         <p>${isRegister ? "Kendi e-posta ve şifrenle StarQuiz hesabını oluştur." : "StarQuiz hesabınla kaldığın yerden devam et."}</p>
         ${isRegister ? `<input id="authName" placeholder="Ad Soyad" autocomplete="name">` : ""}
@@ -835,7 +835,7 @@ if(typeof renderHome === "function"){
 initFirebase();
 
 
-/* ===== FIREBASE FIX PATCH loginrequired1 ===== */
+/* ===== FIREBASE FIX PATCH loginclean1 ===== */
 function starquizHasValidFirebaseConfig(){
   const cfg = window.STARQUIZ_FIREBASE_CONFIG || {};
   return !!(cfg.apiKey && cfg.authDomain && cfg.projectId && !String(cfg.apiKey).includes("BURAYA") && !String(cfg.projectId).includes("BURAYA"));
@@ -928,13 +928,13 @@ setTimeout(()=>{
 }, 150);
 
 
-/* ===== LOGIN REQUIRED PATCH loginrequired1 ===== */
+/* ===== LOGIN REQUIRED PATCH loginclean1 ===== */
 function authScreen(mode="login"){
   const isRegister = mode === "register";
   app.innerHTML = `
     <section class="auth-shell login-required-screen">
       <div class="auth-card">
-        <img src="./logo.png?v=loginrequired1" alt="StarQuiz">
+        <img src="./logo.png?v=loginclean1" alt="StarQuiz">
         <h1>${isRegister ? "Hesap Oluştur" : "Giriş Yap"}</h1>
         <p>${isRegister ? "StarQuiz hesabını oluştur ve ilerlemeni güvenle kaydet." : "Kayıtlı hesabınla giriş yaparak devam et."}</p>
         ${isRegister ? `<input id="authName" placeholder="Ad Soyad" autocomplete="name">` : ""}
@@ -988,5 +988,53 @@ window.render = render;
 setTimeout(()=>{
   if(firebaseReady && !currentUser) authScreen("login");
 }, 500);
+
+
+/* ===== LOGIN CLEAN PATCH loginclean1 ===== */
+function setAuthUiMode(isAuth){
+  document.body.classList.toggle("auth-mode", !!isAuth);
+}
+
+function authScreen(mode="login"){
+  const isRegister = mode === "register";
+  setAuthUiMode(true);
+  app.innerHTML = `
+    <section class="auth-shell login-clean-screen">
+      <div class="auth-card">
+        <img src="./logo.png?v=loginclean1" alt="StarQuiz">
+        <h1>${isRegister ? "Hesap Oluştur" : "Giriş Yap"}</h1>
+        <p>${isRegister ? "StarQuiz hesabını oluştur ve ilerlemeni güvenle kaydet." : "Kayıtlı hesabınla giriş yaparak devam et."}</p>
+        ${isRegister ? `<input id="authName" placeholder="Ad Soyad" autocomplete="name">` : ""}
+        <input id="authEmail" placeholder="E-posta" type="email" autocomplete="email">
+        <input id="authPass" placeholder="Şifre" type="password" autocomplete="${isRegister ? "new-password" : "current-password"}">
+        <button class="primary" onclick="${isRegister ? "registerUser()" : "loginUser()"}">${isRegister ? "Kayıt Ol" : "Giriş Yap"}</button>
+        <button class="secondary" onclick="authScreen('${isRegister ? "login" : "register"}')">${isRegister ? "Zaten hesabım var" : "Yeni hesap oluştur"}</button>
+        <div id="authMsg" class="auth-msg"></div>
+      </div>
+    </section>`;
+}
+window.authScreen = authScreen;
+
+const setPageBeforeLoginClean = setPage;
+setPage = function(page){
+  if(firebaseReady && !currentUser && page !== "auth"){
+    authScreen("login");
+    return;
+  }
+  setAuthUiMode(false);
+  setPageBeforeLoginClean(page);
+};
+window.setPage = setPage;
+
+const renderBeforeLoginClean = render;
+render = function(){
+  if(firebaseReady && !currentUser){
+    authScreen("login");
+    return;
+  }
+  setAuthUiMode(false);
+  renderBeforeLoginClean();
+};
+window.render = render;
 
 render();

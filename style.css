@@ -1220,3 +1220,32 @@ body{
 .login-required-screen{min-height:calc(100vh - 160px)}
 .login-required-screen .auth-card{border-color:rgba(255,211,78,.38);box-shadow:0 30px 90px rgba(0,0,0,.45),0 0 45px rgba(255,211,78,.16)}
 .login-required-screen .auth-card::before{content:"Zorunlu kullanıcı girişi";display:inline-flex;padding:7px 11px;border-radius:999px;margin-bottom:12px;color:#ffd34e;font-size:12px;font-weight:900;border:1px solid rgba(255,211,78,.25);background:rgba(255,211,78,.08)}
+
+/* LOGIN CLEAN */
+body.auth-mode .bottom-nav{
+  display:none !important;
+}
+body.auth-mode{
+  overflow:auto;
+}
+body.auth-mode .app-shell{
+  padding-bottom:24px !important;
+}
+body.auth-mode .topbar{
+  display:none !important;
+}
+.login-clean-screen{
+  min-height:100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding:24px;
+}
+.login-clean-screen .auth-card::before,
+.login-required-screen .auth-card::before{
+  content:none !important;
+  display:none !important;
+}
+.login-clean-screen .auth-card{
+  margin:auto;
+}
