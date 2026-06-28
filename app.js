@@ -46,19 +46,85 @@ function groupCounts(){
 function difficultyCounts(group){
  return ["Kolay","Orta","Zor"].map(level=>[level, questionsByGroup(group).filter(q=>q.difficulty===level).length]);
 }
-function pickQuestions(count, group, difficulty=null){
- const recent=new Set(state.recentQuestionIds||[]);
- let pool=questionsByGroup(group).filter(q=>(!difficulty||q.difficulty===difficulty)&&!recent.has(q.id));
- if(pool.length<count) pool=questionsByGroup(group).filter(q=>(!difficulty||q.difficulty===difficulty));
- pool=shuffle(pool);
- const selected=[];
- while(selected.length<count && pool.length){
-   const q=pool.shift();
-   if(!q || selected.some(x=>x.id===q.id || x.question===q.question)) continue;
-   selected.push({...q, options:shuffle(q.options||[])});
- }
- return selected;
+
+/* ===== UNIQUE QUESTION PICKER PATCH ===== */
+function normalizeQuestionText(text){
+  return String(text || "")
+    .toLowerCase()
+    .replace(/\(konu tekrarı\)/g, "")
+    .replace(/\(tekrar\)/g, "")
+    .replace(/aşağıdaki bilgilerden hareketle:/g, "")
+    .replace(/sınav tarzı tekrar:/g, "")
+    .replace(/bu konuyla ilgili olarak/g, "")
+    .replace(/kısa tekrar sorusu:/g, "")
+    .replace(/konu pekiştirme:/g, "")
+    .replace(/genel tekrar/g, "")
+    .replace(/[?.!,;:()]/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
 }
+
+function questionUniqueKey(q){
+  const topic = String(q.topic || "");
+  const answer = String(q.answer || "");
+  const exp = String(q.explanation || "");
+  const clean = normalizeQuestionText(q.question || "");
+  return `${topic}||${answer}||${exp || clean}`;
+}
+
+function pickQuestions(count, group, difficulty=null){
+  const recent = new Set(state.recentQuestionIds || []);
+  let pool = questionsByGroup(group).filter(q => (!difficulty || q.difficulty === difficulty) && !recent.has(q.id));
+
+  if(pool.length < count){
+    pool = questionsByGroup(group).filter(q => (!difficulty || q.difficulty === difficulty));
+  }
+
+  pool = shuffle(pool);
+
+  const selected = [];
+  const usedIds = new Set();
+  const usedText = new Set();
+  const usedKeys = new Set();
+
+  for(const q of pool){
+    if(!q) continue;
+
+    const id = String(q.id || "");
+    const textKey = normalizeQuestionText(q.question || "");
+    const uniqueKey = questionUniqueKey(q);
+
+    if(usedIds.has(id)) continue;
+    if(textKey && usedText.has(textKey)) continue;
+    if(uniqueKey && usedKeys.has(uniqueKey)) continue;
+
+    selected.push({...q, options: shuffle(q.options || [])});
+    usedIds.add(id);
+    if(textKey) usedText.add(textKey);
+    if(uniqueKey) usedKeys.add(uniqueKey);
+
+    if(selected.length >= count) break;
+  }
+
+  if(selected.length < count){
+    for(const q of pool){
+      if(selected.length >= count) break;
+
+      const id = String(q.id || "");
+      const textKey = normalizeQuestionText(q.question || "");
+
+      if(usedIds.has(id)) continue;
+      if(textKey && usedText.has(textKey)) continue;
+
+      selected.push({...q, options: shuffle(q.options || [])});
+      usedIds.add(id);
+      if(textKey) usedText.add(textKey);
+    }
+  }
+
+  return selected;
+}
+
 
 function render(){
  if(page==="home") return renderHome();
@@ -81,7 +147,7 @@ function renderHome(){
     <button class="secondary" onclick="setPage('lessons')">📖 Derslere Başla</button>
    </div>
   </div>
-  <div class="pro-hero-logo"><img src="./logo.png?v=v11_1250_1" alt="StarQuiz"></div>
+  <div class="pro-hero-logo"><img src="./logo.png?v=v11_1250_unique1" alt="StarQuiz"></div>
  </section>
  <section class="pro-grid-3">
   <div class="pro-card"><span>📚 Toplam Soru</span><b>${qs.length}</b><small>Genel + Kamu</small></div>
@@ -216,7 +282,7 @@ function renderHome(){
  <div class="final-welcome"><div class="final-badge">KKTC Kamu Sınavı Hazırlık</div><h1>StarQuiz</h1>
  <p>Genel Kültür, Kamu Yasası ve KKTC Anayasası için ayrı ders ve test sistemi.</p>
  <div class="final-actions"><button class="primary" onclick="setPage('exam')">🎯 Test Seç</button><button class="secondary" onclick="setPage('lessons')">📖 Derslere Git</button></div></div>
- <div class="final-score"><img src="./logo.png?v=v11_1250_1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
+ <div class="final-score"><img src="./logo.png?v=v11_1250_unique1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
  <section class="final-modules">
  <button onclick="selectTestGroup('Genel Kültür')"><span>📚</span><b>Genel Kültür</b><small>${gc.genel} soru</small></button>
  <button onclick="selectTestGroup('Kamu Yasası')"><span>⚖️</span><b>Kamu Yasası</b><small>${gc.kamu} soru</small></button>
@@ -264,7 +330,7 @@ function renderHome(){
  <div class="final-welcome"><div class="final-badge">KKTC Kamu Sınavı Hazırlık</div><h1>StarQuiz</h1>
  <p>Genel Kültür, Kamu Yasası, KKTC Anayasası, Türkçe ve Matematik için ayrı ders ve test sistemi.</p>
  <div class="final-actions"><button class="primary" onclick="setPage('exam')">🎯 Test Seç</button><button class="secondary" onclick="setPage('lessons')">📖 Derslere Git</button></div></div>
- <div class="final-score"><img src="./logo.png?v=v11_1250_1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
+ <div class="final-score"><img src="./logo.png?v=v11_1250_unique1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
  <section class="final-modules five">
  <button onclick="selectTestGroup('Genel Kültür')"><span>📚</span><b>Genel Kültür</b><small>${gc.genel} soru</small></button>
  <button onclick="selectTestGroup('Kamu Yasası')"><span>⚖️</span><b>Kamu Yasası</b><small>${gc.kamu} soru</small></button>
@@ -304,7 +370,7 @@ function renderHome(){
  <div class="final-welcome"><div class="final-badge">KKTC Kamu Sınavı Hazırlık</div><h1>StarQuiz</h1>
  <p>Hedefine odaklan, konuları çalış ve başarıya ulaş. Her alan kendi test havuzunda ayrı ilerler.</p>
  <div class="final-actions"><button class="primary" onclick="setPage('exam')">🎯 Test Seç</button><button class="secondary" onclick="setPage('lessons')">📖 Derslere Git</button></div></div>
- <div class="final-score"><img src="./logo.png?v=v11_1250_1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
+ <div class="final-score"><img src="./logo.png?v=v11_1250_unique1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
 
  <section class="neon-section-title">
    <div class="neon-line"></div>
