@@ -10,7 +10,6 @@ window.STARQUIZ_FIREBASE_CONFIG = {
   measurementId: "G-1QN2ERDDPG"
 };
 
-// Admin hesabı
 window.STARQUIZ_ADMINS = [
   "yildiz.21.98@gmail.com"
 ];

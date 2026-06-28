@@ -147,7 +147,7 @@ function renderHome(){
     <button class="secondary" onclick="setPage('lessons')">📖 Derslere Başla</button>
    </div>
   </div>
-  <div class="pro-hero-logo"><img src="./logo.png?v=v13firebase1" alt="StarQuiz"></div>
+  <div class="pro-hero-logo"><img src="./logo.png?v=firebasefix1" alt="StarQuiz"></div>
  </section>
  <section class="pro-grid-3">
   <div class="pro-card"><span>📚 Toplam Soru</span><b>${qs.length}</b><small>Genel + Kamu</small></div>
@@ -282,7 +282,7 @@ function renderHome(){
  <div class="final-welcome"><div class="final-badge">KKTC Kamu Sınavı Hazırlık</div><h1>StarQuiz</h1>
  <p>Genel Kültür, Kamu Yasası ve KKTC Anayasası için ayrı ders ve test sistemi.</p>
  <div class="final-actions"><button class="primary" onclick="setPage('exam')">🎯 Test Seç</button><button class="secondary" onclick="setPage('lessons')">📖 Derslere Git</button></div></div>
- <div class="final-score"><img src="./logo.png?v=v13firebase1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
+ <div class="final-score"><img src="./logo.png?v=firebasefix1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
  <section class="final-modules">
  <button onclick="selectTestGroup('Genel Kültür')"><span>📚</span><b>Genel Kültür</b><small>${gc.genel} soru</small></button>
  <button onclick="selectTestGroup('Kamu Yasası')"><span>⚖️</span><b>Kamu Yasası</b><small>${gc.kamu} soru</small></button>
@@ -330,7 +330,7 @@ function renderHome(){
  <div class="final-welcome"><div class="final-badge">KKTC Kamu Sınavı Hazırlık</div><h1>StarQuiz</h1>
  <p>Genel Kültür, Kamu Yasası, KKTC Anayasası, Türkçe ve Matematik için ayrı ders ve test sistemi.</p>
  <div class="final-actions"><button class="primary" onclick="setPage('exam')">🎯 Test Seç</button><button class="secondary" onclick="setPage('lessons')">📖 Derslere Git</button></div></div>
- <div class="final-score"><img src="./logo.png?v=v13firebase1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
+ <div class="final-score"><img src="./logo.png?v=firebasefix1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
  <section class="final-modules five">
  <button onclick="selectTestGroup('Genel Kültür')"><span>📚</span><b>Genel Kültür</b><small>${gc.genel} soru</small></button>
  <button onclick="selectTestGroup('Kamu Yasası')"><span>⚖️</span><b>Kamu Yasası</b><small>${gc.kamu} soru</small></button>
@@ -370,7 +370,7 @@ function renderHome(){
  <div class="final-welcome"><div class="final-badge">KKTC Kamu Sınavı Hazırlık</div><h1>StarQuiz</h1>
  <p>Hedefine odaklan, konuları çalış ve başarıya ulaş. Her alan kendi test havuzunda ayrı ilerler.</p>
  <div class="final-actions"><button class="primary" onclick="setPage('exam')">🎯 Test Seç</button><button class="secondary" onclick="setPage('lessons')">📖 Derslere Git</button></div></div>
- <div class="final-score"><img src="./logo.png?v=v13firebase1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
+ <div class="final-score"><img src="./logo.png?v=firebasefix1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
 
  <section class="neon-section-title">
    <div class="neon-line"></div>
@@ -706,7 +706,7 @@ function authScreen(mode="login"){
   app.innerHTML = `
     <section class="auth-shell">
       <div class="auth-card">
-        <img src="./logo.png?v=v13firebase1" alt="StarQuiz">
+        <img src="./logo.png?v=firebasefix1" alt="StarQuiz">
         <h1>${isRegister ? "Hesap Oluştur" : "Giriş Yap"}</h1>
         <p>${isRegister ? "Kendi e-posta ve şifrenle StarQuiz hesabını oluştur." : "StarQuiz hesabınla kaldığın yerden devam et."}</p>
         ${isRegister ? `<input id="authName" placeholder="Ad Soyad" autocomplete="name">` : ""}
@@ -833,5 +833,98 @@ if(typeof renderHome === "function"){
 }
 
 initFirebase();
+
+
+/* ===== FIREBASE FIX PATCH firebasefix1 ===== */
+function starquizHasValidFirebaseConfig(){
+  const cfg = window.STARQUIZ_FIREBASE_CONFIG || {};
+  return !!(cfg.apiKey && cfg.authDomain && cfg.projectId && !String(cfg.apiKey).includes("BURAYA") && !String(cfg.projectId).includes("BURAYA"));
+}
+
+function initFirebase(){
+  try{
+    const cfg = window.STARQUIZ_FIREBASE_CONFIG || {};
+    if(!starquizHasValidFirebaseConfig()){
+      console.warn("Firebase config bulunamadı veya eksik:", cfg);
+      firebaseReady = false;
+      return false;
+    }
+    if(typeof firebase === "undefined"){
+      console.error("Firebase SDK yüklenmedi. index.html script sırası kontrol edilmeli.");
+      firebaseReady = false;
+      return false;
+    }
+    if(!firebase.apps.length) firebase.initializeApp(cfg);
+    fbAuth = firebase.auth();
+    fbDb = firebase.firestore();
+    firebaseReady = true;
+
+    fbAuth.onAuthStateChanged(async function(user){
+      currentUser = user || null;
+      if(user){
+        await ensureUserProfile(user);
+        await syncLocalStatsToCloud();
+      }
+      try{ render(); }catch(e){ console.error(e); }
+    });
+    return true;
+  }catch(e){
+    console.error("Firebase başlatılamadı:", e);
+    firebaseReady = false;
+    return false;
+  }
+}
+
+function authMessage(msg){
+  const el = document.getElementById("authMsg");
+  if(el) el.textContent = msg;
+}
+
+function firebaseErrorTR(e){
+  const code = e && e.code ? e.code : "";
+  if(code.includes("email-already-in-use")) return "Bu e-posta zaten kayıtlı.";
+  if(code.includes("invalid-email")) return "E-posta adresi geçersiz.";
+  if(code.includes("weak-password")) return "Şifre en az 6 karakter olmalı.";
+  if(code.includes("wrong-password") || code.includes("invalid-credential")) return "E-posta veya şifre hatalı.";
+  if(code.includes("user-not-found")) return "Bu e-posta ile kayıt bulunamadı.";
+  if(code.includes("network-request-failed")) return "İnternet bağlantısı veya Firebase erişimi kontrol edilmeli.";
+  return "İşlem tamamlanamadı: " + (e.message || code);
+}
+
+async function registerUser(){
+  if(!starquizHasValidFirebaseConfig()){ authMessage("Firebase ayarları okunamadı. firebase-config.js dosyasını kontrol et."); return; }
+  if(!firebaseReady) initFirebase();
+  if(!firebaseReady){ authMessage("Firebase başlatılamadı. Authentication ayarlarını kontrol et."); return; }
+  const name = document.getElementById("authName")?.value.trim() || "";
+  const email = document.getElementById("authEmail")?.value.trim() || "";
+  const pass = document.getElementById("authPass")?.value || "";
+  if(!name || !email || pass.length < 6){ authMessage("Ad soyad, e-posta ve en az 6 karakter şifre gir."); return; }
+  try{
+    const cred = await fbAuth.createUserWithEmailAndPassword(email, pass);
+    await cred.user.updateProfile({displayName:name});
+    localStorage.setItem("starquiz_display_name", name);
+    await ensureUserProfile(cred.user);
+    setPage("home");
+  }catch(e){ authMessage(firebaseErrorTR(e)); }
+}
+window.registerUser = registerUser;
+
+async function loginUser(){
+  if(!starquizHasValidFirebaseConfig()){ authMessage("Firebase ayarları okunamadı. firebase-config.js dosyasını kontrol et."); return; }
+  if(!firebaseReady) initFirebase();
+  if(!firebaseReady){ authMessage("Firebase başlatılamadı. Authentication ayarlarını kontrol et."); return; }
+  const email = document.getElementById("authEmail")?.value.trim() || "";
+  const pass = document.getElementById("authPass")?.value || "";
+  if(!email || !pass){ authMessage("E-posta ve şifre gir."); return; }
+  try{
+    await fbAuth.signInWithEmailAndPassword(email, pass);
+    setPage("home");
+  }catch(e){ authMessage(firebaseErrorTR(e)); }
+}
+window.loginUser = loginUser;
+
+setTimeout(()=>{
+  if(!firebaseReady && starquizHasValidFirebaseConfig()) initFirebase();
+}, 150);
 
 render();
