@@ -81,7 +81,7 @@ function renderHome(){
     <button class="secondary" onclick="setPage('lessons')">📖 Derslere Başla</button>
    </div>
   </div>
-  <div class="pro-hero-logo"><img src="./logo.png?v=neoncards1" alt="StarQuiz"></div>
+  <div class="pro-hero-logo"><img src="./logo.png?v=v11premium1" alt="StarQuiz"></div>
  </section>
  <section class="pro-grid-3">
   <div class="pro-card"><span>📚 Toplam Soru</span><b>${qs.length}</b><small>Genel + Kamu</small></div>
@@ -216,7 +216,7 @@ function renderHome(){
  <div class="final-welcome"><div class="final-badge">KKTC Kamu Sınavı Hazırlık</div><h1>StarQuiz</h1>
  <p>Genel Kültür, Kamu Yasası ve KKTC Anayasası için ayrı ders ve test sistemi.</p>
  <div class="final-actions"><button class="primary" onclick="setPage('exam')">🎯 Test Seç</button><button class="secondary" onclick="setPage('lessons')">📖 Derslere Git</button></div></div>
- <div class="final-score"><img src="./logo.png?v=neoncards1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
+ <div class="final-score"><img src="./logo.png?v=v11premium1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
  <section class="final-modules">
  <button onclick="selectTestGroup('Genel Kültür')"><span>📚</span><b>Genel Kültür</b><small>${gc.genel} soru</small></button>
  <button onclick="selectTestGroup('Kamu Yasası')"><span>⚖️</span><b>Kamu Yasası</b><small>${gc.kamu} soru</small></button>
@@ -264,7 +264,7 @@ function renderHome(){
  <div class="final-welcome"><div class="final-badge">KKTC Kamu Sınavı Hazırlık</div><h1>StarQuiz</h1>
  <p>Genel Kültür, Kamu Yasası, KKTC Anayasası, Türkçe ve Matematik için ayrı ders ve test sistemi.</p>
  <div class="final-actions"><button class="primary" onclick="setPage('exam')">🎯 Test Seç</button><button class="secondary" onclick="setPage('lessons')">📖 Derslere Git</button></div></div>
- <div class="final-score"><img src="./logo.png?v=neoncards1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
+ <div class="final-score"><img src="./logo.png?v=v11premium1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
  <section class="final-modules five">
  <button onclick="selectTestGroup('Genel Kültür')"><span>📚</span><b>Genel Kültür</b><small>${gc.genel} soru</small></button>
  <button onclick="selectTestGroup('Kamu Yasası')"><span>⚖️</span><b>Kamu Yasası</b><small>${gc.kamu} soru</small></button>
@@ -304,7 +304,7 @@ function renderHome(){
  <div class="final-welcome"><div class="final-badge">KKTC Kamu Sınavı Hazırlık</div><h1>StarQuiz</h1>
  <p>Hedefine odaklan, konuları çalış ve başarıya ulaş. Her alan kendi test havuzunda ayrı ilerler.</p>
  <div class="final-actions"><button class="primary" onclick="setPage('exam')">🎯 Test Seç</button><button class="secondary" onclick="setPage('lessons')">📖 Derslere Git</button></div></div>
- <div class="final-score"><img src="./logo.png?v=neoncards1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
+ <div class="final-score"><img src="./logo.png?v=v11premium1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
 
  <section class="neon-section-title">
    <div class="neon-line"></div>
@@ -343,6 +343,140 @@ function renderExam(){
    ${moduleCard('Türkçe','Türkçe',gc.turkce,'📖','teal')}
    ${moduleCard('Matematik','Matematik',gc.matematik,'➗','orange')}
  </section>`;
+}
+
+
+/* ===== STARQUIZ V11 PREMIUM DASHBOARD ===== */
+function questionsByGroup(group){
+ const qs=getQuestions();
+ const modules=["Kamu Yasası","KKTC Anayasası","Türkçe","Matematik"];
+ if(modules.includes(group)) return qs.filter(q=>q.category===group || q.testGroup===group);
+ if(group==="Genel Kültür") return qs.filter(q=>!modules.includes(q.category) && !modules.includes(q.testGroup));
+ return qs;
+}
+function groupCounts(){
+ return {
+   genel: questionsByGroup("Genel Kültür").length,
+   kamu: questionsByGroup("Kamu Yasası").length,
+   anayasa: questionsByGroup("KKTC Anayasası").length,
+   turkce: questionsByGroup("Türkçe").length,
+   matematik: questionsByGroup("Matematik").length
+ };
+}
+function v11ModuleCard(group, title, count, icon, cls){
+  return `<button class="v11-card ${cls}" onclick="selectTestGroup('${jsArg(group)}')">
+    <div class="v11-card-glow"></div>
+    <div class="v11-icon-ring"><span>${icon}</span></div>
+    <h2>${title}</h2>
+    <p>${count} Soru</p>
+    <div class="v11-mini-progress"><i></i></div>
+    <div class="v11-card-btn">Çalış <b>›</b></div>
+  </button>`;
+}
+function renderHome(){
+ const qs=getQuestions(), ms=moduleStats(), gc=groupCounts(), rate=percent(state.correct,state.total);
+ app.innerHTML=`<section class="v11-hero">
+   <div class="v11-hero-left">
+     <div class="v11-pill">KKTC Kamu Sınavı Hazırlık</div>
+     <h1>StarQuiz</h1>
+     <p>Hedefine odaklan, konuları çalış ve başarıya ulaş. Her alan kendi test havuzunda seni ilerletir.</p>
+     <div class="v11-actions">
+       <button class="primary" onclick="setPage('exam')">🎯 Test Seç</button>
+       <button class="secondary" onclick="setPage('lessons')">📖 Derslere Git</button>
+     </div>
+   </div>
+   <div class="v11-hero-center">
+     <div class="v11-book-scene">
+       <div class="v11-star">⭐</div>
+       <div class="v11-book">📖</div>
+       <div class="v11-orb one">🎯</div>
+       <div class="v11-orb two">📈</div>
+       <div class="v11-orb three">🧠</div>
+       <div class="v11-orb four">🎓</div>
+     </div>
+   </div>
+   <div class="v11-stats-panel">
+     <h3>Genel İlerlemen</h3>
+     <div class="v11-stat-main"><span>🏆</span><div><small>Toplam Soru</small><b>${qs.length}</b></div><em>%${rate}</em></div>
+     <div class="v11-stat-row">
+       <div><span>✅</span><small>Doğru</small><b>${state.correct}</b></div>
+       <div><span>❌</span><small>Yanlış</small><b>${state.wrong}</b></div>
+       <div><span>⭐</span><small>XP</small><b>${state.xp}</b></div>
+     </div>
+   </div>
+ </section>
+
+ <section class="v11-title">
+   <span></span><b>⭐</b><span></span>
+   <h1>Konular</h1>
+   <p>Hedefine odaklan, başarıya ulaş!</p>
+ </section>
+
+ <section class="v11-grid">
+   ${v11ModuleCard('Genel Kültür','Genel Kültür',gc.genel,'📚','blue')}
+   ${v11ModuleCard('Kamu Yasası','Kamu Yasası',gc.kamu,'⚖️','gold')}
+   ${v11ModuleCard('KKTC Anayasası','KKTC Anayasası',gc.anayasa,'📜','purple')}
+   ${v11ModuleCard('Türkçe','Türkçe',gc.turkce,'📖','teal')}
+   ${v11ModuleCard('Matematik','Matematik',gc.matematik,'➗','orange')}
+ </section>
+
+ <section class="v11-info-strip">
+   <div><span>🎯</span><b>Hedefini Belirle</b><small>Planlı çalış, başarıyı yakala!</small></div>
+   <div><span>📈</span><b>Düzenli Tekrar</b><small>Tekrar et, kalıcı öğren!</small></div>
+   <div><span>🏆</span><b>Kendini Geliştir</b><small>Her soru seni ileri taşır!</small></div>
+   <div><span>⭐</span><b>Başarını Takip Et</b><small>İlerlemeni gör, motivasyonunu artır!</small></div>
+ </section>
+
+ <section class="v11-progress-panel">
+   <div><h2>📖 Ders İlerlemesi</h2><p>${ms.total} mini dersin ${ms.done} tanesi tamamlandı.</p></div>
+   <strong>%${ms.percentDone}</strong>
+   <div class="v11-progress"><i style="width:${ms.percentDone}%"></i></div>
+ </section>`;
+}
+function renderExam(){
+ const gc=groupCounts();
+ app.innerHTML=`<section class="v11-title v11-test-title">
+   <span></span><b>🚀</b><span></span>
+   <h1>Test Seç</h1>
+   <p>Hangi alanı seçersen sadece o alandan soru gelir. Karışık soru yok.</p>
+ </section>
+ <section class="v11-grid exam">
+   ${v11ModuleCard('Genel Kültür','Genel Kültür',gc.genel,'📚','blue')}
+   ${v11ModuleCard('Kamu Yasası','Kamu Yasası',gc.kamu,'⚖️','gold')}
+   ${v11ModuleCard('KKTC Anayasası','KKTC Anayasası',gc.anayasa,'📜','purple')}
+   ${v11ModuleCard('Türkçe','Türkçe',gc.turkce,'📖','teal')}
+   ${v11ModuleCard('Matematik','Matematik',gc.matematik,'➗','orange')}
+ </section>`;
+}
+function renderLessons(){
+ const lessons=getLessons(), progress=progressData(), doneCount=lessons.filter(l=>progress[l.id]).length, groups={};
+ lessons.forEach(l=>{ const key=l.category||"Genel"; groups[key]=groups[key]||[]; groups[key].push(l); });
+ const overall = lessons.length ? Math.round(doneCount/lessons.length*100) : 0;
+ app.innerHTML=`<section class="v11-title v11-lessons-title">
+   <span></span><b>📖</b><span></span>
+   <h1>Mini Dersler</h1>
+   <p>Konuları kısa çalışma metinleriyle oku. Her modül ayrı kart sistemiyle düzenlendi.</p>
+ </section>
+ <section class="v11-progress-panel">
+   <div><h2>Genel İlerleme</h2><p>${doneCount}/${lessons.length} ders tamamlandı.</p></div>
+   <strong>%${overall}</strong>
+   <div class="v11-progress"><i style="width:${overall}%"></i></div>
+ </section>
+ ${Object.entries(groups).map(([cat,items])=>{
+   const catDone=items.filter(l=>progress[l.id]).length;
+   const pct=items.length?Math.round(catDone/items.length*100):0;
+   return `<section class="v11-lesson-group">
+    <div class="v11-lesson-head"><div><h2>${esc(cat)}</h2><p>${items.length} ders · ${catDone} tamamlandı</p></div><b>%${pct}</b></div>
+    <div class="v11-progress small"><i style="width:${pct}%"></i></div>
+    <div class="v11-lesson-list">
+      ${items.map((l,idx)=>`<button class="${progress[l.id]?'done':''}" onclick="openLesson('${jsArg(l.id)}')">
+        <i>${progress[l.id]?'✓':idx+1}</i>
+        <span><b>${esc(l.emoji||'📖')} ${esc(l.title)}</b><small>${esc(l.module)} · ${l.minutes||2} dk</small></span>
+        <em>›</em>
+      </button>`).join("")}
+    </div>
+   </section>`;
+ }).join("")}`;
 }
 
 render();

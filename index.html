@@ -4,17 +4,17 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
   <meta name="theme-color" content="#08111f"/>
-  <title>StarQuiz Neon Kartlar</title>
-  <link rel="manifest" href="./manifest.json?v=neoncards1">
-  <link rel="icon" href="./favicon.png?v=neoncards1">
-  <link rel="apple-touch-icon" href="./apple-touch-icon.png?v=neoncards1">
-  <link rel="stylesheet" href="./style.css?v=neoncards1">
+  <title>StarQuiz V11 Premium</title>
+  <link rel="manifest" href="./manifest.json?v=v11premium1">
+  <link rel="icon" href="./favicon.png?v=v11premium1">
+  <link rel="apple-touch-icon" href="./apple-touch-icon.png?v=v11premium1">
+  <link rel="stylesheet" href="./style.css?v=v11premium1">
 </head>
 <body>
   <div class="app-shell">
     <header class="topbar">
       <div class="brand-row">
-        <img src="./icon-192.png?v=neoncards1" class="mini-logo" alt="StarQuiz">
+        <img src="./icon-192.png?v=v11premium1" class="mini-logo" alt="StarQuiz">
         <div>
           <div class="brand">StarQuiz</div>
           <div class="subtitle">KKTC Kamu Sınavı Hazırlık</div>
@@ -32,19 +32,19 @@
 
     <nav class="bottom-nav">
       <button data-page="home" class="nav-btn active" type="button">🏠<span>Ana</span></button>
-      <button data-page="exam" class="nav-btn" type="button">🎯<span>Deneme</span></button>
+      <button data-page="exam" class="nav-btn" type="button">🚀<span>Deneme</span></button>
       <button data-page="lessons" class="nav-btn" type="button">📖<span>Dersler</span></button>
-      <button data-page="wrong" class="nav-btn" type="button">❌<span>Yanlış</span></button>
+      <button data-page="wrong" class="nav-btn" type="button">❌<span>Yanlışlarım</span></button>
       <button data-page="stats" class="nav-btn" type="button">📊<span>Analiz</span></button>
     </nav>
   </div>
 
   <script>
-    window.STARQUIZ_BUILD = "neoncards1";
+    window.STARQUIZ_BUILD = "v11premium1";
     try {
       var old = localStorage.getItem("starquiz_build");
-      if (old !== "neoncards1") {
-        localStorage.setItem("starquiz_build", "neoncards1");
+      if (old !== "v11premium1") {
+        localStorage.setItem("starquiz_build", "v11premium1");
         if ("caches" in window) {
           caches.keys().then(function(keys){
             return Promise.all(keys.map(function(k){ return caches.delete(k); }));
@@ -53,13 +53,13 @@
       }
     } catch(e) {}
   </script>
-  <script src="./questions.js?v=neoncards1"></script>
-  <script src="./lessons.js?v=neoncards1"></script>
-  <script src="./app.js?v=neoncards1"></script>
+  <script src="./questions.js?v=v11premium1"></script>
+  <script src="./lessons.js?v=v11premium1"></script>
+  <script src="./app.js?v=v11premium1"></script>
   <script>
     if ("serviceWorker" in navigator) {
       window.addEventListener("load", function(){
-        navigator.serviceWorker.register("./service-worker.js?v=neoncards1").then(function(reg){
+        navigator.serviceWorker.register("./service-worker.js?v=v11premium1").then(function(reg){
           if(reg && reg.update) reg.update();
         }).catch(function(){});
       });

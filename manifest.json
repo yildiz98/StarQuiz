@@ -1,20 +1,20 @@
 {
-  "name": "StarQuiz Neon Kartlar",
+  "name": "StarQuiz V11 Premium",
   "short_name": "StarQuiz",
-  "start_url": "./index.html?v=neoncards1",
+  "start_url": "./index.html?v=v11premium1",
   "display": "standalone",
   "background_color": "#050b14",
   "theme_color": "#08111f",
-  "description": "Neon kart tasarımlı StarQuiz",
+  "description": "StarQuiz V11 Premium Dashboard",
   "icons": [
     {
-      "src": "./icon-192.png?v=neoncards1",
+      "src": "./icon-192.png?v=v11premium1",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "./icon-512.png?v=neoncards1",
+      "src": "./icon-512.png?v=v11premium1",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
