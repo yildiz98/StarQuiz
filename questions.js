@@ -2912,5 +2912,2705 @@ window.QUESTIONS = [
     "answerLetter": "D",
     "explanation": "Rauf Denktaş’ın TMT kod adı Toros’tur.",
     "source": "Kullanıcının paylaştığı KKTC/Kıbrıs kamu sınavı soru bankası görselleri"
+  },
+  {
+    "id": "ky-001",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Amaç ve Kapsam",
+    "difficulty": "Kolay",
+    "question": "Kamu Görevlileri Yasasının temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      "Özel şirketlerin faaliyetlerini düzenlemek",
+      "Belediye seçimlerini düzenlemek",
+      "Ceza yargılaması usulünü belirlemek",
+      "Kamu hizmetlerinin düzenli ve verimli yürütülmesini sağlamak"
+    ],
+    "answer": "Kamu hizmetlerinin düzenli ve verimli yürütülmesini sağlamak",
+    "answerLetter": "D",
+    "explanation": "Yasa kamu hizmeti ve kamu görevlilerinin statüsünü düzenlemeye yöneliktir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-002",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Amaç ve Kapsam",
+    "difficulty": "Kolay",
+    "question": "Kamu Görevlileri Yasasında kapsam bölümü neyi gösterir?",
+    "options": [
+      "Mahkeme kararlarını",
+      "Seçim sonuçlarını",
+      "Yasanın kimlere uygulanacağını",
+      "Vergi oranlarını"
+    ],
+    "answer": "Yasanın kimlere uygulanacağını",
+    "answerLetter": "C",
+    "explanation": "Kapsam, yasanın uygulanacağı kişi ve kurum alanını gösterir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-003",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Amaç ve Kapsam",
+    "difficulty": "Kolay",
+    "question": "Amaç maddesi en kısa ifadeyle hangi soruya cevap verir?",
+    "options": [
+      "Hangi yol izlenir?",
+      "Yasa neden çıkarılmıştır?",
+      "Hangi mahkeme yetkilidir?",
+      "Hangi parti seçime girmiştir?"
+    ],
+    "answer": "Yasa neden çıkarılmıştır?",
+    "answerLetter": "B",
+    "explanation": "Amaç maddesi yasanın çıkarılma nedenini açıklar.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-004",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Amaç ve Kapsam",
+    "difficulty": "Kolay",
+    "question": "Kamu hizmetinde esas olan ilke aşağıdakilerden hangisidir?",
+    "options": [
+      "Kamu yararı",
+      "Kişisel çıkar",
+      "Keyfi uygulama",
+      "Ayrıcalık sağlama"
+    ],
+    "answer": "Kamu yararı",
+    "answerLetter": "A",
+    "explanation": "Kamu görevlisi görevini kamu yararını gözeterek yürütür.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-005",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Amaç ve Kapsam",
+    "difficulty": "Kolay",
+    "question": "Kamu Görevlileri Yasası genel olarak hangi alanı düzenler?",
+    "options": [
+      "Ticaret şirketlerinin kuruluşu",
+      "Trafik işaretleri",
+      "Ceza infaz kurumlarının mimarisi",
+      "Kamu görevlilerinin statüsü ve çalışma esasları"
+    ],
+    "answer": "Kamu görevlilerinin statüsü ve çalışma esasları",
+    "answerLetter": "D",
+    "explanation": "Yasa kamu görevlilerinin çalışma statüsü ile ilgilidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-006",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Amaç ve Kapsam",
+    "difficulty": "Kolay",
+    "question": "Kamu Görevlileri Yasasının temel amacı hangisidir?",
+    "options": [
+      "Ceza yargılaması usulünü belirlemek",
+      "Kamu hizmetlerinin düzenli ve verimli yürütülmesini sağlamak",
+      "Özel şirketlerin faaliyetlerini düzenlemek",
+      "Belediye seçimlerini düzenlemek"
+    ],
+    "answer": "Kamu hizmetlerinin düzenli ve verimli yürütülmesini sağlamak",
+    "answerLetter": "B",
+    "explanation": "Yasa kamu hizmeti ve kamu görevlilerinin statüsünü düzenlemeye yöneliktir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-007",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Amaç ve Kapsam",
+    "difficulty": "Kolay",
+    "question": "Kamu Görevlileri Yasasında kapsam bölümü neyi gösterir?",
+    "options": [
+      "Yasanın kimlere uygulanacağını",
+      "Vergi oranlarını",
+      "Mahkeme kararlarını",
+      "Seçim sonuçlarını"
+    ],
+    "answer": "Yasanın kimlere uygulanacağını",
+    "answerLetter": "A",
+    "explanation": "Kapsam, yasanın uygulanacağı kişi ve kurum alanını gösterir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-008",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Amaç ve Kapsam",
+    "difficulty": "Kolay",
+    "question": "Amaç maddesi en kısa ifadeyle hangi soruya cevap verir?",
+    "options": [
+      "Hangi mahkeme yetkilidir?",
+      "Hangi parti seçime girmiştir?",
+      "Hangi yol izlenir?",
+      "Yasa neden çıkarılmıştır?"
+    ],
+    "answer": "Yasa neden çıkarılmıştır?",
+    "answerLetter": "D",
+    "explanation": "Amaç maddesi yasanın çıkarılma nedenini açıklar.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-009",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Amaç ve Kapsam",
+    "difficulty": "Kolay",
+    "question": "Kamu hizmetinde esas olan ilke hangisidir?",
+    "options": [
+      "Keyfi uygulama",
+      "Ayrıcalık sağlama",
+      "Kamu yararı",
+      "Kişisel çıkar"
+    ],
+    "answer": "Kamu yararı",
+    "answerLetter": "C",
+    "explanation": "Kamu görevlisi görevini kamu yararını gözeterek yürütür.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-010",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Amaç ve Kapsam",
+    "difficulty": "Kolay",
+    "question": "Kamu Görevlileri Yasası genel olarak hangi alanı düzenler?",
+    "options": [
+      "Ceza infaz kurumlarının mimarisi",
+      "Kamu görevlilerinin statüsü ve çalışma esasları",
+      "Ticaret şirketlerinin kuruluşu",
+      "Trafik işaretleri"
+    ],
+    "answer": "Kamu görevlilerinin statüsü ve çalışma esasları",
+    "answerLetter": "B",
+    "explanation": "Yasa kamu görevlilerinin çalışma statüsü ile ilgilidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-011",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Tanımlar",
+    "difficulty": "Kolay",
+    "question": "Yasadaki tanımlar bölümünün temel işlevi nedir?",
+    "options": [
+      "Seçim bölgelerini düzenlemek",
+      "Kavramların ne anlama geldiğini açıklamak",
+      "Sınav tarihlerini belirlemek",
+      "Bütçe açığını kapatmak"
+    ],
+    "answer": "Kavramların ne anlama geldiğini açıklamak",
+    "answerLetter": "B",
+    "explanation": "Tanımlar bölümü kavram karmaşasını önler.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-012",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Tanımlar",
+    "difficulty": "Kolay",
+    "question": "Kadro kavramı en doğru şekilde nasıl açıklanır?",
+    "options": [
+      "Bir görevin resmi unvan ve yer bakımından tanımlanması",
+      "Bir kişinin özel mal varlığı",
+      "Bir sınav türü",
+      "Bir izin çeşidi"
+    ],
+    "answer": "Bir görevin resmi unvan ve yer bakımından tanımlanması",
+    "answerLetter": "A",
+    "explanation": "Kadro, kamu hizmetindeki görev yerini ve unvanı gösterir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-013",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Tanımlar",
+    "difficulty": "Kolay",
+    "question": "Derece ve kademe için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Her zaman aynı anlama gelir",
+      "Sadece izin türüdür",
+      "Sadece disiplin cezasıdır",
+      "Birbirinden farklı ilerleme kavramlarıdır"
+    ],
+    "answer": "Birbirinden farklı ilerleme kavramlarıdır",
+    "answerLetter": "D",
+    "explanation": "Derece ve kademe kamu personel sisteminde farklı kavramlardır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-014",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Tanımlar",
+    "difficulty": "Kolay",
+    "question": "Adaylık kavramı neyi ifade eder?",
+    "options": [
+      "Sürekli izin hakkını",
+      "Disiplin cezasının türünü",
+      "Göreve yeni başlayan kişinin geçiş ve uyum sürecini",
+      "Emekliliği"
+    ],
+    "answer": "Göreve yeni başlayan kişinin geçiş ve uyum sürecini",
+    "answerLetter": "C",
+    "explanation": "Adaylık, asaleten atanmadan önceki uyum sürecidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-015",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Tanımlar",
+    "difficulty": "Kolay",
+    "question": "Tanımların bilinmesi neden önemlidir?",
+    "options": [
+      "Maaşı otomatik artırmak için",
+      "Yasadaki maddeleri doğru yorumlamak için",
+      "Sadece ezber yapmak için",
+      "Logo tasarlamak için"
+    ],
+    "answer": "Yasadaki maddeleri doğru yorumlamak için",
+    "answerLetter": "B",
+    "explanation": "Kavramları bilmek yasanın doğru anlaşılmasını sağlar.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-016",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Tanımlar",
+    "difficulty": "Kolay",
+    "question": "Yasadaki tanımlar bölümünün temel işlevi nedir?",
+    "options": [
+      "Sınav tarihlerini belirlemek",
+      "Bütçe açığını kapatmak",
+      "Seçim bölgelerini düzenlemek",
+      "Kavramların ne anlama geldiğini açıklamak"
+    ],
+    "answer": "Kavramların ne anlama geldiğini açıklamak",
+    "answerLetter": "D",
+    "explanation": "Tanımlar bölümü kavram karmaşasını önler.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-017",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Tanımlar",
+    "difficulty": "Kolay",
+    "question": "Kadro kavramı en doğru şekilde nasıl açıklanır?",
+    "options": [
+      "Bir sınav türü",
+      "Bir izin çeşidi",
+      "Bir görevin resmi unvan ve yer bakımından tanımlanması",
+      "Bir kişinin özel mal varlığı"
+    ],
+    "answer": "Bir görevin resmi unvan ve yer bakımından tanımlanması",
+    "answerLetter": "C",
+    "explanation": "Kadro, kamu hizmetindeki görev yerini ve unvanı gösterir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-018",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Tanımlar",
+    "difficulty": "Kolay",
+    "question": "Derece ve kademe için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Sadece disiplin cezasıdır",
+      "Birbirinden farklı ilerleme kavramlarıdır",
+      "Her zaman aynı anlama gelir",
+      "Sadece izin türüdür"
+    ],
+    "answer": "Birbirinden farklı ilerleme kavramlarıdır",
+    "answerLetter": "B",
+    "explanation": "Derece ve kademe kamu personel sisteminde farklı kavramlardır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-019",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Tanımlar",
+    "difficulty": "Kolay",
+    "question": "Adaylık kavramı neyi ifade eder?",
+    "options": [
+      "Göreve yeni başlayan kişinin geçiş ve uyum sürecini",
+      "Emekliliği",
+      "Sürekli izin hakkını",
+      "Disiplin cezasının türünü"
+    ],
+    "answer": "Göreve yeni başlayan kişinin geçiş ve uyum sürecini",
+    "answerLetter": "A",
+    "explanation": "Adaylık, asaleten atanmadan önceki uyum sürecidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-020",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Tanımlar",
+    "difficulty": "Kolay",
+    "question": "Tanımların bilinmesi neden önemlidir?",
+    "options": [
+      "Sadece ezber yapmak için",
+      "Logo tasarlamak için",
+      "Maaşı otomatik artırmak için",
+      "Yasadaki maddeleri doğru yorumlamak için"
+    ],
+    "answer": "Yasadaki maddeleri doğru yorumlamak için",
+    "answerLetter": "D",
+    "explanation": "Kavramları bilmek yasanın doğru anlaşılmasını sağlar.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-021",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Orta",
+    "question": "Kamu görevlisinin hakları hangi amaçla düzenlenir?",
+    "options": [
+      "Kamu hizmetini tamamen durdurmak için",
+      "Kişisel ayrıcalık sağlamak için",
+      "Sınavsız terfi için",
+      "Görevini güven içinde yapabilmesi için"
+    ],
+    "answer": "Görevini güven içinde yapabilmesi için",
+    "answerLetter": "D",
+    "explanation": "Haklar kamu görevlisinin yasal güvence içinde çalışmasını sağlar.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-022",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisi kamu görevlisinin hakları arasında değerlendirilebilir?",
+    "options": [
+      "Göreve keyfi gelmeme",
+      "Tarafsızlığı bozma",
+      "İzin hakkı",
+      "Kamu malını kişisel amaçla kullanma"
+    ],
+    "answer": "İzin hakkı",
+    "answerLetter": "C",
+    "explanation": "İzin hakkı kamu personel sisteminde temel haklardandır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-023",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Orta",
+    "question": "Mali haklar neye dayanmalıdır?",
+    "options": [
+      "Sosyal medya yorumuna",
+      "Yasal düzenlemelere",
+      "Kişisel isteğe",
+      "Sözlü söylentiye"
+    ],
+    "answer": "Yasal düzenlemelere",
+    "answerLetter": "B",
+    "explanation": "Mali haklar yasal esaslara göre belirlenir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-024",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Orta",
+    "question": "Hakların kullanımı için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Mevzuat çerçevesinde kullanılır",
+      "Sınırsızdır",
+      "Amirin bilgisi olmadan her zaman kullanılabilir",
+      "Kamu hizmetini dikkate almaz"
+    ],
+    "answer": "Mevzuat çerçevesinde kullanılır",
+    "answerLetter": "A",
+    "explanation": "Haklar yasal sınırlar içinde kullanılır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-025",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Orta",
+    "question": "Kamu görevlisinin hak ve sorumlulukları arasındaki ilişki nasıldır?",
+    "options": [
+      "Haklar var, sorumluluk yoktur",
+      "Sorumluluklar hakları tamamen kaldırır",
+      "Birbiriyle ilgisizdir",
+      "Denge içinde değerlendirilmelidir"
+    ],
+    "answer": "Denge içinde değerlendirilmelidir",
+    "answerLetter": "D",
+    "explanation": "Kamu hizmetinde hak-sorumluluk dengesi esastır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-026",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Orta",
+    "question": "Kamu görevlisinin hakları hangi amaçla düzenlenir?",
+    "options": [
+      "Sınavsız terfi için",
+      "Görevini güven içinde yapabilmesi için",
+      "Kamu hizmetini tamamen durdurmak için",
+      "Kişisel ayrıcalık sağlamak için"
+    ],
+    "answer": "Görevini güven içinde yapabilmesi için",
+    "answerLetter": "B",
+    "explanation": "Haklar kamu görevlisinin yasal güvence içinde çalışmasını sağlar.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-027",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisi kamu görevlisinin hakları arasında değerlendirilebilir?",
+    "options": [
+      "İzin hakkı",
+      "Kamu malını kişisel amaçla kullanma",
+      "Göreve keyfi gelmeme",
+      "Tarafsızlığı bozma"
+    ],
+    "answer": "İzin hakkı",
+    "answerLetter": "A",
+    "explanation": "İzin hakkı kamu personel sisteminde temel haklardandır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-028",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Orta",
+    "question": "Mali haklar neye dayanmalıdır?",
+    "options": [
+      "Kişisel isteğe",
+      "Sözlü söylentiye",
+      "Sosyal medya yorumuna",
+      "Yasal düzenlemelere"
+    ],
+    "answer": "Yasal düzenlemelere",
+    "answerLetter": "D",
+    "explanation": "Mali haklar yasal esaslara göre belirlenir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-029",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Orta",
+    "question": "Hakların kullanımı için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Amirin bilgisi olmadan her zaman kullanılabilir",
+      "Kamu hizmetini dikkate almaz",
+      "Mevzuat çerçevesinde kullanılır",
+      "Sınırsızdır"
+    ],
+    "answer": "Mevzuat çerçevesinde kullanılır",
+    "answerLetter": "C",
+    "explanation": "Haklar yasal sınırlar içinde kullanılır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-030",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Orta",
+    "question": "Kamu görevlisinin hak ve sorumlulukları arasındaki ilişki nasıldır?",
+    "options": [
+      "Birbiriyle ilgisizdir",
+      "Denge içinde değerlendirilmelidir",
+      "Haklar var, sorumluluk yoktur",
+      "Sorumluluklar hakları tamamen kaldırır"
+    ],
+    "answer": "Denge içinde değerlendirilmelidir",
+    "answerLetter": "B",
+    "explanation": "Kamu hizmetinde hak-sorumluluk dengesi esastır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-031",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından kamu görevlisinin hakları hangi amaçla düzenlenir?",
+    "options": [
+      "Kamu hizmetini tamamen durdurmak için",
+      "Kişisel ayrıcalık sağlamak için",
+      "Sınavsız terfi için",
+      "Görevini güven içinde yapabilmesi için"
+    ],
+    "answer": "Görevini güven içinde yapabilmesi için",
+    "answerLetter": "D",
+    "explanation": "Haklar kamu görevlisinin yasal güvence içinde çalışmasını sağlar.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-032",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından aşağıdakilerden hangisi kamu görevlisinin hakları arasında değerlendirilebilir?",
+    "options": [
+      "Göreve keyfi gelmeme",
+      "Tarafsızlığı bozma",
+      "İzin hakkı",
+      "Kamu malını kişisel amaçla kullanma"
+    ],
+    "answer": "İzin hakkı",
+    "answerLetter": "C",
+    "explanation": "İzin hakkı kamu personel sisteminde temel haklardandır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-033",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından mali haklar neye dayanmalıdır?",
+    "options": [
+      "Sosyal medya yorumuna",
+      "Yasal düzenlemelere",
+      "Kişisel isteğe",
+      "Sözlü söylentiye"
+    ],
+    "answer": "Yasal düzenlemelere",
+    "answerLetter": "B",
+    "explanation": "Mali haklar yasal esaslara göre belirlenir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-034",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından hakların kullanımı için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Mevzuat çerçevesinde kullanılır",
+      "Sınırsızdır",
+      "Amirin bilgisi olmadan her zaman kullanılabilir",
+      "Kamu hizmetini dikkate almaz"
+    ],
+    "answer": "Mevzuat çerçevesinde kullanılır",
+    "answerLetter": "A",
+    "explanation": "Haklar yasal sınırlar içinde kullanılır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-035",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Haklar",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından kamu görevlisinin hak ve sorumlulukları arasındaki ilişki nasıldır?",
+    "options": [
+      "Haklar var, sorumluluk yoktur",
+      "Sorumluluklar hakları tamamen kaldırır",
+      "Birbiriyle ilgisizdir",
+      "Denge içinde değerlendirilmelidir"
+    ],
+    "answer": "Denge içinde değerlendirilmelidir",
+    "answerLetter": "D",
+    "explanation": "Kamu hizmetinde hak-sorumluluk dengesi esastır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-036",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Orta",
+    "question": "Kamu görevlisinin temel ödevi aşağıdakilerden hangisidir?",
+    "options": [
+      "Görevini kamu yararına uygun yürütmek",
+      "Kişisel çıkar sağlamak",
+      "Görevi aksatmak",
+      "Yetkisini özel işlerde kullanmak"
+    ],
+    "answer": "Görevini kamu yararına uygun yürütmek",
+    "answerLetter": "A",
+    "explanation": "Kamu görevlisi görevini kamu yararı için yapmalıdır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-037",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Orta",
+    "question": "Tarafsızlık ilkesi neyi gerektirir?",
+    "options": [
+      "Tanıdıklara ayrıcalık sağlamayı",
+      "Kişisel görüşe göre işlem yapmayı",
+      "Kamu hizmetini bırakmayı",
+      "Görevde kişilere eşit ve objektif davranmayı"
+    ],
+    "answer": "Görevde kişilere eşit ve objektif davranmayı",
+    "answerLetter": "D",
+    "explanation": "Tarafsızlık eşit ve objektif işlem yapmayı gerektirir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-038",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Orta",
+    "question": "Kamu malı için doğru davranış hangisidir?",
+    "options": [
+      "Zarar görmesine göz yummak",
+      "Başkasına devretmek",
+      "Kamu malını korumak ve amacı dışında kullanmamak",
+      "Kişisel ihtiyaç için kullanmak"
+    ],
+    "answer": "Kamu malını korumak ve amacı dışında kullanmamak",
+    "answerLetter": "C",
+    "explanation": "Kamu malı kamu hizmeti için korunmalıdır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-039",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Orta",
+    "question": "Yasal emirler konusunda kamu görevlisinin yükümlülüğü nedir?",
+    "options": [
+      "Kamu hizmetini aksatmak",
+      "Yasal emirleri yerine getirmek",
+      "Her emri sorgusuz kişisel amaçla uygulamak",
+      "Göreve hiç uymamak"
+    ],
+    "answer": "Yasal emirleri yerine getirmek",
+    "answerLetter": "B",
+    "explanation": "Yasal görev gerekleri yerine getirilmelidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-040",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Orta",
+    "question": "Göreve devam yükümlülüğü hangi başlıkla ilgilidir?",
+    "options": [
+      "Ödev ve sorumluluklar",
+      "Sadece sosyal haklar",
+      "Emeklilik töreni",
+      "Logo kullanımı"
+    ],
+    "answer": "Ödev ve sorumluluklar",
+    "answerLetter": "A",
+    "explanation": "Göreve devam kamu görevlisinin temel sorumluluklarındandır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-041",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Orta",
+    "question": "Kamu görevlisinin temel ödevi hangisidir?",
+    "options": [
+      "Görevi aksatmak",
+      "Yetkisini özel işlerde kullanmak",
+      "Görevini kamu yararına uygun yürütmek",
+      "Kişisel çıkar sağlamak"
+    ],
+    "answer": "Görevini kamu yararına uygun yürütmek",
+    "answerLetter": "C",
+    "explanation": "Kamu görevlisi görevini kamu yararı için yapmalıdır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-042",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Orta",
+    "question": "Tarafsızlık ilkesi neyi gerektirir?",
+    "options": [
+      "Kamu hizmetini bırakmayı",
+      "Görevde kişilere eşit ve objektif davranmayı",
+      "Tanıdıklara ayrıcalık sağlamayı",
+      "Kişisel görüşe göre işlem yapmayı"
+    ],
+    "answer": "Görevde kişilere eşit ve objektif davranmayı",
+    "answerLetter": "B",
+    "explanation": "Tarafsızlık eşit ve objektif işlem yapmayı gerektirir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-043",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Orta",
+    "question": "Kamu malı için doğru davranış hangisidir?",
+    "options": [
+      "Kamu malını korumak ve amacı dışında kullanmamak",
+      "Kişisel ihtiyaç için kullanmak",
+      "Zarar görmesine göz yummak",
+      "Başkasına devretmek"
+    ],
+    "answer": "Kamu malını korumak ve amacı dışında kullanmamak",
+    "answerLetter": "A",
+    "explanation": "Kamu malı kamu hizmeti için korunmalıdır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-044",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Orta",
+    "question": "Yasal emirler konusunda kamu görevlisinin yükümlülüğü nedir?",
+    "options": [
+      "Her emri sorgusuz kişisel amaçla uygulamak",
+      "Göreve hiç uymamak",
+      "Kamu hizmetini aksatmak",
+      "Yasal emirleri yerine getirmek"
+    ],
+    "answer": "Yasal emirleri yerine getirmek",
+    "answerLetter": "D",
+    "explanation": "Yasal görev gerekleri yerine getirilmelidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-045",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Orta",
+    "question": "Göreve devam yükümlülüğü hangi başlıkla ilgilidir?",
+    "options": [
+      "Emeklilik töreni",
+      "Logo kullanımı",
+      "Ödev ve sorumluluklar",
+      "Sadece sosyal haklar"
+    ],
+    "answer": "Ödev ve sorumluluklar",
+    "answerLetter": "C",
+    "explanation": "Göreve devam kamu görevlisinin temel sorumluluklarındandır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-046",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından kamu görevlisinin temel ödevi aşağıdakilerden hangisidir?",
+    "options": [
+      "Görevini kamu yararına uygun yürütmek",
+      "Kişisel çıkar sağlamak",
+      "Görevi aksatmak",
+      "Yetkisini özel işlerde kullanmak"
+    ],
+    "answer": "Görevini kamu yararına uygun yürütmek",
+    "answerLetter": "A",
+    "explanation": "Kamu görevlisi görevini kamu yararı için yapmalıdır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-047",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından tarafsızlık ilkesi neyi gerektirir?",
+    "options": [
+      "Tanıdıklara ayrıcalık sağlamayı",
+      "Kişisel görüşe göre işlem yapmayı",
+      "Kamu hizmetini bırakmayı",
+      "Görevde kişilere eşit ve objektif davranmayı"
+    ],
+    "answer": "Görevde kişilere eşit ve objektif davranmayı",
+    "answerLetter": "D",
+    "explanation": "Tarafsızlık eşit ve objektif işlem yapmayı gerektirir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-048",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından kamu malı için doğru davranış hangisidir?",
+    "options": [
+      "Zarar görmesine göz yummak",
+      "Başkasına devretmek",
+      "Kamu malını korumak ve amacı dışında kullanmamak",
+      "Kişisel ihtiyaç için kullanmak"
+    ],
+    "answer": "Kamu malını korumak ve amacı dışında kullanmamak",
+    "answerLetter": "C",
+    "explanation": "Kamu malı kamu hizmeti için korunmalıdır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-049",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından yasal emirler konusunda kamu görevlisinin yükümlülüğü nedir?",
+    "options": [
+      "Kamu hizmetini aksatmak",
+      "Yasal emirleri yerine getirmek",
+      "Her emri sorgusuz kişisel amaçla uygulamak",
+      "Göreve hiç uymamak"
+    ],
+    "answer": "Yasal emirleri yerine getirmek",
+    "answerLetter": "B",
+    "explanation": "Yasal görev gerekleri yerine getirilmelidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-050",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Ödevler ve Sorumluluklar",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından göreve devam yükümlülüğü hangi başlıkla ilgilidir?",
+    "options": [
+      "Ödev ve sorumluluklar",
+      "Sadece sosyal haklar",
+      "Emeklilik töreni",
+      "Logo kullanımı"
+    ],
+    "answer": "Ödev ve sorumluluklar",
+    "answerLetter": "A",
+    "explanation": "Göreve devam kamu görevlisinin temel sorumluluklarındandır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-051",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Hizmet Sınıfları ve Kadrolar",
+    "difficulty": "Orta",
+    "question": "Hizmet sınıfları hangi amaca hizmet eder?",
+    "options": [
+      "Emekliliği iptal etmeye",
+      "Benzer görevleri gruplandırmaya",
+      "Tüm görevleri kaldırmaya",
+      "Sadece izinleri artırmaya"
+    ],
+    "answer": "Benzer görevleri gruplandırmaya",
+    "answerLetter": "B",
+    "explanation": "Hizmet sınıfları personel sisteminde düzen sağlar.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-052",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Hizmet Sınıfları ve Kadrolar",
+    "difficulty": "Orta",
+    "question": "Kadro olmadan personel sisteminde hangi sorun doğar?",
+    "options": [
+      "Görev ve unvan belirsizliği",
+      "Her şey daha düzenli olur",
+      "Sınavlar tamamen kalkar",
+      "Kanun gereksiz olur"
+    ],
+    "answer": "Görev ve unvan belirsizliği",
+    "answerLetter": "A",
+    "explanation": "Kadro görev yerini ve unvanı belirler.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-053",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Hizmet Sınıfları ve Kadrolar",
+    "difficulty": "Orta",
+    "question": "Kadro, en çok hangi işlemlerde önem taşır?",
+    "options": [
+      "Sadece tatil planı",
+      "Sadece yemek listesi",
+      "Sadece bina boyası",
+      "Atama, terfi ve görev dağılımı"
+    ],
+    "answer": "Atama, terfi ve görev dağılımı",
+    "answerLetter": "D",
+    "explanation": "Kadro personel hareketlerinde temel unsurdur.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-054",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Hizmet Sınıfları ve Kadrolar",
+    "difficulty": "Orta",
+    "question": "Hizmet sınıfı kavramı neyi ifade eder?",
+    "options": [
+      "Sadece maaş bordrosunu",
+      "Disiplin cezası adını",
+      "Benzer nitelikteki kamu görevlerinin gruplandırılmasını",
+      "Kişisel izin belgesini"
+    ],
+    "answer": "Benzer nitelikteki kamu görevlerinin gruplandırılmasını",
+    "answerLetter": "C",
+    "explanation": "Hizmet sınıfları görev türlerini gruplandırır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-055",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Hizmet Sınıfları ve Kadrolar",
+    "difficulty": "Orta",
+    "question": "Kadro ve hizmet sınıfı için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Kanun dışı kavramlardır",
+      "Personel yönetiminde düzen sağlar",
+      "Aynı şey değildir ama ilişkilidir",
+      "Sadece özel sektörde kullanılır"
+    ],
+    "answer": "Personel yönetiminde düzen sağlar",
+    "answerLetter": "B",
+    "explanation": "Kadro ve hizmet sınıfı kamu personel sisteminin temelidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-056",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Hizmet Sınıfları ve Kadrolar",
+    "difficulty": "Orta",
+    "question": "Hizmet sınıfları hangi amaca hizmet eder?",
+    "options": [
+      "Tüm görevleri kaldırmaya",
+      "Sadece izinleri artırmaya",
+      "Emekliliği iptal etmeye",
+      "Benzer görevleri gruplandırmaya"
+    ],
+    "answer": "Benzer görevleri gruplandırmaya",
+    "answerLetter": "D",
+    "explanation": "Hizmet sınıfları personel sisteminde düzen sağlar.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-057",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Hizmet Sınıfları ve Kadrolar",
+    "difficulty": "Orta",
+    "question": "Kadro olmadan personel sisteminde hangi sorun doğar?",
+    "options": [
+      "Sınavlar tamamen kalkar",
+      "Kanun gereksiz olur",
+      "Görev ve unvan belirsizliği",
+      "Her şey daha düzenli olur"
+    ],
+    "answer": "Görev ve unvan belirsizliği",
+    "answerLetter": "C",
+    "explanation": "Kadro görev yerini ve unvanı belirler.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-058",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Hizmet Sınıfları ve Kadrolar",
+    "difficulty": "Orta",
+    "question": "Kadro, en çok hangi işlemlerde önem taşır?",
+    "options": [
+      "Sadece bina boyası",
+      "Atama, terfi ve görev dağılımı",
+      "Sadece tatil planı",
+      "Sadece yemek listesi"
+    ],
+    "answer": "Atama, terfi ve görev dağılımı",
+    "answerLetter": "B",
+    "explanation": "Kadro personel hareketlerinde temel unsurdur.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-059",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Hizmet Sınıfları ve Kadrolar",
+    "difficulty": "Orta",
+    "question": "Hizmet sınıfı kavramı neyi ifade eder?",
+    "options": [
+      "Benzer nitelikteki kamu görevlerinin gruplandırılmasını",
+      "Kişisel izin belgesini",
+      "Sadece maaş bordrosunu",
+      "Disiplin cezası adını"
+    ],
+    "answer": "Benzer nitelikteki kamu görevlerinin gruplandırılmasını",
+    "answerLetter": "A",
+    "explanation": "Hizmet sınıfları görev türlerini gruplandırır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-060",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Hizmet Sınıfları ve Kadrolar",
+    "difficulty": "Orta",
+    "question": "Kadro ve hizmet sınıfı için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Aynı şey değildir ama ilişkilidir",
+      "Sadece özel sektörde kullanılır",
+      "Kanun dışı kavramlardır",
+      "Personel yönetiminde düzen sağlar"
+    ],
+    "answer": "Personel yönetiminde düzen sağlar",
+    "answerLetter": "D",
+    "explanation": "Kadro ve hizmet sınıfı kamu personel sisteminin temelidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-061",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Orta",
+    "question": "Kamu görevine atanma neye bağlıdır?",
+    "options": [
+      "Sadece kişinin isteğine",
+      "Hiçbir koşula bağlı olmamaya",
+      "Sosyal medya beğenisine",
+      "Yasada belirtilen şartları taşımaya"
+    ],
+    "answer": "Yasada belirtilen şartları taşımaya",
+    "answerLetter": "D",
+    "explanation": "Atama yasal şartlara göre yapılır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-062",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Orta",
+    "question": "Adaylık sürecinin amacı nedir?",
+    "options": [
+      "İzni sınırsız yapmak",
+      "Görevi tamamen kaldırmak",
+      "Göreve uyum sağlamak ve yeterliliği görmek",
+      "Emekliliği başlatmak"
+    ],
+    "answer": "Göreve uyum sağlamak ve yeterliliği görmek",
+    "answerLetter": "C",
+    "explanation": "Adaylık kamu hizmetine uyum dönemidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-063",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Orta",
+    "question": "Adaylık tamamlandığında hangi işlem gündeme gelebilir?",
+    "options": [
+      "Süresiz izin",
+      "Asaleten atanma",
+      "Otomatik emeklilik",
+      "Kadro iptali"
+    ],
+    "answer": "Asaleten atanma",
+    "answerLetter": "B",
+    "explanation": "Adaylık olumlu tamamlanırsa asaleten atanma olabilir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-064",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Orta",
+    "question": "Aday memur için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Henüz geçiş sürecindedir",
+      "Hiçbir yükümlülüğü yoktur",
+      "Her zaman emeklidir",
+      "Kamu görevlisi sayılmaz"
+    ],
+    "answer": "Henüz geçiş sürecindedir",
+    "answerLetter": "A",
+    "explanation": "Adaylık geçiş sürecidir ancak görev yükümlülükleri vardır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-065",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Orta",
+    "question": "Atanma işlemlerinde genel ve özel şartlar neden önemlidir?",
+    "options": [
+      "Sadece kağıt doldurmak için",
+      "Sınavları iptal etmek için",
+      "Görevi gizlemek için",
+      "Göreve uygunluğu belirlemek için"
+    ],
+    "answer": "Göreve uygunluğu belirlemek için",
+    "answerLetter": "D",
+    "explanation": "Atanma şartları göreve uygunluğu sağlar.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-066",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Orta",
+    "question": "Kamu görevine atanma neye bağlıdır?",
+    "options": [
+      "Sosyal medya beğenisine",
+      "Yasada belirtilen şartları taşımaya",
+      "Sadece kişinin isteğine",
+      "Hiçbir koşula bağlı olmamaya"
+    ],
+    "answer": "Yasada belirtilen şartları taşımaya",
+    "answerLetter": "B",
+    "explanation": "Atama yasal şartlara göre yapılır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-067",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Orta",
+    "question": "Adaylık sürecinin amacı nedir?",
+    "options": [
+      "Göreve uyum sağlamak ve yeterliliği görmek",
+      "Emekliliği başlatmak",
+      "İzni sınırsız yapmak",
+      "Görevi tamamen kaldırmak"
+    ],
+    "answer": "Göreve uyum sağlamak ve yeterliliği görmek",
+    "answerLetter": "A",
+    "explanation": "Adaylık kamu hizmetine uyum dönemidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-068",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Orta",
+    "question": "Adaylık tamamlandığında hangi işlem gündeme gelebilir?",
+    "options": [
+      "Otomatik emeklilik",
+      "Kadro iptali",
+      "Süresiz izin",
+      "Asaleten atanma"
+    ],
+    "answer": "Asaleten atanma",
+    "answerLetter": "D",
+    "explanation": "Adaylık olumlu tamamlanırsa asaleten atanma olabilir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-069",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Orta",
+    "question": "Aday memur için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Her zaman emeklidir",
+      "Kamu görevlisi sayılmaz",
+      "Henüz geçiş sürecindedir",
+      "Hiçbir yükümlülüğü yoktur"
+    ],
+    "answer": "Henüz geçiş sürecindedir",
+    "answerLetter": "C",
+    "explanation": "Adaylık geçiş sürecidir ancak görev yükümlülükleri vardır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-070",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Orta",
+    "question": "Atanma işlemlerinde genel ve özel şartlar neden önemlidir?",
+    "options": [
+      "Görevi gizlemek için",
+      "Göreve uygunluğu belirlemek için",
+      "Sadece kağıt doldurmak için",
+      "Sınavları iptal etmek için"
+    ],
+    "answer": "Göreve uygunluğu belirlemek için",
+    "answerLetter": "B",
+    "explanation": "Atanma şartları göreve uygunluğu sağlar.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-071",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından kamu görevine atanma neye bağlıdır?",
+    "options": [
+      "Sadece kişinin isteğine",
+      "Hiçbir koşula bağlı olmamaya",
+      "Sosyal medya beğenisine",
+      "Yasada belirtilen şartları taşımaya"
+    ],
+    "answer": "Yasada belirtilen şartları taşımaya",
+    "answerLetter": "D",
+    "explanation": "Atama yasal şartlara göre yapılır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-072",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından adaylık sürecinin amacı nedir?",
+    "options": [
+      "İzni sınırsız yapmak",
+      "Görevi tamamen kaldırmak",
+      "Göreve uyum sağlamak ve yeterliliği görmek",
+      "Emekliliği başlatmak"
+    ],
+    "answer": "Göreve uyum sağlamak ve yeterliliği görmek",
+    "answerLetter": "C",
+    "explanation": "Adaylık kamu hizmetine uyum dönemidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-073",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından adaylık tamamlandığında hangi işlem gündeme gelebilir?",
+    "options": [
+      "Süresiz izin",
+      "Asaleten atanma",
+      "Otomatik emeklilik",
+      "Kadro iptali"
+    ],
+    "answer": "Asaleten atanma",
+    "answerLetter": "B",
+    "explanation": "Adaylık olumlu tamamlanırsa asaleten atanma olabilir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-074",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından aday memur için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Henüz geçiş sürecindedir",
+      "Hiçbir yükümlülüğü yoktur",
+      "Her zaman emeklidir",
+      "Kamu görevlisi sayılmaz"
+    ],
+    "answer": "Henüz geçiş sürecindedir",
+    "answerLetter": "A",
+    "explanation": "Adaylık geçiş sürecidir ancak görev yükümlülükleri vardır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-075",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Atanma ve Adaylık",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından atanma işlemlerinde genel ve özel şartlar neden önemlidir?",
+    "options": [
+      "Sadece kağıt doldurmak için",
+      "Sınavları iptal etmek için",
+      "Görevi gizlemek için",
+      "Göreve uygunluğu belirlemek için"
+    ],
+    "answer": "Göreve uygunluğu belirlemek için",
+    "answerLetter": "D",
+    "explanation": "Atanma şartları göreve uygunluğu sağlar.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-076",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Orta",
+    "question": "Kademe ilerlemesi neyi ifade eder?",
+    "options": [
+      "Derece içindeki ilerlemeyi",
+      "Görevden uzaklaştırmayı",
+      "Emekliliği",
+      "Disiplin kurulunu"
+    ],
+    "answer": "Derece içindeki ilerlemeyi",
+    "answerLetter": "A",
+    "explanation": "Kademe derece içindeki ilerleme basamağıdır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-077",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Orta",
+    "question": "Derece yükselmesi için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Aynı şeydir",
+      "Sadece izin türüdür",
+      "Sadece ceza türüdür",
+      "Kademe ilerlemesinden farklıdır"
+    ],
+    "answer": "Kademe ilerlemesinden farklıdır",
+    "answerLetter": "D",
+    "explanation": "Derece ve kademe farklı kavramlardır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-078",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Orta",
+    "question": "Terfi ne anlama gelir?",
+    "options": [
+      "İzinsiz devamsızlık",
+      "Disiplin cezası alma",
+      "Daha ileri statü veya göreve yükselme",
+      "Görevden ayrılma"
+    ],
+    "answer": "Daha ileri statü veya göreve yükselme",
+    "answerLetter": "C",
+    "explanation": "Terfi kamu görevlisinin yükselmesiyle ilgilidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-079",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Orta",
+    "question": "Terfi için hangi unsur etkili olabilir?",
+    "options": [
+      "Kamu malını zarar vermek",
+      "Hizmet süresi ve koşulların sağlanması",
+      "Kişisel söylenti",
+      "Göreve gelmemek"
+    ],
+    "answer": "Hizmet süresi ve koşulların sağlanması",
+    "answerLetter": "B",
+    "explanation": "Terfi yasal şartların oluşmasına bağlıdır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-080",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Orta",
+    "question": "Disiplin durumu ilerleme üzerinde nasıl etki yapabilir?",
+    "options": [
+      "Olumsuz disiplin durumu ilerlemeyi etkileyebilir",
+      "Hiçbir zaman etkilemez",
+      "Sadece maaşı artırır",
+      "Sadece izin verir"
+    ],
+    "answer": "Olumsuz disiplin durumu ilerlemeyi etkileyebilir",
+    "answerLetter": "A",
+    "explanation": "Disiplin durumu personel ilerlemesinde önemlidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-081",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Orta",
+    "question": "Kademe ilerlemesi neyi ifade eder?",
+    "options": [
+      "Emekliliği",
+      "Disiplin kurulunu",
+      "Derece içindeki ilerlemeyi",
+      "Görevden uzaklaştırmayı"
+    ],
+    "answer": "Derece içindeki ilerlemeyi",
+    "answerLetter": "C",
+    "explanation": "Kademe derece içindeki ilerleme basamağıdır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-082",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Orta",
+    "question": "Derece yükselmesi için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Sadece ceza türüdür",
+      "Kademe ilerlemesinden farklıdır",
+      "Aynı şeydir",
+      "Sadece izin türüdür"
+    ],
+    "answer": "Kademe ilerlemesinden farklıdır",
+    "answerLetter": "B",
+    "explanation": "Derece ve kademe farklı kavramlardır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-083",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Orta",
+    "question": "Terfi ne anlama gelir?",
+    "options": [
+      "Daha ileri statü veya göreve yükselme",
+      "Görevden ayrılma",
+      "İzinsiz devamsızlık",
+      "Disiplin cezası alma"
+    ],
+    "answer": "Daha ileri statü veya göreve yükselme",
+    "answerLetter": "A",
+    "explanation": "Terfi kamu görevlisinin yükselmesiyle ilgilidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-084",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Orta",
+    "question": "Terfi için hangi unsur etkili olabilir?",
+    "options": [
+      "Kişisel söylenti",
+      "Göreve gelmemek",
+      "Kamu malını zarar vermek",
+      "Hizmet süresi ve koşulların sağlanması"
+    ],
+    "answer": "Hizmet süresi ve koşulların sağlanması",
+    "answerLetter": "D",
+    "explanation": "Terfi yasal şartların oluşmasına bağlıdır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-085",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Orta",
+    "question": "Disiplin durumu ilerleme üzerinde nasıl etki yapabilir?",
+    "options": [
+      "Sadece maaşı artırır",
+      "Sadece izin verir",
+      "Olumsuz disiplin durumu ilerlemeyi etkileyebilir",
+      "Hiçbir zaman etkilemez"
+    ],
+    "answer": "Olumsuz disiplin durumu ilerlemeyi etkileyebilir",
+    "answerLetter": "C",
+    "explanation": "Disiplin durumu personel ilerlemesinde önemlidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-086",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından kademe ilerlemesi neyi ifade eder?",
+    "options": [
+      "Derece içindeki ilerlemeyi",
+      "Görevden uzaklaştırmayı",
+      "Emekliliği",
+      "Disiplin kurulunu"
+    ],
+    "answer": "Derece içindeki ilerlemeyi",
+    "answerLetter": "A",
+    "explanation": "Kademe derece içindeki ilerleme basamağıdır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-087",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından derece yükselmesi için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Aynı şeydir",
+      "Sadece izin türüdür",
+      "Sadece ceza türüdür",
+      "Kademe ilerlemesinden farklıdır"
+    ],
+    "answer": "Kademe ilerlemesinden farklıdır",
+    "answerLetter": "D",
+    "explanation": "Derece ve kademe farklı kavramlardır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-088",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından terfi ne anlama gelir?",
+    "options": [
+      "İzinsiz devamsızlık",
+      "Disiplin cezası alma",
+      "Daha ileri statü veya göreve yükselme",
+      "Görevden ayrılma"
+    ],
+    "answer": "Daha ileri statü veya göreve yükselme",
+    "answerLetter": "C",
+    "explanation": "Terfi kamu görevlisinin yükselmesiyle ilgilidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-089",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından terfi için hangi unsur etkili olabilir?",
+    "options": [
+      "Kamu malını zarar vermek",
+      "Hizmet süresi ve koşulların sağlanması",
+      "Kişisel söylenti",
+      "Göreve gelmemek"
+    ],
+    "answer": "Hizmet süresi ve koşulların sağlanması",
+    "answerLetter": "B",
+    "explanation": "Terfi yasal şartların oluşmasına bağlıdır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-090",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Derece, Kademe ve Terfi",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından disiplin durumu ilerleme üzerinde nasıl etki yapabilir?",
+    "options": [
+      "Olumsuz disiplin durumu ilerlemeyi etkileyebilir",
+      "Hiçbir zaman etkilemez",
+      "Sadece maaşı artırır",
+      "Sadece izin verir"
+    ],
+    "answer": "Olumsuz disiplin durumu ilerlemeyi etkileyebilir",
+    "answerLetter": "A",
+    "explanation": "Disiplin durumu personel ilerlemesinde önemlidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-091",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Orta",
+    "question": "İzin hakkının temel amacı nedir?",
+    "options": [
+      "Disiplin cezası vermek",
+      "Görevden yasal ve geçici ayrılmayı düzenlemek",
+      "Görevi tamamen bırakmak",
+      "Kamu hizmetini durdurmak"
+    ],
+    "answer": "Görevden yasal ve geçici ayrılmayı düzenlemek",
+    "answerLetter": "B",
+    "explanation": "İzin yasal ve geçici ayrılma halidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-092",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Orta",
+    "question": "İzin kullanırken hangi husus dikkate alınır?",
+    "options": [
+      "Kamu hizmetinin aksatılmaması",
+      "Kişisel keyfilik",
+      "Sınırsız süre",
+      "Her zaman sözlü talep"
+    ],
+    "answer": "Kamu hizmetinin aksatılmaması",
+    "answerLetter": "A",
+    "explanation": "İzin kamu hizmetinin sürekliliği gözetilerek kullanılır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-093",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisi izin türlerine örnek olabilir?",
+    "options": [
+      "Kadro cezası",
+      "Terfi iptali",
+      "Görevden çıkarma",
+      "Hastalık izni"
+    ],
+    "answer": "Hastalık izni",
+    "answerLetter": "D",
+    "explanation": "Hastalık izni bir izin türüdür.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-094",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Orta",
+    "question": "İzinsiz göreve gelmeme hangi alanla ilişkilidir?",
+    "options": [
+      "Terfi hakkı",
+      "Sınırsız hak",
+      "Disiplin ve görev sorumluluğu",
+      "Sadece ödül"
+    ],
+    "answer": "Disiplin ve görev sorumluluğu",
+    "answerLetter": "C",
+    "explanation": "İzinsiz devamsızlık disiplin sonucu doğurabilir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-095",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Orta",
+    "question": "İzin süreleri ve türleri nasıl belirlenir?",
+    "options": [
+      "Rastgele",
+      "Yasa ve ilgili mevzuatla",
+      "Kişisel tahminle",
+      "Sosyal medya ile"
+    ],
+    "answer": "Yasa ve ilgili mevzuatla",
+    "answerLetter": "B",
+    "explanation": "İzinler mevzuata göre belirlenir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-096",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Orta",
+    "question": "İzin hakkının temel amacı nedir?",
+    "options": [
+      "Görevi tamamen bırakmak",
+      "Kamu hizmetini durdurmak",
+      "Disiplin cezası vermek",
+      "Görevden yasal ve geçici ayrılmayı düzenlemek"
+    ],
+    "answer": "Görevden yasal ve geçici ayrılmayı düzenlemek",
+    "answerLetter": "D",
+    "explanation": "İzin yasal ve geçici ayrılma halidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-097",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Orta",
+    "question": "İzin kullanırken hangi husus dikkate alınır?",
+    "options": [
+      "Sınırsız süre",
+      "Her zaman sözlü talep",
+      "Kamu hizmetinin aksatılmaması",
+      "Kişisel keyfilik"
+    ],
+    "answer": "Kamu hizmetinin aksatılmaması",
+    "answerLetter": "C",
+    "explanation": "İzin kamu hizmetinin sürekliliği gözetilerek kullanılır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-098",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisi izin türlerine örnek olabilir?",
+    "options": [
+      "Görevden çıkarma",
+      "Hastalık izni",
+      "Kadro cezası",
+      "Terfi iptali"
+    ],
+    "answer": "Hastalık izni",
+    "answerLetter": "B",
+    "explanation": "Hastalık izni bir izin türüdür.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-099",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Orta",
+    "question": "İzinsiz göreve gelmeme hangi alanla ilişkilidir?",
+    "options": [
+      "Disiplin ve görev sorumluluğu",
+      "Sadece ödül",
+      "Terfi hakkı",
+      "Sınırsız hak"
+    ],
+    "answer": "Disiplin ve görev sorumluluğu",
+    "answerLetter": "A",
+    "explanation": "İzinsiz devamsızlık disiplin sonucu doğurabilir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-100",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Orta",
+    "question": "İzin süreleri ve türleri nasıl belirlenir?",
+    "options": [
+      "Kişisel tahminle",
+      "Sosyal medya ile",
+      "Rastgele",
+      "Yasa ve ilgili mevzuatla"
+    ],
+    "answer": "Yasa ve ilgili mevzuatla",
+    "answerLetter": "D",
+    "explanation": "İzinler mevzuata göre belirlenir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-101",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından i̇zin hakkının temel amacı nedir?",
+    "options": [
+      "Disiplin cezası vermek",
+      "Görevden yasal ve geçici ayrılmayı düzenlemek",
+      "Görevi tamamen bırakmak",
+      "Kamu hizmetini durdurmak"
+    ],
+    "answer": "Görevden yasal ve geçici ayrılmayı düzenlemek",
+    "answerLetter": "B",
+    "explanation": "İzin yasal ve geçici ayrılma halidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-102",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından i̇zin kullanırken hangi husus dikkate alınır?",
+    "options": [
+      "Kamu hizmetinin aksatılmaması",
+      "Kişisel keyfilik",
+      "Sınırsız süre",
+      "Her zaman sözlü talep"
+    ],
+    "answer": "Kamu hizmetinin aksatılmaması",
+    "answerLetter": "A",
+    "explanation": "İzin kamu hizmetinin sürekliliği gözetilerek kullanılır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-103",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından aşağıdakilerden hangisi izin türlerine örnek olabilir?",
+    "options": [
+      "Kadro cezası",
+      "Terfi iptali",
+      "Görevden çıkarma",
+      "Hastalık izni"
+    ],
+    "answer": "Hastalık izni",
+    "answerLetter": "D",
+    "explanation": "Hastalık izni bir izin türüdür.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-104",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından i̇zinsiz göreve gelmeme hangi alanla ilişkilidir?",
+    "options": [
+      "Terfi hakkı",
+      "Sınırsız hak",
+      "Disiplin ve görev sorumluluğu",
+      "Sadece ödül"
+    ],
+    "answer": "Disiplin ve görev sorumluluğu",
+    "answerLetter": "C",
+    "explanation": "İzinsiz devamsızlık disiplin sonucu doğurabilir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-105",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "İzinler",
+    "difficulty": "Orta",
+    "question": "Kamu Yasası bakımından i̇zin süreleri ve türleri nasıl belirlenir?",
+    "options": [
+      "Rastgele",
+      "Yasa ve ilgili mevzuatla",
+      "Kişisel tahminle",
+      "Sosyal medya ile"
+    ],
+    "answer": "Yasa ve ilgili mevzuatla",
+    "answerLetter": "B",
+    "explanation": "İzinler mevzuata göre belirlenir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-106",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Disiplin hükümlerinin amacı nedir?",
+    "options": [
+      "Kişisel çıkar sağlamak",
+      "Terfiyi otomatik yapmak",
+      "Kamu hizmetinde düzeni korumak",
+      "Kamu hizmetini kaldırmak"
+    ],
+    "answer": "Kamu hizmetinde düzeni korumak",
+    "answerLetter": "C",
+    "explanation": "Disiplin kamu hizmetinin düzenini korur.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-107",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Disiplin cezası ne zaman gündeme gelir?",
+    "options": [
+      "Her terfide",
+      "Görev ve sorumluluklara aykırı davranışta",
+      "Her başarılı işlemde",
+      "Her izin kullanımında"
+    ],
+    "answer": "Görev ve sorumluluklara aykırı davranışta",
+    "answerLetter": "B",
+    "explanation": "Aykırı davranış disiplin sürecini doğurabilir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-108",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Disiplin cezasının türü neye göre değişir?",
+    "options": [
+      "Fiilin ağırlığına göre",
+      "Kişinin isteğine göre",
+      "Rastgele",
+      "Logo rengine göre"
+    ],
+    "answer": "Fiilin ağırlığına göre",
+    "answerLetter": "A",
+    "explanation": "Fiilin ağırlığı yaptırımı etkiler.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-109",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Disiplin sürecinde savunma hakkı için hangisi doğrudur?",
+    "options": [
+      "Gereksizdir",
+      "Her zaman yasaktır",
+      "Sadece ödül için kullanılır",
+      "Önemli bir güvencedir"
+    ],
+    "answer": "Önemli bir güvencedir",
+    "answerLetter": "D",
+    "explanation": "Savunma hakkı disiplin sürecinde temel güvencelerdendir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-110",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Disiplin cezasında ölçülülük neyi ifade eder?",
+    "options": [
+      "Hiç ceza verilmemesini",
+      "Cezanın rastgele seçilmesini",
+      "Ceza ile fiil arasında uygunluk olmasını",
+      "Her fiile en ağır ceza verilmesini"
+    ],
+    "answer": "Ceza ile fiil arasında uygunluk olmasını",
+    "answerLetter": "C",
+    "explanation": "Ölçülülük fiil ve ceza arasında denge gerektirir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-111",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Görevini ihmal eden kamu görevlisi hangi alanla karşılaşabilir?",
+    "options": [
+      "Sınırsız izin",
+      "Disiplin hükümleri",
+      "Sadece ödül",
+      "Otomatik terfi"
+    ],
+    "answer": "Disiplin hükümleri",
+    "answerLetter": "B",
+    "explanation": "Görev ihmali disiplin sorumluluğu doğurabilir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-112",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Tarafsızlık ilkesine aykırı davranış hangi sonucu doğurabilir?",
+    "options": [
+      "Disiplin yönünden değerlendirme",
+      "Her zaman ödül",
+      "Otomatik emeklilik",
+      "Kadro artışı"
+    ],
+    "answer": "Disiplin yönünden değerlendirme",
+    "answerLetter": "A",
+    "explanation": "Tarafsızlık ihlali disiplin konusu olabilir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-113",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Disiplin hükümlerinin sadece cezalandırma amacı mı vardır?",
+    "options": [
+      "Evet, başka amacı yoktur",
+      "Hayır, sadece maaş artırır",
+      "Evet, sadece izin verir",
+      "Hayır, kamu hizmetinin güvenini de korur"
+    ],
+    "answer": "Hayır, kamu hizmetinin güvenini de korur",
+    "answerLetter": "D",
+    "explanation": "Disiplin düzen ve güveni korumayı amaçlar.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-114",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Disiplin sürecinde yetkili makam neden önemlidir?",
+    "options": [
+      "Sınav yapmak için",
+      "Logo seçmek için",
+      "İşlemin usule uygun olması için",
+      "Keyfi karar için"
+    ],
+    "answer": "İşlemin usule uygun olması için",
+    "answerLetter": "C",
+    "explanation": "Disiplin işlemi yetkili makamca yürütülmelidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-115",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Disiplin hükümlerinin amacı nedir?",
+    "options": [
+      "Kamu hizmetinde düzeni korumak",
+      "Kamu hizmetini kaldırmak",
+      "Kişisel çıkar sağlamak",
+      "Terfiyi otomatik yapmak"
+    ],
+    "answer": "Kamu hizmetinde düzeni korumak",
+    "answerLetter": "A",
+    "explanation": "Disiplin kamu hizmetinin düzenini korur.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-116",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Disiplin cezası ne zaman gündeme gelir?",
+    "options": [
+      "Her başarılı işlemde",
+      "Her izin kullanımında",
+      "Her terfide",
+      "Görev ve sorumluluklara aykırı davranışta"
+    ],
+    "answer": "Görev ve sorumluluklara aykırı davranışta",
+    "answerLetter": "D",
+    "explanation": "Aykırı davranış disiplin sürecini doğurabilir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-117",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Disiplin cezasının türü hangi esasa göre değişir?",
+    "options": [
+      "Rastgele",
+      "Logo rengine göre",
+      "Fiilin ağırlığına göre",
+      "Kişinin isteğine göre"
+    ],
+    "answer": "Fiilin ağırlığına göre",
+    "answerLetter": "C",
+    "explanation": "Fiilin ağırlığı yaptırımı etkiler.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-118",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Disiplin sürecinde savunma hakkı için hangisi doğrudur?",
+    "options": [
+      "Sadece ödül için kullanılır",
+      "Önemli bir güvencedir",
+      "Gereksizdir",
+      "Her zaman yasaktır"
+    ],
+    "answer": "Önemli bir güvencedir",
+    "answerLetter": "B",
+    "explanation": "Savunma hakkı disiplin sürecinde temel güvencelerdendir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-119",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Disiplin cezasında ölçülülük neyi ifade eder?",
+    "options": [
+      "Ceza ile fiil arasında uygunluk olmasını",
+      "Her fiile en ağır ceza verilmesini",
+      "Hiç ceza verilmemesini",
+      "Cezanın rastgele seçilmesini"
+    ],
+    "answer": "Ceza ile fiil arasında uygunluk olmasını",
+    "answerLetter": "A",
+    "explanation": "Ölçülülük fiil ve ceza arasında denge gerektirir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-120",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Görevini ihmal eden kamu görevlisi hangi alanla karşılaşabilir?",
+    "options": [
+      "Sadece ödül",
+      "Otomatik terfi",
+      "Sınırsız izin",
+      "Disiplin hükümleri"
+    ],
+    "answer": "Disiplin hükümleri",
+    "answerLetter": "D",
+    "explanation": "Görev ihmali disiplin sorumluluğu doğurabilir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-121",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Tarafsızlık ilkesine aykırı davranış hangi sonucu doğurabilir?",
+    "options": [
+      "Otomatik emeklilik",
+      "Kadro artışı",
+      "Disiplin yönünden değerlendirme",
+      "Her zaman ödül"
+    ],
+    "answer": "Disiplin yönünden değerlendirme",
+    "answerLetter": "C",
+    "explanation": "Tarafsızlık ihlali disiplin konusu olabilir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-122",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Disiplin hükümlerinin sadece cezalandırma amacı mı vardır?",
+    "options": [
+      "Evet, sadece izin verir",
+      "Hayır, kamu hizmetinin güvenini de korur",
+      "Evet, başka amacı yoktur",
+      "Hayır, sadece maaş artırır"
+    ],
+    "answer": "Hayır, kamu hizmetinin güvenini de korur",
+    "answerLetter": "B",
+    "explanation": "Disiplin düzen ve güveni korumayı amaçlar.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-123",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Disiplin sürecinde yetkili makam neden önemlidir?",
+    "options": [
+      "İşlemin usule uygun olması için",
+      "Keyfi karar için",
+      "Sınav yapmak için",
+      "Logo seçmek için"
+    ],
+    "answer": "İşlemin usule uygun olması için",
+    "answerLetter": "A",
+    "explanation": "Disiplin işlemi yetkili makamca yürütülmelidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-124",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Kamu Yasası bakımından disiplin hükümlerinin amacı nedir?",
+    "options": [
+      "Kişisel çıkar sağlamak",
+      "Terfiyi otomatik yapmak",
+      "Kamu hizmetinde düzeni korumak",
+      "Kamu hizmetini kaldırmak"
+    ],
+    "answer": "Kamu hizmetinde düzeni korumak",
+    "answerLetter": "C",
+    "explanation": "Disiplin kamu hizmetinin düzenini korur.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-125",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Kamu Yasası bakımından disiplin cezası ne zaman gündeme gelir?",
+    "options": [
+      "Her terfide",
+      "Görev ve sorumluluklara aykırı davranışta",
+      "Her başarılı işlemde",
+      "Her izin kullanımında"
+    ],
+    "answer": "Görev ve sorumluluklara aykırı davranışta",
+    "answerLetter": "B",
+    "explanation": "Aykırı davranış disiplin sürecini doğurabilir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-126",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Kamu Yasası bakımından disiplin cezasının türü neye göre değişir?",
+    "options": [
+      "Fiilin ağırlığına göre",
+      "Kişinin isteğine göre",
+      "Rastgele",
+      "Logo rengine göre"
+    ],
+    "answer": "Fiilin ağırlığına göre",
+    "answerLetter": "A",
+    "explanation": "Fiilin ağırlığı yaptırımı etkiler.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-127",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Kamu Yasası bakımından disiplin sürecinde savunma hakkı için hangisi doğrudur?",
+    "options": [
+      "Gereksizdir",
+      "Her zaman yasaktır",
+      "Sadece ödül için kullanılır",
+      "Önemli bir güvencedir"
+    ],
+    "answer": "Önemli bir güvencedir",
+    "answerLetter": "D",
+    "explanation": "Savunma hakkı disiplin sürecinde temel güvencelerdendir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-128",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Kamu Yasası bakımından disiplin cezasında ölçülülük neyi ifade eder?",
+    "options": [
+      "Hiç ceza verilmemesini",
+      "Cezanın rastgele seçilmesini",
+      "Ceza ile fiil arasında uygunluk olmasını",
+      "Her fiile en ağır ceza verilmesini"
+    ],
+    "answer": "Ceza ile fiil arasında uygunluk olmasını",
+    "answerLetter": "C",
+    "explanation": "Ölçülülük fiil ve ceza arasında denge gerektirir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-129",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Kamu Yasası bakımından görevini ihmal eden kamu görevlisi hangi alanla karşılaşabilir?",
+    "options": [
+      "Sınırsız izin",
+      "Disiplin hükümleri",
+      "Sadece ödül",
+      "Otomatik terfi"
+    ],
+    "answer": "Disiplin hükümleri",
+    "answerLetter": "B",
+    "explanation": "Görev ihmali disiplin sorumluluğu doğurabilir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-130",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Disiplin",
+    "difficulty": "Zor",
+    "question": "Kamu Yasası bakımından tarafsızlık ilkesine aykırı davranış hangi sonucu doğurabilir?",
+    "options": [
+      "Disiplin yönünden değerlendirme",
+      "Her zaman ödül",
+      "Otomatik emeklilik",
+      "Kadro artışı"
+    ],
+    "answer": "Disiplin yönünden değerlendirme",
+    "answerLetter": "A",
+    "explanation": "Tarafsızlık ihlali disiplin konusu olabilir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-131",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Görevden Uzaklaştırma",
+    "difficulty": "Orta",
+    "question": "Görevden uzaklaştırma nedir?",
+    "options": [
+      "İzin türü",
+      "Geçici idari tedbir",
+      "Kesin emeklilik",
+      "Ödül"
+    ],
+    "answer": "Geçici idari tedbir",
+    "answerLetter": "B",
+    "explanation": "Görevden uzaklaştırma geçici tedbirdir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-132",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Görevden Uzaklaştırma",
+    "difficulty": "Orta",
+    "question": "Görevden uzaklaştırma doğrudan ceza mıdır?",
+    "options": [
+      "Hayır, geçici tedbirdir",
+      "Evet, kesin cezadır",
+      "Evet, emekliliktir",
+      "Evet, terfidir"
+    ],
+    "answer": "Hayır, geçici tedbirdir",
+    "answerLetter": "A",
+    "explanation": "Görevden uzaklaştırma ceza değil tedbir niteliğindedir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-133",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Görevden Uzaklaştırma",
+    "difficulty": "Orta",
+    "question": "Görevden uzaklaştırmanın amacı nedir?",
+    "options": [
+      "Kamu hizmetini bozmak",
+      "Kişiye ayrıcalık vermek",
+      "İzin hakkını artırmak",
+      "Soruşturmayı ve kamu hizmetini korumak"
+    ],
+    "answer": "Soruşturmayı ve kamu hizmetini korumak",
+    "answerLetter": "D",
+    "explanation": "Amaç soruşturmanın sağlıklı yürütülmesidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-134",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Görevden Uzaklaştırma",
+    "difficulty": "Orta",
+    "question": "Görevden uzaklaştırma ile disiplin cezası için hangisi doğrudur?",
+    "options": [
+      "İkisi de ödüldür",
+      "İkisi de izin türüdür",
+      "Aynı şey değildir",
+      "Tamamen aynıdır"
+    ],
+    "answer": "Aynı şey değildir",
+    "answerLetter": "C",
+    "explanation": "Görevden uzaklaştırma tedbir, disiplin cezası yaptırımdır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-135",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Görevden Uzaklaştırma",
+    "difficulty": "Orta",
+    "question": "Görevde kalması sakıncalı görülen kişi için hangi işlem uygulanabilir?",
+    "options": [
+      "Maaş artırımı",
+      "Görevden uzaklaştırma",
+      "Otomatik terfi",
+      "Sınırsız izin"
+    ],
+    "answer": "Görevden uzaklaştırma",
+    "answerLetter": "B",
+    "explanation": "Sakınca halinde görevden uzaklaştırma gündeme gelebilir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-136",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Görevden Uzaklaştırma",
+    "difficulty": "Orta",
+    "question": "Görevden uzaklaştırma nedir?",
+    "options": [
+      "Kesin emeklilik",
+      "Ödül",
+      "İzin türü",
+      "Geçici idari tedbir"
+    ],
+    "answer": "Geçici idari tedbir",
+    "answerLetter": "D",
+    "explanation": "Görevden uzaklaştırma geçici tedbirdir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-137",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Görevden Uzaklaştırma",
+    "difficulty": "Orta",
+    "question": "Görevden uzaklaştırma doğrudan ceza mıdır?",
+    "options": [
+      "Evet, emekliliktir",
+      "Evet, terfidir",
+      "Hayır, geçici tedbirdir",
+      "Evet, kesin cezadır"
+    ],
+    "answer": "Hayır, geçici tedbirdir",
+    "answerLetter": "C",
+    "explanation": "Görevden uzaklaştırma ceza değil tedbir niteliğindedir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-138",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Görevden Uzaklaştırma",
+    "difficulty": "Orta",
+    "question": "Görevden uzaklaştırmanın amacı nedir?",
+    "options": [
+      "İzin hakkını artırmak",
+      "Soruşturmayı ve kamu hizmetini korumak",
+      "Kamu hizmetini bozmak",
+      "Kişiye ayrıcalık vermek"
+    ],
+    "answer": "Soruşturmayı ve kamu hizmetini korumak",
+    "answerLetter": "B",
+    "explanation": "Amaç soruşturmanın sağlıklı yürütülmesidir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-139",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Görevden Uzaklaştırma",
+    "difficulty": "Orta",
+    "question": "Görevden uzaklaştırma ile disiplin cezası için hangisi doğrudur?",
+    "options": [
+      "Aynı şey değildir",
+      "Tamamen aynıdır",
+      "İkisi de ödüldür",
+      "İkisi de izin türüdür"
+    ],
+    "answer": "Aynı şey değildir",
+    "answerLetter": "A",
+    "explanation": "Görevden uzaklaştırma tedbir, disiplin cezası yaptırımdır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-140",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Görevden Uzaklaştırma",
+    "difficulty": "Orta",
+    "question": "Görevde kalması sakıncalı görülen kişi için hangi işlem uygulanabilir?",
+    "options": [
+      "Otomatik terfi",
+      "Sınırsız izin",
+      "Maaş artırımı",
+      "Görevden uzaklaştırma"
+    ],
+    "answer": "Görevden uzaklaştırma",
+    "answerLetter": "D",
+    "explanation": "Sakınca halinde görevden uzaklaştırma gündeme gelebilir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-141",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Mali ve Sosyal Haklar",
+    "difficulty": "Orta",
+    "question": "Maaş ve ödenekler hangi haklarla ilişkilidir?",
+    "options": [
+      "Disiplin cezası",
+      "Görevden uzaklaştırma",
+      "Soruşturma",
+      "Mali haklar"
+    ],
+    "answer": "Mali haklar",
+    "answerLetter": "D",
+    "explanation": "Maaş ve ödenek mali haklardandır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-142",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Mali ve Sosyal Haklar",
+    "difficulty": "Orta",
+    "question": "Mali haklar nasıl belirlenir?",
+    "options": [
+      "Kişisel isteğe göre",
+      "Sosyal medya ile",
+      "Yasal esaslara göre",
+      "Rastgele"
+    ],
+    "answer": "Yasal esaslara göre",
+    "answerLetter": "C",
+    "explanation": "Mali haklar yasal düzenlemeye dayanır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-143",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Mali ve Sosyal Haklar",
+    "difficulty": "Orta",
+    "question": "Derece ve kademe hangi hakları etkileyebilir?",
+    "options": [
+      "Sadece sınav adını",
+      "Mali hakları",
+      "Sadece logo boyutunu",
+      "Sadece tatil yerini"
+    ],
+    "answer": "Mali hakları",
+    "answerLetter": "B",
+    "explanation": "Derece ve kademe mali haklarla bağlantılı olabilir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-144",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Mali ve Sosyal Haklar",
+    "difficulty": "Orta",
+    "question": "Sosyal hakların temel işlevi nedir?",
+    "options": [
+      "Kamu görevlisini çalışma yaşamında desteklemek",
+      "Kamu hizmetini engellemek",
+      "Ceza vermek",
+      "Görevi kaldırmak"
+    ],
+    "answer": "Kamu görevlisini çalışma yaşamında desteklemek",
+    "answerLetter": "A",
+    "explanation": "Sosyal haklar kamu görevlisini destekler.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-145",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Mali ve Sosyal Haklar",
+    "difficulty": "Orta",
+    "question": "Mali haklar keyfi olarak belirlenebilir mi?",
+    "options": [
+      "Evet, tamamen keyfidir",
+      "Evet, her gün değişir",
+      "Evet, sınavla ilgisizdir",
+      "Hayır, mevzuata dayanır"
+    ],
+    "answer": "Hayır, mevzuata dayanır",
+    "answerLetter": "D",
+    "explanation": "Mali haklar yasal çerçevede belirlenir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-146",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Mali ve Sosyal Haklar",
+    "difficulty": "Orta",
+    "question": "Maaş ve ödenekler hangi haklarla ilişkilidir?",
+    "options": [
+      "Soruşturma",
+      "Mali haklar",
+      "Disiplin cezası",
+      "Görevden uzaklaştırma"
+    ],
+    "answer": "Mali haklar",
+    "answerLetter": "B",
+    "explanation": "Maaş ve ödenek mali haklardandır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-147",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Mali ve Sosyal Haklar",
+    "difficulty": "Orta",
+    "question": "Mali haklar nasıl belirlenir?",
+    "options": [
+      "Yasal esaslara göre",
+      "Rastgele",
+      "Kişisel isteğe göre",
+      "Sosyal medya ile"
+    ],
+    "answer": "Yasal esaslara göre",
+    "answerLetter": "A",
+    "explanation": "Mali haklar yasal düzenlemeye dayanır.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-148",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Mali ve Sosyal Haklar",
+    "difficulty": "Orta",
+    "question": "Derece ve kademe hangi hakları etkileyebilir?",
+    "options": [
+      "Sadece logo boyutunu",
+      "Sadece tatil yerini",
+      "Sadece sınav adını",
+      "Mali hakları"
+    ],
+    "answer": "Mali hakları",
+    "answerLetter": "D",
+    "explanation": "Derece ve kademe mali haklarla bağlantılı olabilir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-149",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Mali ve Sosyal Haklar",
+    "difficulty": "Orta",
+    "question": "Sosyal hakların temel işlevi nedir?",
+    "options": [
+      "Ceza vermek",
+      "Görevi kaldırmak",
+      "Kamu görevlisini çalışma yaşamında desteklemek",
+      "Kamu hizmetini engellemek"
+    ],
+    "answer": "Kamu görevlisini çalışma yaşamında desteklemek",
+    "answerLetter": "C",
+    "explanation": "Sosyal haklar kamu görevlisini destekler.",
+    "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ky-150",
+    "testGroup": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "topic": "Mali ve Sosyal Haklar",
+    "difficulty": "Orta",
+    "question": "Mali haklar keyfi olarak belirlenebilir mi?",
+    "options": [
+      "Evet, sınavla ilgisizdir",
+      "Hayır, mevzuata dayanır",
+      "Evet, tamamen keyfidir",
+      "Evet, her gün değişir"
+    ],
+    "answer": "Hayır, mevzuata dayanır",
+    "answerLetter": "B",
+    "explanation": "Mali haklar yasal çerçevede belirlenir.",
+    "source": "Kamu Yasası mini çalışma metinleri"
   }
 ];
