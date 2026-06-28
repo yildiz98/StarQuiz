@@ -1130,3 +1130,68 @@ body{
   .v11-info-strip{grid-template-columns:1fr}
   .v11-info-strip div{border-right:0;border-bottom:1px solid rgba(255,255,255,.08)}
 }
+
+/* ===== V12 MATH EXAMPLES ===== */
+.examples-card{
+  border-color:rgba(255,211,78,.24) !important;
+  background:linear-gradient(135deg,rgba(255,211,78,.075),rgba(255,255,255,.04)) !important;
+}
+.examples-grid{
+  display:grid;
+  grid-template-columns:1fr;
+  gap:14px;
+}
+.example-box{
+  border:1px solid rgba(255,211,78,.22);
+  border-radius:18px;
+  padding:16px;
+  background:rgba(0,0,0,.18);
+}
+.example-box h3{
+  margin:0 0 10px;
+  color:#ffd34e;
+  font-size:18px;
+}
+.example-question{
+  font-weight:900;
+  color:#fff !important;
+  margin-bottom:10px !important;
+}
+.example-box ol{
+  margin:0 0 12px;
+  padding-left:22px;
+  color:#dbe9f8;
+  line-height:1.6;
+}
+.example-answer{
+  border-top:1px solid rgba(255,255,255,.10);
+  padding-top:10px;
+  color:#90ffbf;
+}
+.practice-card{
+  border-color:rgba(0,229,255,.25) !important;
+  background:linear-gradient(135deg,rgba(0,229,255,.07),rgba(255,255,255,.035)) !important;
+}
+.practice-list{
+  display:grid;
+  gap:10px;
+}
+.practice-list details{
+  border:1px solid rgba(0,229,255,.20);
+  border-radius:14px;
+  padding:12px 14px;
+  background:rgba(0,0,0,.16);
+}
+.practice-list summary{
+  cursor:pointer;
+  font-weight:900;
+}
+.practice-list details div{
+  margin-top:10px;
+  color:#90ffbf;
+}
+@media(min-width:900px){
+  .examples-grid{
+    grid-template-columns:repeat(3,1fr);
+  }
+}

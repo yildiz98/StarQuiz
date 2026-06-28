@@ -4,17 +4,17 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
   <meta name="theme-color" content="#08111f"/>
-  <title>StarQuiz V11 Unique Test</title>
-  <link rel="manifest" href="./manifest.json?v=v11_1250_unique1">
-  <link rel="icon" href="./favicon.png?v=v11_1250_unique1">
-  <link rel="apple-touch-icon" href="./apple-touch-icon.png?v=v11_1250_unique1">
-  <link rel="stylesheet" href="./style.css?v=v11_1250_unique1">
+  <title>StarQuiz V12 Matematik Örnekli</title>
+  <link rel="manifest" href="./manifest.json?v=v12mathex1">
+  <link rel="icon" href="./favicon.png?v=v12mathex1">
+  <link rel="apple-touch-icon" href="./apple-touch-icon.png?v=v12mathex1">
+  <link rel="stylesheet" href="./style.css?v=v12mathex1">
 </head>
 <body>
   <div class="app-shell">
     <header class="topbar">
       <div class="brand-row">
-        <img src="./icon-192.png?v=v11_1250_unique1" class="mini-logo" alt="StarQuiz">
+        <img src="./icon-192.png?v=v12mathex1" class="mini-logo" alt="StarQuiz">
         <div>
           <div class="brand">StarQuiz</div>
           <div class="subtitle">KKTC Kamu Sınavı Hazırlık</div>
@@ -40,11 +40,11 @@
   </div>
 
   <script>
-    window.STARQUIZ_BUILD = "v11_1250_unique1";
+    window.STARQUIZ_BUILD = "v12mathex1";
     try {
       var old = localStorage.getItem("starquiz_build");
-      if (old !== "v11_1250_unique1") {
-        localStorage.setItem("starquiz_build", "v11_1250_unique1");
+      if (old !== "v12mathex1") {
+        localStorage.setItem("starquiz_build", "v12mathex1");
         if ("caches" in window) {
           caches.keys().then(function(keys){
             return Promise.all(keys.map(function(k){ return caches.delete(k); }));
@@ -53,13 +53,13 @@
       }
     } catch(e) {}
   </script>
-  <script src="./questions.js?v=v11_1250_unique1"></script>
-  <script src="./lessons.js?v=v11_1250_unique1"></script>
-  <script src="./app.js?v=v11_1250_unique1"></script>
+  <script src="./questions.js?v=v12mathex1"></script>
+  <script src="./lessons.js?v=v12mathex1"></script>
+  <script src="./app.js?v=v12mathex1"></script>
   <script>
     if ("serviceWorker" in navigator) {
       window.addEventListener("load", function(){
-        navigator.serviceWorker.register("./service-worker.js?v=v11_1250_unique1").then(function(reg){
+        navigator.serviceWorker.register("./service-worker.js?v=v12mathex1").then(function(reg){
           if(reg && reg.update) reg.update();
         }).catch(function(){});
       });

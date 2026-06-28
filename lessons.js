@@ -1410,7 +1410,50 @@ window.LESSONS = [
       "İşlem önceliği doğru sonuç için şarttır.",
       "İşlem adımları düzenli yazılmalıdır."
     ],
-    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir."
+    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir. Matematik derslerinde çözümlü örnekleri inceleyip mini alıştırmaları çözmek konuyu pekiştirir.",
+    "examples": [
+      {
+        "title": "Örnek 1 - İşlem Önceliği",
+        "question": "3 + 5 × 2 işleminin sonucu kaçtır?",
+        "solution": [
+          "Önce çarpma yapılır: 5 × 2 = 10",
+          "Sonra toplama yapılır: 3 + 10 = 13"
+        ],
+        "answer": "13"
+      },
+      {
+        "title": "Örnek 2 - Parantez",
+        "question": "(12 - 4) ÷ 2 işleminin sonucu kaçtır?",
+        "solution": [
+          "Önce parantez içi yapılır: 12 - 4 = 8",
+          "Sonra bölme yapılır: 8 ÷ 2 = 4"
+        ],
+        "answer": "4"
+      },
+      {
+        "title": "Örnek 3 - Karışık İşlem",
+        "question": "7 × 6 - 10 işleminin sonucu kaçtır?",
+        "solution": [
+          "Önce çarpma yapılır: 7 × 6 = 42",
+          "Sonra çıkarma yapılır: 42 - 10 = 32"
+        ],
+        "answer": "32"
+      }
+    ],
+    "practice": [
+      {
+        "question": "4 + 6 × 3 = ?",
+        "answer": "22"
+      },
+      {
+        "question": "(20 - 8) ÷ 4 = ?",
+        "answer": "3"
+      },
+      {
+        "question": "9 × 5 - 15 = ?",
+        "answer": "30"
+      }
+    ]
   },
   {
     "id": "mt-002",
@@ -1427,7 +1470,51 @@ window.LESSONS = [
       "Bölünebilme kuralları pratik çözüm sağlar.",
       "İşlem adımları düzenli yazılmalıdır."
     ],
-    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir."
+    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir. Matematik derslerinde çözümlü örnekleri inceleyip mini alıştırmaları çözmek konuyu pekiştirir.",
+    "examples": [
+      {
+        "title": "Örnek 1 - 3 ile Bölünebilme",
+        "question": "246 sayısı 3 ile bölünebilir mi?",
+        "solution": [
+          "Rakamları topla: 2 + 4 + 6 = 12",
+          "12, 3'ün katıdır."
+        ],
+        "answer": "Evet, bölünebilir."
+      },
+      {
+        "title": "Örnek 2 - 5 ile Bölünebilme",
+        "question": "875 sayısı 5 ile bölünebilir mi?",
+        "solution": [
+          "Son basamağa bakılır.",
+          "Son basamak 0 veya 5 ise sayı 5 ile bölünür.",
+          "875'in son basamağı 5'tir."
+        ],
+        "answer": "Evet, bölünebilir."
+      },
+      {
+        "title": "Örnek 3 - 2 ile Bölünebilme",
+        "question": "438 sayısı 2 ile bölünebilir mi?",
+        "solution": [
+          "Son basamak çift sayı mı bakılır.",
+          "438'in son basamağı 8'dir ve çifttir."
+        ],
+        "answer": "Evet, bölünebilir."
+      }
+    ],
+    "practice": [
+      {
+        "question": "315 sayısı 3 ile bölünebilir mi?",
+        "answer": "Evet"
+      },
+      {
+        "question": "724 sayısı 2 ile bölünebilir mi?",
+        "answer": "Evet"
+      },
+      {
+        "question": "492 sayısı 9 ile bölünebilir mi?",
+        "answer": "Hayır"
+      }
+    ]
   },
   {
     "id": "mt-003",
@@ -1444,7 +1531,52 @@ window.LESSONS = [
       "Paylaştırma OBEB, tekrar OKEK çağrıştırır.",
       "İşlem adımları düzenli yazılmalıdır."
     ],
-    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir."
+    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir. Matematik derslerinde çözümlü örnekleri inceleyip mini alıştırmaları çözmek konuyu pekiştirir.",
+    "examples": [
+      {
+        "title": "Örnek 1 - OBEB",
+        "question": "12 ve 18'in OBEB'i kaçtır?",
+        "solution": [
+          "12'nin bölenleri: 1,2,3,4,6,12",
+          "18'in bölenleri: 1,2,3,6,9,18",
+          "Ortak bölenlerin en büyüğü 6'dır."
+        ],
+        "answer": "6"
+      },
+      {
+        "title": "Örnek 2 - OKEK",
+        "question": "4 ve 6'nın OKEK'i kaçtır?",
+        "solution": [
+          "4'ün katları: 4,8,12,16...",
+          "6'nın katları: 6,12,18...",
+          "Ortak katların en küçüğü 12'dir."
+        ],
+        "answer": "12"
+      },
+      {
+        "title": "Örnek 3 - Paylaştırma Mantığı",
+        "question": "24 ve 36 elma eşit paketlere ayrılacak. Bir pakette en fazla kaç elma olur?",
+        "solution": [
+          "Paylaştırma sorularında OBEB kullanılır.",
+          "24 ve 36'nın OBEB'i 12'dir."
+        ],
+        "answer": "12"
+      }
+    ],
+    "practice": [
+      {
+        "question": "15 ve 20'nin OBEB'i?",
+        "answer": "5"
+      },
+      {
+        "question": "6 ve 8'in OKEK'i?",
+        "answer": "24"
+      },
+      {
+        "question": "18 ve 24'ün OBEB'i?",
+        "answer": "6"
+      }
+    ]
   },
   {
     "id": "mt-004",
@@ -1461,7 +1593,52 @@ window.LESSONS = [
       "Kesirlerde ortak payda önemlidir.",
       "İşlem adımları düzenli yazılmalıdır."
     ],
-    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir."
+    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir. Matematik derslerinde çözümlü örnekleri inceleyip mini alıştırmaları çözmek konuyu pekiştirir.",
+    "examples": [
+      {
+        "title": "Örnek 1 - Kesir Toplama",
+        "question": "1/2 + 1/4 kaçtır?",
+        "solution": [
+          "Ortak payda 4 alınır.",
+          "1/2 = 2/4 olur.",
+          "2/4 + 1/4 = 3/4"
+        ],
+        "answer": "3/4"
+      },
+      {
+        "title": "Örnek 2 - Ondalık Kesir",
+        "question": "0,5 hangi kesre eşittir?",
+        "solution": [
+          "0,5 yarım anlamına gelir.",
+          "Yarımın kesir karşılığı 1/2'dir."
+        ],
+        "answer": "1/2"
+      },
+      {
+        "title": "Örnek 3 - Aynı Payda",
+        "question": "2/3 + 1/3 kaçtır?",
+        "solution": [
+          "Paydalar aynıysa paylar toplanır.",
+          "2 + 1 = 3",
+          "3/3 = 1"
+        ],
+        "answer": "1"
+      }
+    ],
+    "practice": [
+      {
+        "question": "1/5 + 2/5 = ?",
+        "answer": "3/5"
+      },
+      {
+        "question": "0,25 hangi kesirdir?",
+        "answer": "1/4"
+      },
+      {
+        "question": "3/7 + 2/7 = ?",
+        "answer": "5/7"
+      }
+    ]
   },
   {
     "id": "mt-005",
@@ -1478,7 +1655,50 @@ window.LESSONS = [
       "Aynı tabanda üs kuralları uygulanır.",
       "İşlem adımları düzenli yazılmalıdır."
     ],
-    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir."
+    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir. Matematik derslerinde çözümlü örnekleri inceleyip mini alıştırmaları çözmek konuyu pekiştirir.",
+    "examples": [
+      {
+        "title": "Örnek 1 - Üs Alma",
+        "question": "2³ kaçtır?",
+        "solution": [
+          "2³ = 2 × 2 × 2",
+          "2 × 2 × 2 = 8"
+        ],
+        "answer": "8"
+      },
+      {
+        "title": "Örnek 2 - Kare Alma",
+        "question": "3² + 1 kaçtır?",
+        "solution": [
+          "3² = 9",
+          "9 + 1 = 10"
+        ],
+        "answer": "10"
+      },
+      {
+        "title": "Örnek 3 - Aynı Taban",
+        "question": "2² × 2³ kaçtır?",
+        "solution": [
+          "Aynı tabanlı ifadelerde çarpmada üsler toplanır.",
+          "2² × 2³ = 2⁵ = 32"
+        ],
+        "answer": "32"
+      }
+    ],
+    "practice": [
+      {
+        "question": "5² = ?",
+        "answer": "25"
+      },
+      {
+        "question": "10² = ?",
+        "answer": "100"
+      },
+      {
+        "question": "3¹ × 3² = ?",
+        "answer": "27"
+      }
+    ]
   },
   {
     "id": "mt-006",
@@ -1495,7 +1715,50 @@ window.LESSONS = [
       "Benzer kökler toplanabilir.",
       "İşlem adımları düzenli yazılmalıdır."
     ],
-    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir."
+    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir. Matematik derslerinde çözümlü örnekleri inceleyip mini alıştırmaları çözmek konuyu pekiştirir.",
+    "examples": [
+      {
+        "title": "Örnek 1 - Kök Alma",
+        "question": "√16 kaçtır?",
+        "solution": [
+          "Hangi sayının karesi 16 eder?",
+          "4 × 4 = 16"
+        ],
+        "answer": "4"
+      },
+      {
+        "title": "Örnek 2 - Kök Toplama",
+        "question": "√25 + √9 kaçtır?",
+        "solution": [
+          "√25 = 5",
+          "√9 = 3",
+          "5 + 3 = 8"
+        ],
+        "answer": "8"
+      },
+      {
+        "title": "Örnek 3 - Tam Kare",
+        "question": "√49 kaçtır?",
+        "solution": [
+          "7 × 7 = 49 olduğu için √49 = 7"
+        ],
+        "answer": "7"
+      }
+    ],
+    "practice": [
+      {
+        "question": "√36 = ?",
+        "answer": "6"
+      },
+      {
+        "question": "√81 = ?",
+        "answer": "9"
+      },
+      {
+        "question": "√64 + √4 = ?",
+        "answer": "10"
+      }
+    ]
   },
   {
     "id": "mt-007",
@@ -1512,7 +1775,52 @@ window.LESSONS = [
       "Denklemde denge korunmalıdır.",
       "İşlem adımları düzenli yazılmalıdır."
     ],
-    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir."
+    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir. Matematik derslerinde çözümlü örnekleri inceleyip mini alıştırmaları çözmek konuyu pekiştirir.",
+    "examples": [
+      {
+        "title": "Örnek 1 - Birinci Derece Denklem",
+        "question": "x + 5 = 12 ise x kaçtır?",
+        "solution": [
+          "Her iki taraftan 5 çıkarılır.",
+          "x = 12 - 5",
+          "x = 7"
+        ],
+        "answer": "7"
+      },
+      {
+        "title": "Örnek 2 - Çarpanlı Denklem",
+        "question": "2x = 18 ise x kaçtır?",
+        "solution": [
+          "Her iki taraf 2'ye bölünür.",
+          "x = 18 ÷ 2",
+          "x = 9"
+        ],
+        "answer": "9"
+      },
+      {
+        "title": "Örnek 3 - İki Adımlı Denklem",
+        "question": "3x - 6 = 12 ise x kaçtır?",
+        "solution": [
+          "Önce 6 eklenir: 3x = 18",
+          "Sonra 3'e bölünür: x = 6"
+        ],
+        "answer": "6"
+      }
+    ],
+    "practice": [
+      {
+        "question": "x - 4 = 10 ise x?",
+        "answer": "14"
+      },
+      {
+        "question": "5x = 25 ise x?",
+        "answer": "5"
+      },
+      {
+        "question": "2x + 4 = 14 ise x?",
+        "answer": "5"
+      }
+    ]
   },
   {
     "id": "mt-008",
@@ -1529,7 +1837,50 @@ window.LESSONS = [
       "Problemlerde önce verilenler yazılmalıdır.",
       "İşlem adımları düzenli yazılmalıdır."
     ],
-    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir."
+    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir. Matematik derslerinde çözümlü örnekleri inceleyip mini alıştırmaları çözmek konuyu pekiştirir.",
+    "examples": [
+      {
+        "title": "Örnek 1 - Para Problemi",
+        "question": "Ali'nin 20 TL'si vardı, 7 TL harcadı. Kaç TL kaldı?",
+        "solution": [
+          "Kalan para = mevcut para - harcanan para",
+          "20 - 7 = 13"
+        ],
+        "answer": "13 TL"
+      },
+      {
+        "title": "Örnek 2 - Yol Problemi",
+        "question": "Bir araç saatte 60 km hızla 3 saatte kaç km gider?",
+        "solution": [
+          "Yol = hız × zaman",
+          "60 × 3 = 180"
+        ],
+        "answer": "180 km"
+      },
+      {
+        "title": "Örnek 3 - Birim Fiyat",
+        "question": "5 kalem 25 TL ise 1 kalem kaç TL'dir?",
+        "solution": [
+          "Toplam fiyat kalem sayısına bölünür.",
+          "25 ÷ 5 = 5"
+        ],
+        "answer": "5 TL"
+      }
+    ],
+    "practice": [
+      {
+        "question": "30 TL'nin 12 TL'si harcanırsa kaç TL kalır?",
+        "answer": "18 TL"
+      },
+      {
+        "question": "80 km/s hızla 2 saatte kaç km gidilir?",
+        "answer": "160 km"
+      },
+      {
+        "question": "4 defter 40 TL ise 1 defter kaç TL?",
+        "answer": "10 TL"
+      }
+    ]
   },
   {
     "id": "mt-009",
@@ -1546,7 +1897,52 @@ window.LESSONS = [
       "Doğru ve ters orantı ayrımı önemlidir.",
       "İşlem adımları düzenli yazılmalıdır."
     ],
-    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir."
+    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir. Matematik derslerinde çözümlü örnekleri inceleyip mini alıştırmaları çözmek konuyu pekiştirir.",
+    "examples": [
+      {
+        "title": "Örnek 1 - Doğru Orantı",
+        "question": "2 kalem 10 TL ise 4 kalem kaç TL'dir?",
+        "solution": [
+          "Kalem sayısı iki katına çıkıyor.",
+          "Fiyat da iki katına çıkar.",
+          "10 × 2 = 20"
+        ],
+        "answer": "20 TL"
+      },
+      {
+        "title": "Örnek 2 - Ters Orantı",
+        "question": "3 işçi bir işi 6 günde bitirirse, 6 işçi kaç günde bitirir?",
+        "solution": [
+          "İşçi sayısı artarsa süre azalır.",
+          "İşçi sayısı 2 katına çıktı, süre yarıya iner.",
+          "6 ÷ 2 = 3"
+        ],
+        "answer": "3 gün"
+      },
+      {
+        "title": "Örnek 3 - Oranı Yüzdeye Çevirme",
+        "question": "1/2 oranı yüzde kaçtır?",
+        "solution": [
+          "1/2 = 0,5",
+          "0,5 = %50"
+        ],
+        "answer": "%50"
+      }
+    ],
+    "practice": [
+      {
+        "question": "3 kitap 60 TL ise 1 kitap kaç TL?",
+        "answer": "20 TL"
+      },
+      {
+        "question": "4 işçi 8 günde bitirirse 8 işçi kaç günde bitirir?",
+        "answer": "4 gün"
+      },
+      {
+        "question": "1/4 yüzde kaçtır?",
+        "answer": "%25"
+      }
+    ]
   },
   {
     "id": "mt-010",
@@ -1563,6 +1959,48 @@ window.LESSONS = [
       "Yüzde sorularında başlangıç değeri doğru alınmalıdır.",
       "İşlem adımları düzenli yazılmalıdır."
     ],
-    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir."
+    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir. Matematik derslerinde çözümlü örnekleri inceleyip mini alıştırmaları çözmek konuyu pekiştirir.",
+    "examples": [
+      {
+        "title": "Örnek 1 - Yüzde Alma",
+        "question": "100 TL'nin %20'si kaç TL'dir?",
+        "solution": [
+          "100 × 20 / 100 = 20"
+        ],
+        "answer": "20 TL"
+      },
+      {
+        "title": "Örnek 2 - Kâr",
+        "question": "80 TL'ye alınan ürün 100 TL'ye satılırsa kâr kaç TL'dir?",
+        "solution": [
+          "Kâr = satış fiyatı - maliyet",
+          "100 - 80 = 20"
+        ],
+        "answer": "20 TL"
+      },
+      {
+        "title": "Örnek 3 - İndirim",
+        "question": "200 TL'nin %10 indirimli fiyatı kaç TL'dir?",
+        "solution": [
+          "%10 indirim = 200 × 10 / 100 = 20 TL",
+          "200 - 20 = 180"
+        ],
+        "answer": "180 TL"
+      }
+    ],
+    "practice": [
+      {
+        "question": "300 TL'nin %10'u?",
+        "answer": "30 TL"
+      },
+      {
+        "question": "50 TL'ye alınan ürün 70 TL'ye satılırsa kâr?",
+        "answer": "20 TL"
+      },
+      {
+        "question": "500 TL'nin %20 indirimli fiyatı?",
+        "answer": "400 TL"
+      }
+    ]
   }
 ];
