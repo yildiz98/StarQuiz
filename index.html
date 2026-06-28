@@ -4,17 +4,17 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
   <meta name="theme-color" content="#06101d"/>
-  <title>StarQuiz V10 Logo Fixed</title>
-  <link rel="manifest" href="./manifest.json?v=10fix2">
-  <link rel="icon" href="./assets/favicon.png?v=10fix2">
-  <link rel="apple-touch-icon" href="./assets/apple-touch-icon.png?v=10fix2">
-  <link rel="stylesheet" href="./style.css?v=10fix2">
+  <title>StarQuiz Web Premium</title>
+  <link rel="manifest" href="./manifest.json?v=webfix1">
+  <link rel="icon" href="./favicon.png?v=webfix1">
+  <link rel="apple-touch-icon" href="./apple-touch-icon.png?v=webfix1">
+  <link rel="stylesheet" href="./style.css?v=webfix1">
 </head>
 <body>
   <div class="app-shell">
     <header class="topbar">
       <div class="brand-row">
-        <img src="./assets/icon-192.png?v=10fix2" class="mini-logo" alt="StarQuiz">
+        <img src="./icon-192.png?v=webfix1" class="mini-logo" alt="StarQuiz">
         <div><div class="brand">StarQuiz V10 Premium</div><div class="subtitle">KKTC Kamu Sınavı</div></div>
       </div>
       <button id="resetBtn" class="ghost-btn" type="button">Sıfırla</button>
@@ -29,10 +29,35 @@
     </nav>
   </div>
   <script>window.STARQUIZ_VERSION="10.0.0";</script>
-  <script src="./questions.js?v=10fix2"></script>
-  <script src="./app.js?v=10fix2"></script>
+  <script src="./questions.js?v=webfix1"></script>
+  <script src="./app.js?v=webfix1"></script>
   <script>
     (function(){var current="10.0.0";try{var old=localStorage.getItem("starquiz_version");if(old!==current){localStorage.setItem("starquiz_version",current);if("caches" in window){caches.keys().then(function(keys){return Promise.all(keys.map(function(key){return caches.delete(key);}));});}}}catch(e){} if("serviceWorker" in navigator){window.addEventListener("load",function(){navigator.serviceWorker.register("./service-worker.js?v=10.0.0").then(function(reg){if(reg&&reg.update)reg.update();}).catch(function(){});});}})();
   </script>
+
+  <script>
+    (function(){
+      var v = "webfix1";
+      try {
+        var old = localStorage.getItem("starquiz_web_version");
+        if (old !== v) {
+          localStorage.setItem("starquiz_web_version", v);
+          if ("caches" in window) {
+            caches.keys().then(function(keys){
+              return Promise.all(keys.map(function(k){ return caches.delete(k); }));
+            }).then(function(){ if(old) location.reload(); });
+          }
+        }
+      } catch(e) {}
+      if ("serviceWorker" in navigator) {
+        window.addEventListener("load", function(){
+          navigator.serviceWorker.register("./service-worker.js?v=webfix1").then(function(reg){
+            if(reg && reg.update) reg.update();
+          }).catch(function(){});
+        });
+      }
+    })();
+  </script>
+
 </body>
 </html>
