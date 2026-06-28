@@ -684,5 +684,545 @@ window.LESSONS = [
       "Derece ve kademe aynı değildir"
     ],
     "examNote": "Kamu Yasası çalışırken önce genel sistem, sonra detay hükümler öğrenilmelidir."
+  },
+  {
+    "id": "ka-001",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "KKTC Anayasasına Giriş",
+    "emoji": "🇨🇾",
+    "minutes": 3,
+    "content": [
+      "Anayasa, devletin temel yapısını, organlarını, yetkilerini ve bireylerin temel haklarını düzenleyen en üst hukuk metnidir. KKTC Anayasası da devletin işleyişi ile yurttaşların hak ve özgürlüklerini güvence altına alır.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Anayasa en üst hukuk metnidir.",
+      "Devlet yapısı ve temel haklar anayasanın ana konularıdır.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-002",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Devletin Şekli ve Nitelikleri",
+    "emoji": "🏛️",
+    "minutes": 3,
+    "content": [
+      "KKTC, cumhuriyet esasına dayalı bir devlettir. Cumhuriyet ilkesi, yönetimin halk iradesine dayanmasını ifade eder. Devletin demokratik, laik ve sosyal hukuk devleti niteliği kamu sınavlarında temel başlıklardandır.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Cumhuriyet halk iradesine dayanır.",
+      "Demokratik, laik, sosyal hukuk devleti nitelikleri önemlidir.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-003",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Egemenlik İlkesi",
+    "emoji": "🗳️",
+    "minutes": 3,
+    "content": [
+      "Egemenlik halka aittir ve anayasanın koyduğu esaslara göre yetkili organlar eliyle kullanılır. Hiçbir kişi veya organ kaynağını anayasadan almayan bir yetki kullanamaz.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Egemenlik halka aittir.",
+      "Yetki kaynağını anayasadan almalıdır.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-004",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Hukukun Üstünlüğü",
+    "emoji": "⚖️",
+    "minutes": 3,
+    "content": [
+      "Hukuk devleti, devlet işlemlerinin hukuk kurallarına bağlı olması anlamına gelir. İdarenin işlem ve eylemleri keyfi olamaz; yargı denetimine açık olmalıdır.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Hukuk devleti keyfiliği önler.",
+      "İdare hukuka bağlıdır.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-005",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Eşitlik İlkesi",
+    "emoji": "🤝",
+    "minutes": 3,
+    "content": [
+      "Eşitlik ilkesi, kişilerin yasa önünde ayrım yapılmadan değerlendirilmesini ifade eder. Kamu makamları işlem yaparken tarafsız ve eşit davranmak zorundadır.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Yasa önünde eşitlik esastır.",
+      "Ayrımcılık yasağı önemli bir sınav başlığıdır.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-006",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Temel Hak ve Özgürlükler",
+    "emoji": "🛡️",
+    "minutes": 3,
+    "content": [
+      "Temel haklar, kişinin devlete ve topluma karşı sahip olduğu anayasal güvencelerdir. Bu haklar sınırsız değildir; kamu düzeni, genel ahlak, başkalarının hakları gibi nedenlerle yasayla sınırlanabilir.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Haklar anayasal güvence altındadır.",
+      "Sınırlama ancak yasal ve ölçülü olmalıdır.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-007",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Kişi Dokunulmazlığı",
+    "emoji": "👤",
+    "minutes": 3,
+    "content": [
+      "Kişi dokunulmazlığı, bireyin maddi ve manevi varlığının korunmasını ifade eder. Devlet, kişilerin yaşam, güvenlik ve vücut bütünlüğünü korumakla yükümlüdür.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Kişinin maddi ve manevi varlığı korunur.",
+      "Yaşam ve güvenlik hakkı temel haktır.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-008",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Özel Hayatın Gizliliği",
+    "emoji": "🏠",
+    "minutes": 3,
+    "content": [
+      "Özel hayat, aile hayatı, konut ve haberleşme anayasal koruma altındadır. Bu alanlara müdahale ancak kanunda belirtilen koşullarla ve yetkili kararlarla mümkündür.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Özel hayat ve konut korunur.",
+      "Haberleşmenin gizliliği anayasal güvencedir.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-009",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Düşünce ve İfade Özgürlüğü",
+    "emoji": "🗣️",
+    "minutes": 3,
+    "content": [
+      "Kişiler düşünce ve kanaatlerini açıklama hakkına sahiptir. İfade özgürlüğü demokratik toplumun temel unsurlarındandır; ancak başkalarının hakları ve kamu düzeniyle dengelenir.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "İfade özgürlüğü demokrasinin temelidir.",
+      "Sınırsız değildir; ölçülü sınırlanabilir.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-010",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Basın ve Yayın Özgürlüğü",
+    "emoji": "📰",
+    "minutes": 3,
+    "content": [
+      "Basın özgürlüğü, haber alma ve düşünceleri yayma hakkıyla ilişkilidir. Demokratik sistemlerde basın kamuoyunun bilgilendirilmesinde önemli rol oynar.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Basın özgürlüğü haber alma hakkıyla ilişkilidir.",
+      "Demokratik toplum için önemlidir.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-011",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Din ve Vicdan Özgürlüğü",
+    "emoji": "🕌",
+    "minutes": 3,
+    "content": [
+      "Din ve vicdan özgürlüğü, kişinin inanç sahibi olma, inancını açıklama veya açıklamama hakkını kapsar. Laiklik ilkesi, devletin din karşısında tarafsız olmasını gerektirir.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Din ve vicdan özgürlüğü temel haktır.",
+      "Laiklik devletin tarafsızlığını ifade eder.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-012",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Eğitim ve Öğrenim Hakkı",
+    "emoji": "🎓",
+    "minutes": 3,
+    "content": [
+      "Eğitim hakkı, bireyin kendini geliştirmesini ve toplumsal yaşama katılmasını sağlar. Devlet eğitim alanında gerekli düzenlemeleri yapmakla yükümlüdür.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Eğitim temel sosyal haklardandır.",
+      "Devlet eğitim hizmetini düzenler.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-013",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Çalışma Hakkı ve Ödevi",
+    "emoji": "💼",
+    "minutes": 3,
+    "content": [
+      "Çalışma hakkı, bireyin yaşamını sürdürebilmesi ve topluma katkı sağlayabilmesi için önemlidir. Çalışma aynı zamanda sosyal devlet anlayışıyla bağlantılıdır.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Çalışma hem hak hem ödevdir.",
+      "Sosyal devlet ilkesiyle ilişkilidir.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-014",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Sosyal ve Ekonomik Haklar",
+    "emoji": "🏥",
+    "minutes": 3,
+    "content": [
+      "Sosyal devlet, bireylerin insan onuruna uygun yaşam koşullarına ulaşmasını hedefler. Sağlık, sosyal güvenlik, çalışma ve eğitim hakları bu kapsamda değerlendirilir.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Sosyal devlet bireyi destekler.",
+      "Sağlık ve sosyal güvenlik önemli haklardır.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-015",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Yasama Organı",
+    "emoji": "🏛️",
+    "minutes": 3,
+    "content": [
+      "Yasama organı, kanun yapma yetkisini kullanan organdır. KKTC’de yasama yetkisi Cumhuriyet Meclisi tarafından kullanılır. Meclis kanun yapar, bütçeyi görüşür ve hükümeti denetler.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Yasama yetkisi Cumhuriyet Meclisine aittir.",
+      "Kanun yapma yasamanın temel görevidir.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-016",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Cumhuriyet Meclisi",
+    "emoji": "📜",
+    "minutes": 3,
+    "content": [
+      "Cumhuriyet Meclisi halk tarafından seçilen milletvekillerinden oluşur. Meclis, yasama faaliyetleri yanında yürütmeyi denetleme görevini de yerine getirir.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Meclis halk iradesini temsil eder.",
+      "Yasama ve denetim görevleri vardır.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-017",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Milletvekilliği",
+    "emoji": "👥",
+    "minutes": 3,
+    "content": [
+      "Milletvekilleri, halkı temsil eden seçilmiş kişilerdir. Yasama çalışmalarına katılır, yasa önerileri üzerinde görüş belirtir ve denetim yollarını kullanabilirler.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Milletvekili halkı temsil eder.",
+      "Yasama çalışmalarına katılır.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-018",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Yürütme Organı",
+    "emoji": "🚀",
+    "minutes": 3,
+    "content": [
+      "Yürütme, devlet işlerinin yürütülmesini ve kanunların uygulanmasını sağlar. Cumhurbaşkanı ve Bakanlar Kurulu yürütme alanının temel unsurlarıdır.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Yürütme kanunları uygular.",
+      "Cumhurbaşkanı ve hükümet yürütmede önemlidir.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-019",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Cumhurbaşkanı",
+    "emoji": "🎖️",
+    "minutes": 3,
+    "content": [
+      "Cumhurbaşkanı, devletin başını temsil eder. Anayasada belirtilen görev ve yetkiler çerçevesinde devlet organları arasındaki uyumun sağlanmasında rol oynar.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Cumhurbaşkanı devletin başıdır.",
+      "Yetkileri anayasa ile sınırlıdır.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-020",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Bakanlar Kurulu ve Başbakan",
+    "emoji": "👔",
+    "minutes": 3,
+    "content": [
+      "Bakanlar Kurulu, hükümetin genel siyasetini yürütür. Başbakan, bakanlar arasında koordinasyonu sağlar ve hükümetin işleyişinde merkezi rol üstlenir.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Bakanlar Kurulu yürütme organıdır.",
+      "Başbakan koordinasyon sağlar.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-021",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Yargı Organı",
+    "emoji": "⚖️",
+    "minutes": 3,
+    "content": [
+      "Yargı, uyuşmazlıkları hukuk kurallarına göre çözen bağımsız organdır. Mahkemelerin bağımsızlığı ve tarafsızlığı hukuk devletinin temel güvencesidir.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Yargı bağımsız olmalıdır.",
+      "Mahkemeler hukuk devletinin güvencesidir.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-022",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Anayasa Mahkemesi",
+    "emoji": "🏛️",
+    "minutes": 3,
+    "content": [
+      "Anayasa Mahkemesi, kanunların ve bazı işlemlerin anayasaya uygunluğunu denetleyen yüksek yargı organıdır. Anayasanın üstünlüğünü koruma görevi vardır.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Anayasa Mahkemesi anayasal denetim yapar.",
+      "Anayasanın üstünlüğünü korur.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-023",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Sayıştay",
+    "emoji": "💰",
+    "minutes": 3,
+    "content": [
+      "Sayıştay, kamu maliyesinin denetlenmesiyle ilişkili anayasal kurumdur. Kamu kaynaklarının hukuka uygun ve düzenli kullanılıp kullanılmadığını denetleme işlevi vardır.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Sayıştay mali denetimle ilgilidir.",
+      "Kamu kaynaklarının denetimi önemlidir.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-024",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Ombudsman",
+    "emoji": "📢",
+    "minutes": 3,
+    "content": [
+      "Ombudsman, idarenin işlem ve eylemleri karşısında bireylerin başvurabileceği denetim yollarından biridir. İyi yönetim ve idari şeffaflık anlayışıyla ilişkilidir.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Ombudsman idarenin denetimiyle ilgilidir.",
+      "Bireyin idare karşısında korunmasına katkı sağlar.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-025",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Kamu Hizmeti Komisyonu",
+    "emoji": "🏢",
+    "minutes": 3,
+    "content": [
+      "Kamu Hizmeti Komisyonu, kamu personel sisteminde atama, yükselme ve disiplin gibi konularla ilişkili bağımsız nitelikte bir organdır.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Kamu personel işlemleriyle ilgilidir.",
+      "Bağımsızlık ve tarafsızlık önemlidir.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-026",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Seçimler",
+    "emoji": "🗳️",
+    "minutes": 3,
+    "content": [
+      "Seçimler, halk iradesinin yönetime yansımasını sağlar. Demokratik sistemde seçimlerin serbest, eşit, gizli oy ve açık sayım ilkelerine uygun yapılması önemlidir.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Seçimler halk iradesini yansıtır.",
+      "Serbest ve eşit seçim ilkesi önemlidir.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-027",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Yerel Yönetimler",
+    "emoji": "🏘️",
+    "minutes": 3,
+    "content": [
+      "Yerel yönetimler, yerel halkın ortak ihtiyaçlarını karşılamak üzere kurulan kamu tüzel kişilikleridir. Belediyeler bu yapının en bilinen örneklerindendir.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Yerel yönetimler yerel ihtiyaçlara yöneliktir.",
+      "Belediyeler yerel yönetim örneğidir.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-028",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Olağanüstü Yönetim Halleri",
+    "emoji": "🚨",
+    "minutes": 3,
+    "content": [
+      "Olağanüstü haller, normal hukuk düzeninin yetersiz kaldığı durumlarda başvurulan özel yönetim usulleridir. Bu durumlarda bile anayasal sınırlar ve hukuk devleti ilkesi önemini korur.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Olağanüstü hal özel yönetim usulüdür.",
+      "Hukuk devleti ilkesi tamamen ortadan kalkmaz.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-029",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "Anayasa Değişikliği",
+    "emoji": "📝",
+    "minutes": 3,
+    "content": [
+      "Anayasa değişikliği, sıradan kanunlardan daha ağır usullere bağlanır. Bunun nedeni anayasanın devlet düzeninin temel metni olmasıdır.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Anayasa değişikliği özel usule bağlıdır.",
+      "Anayasa sıradan kanundan üstündür.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "ka-030",
+    "module": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "title": "KKTC Anayasası Hızlı Tekrar",
+    "emoji": "🎯",
+    "minutes": 3,
+    "content": [
+      "KKTC Anayasası çalışılırken önce devletin nitelikleri, sonra temel haklar, ardından yasama, yürütme ve yargı organları öğrenilmelidir. Son aşamada anayasal kurumlar ve değişiklik usulleri tekrar edilmelidir.",
+      "Bu konu sınavlarda genellikle kavram, yetki ve kurum ayrımı üzerinden sorulur. Bu nedenle başlığı sadece ezberlemek yerine hangi organın hangi görevi yaptığını anlamak gerekir."
+    ],
+    "remember": [
+      "Önce genel esaslar, sonra haklar ve organlar çalışılır.",
+      "Yasama-yürütme-yargı ayrımı çok önemlidir.",
+      "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
+    ],
+    "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
   }
 ];

@@ -5612,5 +5612,2705 @@ window.QUESTIONS = [
     "answerLetter": "B",
     "explanation": "Mali haklar yasal çerçevede belirlenir.",
     "source": "Kamu Yasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-001",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Kolay",
+    "question": "KKTC Anayasası en temel olarak neyi düzenler?",
+    "options": [
+      "Sadece özel şirketleri",
+      "Sadece trafik kurallarını",
+      "Sadece spor kulüplerini",
+      "Devletin temel yapısını ve hakları"
+    ],
+    "answer": "Devletin temel yapısını ve hakları",
+    "answerLetter": "D",
+    "explanation": "Anayasa devletin temel yapısını ve temel hakları düzenler.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-002",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Kolay",
+    "question": "Egemenlik ilkesi kime aittir?",
+    "options": [
+      "Yabancı devlete",
+      "Özel şirkete",
+      "Halka",
+      "Tek bir kişiye"
+    ],
+    "answer": "Halka",
+    "answerLetter": "C",
+    "explanation": "Demokratik düzende egemenlik halka aittir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-003",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Kolay",
+    "question": "Hukuk devleti neyi ifade eder?",
+    "options": [
+      "Yargı denetiminin olmamasını",
+      "Devletin hukukla bağlı olmasını",
+      "Keyfi yönetimi",
+      "Kanunsuz işlem yapmayı"
+    ],
+    "answer": "Devletin hukukla bağlı olmasını",
+    "answerLetter": "B",
+    "explanation": "Hukuk devleti keyfiliği önler.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-004",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Kolay",
+    "question": "KKTC Anayasası bakımından kKTC Anayasası en temel olarak neyi düzenler?",
+    "options": [
+      "Sadece özel şirketleri",
+      "Sadece trafik kurallarını",
+      "Sadece spor kulüplerini",
+      "Devletin temel yapısını ve hakları"
+    ],
+    "answer": "Devletin temel yapısını ve hakları",
+    "answerLetter": "D",
+    "explanation": "Anayasa devletin temel yapısını ve temel hakları düzenler.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-005",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Kolay",
+    "question": "KKTC Anayasası bakımından egemenlik ilkesi kime aittir?",
+    "options": [
+      "Yabancı devlete",
+      "Özel şirkete",
+      "Halka",
+      "Tek bir kişiye"
+    ],
+    "answer": "Halka",
+    "answerLetter": "C",
+    "explanation": "Demokratik düzende egemenlik halka aittir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-006",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Kolay",
+    "question": "KKTC Anayasası bakımından hukuk devleti neyi ifade eder?",
+    "options": [
+      "Yargı denetiminin olmamasını",
+      "Devletin hukukla bağlı olmasını",
+      "Keyfi yönetimi",
+      "Kanunsuz işlem yapmayı"
+    ],
+    "answer": "Devletin hukukla bağlı olmasını",
+    "answerLetter": "B",
+    "explanation": "Hukuk devleti keyfiliği önler.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-007",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Kolay",
+    "question": "KKTC Anayasası en temel olarak neyi düzenler?",
+    "options": [
+      "Sadece özel şirketleri",
+      "Sadece trafik kurallarını",
+      "Sadece spor kulüplerini",
+      "Devletin temel yapısını ve hakları"
+    ],
+    "answer": "Devletin temel yapısını ve hakları",
+    "answerLetter": "D",
+    "explanation": "Anayasa devletin temel yapısını ve temel hakları düzenler.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-008",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Kolay",
+    "question": "Egemenlik ilkesi kime aittir?",
+    "options": [
+      "Yabancı devlete",
+      "Özel şirkete",
+      "Halka",
+      "Tek bir kişiye"
+    ],
+    "answer": "Halka",
+    "answerLetter": "C",
+    "explanation": "Demokratik düzende egemenlik halka aittir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-009",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Kolay",
+    "question": "Hukuk devleti neyi ifade eder?",
+    "options": [
+      "Yargı denetiminin olmamasını",
+      "Devletin hukukla bağlı olmasını",
+      "Keyfi yönetimi",
+      "Kanunsuz işlem yapmayı"
+    ],
+    "answer": "Devletin hukukla bağlı olmasını",
+    "answerLetter": "B",
+    "explanation": "Hukuk devleti keyfiliği önler.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-010",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Kolay",
+    "question": "KKTC Anayasası en temel olarak neyi düzenler? (Genel tekrar)",
+    "options": [
+      "Sadece özel şirketleri",
+      "Sadece trafik kurallarını",
+      "Sadece spor kulüplerini",
+      "Devletin temel yapısını ve hakları"
+    ],
+    "answer": "Devletin temel yapısını ve hakları",
+    "answerLetter": "D",
+    "explanation": "Anayasa devletin temel yapısını ve temel hakları düzenler.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-011",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Kolay",
+    "question": "Egemenlik ilkesi kime aittir? (Genel tekrar)",
+    "options": [
+      "Yabancı devlete",
+      "Özel şirkete",
+      "Halka",
+      "Tek bir kişiye"
+    ],
+    "answer": "Halka",
+    "answerLetter": "C",
+    "explanation": "Demokratik düzende egemenlik halka aittir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-012",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Kolay",
+    "question": "Hukuk devleti neyi ifade eder? (Genel tekrar)",
+    "options": [
+      "Yargı denetiminin olmamasını",
+      "Devletin hukukla bağlı olmasını",
+      "Keyfi yönetimi",
+      "Kanunsuz işlem yapmayı"
+    ],
+    "answer": "Devletin hukukla bağlı olmasını",
+    "answerLetter": "B",
+    "explanation": "Hukuk devleti keyfiliği önler.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-013",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Kolay",
+    "question": "KKTC Anayasası en temel olarak neyi düzenler? (Genel tekrar)",
+    "options": [
+      "Sadece özel şirketleri",
+      "Sadece trafik kurallarını",
+      "Sadece spor kulüplerini",
+      "Devletin temel yapısını ve hakları"
+    ],
+    "answer": "Devletin temel yapısını ve hakları",
+    "answerLetter": "D",
+    "explanation": "Anayasa devletin temel yapısını ve temel hakları düzenler.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-014",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Kolay",
+    "question": "Egemenlik ilkesi kime aittir? (Genel tekrar)",
+    "options": [
+      "Yabancı devlete",
+      "Özel şirkete",
+      "Halka",
+      "Tek bir kişiye"
+    ],
+    "answer": "Halka",
+    "answerLetter": "C",
+    "explanation": "Demokratik düzende egemenlik halka aittir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-015",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Esaslar",
+    "difficulty": "Kolay",
+    "question": "Hukuk devleti neyi ifade eder? (Genel tekrar)",
+    "options": [
+      "Yargı denetiminin olmamasını",
+      "Devletin hukukla bağlı olmasını",
+      "Keyfi yönetimi",
+      "Kanunsuz işlem yapmayı"
+    ],
+    "answer": "Devletin hukukla bağlı olmasını",
+    "answerLetter": "B",
+    "explanation": "Hukuk devleti keyfiliği önler.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-016",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Temel hak ve özgürlükler nasıl güvence altına alınır?",
+    "options": [
+      "Anayasal güvenceyle",
+      "Sözlü emirle",
+      "Kişisel isteğe göre",
+      "Rastgele kararla"
+    ],
+    "answer": "Anayasal güvenceyle",
+    "answerLetter": "A",
+    "explanation": "Temel haklar anayasa ile güvence altına alınır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-017",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Eşitlik ilkesi neyi gerektirir?",
+    "options": [
+      "Kişisel ayrıcalığı",
+      "Keyfi uygulamayı",
+      "Sadece belli gruba hak tanımayı",
+      "Yasa önünde ayrım yapılmamasını"
+    ],
+    "answer": "Yasa önünde ayrım yapılmamasını",
+    "answerLetter": "D",
+    "explanation": "Eşitlik yasa önünde ayrımcılık yapılmamasını gerektirir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-018",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Özel hayatın gizliliği hangi alanı korur?",
+    "options": [
+      "Sadece seçim sonuçlarını",
+      "Sadece kamu binalarını",
+      "Kişinin özel yaşam alanını",
+      "Sadece vergi oranlarını"
+    ],
+    "answer": "Kişinin özel yaşam alanını",
+    "answerLetter": "C",
+    "explanation": "Özel hayat anayasal koruma altındadır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-019",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "İfade özgürlüğü hangi sistemin temel unsurudur?",
+    "options": [
+      "Yargısız düzenin",
+      "Demokratik toplumun",
+      "Keyfi yönetimin",
+      "Gizli yönetimin"
+    ],
+    "answer": "Demokratik toplumun",
+    "answerLetter": "B",
+    "explanation": "İfade özgürlüğü demokratik toplum için önemlidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-020",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Din ve vicdan özgürlüğü neyi kapsar?",
+    "options": [
+      "İnanç sahibi olma veya olmama hakkını",
+      "Zorla inanç dayatmayı",
+      "Kamu hizmetini durdurmayı",
+      "Seçimleri iptal etmeyi"
+    ],
+    "answer": "İnanç sahibi olma veya olmama hakkını",
+    "answerLetter": "A",
+    "explanation": "Din ve vicdan özgürlüğü inanç alanını korur.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-021",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "KKTC Anayasası bakımından temel hak ve özgürlükler nasıl güvence altına alınır?",
+    "options": [
+      "Kişisel isteğe göre",
+      "Rastgele kararla",
+      "Anayasal güvenceyle",
+      "Sözlü emirle"
+    ],
+    "answer": "Anayasal güvenceyle",
+    "answerLetter": "C",
+    "explanation": "Temel haklar anayasa ile güvence altına alınır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-022",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "KKTC Anayasası bakımından eşitlik ilkesi neyi gerektirir?",
+    "options": [
+      "Sadece belli gruba hak tanımayı",
+      "Yasa önünde ayrım yapılmamasını",
+      "Kişisel ayrıcalığı",
+      "Keyfi uygulamayı"
+    ],
+    "answer": "Yasa önünde ayrım yapılmamasını",
+    "answerLetter": "B",
+    "explanation": "Eşitlik yasa önünde ayrımcılık yapılmamasını gerektirir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-023",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "KKTC Anayasası bakımından özel hayatın gizliliği hangi alanı korur?",
+    "options": [
+      "Kişinin özel yaşam alanını",
+      "Sadece vergi oranlarını",
+      "Sadece seçim sonuçlarını",
+      "Sadece kamu binalarını"
+    ],
+    "answer": "Kişinin özel yaşam alanını",
+    "answerLetter": "A",
+    "explanation": "Özel hayat anayasal koruma altındadır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-024",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "KKTC Anayasası bakımından i̇fade özgürlüğü hangi sistemin temel unsurudur?",
+    "options": [
+      "Keyfi yönetimin",
+      "Gizli yönetimin",
+      "Yargısız düzenin",
+      "Demokratik toplumun"
+    ],
+    "answer": "Demokratik toplumun",
+    "answerLetter": "D",
+    "explanation": "İfade özgürlüğü demokratik toplum için önemlidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-025",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "KKTC Anayasası bakımından din ve vicdan özgürlüğü neyi kapsar?",
+    "options": [
+      "Kamu hizmetini durdurmayı",
+      "Seçimleri iptal etmeyi",
+      "İnanç sahibi olma veya olmama hakkını",
+      "Zorla inanç dayatmayı"
+    ],
+    "answer": "İnanç sahibi olma veya olmama hakkını",
+    "answerLetter": "C",
+    "explanation": "Din ve vicdan özgürlüğü inanç alanını korur.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-026",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Temel hak ve özgürlükler nasıl güvence altına alınır?",
+    "options": [
+      "Anayasal güvenceyle",
+      "Sözlü emirle",
+      "Kişisel isteğe göre",
+      "Rastgele kararla"
+    ],
+    "answer": "Anayasal güvenceyle",
+    "answerLetter": "A",
+    "explanation": "Temel haklar anayasa ile güvence altına alınır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-027",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Eşitlik ilkesi neyi gerektirir?",
+    "options": [
+      "Kişisel ayrıcalığı",
+      "Keyfi uygulamayı",
+      "Sadece belli gruba hak tanımayı",
+      "Yasa önünde ayrım yapılmamasını"
+    ],
+    "answer": "Yasa önünde ayrım yapılmamasını",
+    "answerLetter": "D",
+    "explanation": "Eşitlik yasa önünde ayrımcılık yapılmamasını gerektirir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-028",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Özel hayatın gizliliği hangi alanı korur?",
+    "options": [
+      "Sadece seçim sonuçlarını",
+      "Sadece kamu binalarını",
+      "Kişinin özel yaşam alanını",
+      "Sadece vergi oranlarını"
+    ],
+    "answer": "Kişinin özel yaşam alanını",
+    "answerLetter": "C",
+    "explanation": "Özel hayat anayasal koruma altındadır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-029",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "İfade özgürlüğü hangi sistemin temel unsurudur?",
+    "options": [
+      "Yargısız düzenin",
+      "Demokratik toplumun",
+      "Keyfi yönetimin",
+      "Gizli yönetimin"
+    ],
+    "answer": "Demokratik toplumun",
+    "answerLetter": "B",
+    "explanation": "İfade özgürlüğü demokratik toplum için önemlidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-030",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Din ve vicdan özgürlüğü neyi kapsar?",
+    "options": [
+      "İnanç sahibi olma veya olmama hakkını",
+      "Zorla inanç dayatmayı",
+      "Kamu hizmetini durdurmayı",
+      "Seçimleri iptal etmeyi"
+    ],
+    "answer": "İnanç sahibi olma veya olmama hakkını",
+    "answerLetter": "A",
+    "explanation": "Din ve vicdan özgürlüğü inanç alanını korur.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-031",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Temel hak ve özgürlükler nasıl güvence altına alınır? (Genel tekrar)",
+    "options": [
+      "Kişisel isteğe göre",
+      "Rastgele kararla",
+      "Anayasal güvenceyle",
+      "Sözlü emirle"
+    ],
+    "answer": "Anayasal güvenceyle",
+    "answerLetter": "C",
+    "explanation": "Temel haklar anayasa ile güvence altına alınır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-032",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Eşitlik ilkesi neyi gerektirir? (Genel tekrar)",
+    "options": [
+      "Sadece belli gruba hak tanımayı",
+      "Yasa önünde ayrım yapılmamasını",
+      "Kişisel ayrıcalığı",
+      "Keyfi uygulamayı"
+    ],
+    "answer": "Yasa önünde ayrım yapılmamasını",
+    "answerLetter": "B",
+    "explanation": "Eşitlik yasa önünde ayrımcılık yapılmamasını gerektirir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-033",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Özel hayatın gizliliği hangi alanı korur? (Genel tekrar)",
+    "options": [
+      "Kişinin özel yaşam alanını",
+      "Sadece vergi oranlarını",
+      "Sadece seçim sonuçlarını",
+      "Sadece kamu binalarını"
+    ],
+    "answer": "Kişinin özel yaşam alanını",
+    "answerLetter": "A",
+    "explanation": "Özel hayat anayasal koruma altındadır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-034",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "İfade özgürlüğü hangi sistemin temel unsurudur? (Genel tekrar)",
+    "options": [
+      "Keyfi yönetimin",
+      "Gizli yönetimin",
+      "Yargısız düzenin",
+      "Demokratik toplumun"
+    ],
+    "answer": "Demokratik toplumun",
+    "answerLetter": "D",
+    "explanation": "İfade özgürlüğü demokratik toplum için önemlidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-035",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Din ve vicdan özgürlüğü neyi kapsar? (Genel tekrar)",
+    "options": [
+      "Kamu hizmetini durdurmayı",
+      "Seçimleri iptal etmeyi",
+      "İnanç sahibi olma veya olmama hakkını",
+      "Zorla inanç dayatmayı"
+    ],
+    "answer": "İnanç sahibi olma veya olmama hakkını",
+    "answerLetter": "C",
+    "explanation": "Din ve vicdan özgürlüğü inanç alanını korur.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-036",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Temel hak ve özgürlükler nasıl güvence altına alınır? (Genel tekrar)",
+    "options": [
+      "Anayasal güvenceyle",
+      "Sözlü emirle",
+      "Kişisel isteğe göre",
+      "Rastgele kararla"
+    ],
+    "answer": "Anayasal güvenceyle",
+    "answerLetter": "A",
+    "explanation": "Temel haklar anayasa ile güvence altına alınır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-037",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Eşitlik ilkesi neyi gerektirir? (Genel tekrar)",
+    "options": [
+      "Kişisel ayrıcalığı",
+      "Keyfi uygulamayı",
+      "Sadece belli gruba hak tanımayı",
+      "Yasa önünde ayrım yapılmamasını"
+    ],
+    "answer": "Yasa önünde ayrım yapılmamasını",
+    "answerLetter": "D",
+    "explanation": "Eşitlik yasa önünde ayrımcılık yapılmamasını gerektirir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-038",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Özel hayatın gizliliği hangi alanı korur? (Genel tekrar)",
+    "options": [
+      "Sadece seçim sonuçlarını",
+      "Sadece kamu binalarını",
+      "Kişinin özel yaşam alanını",
+      "Sadece vergi oranlarını"
+    ],
+    "answer": "Kişinin özel yaşam alanını",
+    "answerLetter": "C",
+    "explanation": "Özel hayat anayasal koruma altındadır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-039",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "İfade özgürlüğü hangi sistemin temel unsurudur? (Genel tekrar)",
+    "options": [
+      "Yargısız düzenin",
+      "Demokratik toplumun",
+      "Keyfi yönetimin",
+      "Gizli yönetimin"
+    ],
+    "answer": "Demokratik toplumun",
+    "answerLetter": "B",
+    "explanation": "İfade özgürlüğü demokratik toplum için önemlidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-040",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Din ve vicdan özgürlüğü neyi kapsar? (Genel tekrar)",
+    "options": [
+      "İnanç sahibi olma veya olmama hakkını",
+      "Zorla inanç dayatmayı",
+      "Kamu hizmetini durdurmayı",
+      "Seçimleri iptal etmeyi"
+    ],
+    "answer": "İnanç sahibi olma veya olmama hakkını",
+    "answerLetter": "A",
+    "explanation": "Din ve vicdan özgürlüğü inanç alanını korur.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-041",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Temel hak ve özgürlükler nasıl güvence altına alınır? (Genel tekrar)",
+    "options": [
+      "Kişisel isteğe göre",
+      "Rastgele kararla",
+      "Anayasal güvenceyle",
+      "Sözlü emirle"
+    ],
+    "answer": "Anayasal güvenceyle",
+    "answerLetter": "C",
+    "explanation": "Temel haklar anayasa ile güvence altına alınır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-042",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Eşitlik ilkesi neyi gerektirir? (Genel tekrar)",
+    "options": [
+      "Sadece belli gruba hak tanımayı",
+      "Yasa önünde ayrım yapılmamasını",
+      "Kişisel ayrıcalığı",
+      "Keyfi uygulamayı"
+    ],
+    "answer": "Yasa önünde ayrım yapılmamasını",
+    "answerLetter": "B",
+    "explanation": "Eşitlik yasa önünde ayrımcılık yapılmamasını gerektirir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-043",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Özel hayatın gizliliği hangi alanı korur? (Genel tekrar)",
+    "options": [
+      "Kişinin özel yaşam alanını",
+      "Sadece vergi oranlarını",
+      "Sadece seçim sonuçlarını",
+      "Sadece kamu binalarını"
+    ],
+    "answer": "Kişinin özel yaşam alanını",
+    "answerLetter": "A",
+    "explanation": "Özel hayat anayasal koruma altındadır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-044",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "İfade özgürlüğü hangi sistemin temel unsurudur? (Genel tekrar)",
+    "options": [
+      "Keyfi yönetimin",
+      "Gizli yönetimin",
+      "Yargısız düzenin",
+      "Demokratik toplumun"
+    ],
+    "answer": "Demokratik toplumun",
+    "answerLetter": "D",
+    "explanation": "İfade özgürlüğü demokratik toplum için önemlidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-045",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Temel Haklar",
+    "difficulty": "Orta",
+    "question": "Din ve vicdan özgürlüğü neyi kapsar? (Genel tekrar)",
+    "options": [
+      "Kamu hizmetini durdurmayı",
+      "Seçimleri iptal etmeyi",
+      "İnanç sahibi olma veya olmama hakkını",
+      "Zorla inanç dayatmayı"
+    ],
+    "answer": "İnanç sahibi olma veya olmama hakkını",
+    "answerLetter": "C",
+    "explanation": "Din ve vicdan özgürlüğü inanç alanını korur.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-046",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "KKTC’de yasama yetkisini hangi organ kullanır?",
+    "options": [
+      "Mahkemeler",
+      "Belediyeler",
+      "Cumhuriyet Meclisi",
+      "Bakanlar Kurulu"
+    ],
+    "answer": "Cumhuriyet Meclisi",
+    "answerLetter": "C",
+    "explanation": "Yasama yetkisi Cumhuriyet Meclisine aittir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-047",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "Kanun yapma yetkisi hangi organla ilişkilidir?",
+    "options": [
+      "Ombudsman",
+      "Yasama",
+      "Yargı",
+      "Sayıştay"
+    ],
+    "answer": "Yasama",
+    "answerLetter": "B",
+    "explanation": "Kanun yapma yasamanın temel görevidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-048",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "Cumhuriyet Meclisi hangi iradeyi temsil eder?",
+    "options": [
+      "Halk iradesini",
+      "Özel şirket iradesini",
+      "Yabancı devlet iradesini",
+      "Sadece mahkeme iradesini"
+    ],
+    "answer": "Halk iradesini",
+    "answerLetter": "A",
+    "explanation": "Meclis halk tarafından seçilen temsilcilerden oluşur.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-049",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "KKTC Anayasası bakımından kKTC’de yasama yetkisini hangi organ kullanır?",
+    "options": [
+      "Mahkemeler",
+      "Belediyeler",
+      "Cumhuriyet Meclisi",
+      "Bakanlar Kurulu"
+    ],
+    "answer": "Cumhuriyet Meclisi",
+    "answerLetter": "C",
+    "explanation": "Yasama yetkisi Cumhuriyet Meclisine aittir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-050",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "KKTC Anayasası bakımından kanun yapma yetkisi hangi organla ilişkilidir?",
+    "options": [
+      "Ombudsman",
+      "Yasama",
+      "Yargı",
+      "Sayıştay"
+    ],
+    "answer": "Yasama",
+    "answerLetter": "B",
+    "explanation": "Kanun yapma yasamanın temel görevidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-051",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "KKTC Anayasası bakımından cumhuriyet Meclisi hangi iradeyi temsil eder?",
+    "options": [
+      "Halk iradesini",
+      "Özel şirket iradesini",
+      "Yabancı devlet iradesini",
+      "Sadece mahkeme iradesini"
+    ],
+    "answer": "Halk iradesini",
+    "answerLetter": "A",
+    "explanation": "Meclis halk tarafından seçilen temsilcilerden oluşur.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-052",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "KKTC’de yasama yetkisini hangi organ kullanır?",
+    "options": [
+      "Mahkemeler",
+      "Belediyeler",
+      "Cumhuriyet Meclisi",
+      "Bakanlar Kurulu"
+    ],
+    "answer": "Cumhuriyet Meclisi",
+    "answerLetter": "C",
+    "explanation": "Yasama yetkisi Cumhuriyet Meclisine aittir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-053",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "Kanun yapma yetkisi hangi organla ilişkilidir?",
+    "options": [
+      "Ombudsman",
+      "Yasama",
+      "Yargı",
+      "Sayıştay"
+    ],
+    "answer": "Yasama",
+    "answerLetter": "B",
+    "explanation": "Kanun yapma yasamanın temel görevidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-054",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "Cumhuriyet Meclisi hangi iradeyi temsil eder?",
+    "options": [
+      "Halk iradesini",
+      "Özel şirket iradesini",
+      "Yabancı devlet iradesini",
+      "Sadece mahkeme iradesini"
+    ],
+    "answer": "Halk iradesini",
+    "answerLetter": "A",
+    "explanation": "Meclis halk tarafından seçilen temsilcilerden oluşur.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-055",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "KKTC’de yasama yetkisini hangi organ kullanır? (Genel tekrar)",
+    "options": [
+      "Mahkemeler",
+      "Belediyeler",
+      "Cumhuriyet Meclisi",
+      "Bakanlar Kurulu"
+    ],
+    "answer": "Cumhuriyet Meclisi",
+    "answerLetter": "C",
+    "explanation": "Yasama yetkisi Cumhuriyet Meclisine aittir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-056",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "Kanun yapma yetkisi hangi organla ilişkilidir? (Genel tekrar)",
+    "options": [
+      "Ombudsman",
+      "Yasama",
+      "Yargı",
+      "Sayıştay"
+    ],
+    "answer": "Yasama",
+    "answerLetter": "B",
+    "explanation": "Kanun yapma yasamanın temel görevidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-057",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "Cumhuriyet Meclisi hangi iradeyi temsil eder? (Genel tekrar)",
+    "options": [
+      "Halk iradesini",
+      "Özel şirket iradesini",
+      "Yabancı devlet iradesini",
+      "Sadece mahkeme iradesini"
+    ],
+    "answer": "Halk iradesini",
+    "answerLetter": "A",
+    "explanation": "Meclis halk tarafından seçilen temsilcilerden oluşur.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-058",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "KKTC’de yasama yetkisini hangi organ kullanır? (Genel tekrar)",
+    "options": [
+      "Mahkemeler",
+      "Belediyeler",
+      "Cumhuriyet Meclisi",
+      "Bakanlar Kurulu"
+    ],
+    "answer": "Cumhuriyet Meclisi",
+    "answerLetter": "C",
+    "explanation": "Yasama yetkisi Cumhuriyet Meclisine aittir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-059",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "Kanun yapma yetkisi hangi organla ilişkilidir? (Genel tekrar)",
+    "options": [
+      "Ombudsman",
+      "Yasama",
+      "Yargı",
+      "Sayıştay"
+    ],
+    "answer": "Yasama",
+    "answerLetter": "B",
+    "explanation": "Kanun yapma yasamanın temel görevidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-060",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "Cumhuriyet Meclisi hangi iradeyi temsil eder? (Genel tekrar)",
+    "options": [
+      "Halk iradesini",
+      "Özel şirket iradesini",
+      "Yabancı devlet iradesini",
+      "Sadece mahkeme iradesini"
+    ],
+    "answer": "Halk iradesini",
+    "answerLetter": "A",
+    "explanation": "Meclis halk tarafından seçilen temsilcilerden oluşur.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-061",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "KKTC’de yasama yetkisini hangi organ kullanır? (Genel tekrar)",
+    "options": [
+      "Mahkemeler",
+      "Belediyeler",
+      "Cumhuriyet Meclisi",
+      "Bakanlar Kurulu"
+    ],
+    "answer": "Cumhuriyet Meclisi",
+    "answerLetter": "C",
+    "explanation": "Yasama yetkisi Cumhuriyet Meclisine aittir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-062",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "Kanun yapma yetkisi hangi organla ilişkilidir? (Genel tekrar)",
+    "options": [
+      "Ombudsman",
+      "Yasama",
+      "Yargı",
+      "Sayıştay"
+    ],
+    "answer": "Yasama",
+    "answerLetter": "B",
+    "explanation": "Kanun yapma yasamanın temel görevidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-063",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "Cumhuriyet Meclisi hangi iradeyi temsil eder? (Genel tekrar)",
+    "options": [
+      "Halk iradesini",
+      "Özel şirket iradesini",
+      "Yabancı devlet iradesini",
+      "Sadece mahkeme iradesini"
+    ],
+    "answer": "Halk iradesini",
+    "answerLetter": "A",
+    "explanation": "Meclis halk tarafından seçilen temsilcilerden oluşur.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-064",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "KKTC’de yasama yetkisini hangi organ kullanır? (Genel tekrar)",
+    "options": [
+      "Mahkemeler",
+      "Belediyeler",
+      "Cumhuriyet Meclisi",
+      "Bakanlar Kurulu"
+    ],
+    "answer": "Cumhuriyet Meclisi",
+    "answerLetter": "C",
+    "explanation": "Yasama yetkisi Cumhuriyet Meclisine aittir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-065",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yasama",
+    "difficulty": "Orta",
+    "question": "Kanun yapma yetkisi hangi organla ilişkilidir? (Genel tekrar)",
+    "options": [
+      "Ombudsman",
+      "Yasama",
+      "Yargı",
+      "Sayıştay"
+    ],
+    "answer": "Yasama",
+    "answerLetter": "B",
+    "explanation": "Kanun yapma yasamanın temel görevidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-066",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Yürütmenin temel görevi nedir?",
+    "options": [
+      "Mahkeme kararı vermek",
+      "Seçmen listesi satmak",
+      "Kanunları uygulamak ve devlet işlerini yürütmek",
+      "Kanunları anayasaya aykırı yapmak"
+    ],
+    "answer": "Kanunları uygulamak ve devlet işlerini yürütmek",
+    "answerLetter": "C",
+    "explanation": "Yürütme kanunları uygular.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-067",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Cumhurbaşkanı anayasal sistemde neyi temsil eder?",
+    "options": [
+      "Sadece mahkemeyi",
+      "Devletin başını",
+      "Sadece belediyeyi",
+      "Sadece özel okulu"
+    ],
+    "answer": "Devletin başını",
+    "answerLetter": "B",
+    "explanation": "Cumhurbaşkanı devletin başıdır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-068",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Bakanlar Kurulu hangi organ içinde değerlendirilir?",
+    "options": [
+      "Yürütme",
+      "Yasama",
+      "Yargı",
+      "Sayıştay"
+    ],
+    "answer": "Yürütme",
+    "answerLetter": "A",
+    "explanation": "Bakanlar Kurulu yürütme organıdır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-069",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "KKTC Anayasası bakımından yürütmenin temel görevi nedir?",
+    "options": [
+      "Mahkeme kararı vermek",
+      "Seçmen listesi satmak",
+      "Kanunları uygulamak ve devlet işlerini yürütmek",
+      "Kanunları anayasaya aykırı yapmak"
+    ],
+    "answer": "Kanunları uygulamak ve devlet işlerini yürütmek",
+    "answerLetter": "C",
+    "explanation": "Yürütme kanunları uygular.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-070",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "KKTC Anayasası bakımından cumhurbaşkanı anayasal sistemde neyi temsil eder?",
+    "options": [
+      "Sadece mahkemeyi",
+      "Devletin başını",
+      "Sadece belediyeyi",
+      "Sadece özel okulu"
+    ],
+    "answer": "Devletin başını",
+    "answerLetter": "B",
+    "explanation": "Cumhurbaşkanı devletin başıdır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-071",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "KKTC Anayasası bakımından bakanlar Kurulu hangi organ içinde değerlendirilir?",
+    "options": [
+      "Yürütme",
+      "Yasama",
+      "Yargı",
+      "Sayıştay"
+    ],
+    "answer": "Yürütme",
+    "answerLetter": "A",
+    "explanation": "Bakanlar Kurulu yürütme organıdır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-072",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Yürütmenin temel görevi aşağıdakilerden hangisidir?",
+    "options": [
+      "Mahkeme kararı vermek",
+      "Seçmen listesi satmak",
+      "Kanunları uygulamak ve devlet işlerini yürütmek",
+      "Kanunları anayasaya aykırı yapmak"
+    ],
+    "answer": "Kanunları uygulamak ve devlet işlerini yürütmek",
+    "answerLetter": "C",
+    "explanation": "Yürütme kanunları uygular.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-073",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Cumhurbaşkanı anayasal sistemde neyi temsil eder?",
+    "options": [
+      "Sadece mahkemeyi",
+      "Devletin başını",
+      "Sadece belediyeyi",
+      "Sadece özel okulu"
+    ],
+    "answer": "Devletin başını",
+    "answerLetter": "B",
+    "explanation": "Cumhurbaşkanı devletin başıdır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-074",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Bakanlar Kurulu hangi organ içinde değerlendirilir?",
+    "options": [
+      "Yürütme",
+      "Yasama",
+      "Yargı",
+      "Sayıştay"
+    ],
+    "answer": "Yürütme",
+    "answerLetter": "A",
+    "explanation": "Bakanlar Kurulu yürütme organıdır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-075",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Yürütmenin temel görevi nedir? (Genel tekrar)",
+    "options": [
+      "Mahkeme kararı vermek",
+      "Seçmen listesi satmak",
+      "Kanunları uygulamak ve devlet işlerini yürütmek",
+      "Kanunları anayasaya aykırı yapmak"
+    ],
+    "answer": "Kanunları uygulamak ve devlet işlerini yürütmek",
+    "answerLetter": "C",
+    "explanation": "Yürütme kanunları uygular.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-076",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Cumhurbaşkanı anayasal sistemde neyi temsil eder? (Genel tekrar)",
+    "options": [
+      "Sadece mahkemeyi",
+      "Devletin başını",
+      "Sadece belediyeyi",
+      "Sadece özel okulu"
+    ],
+    "answer": "Devletin başını",
+    "answerLetter": "B",
+    "explanation": "Cumhurbaşkanı devletin başıdır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-077",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Bakanlar Kurulu hangi organ içinde değerlendirilir? (Genel tekrar)",
+    "options": [
+      "Yürütme",
+      "Yasama",
+      "Yargı",
+      "Sayıştay"
+    ],
+    "answer": "Yürütme",
+    "answerLetter": "A",
+    "explanation": "Bakanlar Kurulu yürütme organıdır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-078",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Yürütmenin temel görevi nedir? (Genel tekrar)",
+    "options": [
+      "Mahkeme kararı vermek",
+      "Seçmen listesi satmak",
+      "Kanunları uygulamak ve devlet işlerini yürütmek",
+      "Kanunları anayasaya aykırı yapmak"
+    ],
+    "answer": "Kanunları uygulamak ve devlet işlerini yürütmek",
+    "answerLetter": "C",
+    "explanation": "Yürütme kanunları uygular.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-079",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Cumhurbaşkanı anayasal sistemde neyi temsil eder? (Genel tekrar)",
+    "options": [
+      "Sadece mahkemeyi",
+      "Devletin başını",
+      "Sadece belediyeyi",
+      "Sadece özel okulu"
+    ],
+    "answer": "Devletin başını",
+    "answerLetter": "B",
+    "explanation": "Cumhurbaşkanı devletin başıdır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-080",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Bakanlar Kurulu hangi organ içinde değerlendirilir? (Genel tekrar)",
+    "options": [
+      "Yürütme",
+      "Yasama",
+      "Yargı",
+      "Sayıştay"
+    ],
+    "answer": "Yürütme",
+    "answerLetter": "A",
+    "explanation": "Bakanlar Kurulu yürütme organıdır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-081",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Yürütmenin temel görevi nedir? (Genel tekrar)",
+    "options": [
+      "Mahkeme kararı vermek",
+      "Seçmen listesi satmak",
+      "Kanunları uygulamak ve devlet işlerini yürütmek",
+      "Kanunları anayasaya aykırı yapmak"
+    ],
+    "answer": "Kanunları uygulamak ve devlet işlerini yürütmek",
+    "answerLetter": "C",
+    "explanation": "Yürütme kanunları uygular.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-082",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Cumhurbaşkanı anayasal sistemde neyi temsil eder? (Genel tekrar)",
+    "options": [
+      "Sadece mahkemeyi",
+      "Devletin başını",
+      "Sadece belediyeyi",
+      "Sadece özel okulu"
+    ],
+    "answer": "Devletin başını",
+    "answerLetter": "B",
+    "explanation": "Cumhurbaşkanı devletin başıdır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-083",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Bakanlar Kurulu hangi organ içinde değerlendirilir? (Genel tekrar)",
+    "options": [
+      "Yürütme",
+      "Yasama",
+      "Yargı",
+      "Sayıştay"
+    ],
+    "answer": "Yürütme",
+    "answerLetter": "A",
+    "explanation": "Bakanlar Kurulu yürütme organıdır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-084",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Yürütmenin temel görevi nedir? (Genel tekrar)",
+    "options": [
+      "Mahkeme kararı vermek",
+      "Seçmen listesi satmak",
+      "Kanunları uygulamak ve devlet işlerini yürütmek",
+      "Kanunları anayasaya aykırı yapmak"
+    ],
+    "answer": "Kanunları uygulamak ve devlet işlerini yürütmek",
+    "answerLetter": "C",
+    "explanation": "Yürütme kanunları uygular.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-085",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yürütme",
+    "difficulty": "Orta",
+    "question": "Cumhurbaşkanı anayasal sistemde neyi temsil eder? (Genel tekrar)",
+    "options": [
+      "Sadece mahkemeyi",
+      "Devletin başını",
+      "Sadece belediyeyi",
+      "Sadece özel okulu"
+    ],
+    "answer": "Devletin başını",
+    "answerLetter": "B",
+    "explanation": "Cumhurbaşkanı devletin başıdır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-086",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Zor",
+    "question": "Yargı organının temel niteliği ne olmalıdır?",
+    "options": [
+      "Siyasi emirle karar",
+      "Denetimsizlik",
+      "Bağımsızlık ve tarafsızlık",
+      "Keyfilik"
+    ],
+    "answer": "Bağımsızlık ve tarafsızlık",
+    "answerLetter": "C",
+    "explanation": "Yargı bağımsız ve tarafsız olmalıdır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-087",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Zor",
+    "question": "Anayasa Mahkemesinin temel görevi nedir?",
+    "options": [
+      "Seçim kampanyası yürütmek",
+      "Anayasaya uygunluk denetimi yapmak",
+      "Belediye bütçesi hazırlamak",
+      "Kanunları uygulamak"
+    ],
+    "answer": "Anayasaya uygunluk denetimi yapmak",
+    "answerLetter": "B",
+    "explanation": "Anayasa Mahkemesi anayasal denetim yapar.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-088",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Zor",
+    "question": "Mahkemelerin bağımsızlığı hangi ilkeyle ilişkilidir?",
+    "options": [
+      "Hukuk devleti",
+      "Keyfi yönetim",
+      "Ayrıcalık",
+      "Gizli işlem"
+    ],
+    "answer": "Hukuk devleti",
+    "answerLetter": "A",
+    "explanation": "Bağımsız yargı hukuk devletinin güvencesidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-089",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Zor",
+    "question": "KKTC Anayasası bakımından yargı organının temel niteliği ne olmalıdır?",
+    "options": [
+      "Siyasi emirle karar",
+      "Denetimsizlik",
+      "Bağımsızlık ve tarafsızlık",
+      "Keyfilik"
+    ],
+    "answer": "Bağımsızlık ve tarafsızlık",
+    "answerLetter": "C",
+    "explanation": "Yargı bağımsız ve tarafsız olmalıdır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-090",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Zor",
+    "question": "KKTC Anayasası bakımından anayasa Mahkemesinin temel görevi nedir?",
+    "options": [
+      "Seçim kampanyası yürütmek",
+      "Anayasaya uygunluk denetimi yapmak",
+      "Belediye bütçesi hazırlamak",
+      "Kanunları uygulamak"
+    ],
+    "answer": "Anayasaya uygunluk denetimi yapmak",
+    "answerLetter": "B",
+    "explanation": "Anayasa Mahkemesi anayasal denetim yapar.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-091",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Zor",
+    "question": "KKTC Anayasası bakımından mahkemelerin bağımsızlığı hangi ilkeyle ilişkilidir?",
+    "options": [
+      "Hukuk devleti",
+      "Keyfi yönetim",
+      "Ayrıcalık",
+      "Gizli işlem"
+    ],
+    "answer": "Hukuk devleti",
+    "answerLetter": "A",
+    "explanation": "Bağımsız yargı hukuk devletinin güvencesidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-092",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Zor",
+    "question": "Yargı organının temel niteliği ne olmalıdır?",
+    "options": [
+      "Siyasi emirle karar",
+      "Denetimsizlik",
+      "Bağımsızlık ve tarafsızlık",
+      "Keyfilik"
+    ],
+    "answer": "Bağımsızlık ve tarafsızlık",
+    "answerLetter": "C",
+    "explanation": "Yargı bağımsız ve tarafsız olmalıdır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-093",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Zor",
+    "question": "Anayasa Mahkemesinin temel görevi aşağıdakilerden hangisidir?",
+    "options": [
+      "Seçim kampanyası yürütmek",
+      "Anayasaya uygunluk denetimi yapmak",
+      "Belediye bütçesi hazırlamak",
+      "Kanunları uygulamak"
+    ],
+    "answer": "Anayasaya uygunluk denetimi yapmak",
+    "answerLetter": "B",
+    "explanation": "Anayasa Mahkemesi anayasal denetim yapar.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-094",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Zor",
+    "question": "Mahkemelerin bağımsızlığı hangi ilkeyle ilişkilidir?",
+    "options": [
+      "Hukuk devleti",
+      "Keyfi yönetim",
+      "Ayrıcalık",
+      "Gizli işlem"
+    ],
+    "answer": "Hukuk devleti",
+    "answerLetter": "A",
+    "explanation": "Bağımsız yargı hukuk devletinin güvencesidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-095",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Zor",
+    "question": "Yargı organının temel niteliği ne olmalıdır? (Genel tekrar)",
+    "options": [
+      "Siyasi emirle karar",
+      "Denetimsizlik",
+      "Bağımsızlık ve tarafsızlık",
+      "Keyfilik"
+    ],
+    "answer": "Bağımsızlık ve tarafsızlık",
+    "answerLetter": "C",
+    "explanation": "Yargı bağımsız ve tarafsız olmalıdır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-096",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Zor",
+    "question": "Anayasa Mahkemesinin temel görevi nedir? (Genel tekrar)",
+    "options": [
+      "Seçim kampanyası yürütmek",
+      "Anayasaya uygunluk denetimi yapmak",
+      "Belediye bütçesi hazırlamak",
+      "Kanunları uygulamak"
+    ],
+    "answer": "Anayasaya uygunluk denetimi yapmak",
+    "answerLetter": "B",
+    "explanation": "Anayasa Mahkemesi anayasal denetim yapar.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-097",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Zor",
+    "question": "Mahkemelerin bağımsızlığı hangi ilkeyle ilişkilidir? (Genel tekrar)",
+    "options": [
+      "Hukuk devleti",
+      "Keyfi yönetim",
+      "Ayrıcalık",
+      "Gizli işlem"
+    ],
+    "answer": "Hukuk devleti",
+    "answerLetter": "A",
+    "explanation": "Bağımsız yargı hukuk devletinin güvencesidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-098",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Zor",
+    "question": "Yargı organının temel niteliği ne olmalıdır? (Genel tekrar)",
+    "options": [
+      "Siyasi emirle karar",
+      "Denetimsizlik",
+      "Bağımsızlık ve tarafsızlık",
+      "Keyfilik"
+    ],
+    "answer": "Bağımsızlık ve tarafsızlık",
+    "answerLetter": "C",
+    "explanation": "Yargı bağımsız ve tarafsız olmalıdır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-099",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Zor",
+    "question": "Anayasa Mahkemesinin temel görevi nedir? (Genel tekrar)",
+    "options": [
+      "Seçim kampanyası yürütmek",
+      "Anayasaya uygunluk denetimi yapmak",
+      "Belediye bütçesi hazırlamak",
+      "Kanunları uygulamak"
+    ],
+    "answer": "Anayasaya uygunluk denetimi yapmak",
+    "answerLetter": "B",
+    "explanation": "Anayasa Mahkemesi anayasal denetim yapar.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-100",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Zor",
+    "question": "Mahkemelerin bağımsızlığı hangi ilkeyle ilişkilidir? (Genel tekrar)",
+    "options": [
+      "Hukuk devleti",
+      "Keyfi yönetim",
+      "Ayrıcalık",
+      "Gizli işlem"
+    ],
+    "answer": "Hukuk devleti",
+    "answerLetter": "A",
+    "explanation": "Bağımsız yargı hukuk devletinin güvencesidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-101",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Zor",
+    "question": "Yargı organının temel niteliği ne olmalıdır? (Genel tekrar)",
+    "options": [
+      "Siyasi emirle karar",
+      "Denetimsizlik",
+      "Bağımsızlık ve tarafsızlık",
+      "Keyfilik"
+    ],
+    "answer": "Bağımsızlık ve tarafsızlık",
+    "answerLetter": "C",
+    "explanation": "Yargı bağımsız ve tarafsız olmalıdır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-102",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Zor",
+    "question": "Anayasa Mahkemesinin temel görevi nedir? (Genel tekrar)",
+    "options": [
+      "Seçim kampanyası yürütmek",
+      "Anayasaya uygunluk denetimi yapmak",
+      "Belediye bütçesi hazırlamak",
+      "Kanunları uygulamak"
+    ],
+    "answer": "Anayasaya uygunluk denetimi yapmak",
+    "answerLetter": "B",
+    "explanation": "Anayasa Mahkemesi anayasal denetim yapar.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-103",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Zor",
+    "question": "Mahkemelerin bağımsızlığı hangi ilkeyle ilişkilidir? (Genel tekrar)",
+    "options": [
+      "Hukuk devleti",
+      "Keyfi yönetim",
+      "Ayrıcalık",
+      "Gizli işlem"
+    ],
+    "answer": "Hukuk devleti",
+    "answerLetter": "A",
+    "explanation": "Bağımsız yargı hukuk devletinin güvencesidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-104",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Zor",
+    "question": "Yargı organının temel niteliği ne olmalıdır? (Genel tekrar)",
+    "options": [
+      "Siyasi emirle karar",
+      "Denetimsizlik",
+      "Bağımsızlık ve tarafsızlık",
+      "Keyfilik"
+    ],
+    "answer": "Bağımsızlık ve tarafsızlık",
+    "answerLetter": "C",
+    "explanation": "Yargı bağımsız ve tarafsız olmalıdır.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-105",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yargı",
+    "difficulty": "Zor",
+    "question": "Anayasa Mahkemesinin temel görevi nedir? (Genel tekrar)",
+    "options": [
+      "Seçim kampanyası yürütmek",
+      "Anayasaya uygunluk denetimi yapmak",
+      "Belediye bütçesi hazırlamak",
+      "Kanunları uygulamak"
+    ],
+    "answer": "Anayasaya uygunluk denetimi yapmak",
+    "answerLetter": "B",
+    "explanation": "Anayasa Mahkemesi anayasal denetim yapar.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-106",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Kamu Kurumları",
+    "difficulty": "Orta",
+    "question": "Sayıştay hangi alanla ilişkilidir?",
+    "options": [
+      "Spor müsabakası",
+      "Özel alışveriş",
+      "Kamu mali denetimi",
+      "Din hizmetleri"
+    ],
+    "answer": "Kamu mali denetimi",
+    "answerLetter": "C",
+    "explanation": "Sayıştay kamu kaynaklarının denetimiyle ilgilidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-107",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Kamu Kurumları",
+    "difficulty": "Orta",
+    "question": "Ombudsman hangi işlevle ilişkilidir?",
+    "options": [
+      "Askeri tören",
+      "İdarenin denetimi ve bireyin korunması",
+      "Kanun yapma",
+      "Yargı kararı verme"
+    ],
+    "answer": "İdarenin denetimi ve bireyin korunması",
+    "answerLetter": "B",
+    "explanation": "Ombudsman idarenin işlem ve eylemlerinin denetimiyle ilgilidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-108",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Kamu Kurumları",
+    "difficulty": "Orta",
+    "question": "Kamu Hizmeti Komisyonu hangi alanla ilgilidir?",
+    "options": [
+      "Kamu personel işlemleri",
+      "Trafik tabelaları",
+      "Turizm festivalleri",
+      "Mahkeme cezaları"
+    ],
+    "answer": "Kamu personel işlemleri",
+    "answerLetter": "A",
+    "explanation": "Kamu Hizmeti Komisyonu kamu personel sistemiyle ilgilidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-109",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Kamu Kurumları",
+    "difficulty": "Orta",
+    "question": "KKTC Anayasası bakımından sayıştay hangi alanla ilişkilidir?",
+    "options": [
+      "Spor müsabakası",
+      "Özel alışveriş",
+      "Kamu mali denetimi",
+      "Din hizmetleri"
+    ],
+    "answer": "Kamu mali denetimi",
+    "answerLetter": "C",
+    "explanation": "Sayıştay kamu kaynaklarının denetimiyle ilgilidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-110",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Kamu Kurumları",
+    "difficulty": "Orta",
+    "question": "KKTC Anayasası bakımından ombudsman hangi işlevle ilişkilidir?",
+    "options": [
+      "Askeri tören",
+      "İdarenin denetimi ve bireyin korunması",
+      "Kanun yapma",
+      "Yargı kararı verme"
+    ],
+    "answer": "İdarenin denetimi ve bireyin korunması",
+    "answerLetter": "B",
+    "explanation": "Ombudsman idarenin işlem ve eylemlerinin denetimiyle ilgilidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-111",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Kamu Kurumları",
+    "difficulty": "Orta",
+    "question": "KKTC Anayasası bakımından kamu Hizmeti Komisyonu hangi alanla ilgilidir?",
+    "options": [
+      "Kamu personel işlemleri",
+      "Trafik tabelaları",
+      "Turizm festivalleri",
+      "Mahkeme cezaları"
+    ],
+    "answer": "Kamu personel işlemleri",
+    "answerLetter": "A",
+    "explanation": "Kamu Hizmeti Komisyonu kamu personel sistemiyle ilgilidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-112",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Kamu Kurumları",
+    "difficulty": "Orta",
+    "question": "Sayıştay hangi alanla ilişkilidir?",
+    "options": [
+      "Spor müsabakası",
+      "Özel alışveriş",
+      "Kamu mali denetimi",
+      "Din hizmetleri"
+    ],
+    "answer": "Kamu mali denetimi",
+    "answerLetter": "C",
+    "explanation": "Sayıştay kamu kaynaklarının denetimiyle ilgilidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-113",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Kamu Kurumları",
+    "difficulty": "Orta",
+    "question": "Ombudsman hangi işlevle ilişkilidir?",
+    "options": [
+      "Askeri tören",
+      "İdarenin denetimi ve bireyin korunması",
+      "Kanun yapma",
+      "Yargı kararı verme"
+    ],
+    "answer": "İdarenin denetimi ve bireyin korunması",
+    "answerLetter": "B",
+    "explanation": "Ombudsman idarenin işlem ve eylemlerinin denetimiyle ilgilidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-114",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Kamu Kurumları",
+    "difficulty": "Orta",
+    "question": "Kamu Hizmeti Komisyonu hangi alanla ilgilidir?",
+    "options": [
+      "Kamu personel işlemleri",
+      "Trafik tabelaları",
+      "Turizm festivalleri",
+      "Mahkeme cezaları"
+    ],
+    "answer": "Kamu personel işlemleri",
+    "answerLetter": "A",
+    "explanation": "Kamu Hizmeti Komisyonu kamu personel sistemiyle ilgilidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-115",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Kamu Kurumları",
+    "difficulty": "Orta",
+    "question": "Sayıştay hangi alanla ilişkilidir? (Genel tekrar)",
+    "options": [
+      "Spor müsabakası",
+      "Özel alışveriş",
+      "Kamu mali denetimi",
+      "Din hizmetleri"
+    ],
+    "answer": "Kamu mali denetimi",
+    "answerLetter": "C",
+    "explanation": "Sayıştay kamu kaynaklarının denetimiyle ilgilidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-116",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Kamu Kurumları",
+    "difficulty": "Orta",
+    "question": "Ombudsman hangi işlevle ilişkilidir? (Genel tekrar)",
+    "options": [
+      "Askeri tören",
+      "İdarenin denetimi ve bireyin korunması",
+      "Kanun yapma",
+      "Yargı kararı verme"
+    ],
+    "answer": "İdarenin denetimi ve bireyin korunması",
+    "answerLetter": "B",
+    "explanation": "Ombudsman idarenin işlem ve eylemlerinin denetimiyle ilgilidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-117",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Kamu Kurumları",
+    "difficulty": "Orta",
+    "question": "Kamu Hizmeti Komisyonu hangi alanla ilgilidir? (Genel tekrar)",
+    "options": [
+      "Kamu personel işlemleri",
+      "Trafik tabelaları",
+      "Turizm festivalleri",
+      "Mahkeme cezaları"
+    ],
+    "answer": "Kamu personel işlemleri",
+    "answerLetter": "A",
+    "explanation": "Kamu Hizmeti Komisyonu kamu personel sistemiyle ilgilidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-118",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Kamu Kurumları",
+    "difficulty": "Orta",
+    "question": "Sayıştay hangi alanla ilişkilidir? (Genel tekrar)",
+    "options": [
+      "Spor müsabakası",
+      "Özel alışveriş",
+      "Kamu mali denetimi",
+      "Din hizmetleri"
+    ],
+    "answer": "Kamu mali denetimi",
+    "answerLetter": "C",
+    "explanation": "Sayıştay kamu kaynaklarının denetimiyle ilgilidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-119",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Kamu Kurumları",
+    "difficulty": "Orta",
+    "question": "Ombudsman hangi işlevle ilişkilidir? (Genel tekrar)",
+    "options": [
+      "Askeri tören",
+      "İdarenin denetimi ve bireyin korunması",
+      "Kanun yapma",
+      "Yargı kararı verme"
+    ],
+    "answer": "İdarenin denetimi ve bireyin korunması",
+    "answerLetter": "B",
+    "explanation": "Ombudsman idarenin işlem ve eylemlerinin denetimiyle ilgilidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-120",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Kamu Kurumları",
+    "difficulty": "Orta",
+    "question": "Kamu Hizmeti Komisyonu hangi alanla ilgilidir? (Genel tekrar)",
+    "options": [
+      "Kamu personel işlemleri",
+      "Trafik tabelaları",
+      "Turizm festivalleri",
+      "Mahkeme cezaları"
+    ],
+    "answer": "Kamu personel işlemleri",
+    "answerLetter": "A",
+    "explanation": "Kamu Hizmeti Komisyonu kamu personel sistemiyle ilgilidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-121",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yerel Yönetimler",
+    "difficulty": "Kolay",
+    "question": "Yerel yönetimlerin temel amacı nedir?",
+    "options": [
+      "Merkezi devleti kaldırmak",
+      "Mahkemeleri kapatmak",
+      "Anayasayı iptal etmek",
+      "Yerel halkın ortak ihtiyaçlarını karşılamak"
+    ],
+    "answer": "Yerel halkın ortak ihtiyaçlarını karşılamak",
+    "answerLetter": "D",
+    "explanation": "Yerel yönetimler yerel ihtiyaçlar için kurulmuştur.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-122",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yerel Yönetimler",
+    "difficulty": "Kolay",
+    "question": "Belediyeler hangi yönetime örnektir?",
+    "options": [
+      "Yasama organı",
+      "Anayasa Mahkemesi",
+      "Yerel yönetim",
+      "Yargı organı"
+    ],
+    "answer": "Yerel yönetim",
+    "answerLetter": "C",
+    "explanation": "Belediyeler yerel yönetim örneğidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-123",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yerel Yönetimler",
+    "difficulty": "Kolay",
+    "question": "KKTC Anayasası bakımından yerel yönetimlerin temel amacı nedir?",
+    "options": [
+      "Yerel halkın ortak ihtiyaçlarını karşılamak",
+      "Merkezi devleti kaldırmak",
+      "Mahkemeleri kapatmak",
+      "Anayasayı iptal etmek"
+    ],
+    "answer": "Yerel halkın ortak ihtiyaçlarını karşılamak",
+    "answerLetter": "A",
+    "explanation": "Yerel yönetimler yerel ihtiyaçlar için kurulmuştur.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-124",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yerel Yönetimler",
+    "difficulty": "Kolay",
+    "question": "KKTC Anayasası bakımından belediyeler hangi yönetime örnektir?",
+    "options": [
+      "Yargı organı",
+      "Yasama organı",
+      "Anayasa Mahkemesi",
+      "Yerel yönetim"
+    ],
+    "answer": "Yerel yönetim",
+    "answerLetter": "D",
+    "explanation": "Belediyeler yerel yönetim örneğidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-125",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yerel Yönetimler",
+    "difficulty": "Kolay",
+    "question": "Yerel yönetimlerin temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      "Anayasayı iptal etmek",
+      "Yerel halkın ortak ihtiyaçlarını karşılamak",
+      "Merkezi devleti kaldırmak",
+      "Mahkemeleri kapatmak"
+    ],
+    "answer": "Yerel halkın ortak ihtiyaçlarını karşılamak",
+    "answerLetter": "B",
+    "explanation": "Yerel yönetimler yerel ihtiyaçlar için kurulmuştur.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-126",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yerel Yönetimler",
+    "difficulty": "Kolay",
+    "question": "Belediyeler hangi yönetime örnektir?",
+    "options": [
+      "Yerel yönetim",
+      "Yargı organı",
+      "Yasama organı",
+      "Anayasa Mahkemesi"
+    ],
+    "answer": "Yerel yönetim",
+    "answerLetter": "A",
+    "explanation": "Belediyeler yerel yönetim örneğidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-127",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yerel Yönetimler",
+    "difficulty": "Kolay",
+    "question": "Yerel yönetimlerin temel amacı nedir? (Genel tekrar)",
+    "options": [
+      "Mahkemeleri kapatmak",
+      "Anayasayı iptal etmek",
+      "Yerel halkın ortak ihtiyaçlarını karşılamak",
+      "Merkezi devleti kaldırmak"
+    ],
+    "answer": "Yerel halkın ortak ihtiyaçlarını karşılamak",
+    "answerLetter": "C",
+    "explanation": "Yerel yönetimler yerel ihtiyaçlar için kurulmuştur.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-128",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yerel Yönetimler",
+    "difficulty": "Kolay",
+    "question": "Belediyeler hangi yönetime örnektir? (Genel tekrar)",
+    "options": [
+      "Anayasa Mahkemesi",
+      "Yerel yönetim",
+      "Yargı organı",
+      "Yasama organı"
+    ],
+    "answer": "Yerel yönetim",
+    "answerLetter": "B",
+    "explanation": "Belediyeler yerel yönetim örneğidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-129",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yerel Yönetimler",
+    "difficulty": "Kolay",
+    "question": "Yerel yönetimlerin temel amacı nedir? (Genel tekrar)",
+    "options": [
+      "Merkezi devleti kaldırmak",
+      "Mahkemeleri kapatmak",
+      "Anayasayı iptal etmek",
+      "Yerel halkın ortak ihtiyaçlarını karşılamak"
+    ],
+    "answer": "Yerel halkın ortak ihtiyaçlarını karşılamak",
+    "answerLetter": "D",
+    "explanation": "Yerel yönetimler yerel ihtiyaçlar için kurulmuştur.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-130",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Yerel Yönetimler",
+    "difficulty": "Kolay",
+    "question": "Belediyeler hangi yönetime örnektir? (Genel tekrar)",
+    "options": [
+      "Yasama organı",
+      "Anayasa Mahkemesi",
+      "Yerel yönetim",
+      "Yargı organı"
+    ],
+    "answer": "Yerel yönetim",
+    "answerLetter": "C",
+    "explanation": "Belediyeler yerel yönetim örneğidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-131",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Anayasa Değişikliği",
+    "difficulty": "Zor",
+    "question": "Anayasa değişikliği neden özel usule bağlıdır?",
+    "options": [
+      "Sözlü emir olduğu için",
+      "Anayasa devletin temel metni olduğu için",
+      "Önemsiz olduğu için",
+      "Sadece logo değiştirdiği için"
+    ],
+    "answer": "Anayasa devletin temel metni olduğu için",
+    "answerLetter": "B",
+    "explanation": "Anayasa sıradan kanundan daha üst normdur.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-132",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Anayasa Değişikliği",
+    "difficulty": "Zor",
+    "question": "Anayasa ile sıradan kanun arasındaki ilişki nasıldır?",
+    "options": [
+      "Anayasa üst normdur",
+      "Kanun her zaman anayasadan üstündür",
+      "İkisi ilgisizdir",
+      "Anayasa sadece tavsiyedir"
+    ],
+    "answer": "Anayasa üst normdur",
+    "answerLetter": "A",
+    "explanation": "Anayasa normlar hiyerarşisinde üsttedir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-133",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Anayasa Değişikliği",
+    "difficulty": "Zor",
+    "question": "KKTC Anayasası bakımından anayasa değişikliği neden özel usule bağlıdır?",
+    "options": [
+      "Sadece logo değiştirdiği için",
+      "Sözlü emir olduğu için",
+      "Anayasa devletin temel metni olduğu için",
+      "Önemsiz olduğu için"
+    ],
+    "answer": "Anayasa devletin temel metni olduğu için",
+    "answerLetter": "C",
+    "explanation": "Anayasa sıradan kanundan daha üst normdur.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-134",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Anayasa Değişikliği",
+    "difficulty": "Zor",
+    "question": "KKTC Anayasası bakımından anayasa ile sıradan kanun arasındaki ilişki nasıldır?",
+    "options": [
+      "Anayasa sadece tavsiyedir",
+      "Anayasa üst normdur",
+      "Kanun her zaman anayasadan üstündür",
+      "İkisi ilgisizdir"
+    ],
+    "answer": "Anayasa üst normdur",
+    "answerLetter": "B",
+    "explanation": "Anayasa normlar hiyerarşisinde üsttedir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-135",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Anayasa Değişikliği",
+    "difficulty": "Zor",
+    "question": "Anayasa değişikliği neden özel usule bağlıdır?",
+    "options": [
+      "Önemsiz olduğu için",
+      "Sadece logo değiştirdiği için",
+      "Sözlü emir olduğu için",
+      "Anayasa devletin temel metni olduğu için"
+    ],
+    "answer": "Anayasa devletin temel metni olduğu için",
+    "answerLetter": "D",
+    "explanation": "Anayasa sıradan kanundan daha üst normdur.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-136",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Anayasa Değişikliği",
+    "difficulty": "Zor",
+    "question": "Anayasa ile sıradan kanun arasındaki ilişki nasıldır?",
+    "options": [
+      "İkisi ilgisizdir",
+      "Anayasa sadece tavsiyedir",
+      "Anayasa üst normdur",
+      "Kanun her zaman anayasadan üstündür"
+    ],
+    "answer": "Anayasa üst normdur",
+    "answerLetter": "C",
+    "explanation": "Anayasa normlar hiyerarşisinde üsttedir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-137",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Anayasa Değişikliği",
+    "difficulty": "Zor",
+    "question": "Anayasa değişikliği neden özel usule bağlıdır? (Genel tekrar)",
+    "options": [
+      "Anayasa devletin temel metni olduğu için",
+      "Önemsiz olduğu için",
+      "Sadece logo değiştirdiği için",
+      "Sözlü emir olduğu için"
+    ],
+    "answer": "Anayasa devletin temel metni olduğu için",
+    "answerLetter": "A",
+    "explanation": "Anayasa sıradan kanundan daha üst normdur.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-138",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Anayasa Değişikliği",
+    "difficulty": "Zor",
+    "question": "Anayasa ile sıradan kanun arasındaki ilişki nasıldır? (Genel tekrar)",
+    "options": [
+      "Kanun her zaman anayasadan üstündür",
+      "İkisi ilgisizdir",
+      "Anayasa sadece tavsiyedir",
+      "Anayasa üst normdur"
+    ],
+    "answer": "Anayasa üst normdur",
+    "answerLetter": "D",
+    "explanation": "Anayasa normlar hiyerarşisinde üsttedir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-139",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Anayasa Değişikliği",
+    "difficulty": "Zor",
+    "question": "Anayasa değişikliği neden özel usule bağlıdır? (Genel tekrar)",
+    "options": [
+      "Sözlü emir olduğu için",
+      "Anayasa devletin temel metni olduğu için",
+      "Önemsiz olduğu için",
+      "Sadece logo değiştirdiği için"
+    ],
+    "answer": "Anayasa devletin temel metni olduğu için",
+    "answerLetter": "B",
+    "explanation": "Anayasa sıradan kanundan daha üst normdur.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-140",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Anayasa Değişikliği",
+    "difficulty": "Zor",
+    "question": "Anayasa ile sıradan kanun arasındaki ilişki nasıldır? (Genel tekrar)",
+    "options": [
+      "Anayasa üst normdur",
+      "Kanun her zaman anayasadan üstündür",
+      "İkisi ilgisizdir",
+      "Anayasa sadece tavsiyedir"
+    ],
+    "answer": "Anayasa üst normdur",
+    "answerLetter": "A",
+    "explanation": "Anayasa normlar hiyerarşisinde üsttedir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-141",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Tekrar",
+    "difficulty": "Kolay",
+    "question": "Yasama, yürütme ve yargı ayrımı hangi ilkeyle ilişkilidir?",
+    "options": [
+      "Keyfilik",
+      "Ayrıcalık",
+      "Denetimsizlik",
+      "Kuvvetler ayrılığı"
+    ],
+    "answer": "Kuvvetler ayrılığı",
+    "answerLetter": "D",
+    "explanation": "Kuvvetler ayrılığı devlet organlarının ayrımını ifade eder.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-142",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Tekrar",
+    "difficulty": "Kolay",
+    "question": "Anayasa çalışırken ilk öğrenilmesi gereken başlık hangisidir?",
+    "options": [
+      "Sadece logo",
+      "Sadece trafik",
+      "Genel esaslar",
+      "Sadece yerel yönetim"
+    ],
+    "answer": "Genel esaslar",
+    "answerLetter": "C",
+    "explanation": "Genel esaslar anayasa çalışmasının temelidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-143",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Tekrar",
+    "difficulty": "Kolay",
+    "question": "KKTC Anayasası bakımından yasama, yürütme ve yargı ayrımı hangi ilkeyle ilişkilidir?",
+    "options": [
+      "Kuvvetler ayrılığı",
+      "Keyfilik",
+      "Ayrıcalık",
+      "Denetimsizlik"
+    ],
+    "answer": "Kuvvetler ayrılığı",
+    "answerLetter": "A",
+    "explanation": "Kuvvetler ayrılığı devlet organlarının ayrımını ifade eder.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-144",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Tekrar",
+    "difficulty": "Kolay",
+    "question": "KKTC Anayasası bakımından anayasa çalışırken ilk öğrenilmesi gereken başlık hangisidir?",
+    "options": [
+      "Sadece yerel yönetim",
+      "Sadece logo",
+      "Sadece trafik",
+      "Genel esaslar"
+    ],
+    "answer": "Genel esaslar",
+    "answerLetter": "D",
+    "explanation": "Genel esaslar anayasa çalışmasının temelidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-145",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Tekrar",
+    "difficulty": "Kolay",
+    "question": "Yasama, yürütme ve yargı ayrımı hangi ilkeyle ilişkilidir?",
+    "options": [
+      "Denetimsizlik",
+      "Kuvvetler ayrılığı",
+      "Keyfilik",
+      "Ayrıcalık"
+    ],
+    "answer": "Kuvvetler ayrılığı",
+    "answerLetter": "B",
+    "explanation": "Kuvvetler ayrılığı devlet organlarının ayrımını ifade eder.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-146",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Tekrar",
+    "difficulty": "Kolay",
+    "question": "Anayasa çalışırken ilk öğrenilmesi gereken başlık hangisidir?",
+    "options": [
+      "Genel esaslar",
+      "Sadece yerel yönetim",
+      "Sadece logo",
+      "Sadece trafik"
+    ],
+    "answer": "Genel esaslar",
+    "answerLetter": "A",
+    "explanation": "Genel esaslar anayasa çalışmasının temelidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-147",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Tekrar",
+    "difficulty": "Kolay",
+    "question": "Yasama, yürütme ve yargı ayrımı hangi ilkeyle ilişkilidir? (Genel tekrar)",
+    "options": [
+      "Ayrıcalık",
+      "Denetimsizlik",
+      "Kuvvetler ayrılığı",
+      "Keyfilik"
+    ],
+    "answer": "Kuvvetler ayrılığı",
+    "answerLetter": "C",
+    "explanation": "Kuvvetler ayrılığı devlet organlarının ayrımını ifade eder.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-148",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Tekrar",
+    "difficulty": "Kolay",
+    "question": "Anayasa çalışırken ilk öğrenilmesi gereken başlık hangisidir? (Genel tekrar)",
+    "options": [
+      "Sadece trafik",
+      "Genel esaslar",
+      "Sadece yerel yönetim",
+      "Sadece logo"
+    ],
+    "answer": "Genel esaslar",
+    "answerLetter": "B",
+    "explanation": "Genel esaslar anayasa çalışmasının temelidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-149",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Tekrar",
+    "difficulty": "Kolay",
+    "question": "Yasama, yürütme ve yargı ayrımı hangi ilkeyle ilişkilidir? (Genel tekrar)",
+    "options": [
+      "Keyfilik",
+      "Ayrıcalık",
+      "Denetimsizlik",
+      "Kuvvetler ayrılığı"
+    ],
+    "answer": "Kuvvetler ayrılığı",
+    "answerLetter": "D",
+    "explanation": "Kuvvetler ayrılığı devlet organlarının ayrımını ifade eder.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "ka-150",
+    "testGroup": "KKTC Anayasası",
+    "category": "KKTC Anayasası",
+    "topic": "Genel Tekrar",
+    "difficulty": "Kolay",
+    "question": "Anayasa çalışırken ilk öğrenilmesi gereken başlık hangisidir? (Genel tekrar)",
+    "options": [
+      "Sadece logo",
+      "Sadece trafik",
+      "Genel esaslar",
+      "Sadece yerel yönetim"
+    ],
+    "answer": "Genel esaslar",
+    "answerLetter": "C",
+    "explanation": "Genel esaslar anayasa çalışmasının temelidir.",
+    "source": "KKTC Anayasası mini çalışma metinleri"
   }
 ];

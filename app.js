@@ -32,13 +32,15 @@ function moduleStats(){
 function questionsByGroup(group){
  const qs=getQuestions();
  if(group==="Kamu Yasası") return qs.filter(q=>q.category==="Kamu Yasası" || q.testGroup==="Kamu Yasası");
- if(group==="Genel Kültür") return qs.filter(q=>q.category!=="Kamu Yasası" && q.testGroup!=="Kamu Yasası");
+ if(group==="KKTC Anayasası") return qs.filter(q=>q.category==="KKTC Anayasası" || q.testGroup==="KKTC Anayasası");
+ if(group==="Genel Kültür") return qs.filter(q=>q.category!=="Kamu Yasası" && q.testGroup!=="Kamu Yasası" && q.category!=="KKTC Anayasası" && q.testGroup!=="KKTC Anayasası");
  return qs;
 }
 function groupCounts(){
  return {
    genel: questionsByGroup("Genel Kültür").length,
-   kamu: questionsByGroup("Kamu Yasası").length
+   kamu: questionsByGroup("Kamu Yasası").length,
+   anayasa: questionsByGroup("KKTC Anayasası").length
  };
 }
 function difficultyCounts(group){
@@ -73,18 +75,18 @@ function renderHome(){
   <div class="pro-hero-left">
    <div class="pro-badge">KKTC Kamu Sınavı Hazırlık</div>
    <h1>StarQuiz</h1>
-   <p>Genel Kültür ve Kamu Yasası ayrı test havuzlarıyla çalış. Sorular birbirine karışmaz.</p>
+   <p>Genel Kültür, Kamu Yasası ve KKTC Anayasası ayrı test havuzlarıyla çalış. Sorular birbirine karışmaz.</p>
    <div class="pro-actions">
     <button class="primary" onclick="setPage('exam')">🎯 Test Seç</button>
     <button class="secondary" onclick="setPage('lessons')">📖 Derslere Başla</button>
    </div>
   </div>
-  <div class="pro-hero-logo"><img src="./logo.png?v=testsecim1" alt="StarQuiz"></div>
+  <div class="pro-hero-logo"><img src="./logo.png?v=anayasa1" alt="StarQuiz"></div>
  </section>
  <section class="pro-grid-3">
   <div class="pro-card"><span>📚 Toplam Soru</span><b>${qs.length}</b><small>Genel + Kamu</small></div>
   <div class="pro-card"><span>⚖️ Kamu Yasası</span><b>${gc.kamu}</b><small>Ayrı test havuzu</small></div>
-  <div class="pro-card"><span>📖 Ders</span><b>${ms.done}/${ms.total}</b><small>%${ms.percentDone} tamamlandı</small></div>
+  <div class="pro-card"><span>🇨🇾 KKTC Anayasası</span><b>${gc.anayasa}</b><small>Ayrı test havuzu</small></div>
  </section>
  <section class="card pro-progress-card">
   <div class="section-head"><div><h2>Test Sistemi</h2><p class="muted">Genel Kültür ve Kamu Yasası ayrı seçilir. Karışık soru gelmez.</p></div><strong>%${rate}</strong></div>
@@ -100,7 +102,7 @@ function renderExam(){
   <div>
    <div class="pro-badge">Test Seçimi</div>
    <h1>🎯 Hangi test?</h1>
-   <p>Önce kategori seç. Genel Kültür ve Kamu Yasası soruları birbirine karışmaz.</p>
+   <p>Önce kategori seç. Genel Kültür, Kamu Yasası ve KKTC Anayasası soruları birbirine karışmaz.</p>
   </div>
  </section>
  <section class="test-choice-grid">
@@ -109,6 +111,9 @@ function renderExam(){
   </button>
   <button class="test-choice-card gold" onclick="selectTestGroup('Kamu Yasası')">
    <span>⚖️</span><h2>Kamu Yasası Testi</h2><p>${gc.kamu} soruluk havuz</p><b>Başla ›</b>
+  </button>
+  <button class="test-choice-card purple" onclick="selectTestGroup('KKTC Anayasası')">
+   <span>🇨🇾</span><h2>KKTC Anayasası Testi</h2><p>${gc.anayasa} soruluk havuz</p><b>Başla ›</b>
   </button>
  </section>`;
 }
@@ -182,7 +187,7 @@ function finishQuiz(){
 function renderLessons(){
  const lessons=getLessons(), progress=progressData(), doneCount=lessons.filter(l=>progress[l.id]).length, groups={};
  lessons.forEach(l=>{ const key=l.category||"Genel"; groups[key]=groups[key]||[]; groups[key].push(l); });
- app.innerHTML=`<section class="lesson-dashboard"><div><div class="pro-badge">Okuma Modu</div><h1>📖 Mini Dersler</h1><p>Genel Kültür ve Kamu Yasası mini çalışma metinleri.</p></div><div class="lesson-ring"><b>${doneCount}</b><span>/${lessons.length}</span><small>tamamlandı</small></div></section>
+ app.innerHTML=`<section class="lesson-dashboard"><div><div class="pro-badge">Okuma Modu</div><h1>📖 Mini Dersler</h1><p>Genel Kültür, Kamu Yasası ve KKTC Anayasası mini çalışma metinleri.</p></div><div class="lesson-ring"><b>${doneCount}</b><span>/${lessons.length}</span><small>tamamlandı</small></div></section>
  ${Object.entries(groups).map(([cat,items])=>{ const catDone=items.filter(l=>progress[l.id]).length, catPct=items.length?Math.round(catDone/items.length*100):0; return `<section class="card lesson-group-card"><div class="section-head"><div><h2>${esc(cat)}</h2><p class="muted">${items.length} mini ders · ${catDone} tamamlandı</p></div><strong>%${catPct}</strong></div><div class="mini-progress"><div style="width:${catPct}%"></div></div><div class="lesson-list-pro">${items.map((l,idx)=>`<button class="lesson-row-pro ${progress[l.id]?"done":""}" onclick="openLesson('${jsArg(l.id)}')"><div class="lesson-num">${progress[l.id]?"✓":idx+1}</div><div class="lesson-main"><b>${esc(l.emoji||"📖")} ${esc(l.title)}</b><small>${esc(l.module)} · ${l.minutes||2} dk okuma</small></div><div class="lesson-arrow">›</div></button>`).join("")}</div></section>`; }).join("")}`;
 }
 function openLesson(id){

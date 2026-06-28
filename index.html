@@ -4,17 +4,17 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
   <meta name="theme-color" content="#08111f"/>
-  <title>StarQuiz Test Seçimli</title>
-  <link rel="manifest" href="./manifest.json?v=testsecim1">
-  <link rel="icon" href="./favicon.png?v=testsecim1">
-  <link rel="apple-touch-icon" href="./apple-touch-icon.png?v=testsecim1">
-  <link rel="stylesheet" href="./style.css?v=testsecim1">
+  <title>StarQuiz Anayasa Ekli</title>
+  <link rel="manifest" href="./manifest.json?v=anayasa1">
+  <link rel="icon" href="./favicon.png?v=anayasa1">
+  <link rel="apple-touch-icon" href="./apple-touch-icon.png?v=anayasa1">
+  <link rel="stylesheet" href="./style.css?v=anayasa1">
 </head>
 <body>
   <div class="app-shell">
     <header class="topbar">
       <div class="brand-row">
-        <img src="./icon-192.png?v=testsecim1" class="mini-logo" alt="StarQuiz">
+        <img src="./icon-192.png?v=anayasa1" class="mini-logo" alt="StarQuiz">
         <div>
           <div class="brand">StarQuiz</div>
           <div class="subtitle">KKTC Kamu Sınavı Hazırlık</div>
@@ -35,11 +35,11 @@
   </div>
 
   <script>
-    window.STARQUIZ_BUILD = "testsecim1";
+    window.STARQUIZ_BUILD = "anayasa1";
     try {
       var old = localStorage.getItem("starquiz_build");
-      if (old !== "testsecim1") {
-        localStorage.setItem("starquiz_build", "testsecim1");
+      if (old !== "anayasa1") {
+        localStorage.setItem("starquiz_build", "anayasa1");
         if ("caches" in window) {
           caches.keys().then(function(keys){
             return Promise.all(keys.map(function(k){ return caches.delete(k); }));
@@ -48,13 +48,13 @@
       }
     } catch(e) {}
   </script>
-  <script src="./questions.js?v=testsecim1"></script>
-  <script src="./lessons.js?v=testsecim1"></script>
-  <script src="./app.js?v=testsecim1"></script>
+  <script src="./questions.js?v=anayasa1"></script>
+  <script src="./lessons.js?v=anayasa1"></script>
+  <script src="./app.js?v=anayasa1"></script>
   <script>
     if ("serviceWorker" in navigator) {
       window.addEventListener("load", function(){
-        navigator.serviceWorker.register("./service-worker.js?v=testsecim1").then(function(reg){
+        navigator.serviceWorker.register("./service-worker.js?v=anayasa1").then(function(reg){
           if(reg && reg.update) reg.update();
         }).catch(function(){});
       });
