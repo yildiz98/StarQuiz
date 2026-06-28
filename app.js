@@ -81,7 +81,7 @@ function renderHome(){
     <button class="secondary" onclick="setPage('lessons')">📖 Derslere Başla</button>
    </div>
   </div>
-  <div class="pro-hero-logo"><img src="./logo.png?v=trmath1" alt="StarQuiz"></div>
+  <div class="pro-hero-logo"><img src="./logo.png?v=neoncards1" alt="StarQuiz"></div>
  </section>
  <section class="pro-grid-3">
   <div class="pro-card"><span>📚 Toplam Soru</span><b>${qs.length}</b><small>Genel + Kamu</small></div>
@@ -216,7 +216,7 @@ function renderHome(){
  <div class="final-welcome"><div class="final-badge">KKTC Kamu Sınavı Hazırlık</div><h1>StarQuiz</h1>
  <p>Genel Kültür, Kamu Yasası ve KKTC Anayasası için ayrı ders ve test sistemi.</p>
  <div class="final-actions"><button class="primary" onclick="setPage('exam')">🎯 Test Seç</button><button class="secondary" onclick="setPage('lessons')">📖 Derslere Git</button></div></div>
- <div class="final-score"><img src="./logo.png?v=trmath1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
+ <div class="final-score"><img src="./logo.png?v=neoncards1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
  <section class="final-modules">
  <button onclick="selectTestGroup('Genel Kültür')"><span>📚</span><b>Genel Kültür</b><small>${gc.genel} soru</small></button>
  <button onclick="selectTestGroup('Kamu Yasası')"><span>⚖️</span><b>Kamu Yasası</b><small>${gc.kamu} soru</small></button>
@@ -264,7 +264,7 @@ function renderHome(){
  <div class="final-welcome"><div class="final-badge">KKTC Kamu Sınavı Hazırlık</div><h1>StarQuiz</h1>
  <p>Genel Kültür, Kamu Yasası, KKTC Anayasası, Türkçe ve Matematik için ayrı ders ve test sistemi.</p>
  <div class="final-actions"><button class="primary" onclick="setPage('exam')">🎯 Test Seç</button><button class="secondary" onclick="setPage('lessons')">📖 Derslere Git</button></div></div>
- <div class="final-score"><img src="./logo.png?v=trmath1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
+ <div class="final-score"><img src="./logo.png?v=neoncards1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
  <section class="final-modules five">
  <button onclick="selectTestGroup('Genel Kültür')"><span>📚</span><b>Genel Kültür</b><small>${gc.genel} soru</small></button>
  <button onclick="selectTestGroup('Kamu Yasası')"><span>⚖️</span><b>Kamu Yasası</b><small>${gc.kamu} soru</small></button>
@@ -284,6 +284,64 @@ function renderExam(){
  <button class="test-card-purple" onclick="selectTestGroup('KKTC Anayasası')"><span>🇨🇾</span><h2>KKTC Anayasası</h2><p>${gc.anayasa} soruluk havuz</p><b>Teste Başla</b></button>
  <button class="test-card-red" onclick="selectTestGroup('Türkçe')"><span>🇹🇷</span><h2>Türkçe</h2><p>${gc.turkce} soruluk havuz</p><b>Teste Başla</b></button>
  <button class="test-card-green" onclick="selectTestGroup('Matematik')"><span>➗</span><h2>Matematik</h2><p>${gc.matematik} soruluk havuz</p><b>Teste Başla</b></button>
+ </section>`;
+}
+
+
+/* ===== NEON MODULE CARDS UI ===== */
+function moduleCard(group, title, count, icon, cls){
+  return `<button class="neon-module-card ${cls}" onclick="selectTestGroup('${jsArg(group)}')">
+    <div class="neon-icon-wrap"><div class="neon-orbit"></div><span class="neon-icon">${icon}</span></div>
+    <h2>${title}</h2>
+    <p>${count} Soru</p>
+    <div class="neon-btn">Çalış <b>›</b></div>
+  </button>`;
+}
+
+function renderHome(){
+ const qs=getQuestions(), ms=moduleStats(), gc=groupCounts(), rate=percent(state.correct,state.total);
+ app.innerHTML=`<section class="final-home neon-top">
+ <div class="final-welcome"><div class="final-badge">KKTC Kamu Sınavı Hazırlık</div><h1>StarQuiz</h1>
+ <p>Hedefine odaklan, konuları çalış ve başarıya ulaş. Her alan kendi test havuzunda ayrı ilerler.</p>
+ <div class="final-actions"><button class="primary" onclick="setPage('exam')">🎯 Test Seç</button><button class="secondary" onclick="setPage('lessons')">📖 Derslere Git</button></div></div>
+ <div class="final-score"><img src="./logo.png?v=neoncards1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
+
+ <section class="neon-section-title">
+   <div class="neon-line"></div>
+   <span>⭐</span>
+   <div class="neon-line"></div>
+   <h1>Konular</h1>
+   <p>Hedefine odaklan, başarıya ulaş!</p>
+ </section>
+
+ <section class="neon-modules-grid">
+   ${moduleCard('Genel Kültür','Genel Kültür',gc.genel,'📚','blue')}
+   ${moduleCard('Kamu Yasası','Kamu Yasası',gc.kamu,'⚖️','gold')}
+   ${moduleCard('KKTC Anayasası','KKTC Anayasası',gc.anayasa,'📜','purple')}
+   ${moduleCard('Türkçe','Türkçe',gc.turkce,'📖','teal')}
+   ${moduleCard('Matematik','Matematik',gc.matematik,'➗','orange')}
+ </section>
+
+ <section class="neon-info-bar">
+  <div><span>🎯</span><b>Hedefini Belirle</b><small>Planlı çalış, başarıyı yakala!</small></div>
+  <div><span>📈</span><b>Gelişimini Takip Et</b><small>İstatistiklerini izle.</small></div>
+  <div><span>🧠</span><b>Tekrar Et</b><small>Zayıf konuları pekiştir.</small></div>
+  <div><span>🏆</span><b>Başarını Artır</b><small>Her doğru seni ileri taşır.</small></div>
+ </section>
+
+ <section class="final-panel"><div><h2>📖 Ders İlerlemesi</h2><p>${ms.total} mini dersin ${ms.done} tanesi tamamlandı.</p></div><strong>%${ms.percentDone}</strong><div class="final-progress"><div style="width:${ms.percentDone}%"></div></div></section>
+ <section class="final-stats"><div><span>⭐ XP</span><b>${state.xp}</b></div><div><span>📝 Test</span><b>${state.tests}</b></div><div><span>📊 Başarı</span><b>%${rate}</b></div></section>`;
+}
+
+function renderExam(){
+ const gc=groupCounts();
+ app.innerHTML=`<section class="final-title neon-test-title"><div class="final-badge">Test Modu</div><h1>Test Seç</h1><p>Hangi alanı seçersen sadece o alandan soru gelir. Karışık soru yok.</p></section>
+ <section class="neon-modules-grid">
+   ${moduleCard('Genel Kültür','Genel Kültür',gc.genel,'📚','blue')}
+   ${moduleCard('Kamu Yasası','Kamu Yasası',gc.kamu,'⚖️','gold')}
+   ${moduleCard('KKTC Anayasası','KKTC Anayasası',gc.anayasa,'📜','purple')}
+   ${moduleCard('Türkçe','Türkçe',gc.turkce,'📖','teal')}
+   ${moduleCard('Matematik','Matematik',gc.matematik,'➗','orange')}
  </section>`;
 }
 

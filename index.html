@@ -4,17 +4,17 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
   <meta name="theme-color" content="#08111f"/>
-  <title>StarQuiz Türkçe Matematik</title>
-  <link rel="manifest" href="./manifest.json?v=trmath1">
-  <link rel="icon" href="./favicon.png?v=trmath1">
-  <link rel="apple-touch-icon" href="./apple-touch-icon.png?v=trmath1">
-  <link rel="stylesheet" href="./style.css?v=trmath1">
+  <title>StarQuiz Neon Kartlar</title>
+  <link rel="manifest" href="./manifest.json?v=neoncards1">
+  <link rel="icon" href="./favicon.png?v=neoncards1">
+  <link rel="apple-touch-icon" href="./apple-touch-icon.png?v=neoncards1">
+  <link rel="stylesheet" href="./style.css?v=neoncards1">
 </head>
 <body>
   <div class="app-shell">
     <header class="topbar">
       <div class="brand-row">
-        <img src="./icon-192.png?v=trmath1" class="mini-logo" alt="StarQuiz">
+        <img src="./icon-192.png?v=neoncards1" class="mini-logo" alt="StarQuiz">
         <div>
           <div class="brand">StarQuiz</div>
           <div class="subtitle">KKTC Kamu Sınavı Hazırlık</div>
@@ -40,11 +40,11 @@
   </div>
 
   <script>
-    window.STARQUIZ_BUILD = "trmath1";
+    window.STARQUIZ_BUILD = "neoncards1";
     try {
       var old = localStorage.getItem("starquiz_build");
-      if (old !== "trmath1") {
-        localStorage.setItem("starquiz_build", "trmath1");
+      if (old !== "neoncards1") {
+        localStorage.setItem("starquiz_build", "neoncards1");
         if ("caches" in window) {
           caches.keys().then(function(keys){
             return Promise.all(keys.map(function(k){ return caches.delete(k); }));
@@ -53,13 +53,13 @@
       }
     } catch(e) {}
   </script>
-  <script src="./questions.js?v=trmath1"></script>
-  <script src="./lessons.js?v=trmath1"></script>
-  <script src="./app.js?v=trmath1"></script>
+  <script src="./questions.js?v=neoncards1"></script>
+  <script src="./lessons.js?v=neoncards1"></script>
+  <script src="./app.js?v=neoncards1"></script>
   <script>
     if ("serviceWorker" in navigator) {
       window.addEventListener("load", function(){
-        navigator.serviceWorker.register("./service-worker.js?v=trmath1").then(function(reg){
+        navigator.serviceWorker.register("./service-worker.js?v=neoncards1").then(function(reg){
           if(reg && reg.update) reg.update();
         }).catch(function(){});
       });
