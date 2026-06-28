@@ -147,7 +147,7 @@ function renderHome(){
     <button class="secondary" onclick="setPage('lessons')">📖 Derslere Başla</button>
    </div>
   </div>
-  <div class="pro-hero-logo"><img src="./logo.png?v=v12mathex1" alt="StarQuiz"></div>
+  <div class="pro-hero-logo"><img src="./logo.png?v=v13firebase1" alt="StarQuiz"></div>
  </section>
  <section class="pro-grid-3">
   <div class="pro-card"><span>📚 Toplam Soru</span><b>${qs.length}</b><small>Genel + Kamu</small></div>
@@ -282,7 +282,7 @@ function renderHome(){
  <div class="final-welcome"><div class="final-badge">KKTC Kamu Sınavı Hazırlık</div><h1>StarQuiz</h1>
  <p>Genel Kültür, Kamu Yasası ve KKTC Anayasası için ayrı ders ve test sistemi.</p>
  <div class="final-actions"><button class="primary" onclick="setPage('exam')">🎯 Test Seç</button><button class="secondary" onclick="setPage('lessons')">📖 Derslere Git</button></div></div>
- <div class="final-score"><img src="./logo.png?v=v12mathex1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
+ <div class="final-score"><img src="./logo.png?v=v13firebase1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
  <section class="final-modules">
  <button onclick="selectTestGroup('Genel Kültür')"><span>📚</span><b>Genel Kültür</b><small>${gc.genel} soru</small></button>
  <button onclick="selectTestGroup('Kamu Yasası')"><span>⚖️</span><b>Kamu Yasası</b><small>${gc.kamu} soru</small></button>
@@ -330,7 +330,7 @@ function renderHome(){
  <div class="final-welcome"><div class="final-badge">KKTC Kamu Sınavı Hazırlık</div><h1>StarQuiz</h1>
  <p>Genel Kültür, Kamu Yasası, KKTC Anayasası, Türkçe ve Matematik için ayrı ders ve test sistemi.</p>
  <div class="final-actions"><button class="primary" onclick="setPage('exam')">🎯 Test Seç</button><button class="secondary" onclick="setPage('lessons')">📖 Derslere Git</button></div></div>
- <div class="final-score"><img src="./logo.png?v=v12mathex1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
+ <div class="final-score"><img src="./logo.png?v=v13firebase1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
  <section class="final-modules five">
  <button onclick="selectTestGroup('Genel Kültür')"><span>📚</span><b>Genel Kültür</b><small>${gc.genel} soru</small></button>
  <button onclick="selectTestGroup('Kamu Yasası')"><span>⚖️</span><b>Kamu Yasası</b><small>${gc.kamu} soru</small></button>
@@ -370,7 +370,7 @@ function renderHome(){
  <div class="final-welcome"><div class="final-badge">KKTC Kamu Sınavı Hazırlık</div><h1>StarQuiz</h1>
  <p>Hedefine odaklan, konuları çalış ve başarıya ulaş. Her alan kendi test havuzunda ayrı ilerler.</p>
  <div class="final-actions"><button class="primary" onclick="setPage('exam')">🎯 Test Seç</button><button class="secondary" onclick="setPage('lessons')">📖 Derslere Git</button></div></div>
- <div class="final-score"><img src="./logo.png?v=v12mathex1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
+ <div class="final-score"><img src="./logo.png?v=v13firebase1" alt="StarQuiz"><b>${qs.length}</b><span>Toplam Soru</span></div></section>
 
  <section class="neon-section-title">
    <div class="neon-line"></div>
@@ -620,5 +620,218 @@ function openLesson(id){
  </section>`;
 }
 window.openLesson=openLesson;
+
+
+/* ===== STARQUIZ V13 FIREBASE AUTH ===== */
+let firebaseReady = false;
+let fbAuth = null;
+let fbDb = null;
+let currentUser = null;
+let userProfile = null;
+
+function initFirebase(){
+  try{
+    const cfg = window.STARQUIZ_FIREBASE_CONFIG || {};
+    if(!cfg.apiKey || cfg.apiKey.includes("BURAYA")){
+      console.warn("Firebase config girilmedi. Sistem misafir/offline modda çalışır.");
+      return false;
+    }
+    if(!firebase.apps.length) firebase.initializeApp(cfg);
+    fbAuth = firebase.auth();
+    fbDb = firebase.firestore();
+    firebaseReady = true;
+    fbAuth.onAuthStateChanged(async function(user){
+      currentUser = user || null;
+      if(user){
+        await ensureUserProfile(user);
+        await syncLocalStatsToCloud();
+      }
+      render();
+    });
+    return true;
+  }catch(e){
+    console.error("Firebase başlatılamadı:", e);
+    return false;
+  }
+}
+
+function isAdmin(){
+  const admins = (window.STARQUIZ_ADMINS || []).map(x => String(x).toLowerCase());
+  return currentUser && admins.includes(String(currentUser.email || "").toLowerCase());
+}
+
+async function ensureUserProfile(user){
+  if(!firebaseReady || !user) return;
+  const ref = fbDb.collection("users").doc(user.uid);
+  const snap = await ref.get();
+  const base = {
+    uid: user.uid,
+    email: user.email || "",
+    displayName: user.displayName || localStorage.getItem("starquiz_display_name") || "",
+    lastLogin: firebase.firestore.FieldValue.serverTimestamp(),
+    totalTests: state.tests || 0,
+    totalQuestions: state.total || 0,
+    totalCorrect: state.correct || 0,
+    totalWrong: state.wrong || 0,
+    xp: state.xp || 0
+  };
+  if(!snap.exists) await ref.set({...base, createdAt: firebase.firestore.FieldValue.serverTimestamp()});
+  else await ref.set(base, {merge:true});
+  const updated = await ref.get();
+  userProfile = updated.data() || null;
+}
+
+async function syncLocalStatsToCloud(){
+  if(!firebaseReady || !currentUser) return;
+  await fbDb.collection("users").doc(currentUser.uid).set({
+    totalTests: state.tests || 0,
+    totalQuestions: state.total || 0,
+    totalCorrect: state.correct || 0,
+    totalWrong: state.wrong || 0,
+    xp: state.xp || 0,
+    updatedAt: firebase.firestore.FieldValue.serverTimestamp()
+  }, {merge:true});
+}
+
+if(typeof save === "function"){
+  const originalSaveStarQuiz = save;
+  save = function(){
+    originalSaveStarQuiz();
+    syncLocalStatsToCloud().catch(()=>{});
+  };
+}
+
+function authScreen(mode="login"){
+  const isRegister = mode === "register";
+  app.innerHTML = `
+    <section class="auth-shell">
+      <div class="auth-card">
+        <img src="./logo.png?v=v13firebase1" alt="StarQuiz">
+        <h1>${isRegister ? "Hesap Oluştur" : "Giriş Yap"}</h1>
+        <p>${isRegister ? "Kendi e-posta ve şifrenle StarQuiz hesabını oluştur." : "StarQuiz hesabınla kaldığın yerden devam et."}</p>
+        ${isRegister ? `<input id="authName" placeholder="Ad Soyad" autocomplete="name">` : ""}
+        <input id="authEmail" placeholder="E-posta" type="email" autocomplete="email">
+        <input id="authPass" placeholder="Şifre" type="password" autocomplete="${isRegister ? "new-password" : "current-password"}">
+        <button class="primary" onclick="${isRegister ? "registerUser()" : "loginUser()"}">${isRegister ? "Kayıt Ol" : "Giriş Yap"}</button>
+        <button class="secondary" onclick="authScreen('${isRegister ? "login" : "register"}')">${isRegister ? "Zaten hesabım var" : "Yeni hesap oluştur"}</button>
+        <button class="ghost-auth" onclick="continueOffline()">Misafir olarak devam et</button>
+        <div id="authMsg" class="auth-msg"></div>
+      </div>
+    </section>`;
+}
+window.authScreen = authScreen;
+
+function authMessage(msg){
+  const el = document.getElementById("authMsg");
+  if(el) el.textContent = msg;
+}
+
+async function registerUser(){
+  if(!firebaseReady){ authMessage("Firebase ayarları girilmedi. firebase-config.js dosyasını doldur."); return; }
+  const name = document.getElementById("authName")?.value.trim() || "";
+  const email = document.getElementById("authEmail")?.value.trim() || "";
+  const pass = document.getElementById("authPass")?.value || "";
+  if(!name || !email || pass.length < 6){ authMessage("Ad soyad, e-posta ve en az 6 karakter şifre gir."); return; }
+  try{
+    const cred = await fbAuth.createUserWithEmailAndPassword(email, pass);
+    await cred.user.updateProfile({displayName:name});
+    localStorage.setItem("starquiz_display_name", name);
+    await ensureUserProfile(cred.user);
+    setPage("home");
+  }catch(e){ authMessage(firebaseErrorTR(e)); }
+}
+window.registerUser = registerUser;
+
+async function loginUser(){
+  if(!firebaseReady){ authMessage("Firebase ayarları girilmedi. firebase-config.js dosyasını doldur."); return; }
+  const email = document.getElementById("authEmail")?.value.trim() || "";
+  const pass = document.getElementById("authPass")?.value || "";
+  try{
+    await fbAuth.signInWithEmailAndPassword(email, pass);
+    setPage("home");
+  }catch(e){ authMessage(firebaseErrorTR(e)); }
+}
+window.loginUser = loginUser;
+
+async function logoutUser(){
+  if(firebaseReady && fbAuth) await fbAuth.signOut();
+  currentUser = null;
+  setPage("home");
+}
+window.logoutUser = logoutUser;
+
+function continueOffline(){
+  localStorage.setItem("starquiz_offline_mode", "1");
+  setPage("home");
+}
+window.continueOffline = continueOffline;
+
+function firebaseErrorTR(e){
+  const code = e && e.code ? e.code : "";
+  if(code.includes("email-already-in-use")) return "Bu e-posta zaten kayıtlı.";
+  if(code.includes("invalid-email")) return "E-posta adresi geçersiz.";
+  if(code.includes("weak-password")) return "Şifre en az 6 karakter olmalı.";
+  if(code.includes("wrong-password") || code.includes("invalid-credential")) return "E-posta veya şifre hatalı.";
+  if(code.includes("user-not-found")) return "Bu e-posta ile kayıt bulunamadı.";
+  return "İşlem tamamlanamadı: " + (e.message || code);
+}
+
+async function renderAdminPanel(){
+  if(!firebaseReady || !isAdmin()){
+    app.innerHTML = `<section class="card"><h2>Admin Panel</h2><p class="muted">Bu ekran sadece yetkili admin hesabıyla görünür.</p></section>`;
+    return;
+  }
+  const snap = await fbDb.collection("users").orderBy("createdAt","desc").limit(200).get();
+  const users = [];
+  snap.forEach(doc => users.push(doc.data()));
+  const totalTests = users.reduce((a,u)=>a+(u.totalTests||0),0);
+  const totalCorrect = users.reduce((a,u)=>a+(u.totalCorrect||0),0);
+  const totalWrong = users.reduce((a,u)=>a+(u.totalWrong||0),0);
+  app.innerHTML = `
+    <section class="admin-dashboard">
+      <div class="final-badge">Admin Panel</div>
+      <h1>Kullanıcı İstatistikleri</h1>
+      <div class="admin-grid">
+        <div><span>👥 Toplam Kullanıcı</span><b>${users.length}</b></div>
+        <div><span>📝 Toplam Test</span><b>${totalTests}</b></div>
+        <div><span>✅ Toplam Doğru</span><b>${totalCorrect}</b></div>
+        <div><span>❌ Toplam Yanlış</span><b>${totalWrong}</b></div>
+      </div>
+      <div class="admin-users">
+        ${users.map(u=>`
+          <div class="admin-user-row">
+            <b>${esc(u.displayName || "İsimsiz")}</b>
+            <span>${esc(u.email || "")}</span>
+            <small>Test: ${u.totalTests || 0} · Doğru: ${u.totalCorrect || 0} · Yanlış: ${u.totalWrong || 0} · XP: ${u.xp || 0}</small>
+          </div>`).join("")}
+      </div>
+    </section>`;
+}
+window.renderAdminPanel = renderAdminPanel;
+
+function renderAccountBar(){
+  if(currentUser){
+    return `<div class="account-bar">
+      <span>👤 ${esc(currentUser.displayName || currentUser.email || "Kullanıcı")}</span>
+      ${isAdmin() ? `<button onclick="renderAdminPanel()">Admin</button>` : ""}
+      <button onclick="logoutUser()">Çıkış</button>
+    </div>`;
+  }
+  return `<div class="account-bar">
+    <span>Misafir Modu</span>
+    <button onclick="authScreen('login')">Giriş Yap</button>
+    <button onclick="authScreen('register')">Kayıt Ol</button>
+  </div>`;
+}
+
+if(typeof renderHome === "function"){
+  const renderHomeBeforeAuth = renderHome;
+  renderHome = function(){
+    renderHomeBeforeAuth();
+    app.insertAdjacentHTML("afterbegin", renderAccountBar());
+  };
+}
+
+initFirebase();
 
 render();

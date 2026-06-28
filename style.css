@@ -1195,3 +1195,23 @@ body{
     grid-template-columns:repeat(3,1fr);
   }
 }
+
+/* ===== FIREBASE AUTH UI ===== */
+.account-bar{max-width:1240px;margin:0 auto 12px;display:flex;justify-content:flex-end;align-items:center;gap:8px;color:#ffd34e}
+.account-bar span{border:1px solid rgba(255,211,78,.25);background:rgba(255,211,78,.08);padding:9px 12px;border-radius:999px;font-weight:850}
+.account-bar button{border:1px solid rgba(0,229,255,.25);background:rgba(0,229,255,.08);color:#fff;border-radius:999px;padding:9px 12px;font-weight:900}
+.auth-shell{min-height:70vh;display:flex;align-items:center;justify-content:center;padding:24px}
+.auth-card{width:min(440px,100%);border:1px solid rgba(255,211,78,.28);border-radius:28px;padding:30px;background:linear-gradient(135deg,rgba(255,211,78,.10),rgba(0,229,255,.06));box-shadow:0 30px 80px rgba(0,0,0,.35);text-align:center}
+.auth-card img{width:92px;height:92px;object-fit:cover;border-radius:24px;margin-bottom:16px;filter:drop-shadow(0 0 20px rgba(255,211,78,.45))}
+.auth-card h1{font-size:32px;margin:0 0 8px}.auth-card p{color:var(--muted);margin-bottom:18px}
+.auth-card input{width:100%;box-sizing:border-box;padding:15px 16px;margin-bottom:10px;border-radius:16px;border:1px solid rgba(255,255,255,.12);background:rgba(0,0,0,.22);color:#fff;font-size:15px}
+.auth-card .primary,.auth-card .secondary{max-width:none!important;width:100%}
+.ghost-auth{width:100%;margin-top:10px;border:1px solid rgba(255,255,255,.12);background:transparent;color:var(--muted);border-radius:16px;padding:13px;font-weight:900}
+.auth-msg{min-height:20px;color:#ffb4b4;font-weight:800;margin-top:10px}
+.admin-dashboard{max-width:1100px;margin:18px auto;border:1px solid rgba(255,211,78,.22);border-radius:28px;padding:28px;background:rgba(255,255,255,.05)}
+.admin-dashboard h1{margin:8px 0 18px}.admin-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+.admin-grid div{border:1px solid rgba(255,255,255,.10);border-radius:18px;padding:16px;background:rgba(0,0,0,.18)}
+.admin-grid span{display:block;color:var(--muted)}.admin-grid b{display:block;font-size:30px;margin-top:6px;color:#ffd34e}
+.admin-users{margin-top:16px;display:grid;gap:10px}.admin-user-row{border:1px solid rgba(255,255,255,.10);border-radius:16px;padding:14px;background:rgba(0,0,0,.15)}
+.admin-user-row b,.admin-user-row span,.admin-user-row small{display:block}.admin-user-row span{color:#90eaff;margin-top:3px}.admin-user-row small{color:var(--muted);margin-top:6px}
+@media(max-width:760px){.account-bar{justify-content:center;flex-wrap:wrap}.admin-grid{grid-template-columns:1fr 1fr}}

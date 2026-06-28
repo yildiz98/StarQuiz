@@ -1,5 +1,5 @@
-const CACHE_NAME="starquiz-v12-math-examples-1";
-const FILES=["./","./index.html?v=v12mathex1","./style.css?v=v12mathex1","./app.js?v=v12mathex1","./questions.js?v=v12mathex1","./lessons.js?v=v12mathex1","./manifest.json?v=v12mathex1","./logo.png?v=v12mathex1","./icon-192.png?v=v12mathex1","./icon-512.png?v=v12mathex1","./apple-touch-icon.png?v=v12mathex1","./favicon.png?v=v12mathex1"];
+const CACHE_NAME="starquiz-v13-firebase-auth-1";
+const FILES=["./","./index.html?v=v13firebase1","./style.css?v=v13firebase1","./app.js?v=v13firebase1","./questions.js?v=v13firebase1","./lessons.js?v=v13firebase1","./firebase-config.js?v=v13firebase1","./manifest.json?v=v13firebase1","./logo.png?v=v13firebase1","./icon-192.png?v=v13firebase1","./icon-512.png?v=v13firebase1","./apple-touch-icon.png?v=v13firebase1","./favicon.png?v=v13firebase1"];
 self.addEventListener("install",e=>{self.skipWaiting();e.waitUntil(caches.open(CACHE_NAME).then(c=>c.addAll(FILES)))});
 self.addEventListener("activate",e=>{e.waitUntil(caches.keys().then(keys=>Promise.all(keys.map(k=>k!==CACHE_NAME?caches.delete(k):null))).then(()=>self.clients.claim()))});
-self.addEventListener("fetch",e=>{e.respondWith(fetch(e.request).then(r=>{const copy=r.clone();caches.open(CACHE_NAME).then(c=>c.put(e.request,copy)).catch(()=>{});return r;}).catch(()=>caches.match(e.request).then(r=>r||caches.match("./index.html?v=v12mathex1")||caches.match("./"))))});
+self.addEventListener("fetch",e=>{e.respondWith(fetch(e.request).then(r=>{const copy=r.clone();caches.open(CACHE_NAME).then(c=>c.put(e.request,copy)).catch(()=>{});return r;}).catch(()=>caches.match(e.request).then(r=>r||caches.match("./index.html?v=v13firebase1")||caches.match("./"))))});
