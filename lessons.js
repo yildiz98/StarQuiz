@@ -429,5 +429,260 @@ window.LESSONS = [
       "AB kurucuları: Belçika, İtalya, Fransa, Almanya, Hollanda, Lüksemburg"
     ],
     "examNote": "Kuruluş-merkez eşleştirmeleri pratik tekrar gerektirir."
+  },
+  {
+    "id": "ky-001",
+    "module": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "title": "Kamu Görevlileri Yasasına Giriş",
+    "emoji": "⚖️",
+    "minutes": 3,
+    "content": [
+      "Kamu Görevlileri Yasası, kamu hizmetlerinin düzenli, tarafsız, verimli ve hukuk kurallarına uygun şekilde yürütülmesi için hazırlanmış temel yasalardan biridir.",
+      "Bu yasa; kamu görevlilerinin atanması, hakları, ödevleri, sorumlulukları, ilerlemeleri, izinleri ve disiplin işlemleri gibi konuları düzenler.",
+      "Kamu hizmetinin kişisel çıkara göre değil, kamu yararına göre yürütülmesi esastır. Bu nedenle kamu görevlisinin görevini tarafsızlık, dürüstlük ve yasallık ilkeleriyle yapması beklenir."
+    ],
+    "remember": [
+      "Yasanın temel amacı kamu hizmetinin düzenli yürütülmesidir.",
+      "Kamu görevlisinin hak ve sorumlulukları bu yasa içinde düzenlenir.",
+      "Tarafsızlık, dürüstlük ve yasallık temel ilkelerdir."
+    ],
+    "examNote": "Sınavlarda yasanın amacı, kapsamı ve kamu görevlisinin temel yükümlülükleri sık sorulabilir."
+  },
+  {
+    "id": "ky-002",
+    "module": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "title": "Amaç, Kapsam ve Temel Kavramlar",
+    "emoji": "📘",
+    "minutes": 4,
+    "content": [
+      "Yasanın amacı, kamu görevlerinin kimler tarafından ve hangi esaslara göre yürütüleceğini belirlemektir. Böylece kamu hizmetinde düzen, süreklilik ve güven sağlanır.",
+      "Kapsam bölümünde, yasanın hangi kamu görevlilerini ilgilendirdiği belirlenir. Her kamu çalışanı aynı statüde olmayabilir; bu nedenle kapsam bilgisi önemlidir.",
+      "Tanımlar bölümü, yasa içinde geçen kavramların ne anlama geldiğini açıklar. Kamu görevlisi, kadro, derece, kademe, adaylık, terfi ve disiplin gibi kavramlar bu yapının temelini oluşturur."
+    ],
+    "remember": [
+      "Amaç: kamu hizmetini düzenlemek.",
+      "Kapsam: yasanın kimlere uygulanacağını gösterir.",
+      "Tanımlar: kavram karmaşasını önler.",
+      "Kadro, derece ve kademe farklı kavramlardır."
+    ],
+    "examNote": "Tanımlar bölümü kısa görünse de sınavlarda kavram soruları için çok önemlidir."
+  },
+  {
+    "id": "ky-003",
+    "module": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "title": "Kamu Görevlisinin Hakları",
+    "emoji": "🛡️",
+    "minutes": 3,
+    "content": [
+      "Kamu görevlilerinin görevlerini güven içinde yapabilmeleri için bazı hakları vardır. Bu haklar çalışma düzeni, mali haklar, izinler, terfi imkânları ve sosyal güvencelerle ilgilidir.",
+      "Haklar, kamu görevlisinin keyfi uygulamalara karşı korunmasını sağlar. Ancak her hak, yasa ve mevzuat içinde belirlenen koşullara bağlıdır.",
+      "Kamu görevlisi, haklarını kullanırken kamu hizmetinin aksatılmaması gerektiğini de bilmelidir. Hak ve sorumluluk dengesi kamu yönetiminin temelidir."
+    ],
+    "remember": [
+      "Haklar yasal güvence sağlar.",
+      "Haklar sınırsız değildir; mevzuat çerçevesinde kullanılır.",
+      "İzin, maaş, terfi ve sosyal güvence temel hak başlıklarıdır."
+    ],
+    "examNote": "Hakların kapsamı ve hangi şartlarda kullanılabileceği sınavda karıştırılabilir."
+  },
+  {
+    "id": "ky-004",
+    "module": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "title": "Kamu Görevlisinin Ödev ve Sorumlulukları",
+    "emoji": "📌",
+    "minutes": 4,
+    "content": [
+      "Kamu görevlisi, görevini kamu yararına uygun şekilde yerine getirmekle yükümlüdür. Görev sırasında tarafsız davranmalı, kişisel çıkar sağlamamalı ve görevini kötüye kullanmamalıdır.",
+      "Kamu hizmetinde güven esastır. Bu nedenle kamu görevlisinin davranışları sadece görev anında değil, kamu hizmetinin saygınlığını etkileyen yönleriyle de önem taşır.",
+      "Göreve devam, verilen işi zamanında yapma, amirlerin yasal emirlerine uyma, gizlilik kurallarına dikkat etme ve kamu malını koruma temel sorumluluklardandır."
+    ],
+    "remember": [
+      "Görev kamu yararı için yapılır.",
+      "Tarafsızlık ve dürüstlük temel ilkedir.",
+      "Kamu malı korunmalıdır.",
+      "Yasal emir ve görev gerekleri yerine getirilmelidir."
+    ],
+    "examNote": "Senaryo sorularında kişisel çıkar, tarafsızlık ve görevi ihmal konuları sık işlenir."
+  },
+  {
+    "id": "ky-005",
+    "module": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "title": "Hizmet Sınıfları ve Kadro Mantığı",
+    "emoji": "🏛️",
+    "minutes": 3,
+    "content": [
+      "Kamu hizmetleri farklı nitelikte görevlerden oluşur. Bu nedenle kamu görevlileri hizmet sınıfları ve kadrolar üzerinden düzenlenir.",
+      "Kadro, bir görevin resmi olarak tanımlandığı ve o göreve ilişkin unvan, derece veya görev yerinin belirlendiği yapıdır.",
+      "Hizmet sınıfları, benzer görevlerin aynı çatı altında toplanmasını sağlar. Bu sistem atama, terfi, nakil ve görev dağılımında düzen oluşturur."
+    ],
+    "remember": [
+      "Kadro görev yerini ve unvanı gösteren resmi yapıdır.",
+      "Hizmet sınıfı benzer görevleri gruplandırır.",
+      "Kadro olmadan düzenli personel sistemi kurulamaz."
+    ],
+    "examNote": "Kadro, derece, kademe ve hizmet sınıfı kavramları birbirine karıştırılmamalıdır."
+  },
+  {
+    "id": "ky-006",
+    "module": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "title": "Atanma ve Adaylık Süreci",
+    "emoji": "📝",
+    "minutes": 4,
+    "content": [
+      "Kamu görevine atanma, yasanın belirlediği şartların taşınmasıyla mümkündür. Her göreve atanacak kişide genel ve özel nitelikler aranabilir.",
+      "Adaylık süreci, kamu görevine yeni başlayan kişinin görevini tanıması ve kamu hizmetine uyum sağlaması için uygulanan geçiş dönemidir.",
+      "Adaylık tamamlandığında kişi asaleten atanabilir. Ancak adaylık sürecinde başarısızlık, kurallara aykırı davranış veya gerekli şartları taşımama gibi durumlar farklı sonuçlar doğurabilir."
+    ],
+    "remember": [
+      "Atanma yasal şartlara bağlıdır.",
+      "Adaylık geçiş ve uyum sürecidir.",
+      "Adaylık bitince asaleten atanma gündeme gelir.",
+      "Aday memur hemen tam statü kazanmış sayılmayabilir."
+    ],
+    "examNote": "Adaylık ve asaleten atanma ayrımı sınavlarda dikkat edilmesi gereken konulardandır."
+  },
+  {
+    "id": "ky-007",
+    "module": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "title": "Derece, Kademe ve Terfi",
+    "emoji": "📈",
+    "minutes": 4,
+    "content": [
+      "Derece ve kademe, kamu görevlisinin görevdeki ilerlemesini ve mali haklarını etkileyen temel kavramlardır. Kademe genellikle derece içindeki ilerlemeyi, derece ise daha üst bir seviyeyi ifade eder.",
+      "Terfi, belirli koşulların sağlanmasıyla kamu görevlisinin bulunduğu durumdan daha ileri bir statüye yükselmesidir.",
+      "İlerleme sisteminde kıdem, hizmet süresi, performans, disiplin durumu ve kadro uygunluğu gibi unsurlar etkili olabilir. Bu nedenle her ilerleme otomatik kabul edilmemelidir."
+    ],
+    "remember": [
+      "Kademe ve derece aynı şey değildir.",
+      "Kademe derece içindeki ilerlemeyi gösterir.",
+      "Terfi için koşulların oluşması gerekir.",
+      "Disiplin durumu ilerlemeyi etkileyebilir."
+    ],
+    "examNote": "En çok karıştırılan konu derece-kademe-terfi ayrımıdır."
+  },
+  {
+    "id": "ky-008",
+    "module": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "title": "İzinler",
+    "emoji": "🏖️",
+    "minutes": 3,
+    "content": [
+      "Kamu görevlisinin dinlenme, sağlık, mazeret veya özel durumlar nedeniyle görevden geçici olarak ayrılabilmesi izin hükümleriyle düzenlenir.",
+      "İzin hakkı, kamu hizmetinin sürekliliğini bozmayacak şekilde kullanılır. Bu nedenle izinlerin türü, süresi ve kullanılma yöntemi yasa ve ilgili mevzuatla belirlenir.",
+      "Yıllık izin, hastalık izni, mazeret izni ve diğer özel izin türleri kamu personel sisteminde önemli yer tutar."
+    ],
+    "remember": [
+      "İzin hakkı yasal sınırlar içinde kullanılır.",
+      "İzin kamu hizmetini aksatmamalıdır.",
+      "İzin türleri ve süreleri sınavda sorulabilir."
+    ],
+    "examNote": "İzin türleri, izin süreleri ve izinsiz göreve gelmeme durumları dikkat edilmesi gereken başlıklardır."
+  },
+  {
+    "id": "ky-009",
+    "module": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "title": "Disiplin Hükümleri",
+    "emoji": "⚠️",
+    "minutes": 4,
+    "content": [
+      "Disiplin hükümleri, kamu hizmetinin düzenli yürütülmesi ve kamu görevlisinin görev gereklerine uygun davranması için uygulanır.",
+      "Disiplin cezası, kamu görevlisinin görev ve sorumluluklarına aykırı davranması halinde gündeme gelir. Cezanın türü, fiilin ağırlığına göre değişir.",
+      "Disiplin sürecinde olayın araştırılması, savunma hakkı, yetkili makamın değerlendirmesi ve cezanın ölçülü olması önemlidir.",
+      "Disiplin hükümlerinin amacı sadece cezalandırmak değil, kamu hizmetinin güvenilirliğini ve düzenini korumaktır."
+    ],
+    "remember": [
+      "Disiplin kamu düzenini korur.",
+      "Fiilin ağırlığı ceza türünü etkiler.",
+      "Savunma hakkı önemlidir.",
+      "Disiplin cezası ölçülü olmalıdır."
+    ],
+    "examNote": "Disiplin cezaları Kamu Yasası içinde en çok soru çıkarılabilecek bölümlerden biridir."
+  },
+  {
+    "id": "ky-010",
+    "module": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "title": "Görevden Uzaklaştırma",
+    "emoji": "⛔",
+    "minutes": 3,
+    "content": [
+      "Görevden uzaklaştırma, kamu görevlisinin görevi başında kalmasının sakıncalı görüldüğü durumlarda geçici olarak uygulanan idari bir tedbirdir.",
+      "Bu işlem doğrudan kesin ceza anlamına gelmez. Amaç, soruşturmanın sağlıklı yürütülmesi ve kamu hizmetinin zarar görmesini önlemektir.",
+      "Görevden uzaklaştırma süreci, yetkili makamlar tarafından ve yasanın belirlediği çerçevede yürütülmelidir."
+    ],
+    "remember": [
+      "Görevden uzaklaştırma geçici tedbirdir.",
+      "Kesin ceza anlamına gelmez.",
+      "Amaç soruşturma ve kamu hizmetini korumaktır."
+    ],
+    "examNote": "Görevden uzaklaştırma ile disiplin cezası aynı şey değildir."
+  },
+  {
+    "id": "ky-011",
+    "module": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "title": "Mali Haklar ve Sosyal Haklar",
+    "emoji": "💰",
+    "minutes": 3,
+    "content": [
+      "Kamu görevlisinin maaş, ödenek, sosyal yardım ve benzeri mali hakları kamu personel sisteminin önemli bir parçasıdır.",
+      "Mali haklar görev, derece, kademe, hizmet süresi ve ilgili mevzuata göre belirlenebilir. Bu haklar keyfi değil, yasal düzenlemelere dayalıdır.",
+      "Sosyal haklar ise kamu görevlisinin çalışma yaşamında korunmasına ve kamu hizmetini daha sağlıklı şekilde yürütmesine katkı sağlar."
+    ],
+    "remember": [
+      "Mali haklar yasal düzenlemeye dayanır.",
+      "Derece ve kademe mali hakları etkileyebilir.",
+      "Sosyal haklar kamu görevlisini destekler."
+    ],
+    "examNote": "Maaş, ödenek ve sosyal hakların hangi esaslara dayandığı sınavda kavramsal olarak sorulabilir."
+  },
+  {
+    "id": "ky-012",
+    "module": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "title": "Görevden Ayrılma ve Emeklilik",
+    "emoji": "📚",
+    "minutes": 3,
+    "content": [
+      "Kamu görevlisinin görevden ayrılması farklı nedenlerle gerçekleşebilir. İstifa, emeklilik, görevle ilişiğin kesilmesi veya diğer yasal nedenler bu kapsamda değerlendirilebilir.",
+      "Emeklilik, belirli hizmet süresi ve yaş gibi koşulların gerçekleşmesiyle gündeme gelir. Emeklilik kamu görevlisinin görev yaşamının yasal olarak sona erdiği önemli aşamalardan biridir.",
+      "Görevden ayrılma süreçlerinde usul kurallarına uyulması gerekir. Kamu görevlisinin görevini bırakması, kamu hizmetinin sürekliliğini etkilemeyecek şekilde düzenlenir."
+    ],
+    "remember": [
+      "Görevden ayrılma farklı nedenlerle olabilir.",
+      "Emeklilik yasal koşullara bağlıdır.",
+      "Usul kurallarına uyulması gerekir."
+    ],
+    "examNote": "Görevden ayrılma, istifa ve emeklilik kavramları ayrı ayrı değerlendirilmelidir."
+  },
+  {
+    "id": "ky-013",
+    "module": "Kamu Yasası",
+    "category": "Kamu Yasası",
+    "title": "Kamu Yasası Hızlı Tekrar",
+    "emoji": "🎯",
+    "minutes": 3,
+    "content": [
+      "Kamu Yasası genel olarak kamu görevlisinin göreve girişinden görevden ayrılışına kadar olan süreci düzenler.",
+      "Önce amaç, kapsam ve tanımlar öğrenilmelidir. Ardından haklar, ödevler, atanma, adaylık, terfi, izinler, disiplin ve emeklilik başlıkları takip edilmelidir.",
+      "Bu yasa çalışılırken kavramları birbirinden ayırmak çok önemlidir. Özellikle kadro, derece, kademe, terfi, adaylık, disiplin ve görevden uzaklaştırma başlıkları karıştırılmamalıdır."
+    ],
+    "remember": [
+      "Amaç → Kapsam → Tanımlar",
+      "Haklar ve ödevler birlikte öğrenilmeli",
+      "Atanma ve adaylık ayrı aşamalardır",
+      "Disiplin ve görevden uzaklaştırma farklıdır",
+      "Derece ve kademe aynı değildir"
+    ],
+    "examNote": "Kamu Yasası çalışırken önce genel sistem, sonra detay hükümler öğrenilmelidir."
   }
 ];

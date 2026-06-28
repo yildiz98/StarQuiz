@@ -4,17 +4,17 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
   <meta name="theme-color" content="#08111f"/>
-  <title>StarQuiz Pro</title>
-  <link rel="manifest" href="./manifest.json?v=derspro3">
-  <link rel="icon" href="./favicon.png?v=derspro3">
-  <link rel="apple-touch-icon" href="./apple-touch-icon.png?v=derspro3">
-  <link rel="stylesheet" href="./style.css?v=derspro3">
+  <title>StarQuiz Kamu Yasası</title>
+  <link rel="manifest" href="./manifest.json?v=kamuyasa1">
+  <link rel="icon" href="./favicon.png?v=kamuyasa1">
+  <link rel="apple-touch-icon" href="./apple-touch-icon.png?v=kamuyasa1">
+  <link rel="stylesheet" href="./style.css?v=kamuyasa1">
 </head>
 <body>
   <div class="app-shell">
     <header class="topbar">
       <div class="brand-row">
-        <img src="./icon-192.png?v=derspro3" class="mini-logo" alt="StarQuiz">
+        <img src="./icon-192.png?v=kamuyasa1" class="mini-logo" alt="StarQuiz">
         <div>
           <div class="brand">StarQuiz</div>
           <div class="subtitle">KKTC Kamu Sınavı Hazırlık</div>
@@ -35,11 +35,11 @@
   </div>
 
   <script>
-    window.STARQUIZ_BUILD = "derspro3";
+    window.STARQUIZ_BUILD = "kamuyasa1";
     try {
       var old = localStorage.getItem("starquiz_build");
-      if (old !== "derspro3") {
-        localStorage.setItem("starquiz_build", "derspro3");
+      if (old !== "kamuyasa1") {
+        localStorage.setItem("starquiz_build", "kamuyasa1");
         if ("caches" in window) {
           caches.keys().then(function(keys){
             return Promise.all(keys.map(function(k){ return caches.delete(k); }));
@@ -48,13 +48,13 @@
       }
     } catch(e) {}
   </script>
-  <script src="./questions.js?v=derspro3"></script>
-  <script src="./lessons.js?v=derspro3"></script>
-  <script src="./app.js?v=derspro3"></script>
+  <script src="./questions.js?v=kamuyasa1"></script>
+  <script src="./lessons.js?v=kamuyasa1"></script>
+  <script src="./app.js?v=kamuyasa1"></script>
   <script>
     if ("serviceWorker" in navigator) {
       window.addEventListener("load", function(){
-        navigator.serviceWorker.register("./service-worker.js?v=derspro3").then(function(reg){
+        navigator.serviceWorker.register("./service-worker.js?v=kamuyasa1").then(function(reg){
           if(reg && reg.update) reg.update();
         }).catch(function(){});
       });
