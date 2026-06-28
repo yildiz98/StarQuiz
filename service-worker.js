@@ -1,16 +1,16 @@
-const CACHE_NAME = "starquiz-webfull3-cache";
+const CACHE_NAME = "starquiz-single-logo-web-1";
 const FILES = [
   "./",
-  "./index.html?v=webfull3",
-  "./style.css?v=webfull3",
-  "./app.js?v=webfull3",
-  "./questions.js?v=webfull3",
-  "./manifest.json?v=webfull3",
-  "./logo.png?v=webfull3",
-  "./icon-192.png?v=webfull3",
-  "./icon-512.png?v=webfull3",
-  "./apple-touch-icon.png?v=webfull3",
-  "./favicon.png?v=webfull3"
+  "./index.html?v=singlelogo1",
+  "./style.css?v=singlelogo1",
+  "./app.js?v=singlelogo1",
+  "./questions.js?v=singlelogo1",
+  "./manifest.json?v=singlelogo1",
+  "./logo.png?v=singlelogo1",
+  "./icon-192.png?v=singlelogo1",
+  "./icon-512.png?v=singlelogo1",
+  "./apple-touch-icon.png?v=singlelogo1",
+  "./favicon.png?v=singlelogo1"
 ];
 
 self.addEventListener("install", event => {
@@ -32,6 +32,6 @@ self.addEventListener("fetch", event => {
       const copy = response.clone();
       caches.open(CACHE_NAME).then(cache => cache.put(event.request, copy)).catch(() => {});
       return response;
-    }).catch(() => caches.match(event.request).then(r => r || caches.match("./index.html?v=webfull3") || caches.match("./")))
+    }).catch(() => caches.match(event.request).then(r => r || caches.match("./index.html?v=singlelogo1") || caches.match("./")))
   );
 });

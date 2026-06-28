@@ -110,8 +110,7 @@ function renderHome(){
   const rate = percent(state.correct, state.total);
   app.innerHTML = `
     <section class="card hero web-hero">
-      <img class="logo-main web-logo" src="./logo.png?v=webfull3" alt="StarQuiz">
-      <h1>KKTC Kamu Sınavı Hazırlık</h1>
+<h1>KKTC Kamu Sınavı Hazırlık</h1>
       <p class="muted">Gerçek sınav mantığında dijital soru bankası. Şu an ${qs.length} soru eklendi.</p>
       <div class="grid">
         <div class="stat">📚 Soru <b>${qs.length}</b></div>
@@ -124,8 +123,8 @@ function renderHome(){
       <button class="secondary" onclick="setPage('topics')">Konu Bazlı Çalış</button>
     </section>
     <section class="card">
-      <h2>Web Premium</h2>
-      <p class="muted">Logo web görünümüne göre büyütüldü. Soru dosyası sabitlendi, testler tekrar çalışır hale getirildi.</p>
+      <h2>StarQuiz</h2>
+      <p class="muted">Tek logolu sade web görünümü hazırlandı. Soru sistemi, seviyeli testler ve analiz ekranı korunmuştur.</p>
     </section>`;
 }
 
@@ -257,8 +256,7 @@ function finishQuiz(){
 
   app.innerHTML = `
     <section class="card hero web-hero">
-      <img class="logo-main web-logo" src="./logo.png?v=webfull3" alt="StarQuiz">
-      <h2>Test Bitti</h2>
+<h2>Test Bitti</h2>
       <div class="grid">
         <div class="stat">✅ Doğru <b>${correct}</b></div>
         <div class="stat">❌ Yanlış <b>${wrongs.length}</b></div>

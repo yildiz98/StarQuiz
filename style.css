@@ -126,3 +126,74 @@
   .brand{font-size:22px !important}
   .mini-logo{width:48px !important;height:48px !important}
 }
+
+/* SINGLE LOGO WEB DESIGN */
+.brand-row{
+  align-items:center !important;
+}
+.mini-logo{
+  width:64px !important;
+  height:64px !important;
+  object-fit:cover !important;
+  border-radius:20px !important;
+  box-shadow:0 14px 34px rgba(0,0,0,.38) !important;
+}
+.brand{
+  font-size:30px !important;
+  font-weight:950 !important;
+  letter-spacing:-.6px !important;
+}
+.subtitle{
+  font-size:14px !important;
+  color:#b7c7db !important;
+}
+.topbar{
+  padding-top:24px !important;
+  padding-bottom:18px !important;
+}
+.hero,
+.web-hero{
+  min-height:auto !important;
+  padding:38px 28px !important;
+  justify-content:flex-start !important;
+}
+.logo-main,
+.web-logo{
+  display:none !important;
+}
+.hero h1,
+.web-hero h1{
+  font-size:36px !important;
+  margin-bottom:12px !important;
+}
+.hero .muted,
+.web-hero .muted{
+  font-size:17px !important;
+}
+.card{
+  max-width:980px !important;
+}
+.grid{
+  margin-top:22px !important;
+}
+@media(max-width:700px){
+  .mini-logo{
+    width:52px !important;
+    height:52px !important;
+    border-radius:16px !important;
+  }
+  .brand{
+    font-size:23px !important;
+  }
+  .subtitle{
+    font-size:12px !important;
+  }
+  .hero h1,
+  .web-hero h1{
+    font-size:27px !important;
+  }
+  .hero,
+  .web-hero{
+    padding:28px 18px !important;
+  }
+}
