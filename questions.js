@@ -8312,5 +8312,7205 @@ window.QUESTIONS = [
     "answerLetter": "C",
     "explanation": "Genel esaslar anayasa çalışmasının temelidir.",
     "source": "KKTC Anayasası mini çalışma metinleri"
+  },
+  {
+    "id": "tr-001",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki cümlelerin hangisinde mecaz anlam vardır?",
+    "options": [
+      "Bu sözleriyle kalbimi kırdı.",
+      "Kitabı masaya bıraktı.",
+      "Çocuk bahçede koştu.",
+      "Bugün hava çok soğuktu."
+    ],
+    "answer": "Bu sözleriyle kalbimi kırdı.",
+    "answerLetter": "A",
+    "explanation": "Kalp kırmak mecaz anlamlıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-002",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi 'hızlı' sözcüğünün eş anlamlısıdır?",
+    "options": [
+      "Sessiz",
+      "Geniş",
+      "Yavaş",
+      "Süratli"
+    ],
+    "answer": "Süratli",
+    "answerLetter": "D",
+    "explanation": "Hızlı ve süratli eş anlamlıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-003",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi terim anlamlıdır?",
+    "options": [
+      "Kalabalık",
+      "Kök",
+      "Güzel",
+      "Yarın"
+    ],
+    "answer": "Kök",
+    "answerLetter": "B",
+    "explanation": "Kök dil bilgisi ve matematikte terim olarak kullanılabilir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-004",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Orta",
+    "question": "Verilen cümlelerin hangisinde mecaz anlam vardır?",
+    "options": [
+      "Bugün hava çok soğuktu.",
+      "Bu sözleriyle kalbimi kırdı.",
+      "Kitabı masaya bıraktı.",
+      "Çocuk bahçede koştu."
+    ],
+    "answer": "Bu sözleriyle kalbimi kırdı.",
+    "answerLetter": "B",
+    "explanation": "Kalp kırmak mecaz anlamlıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-005",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Orta",
+    "question": "Verilenlerden hangisi 'hızlı' sözcüğünün eş anlamlısıdır?",
+    "options": [
+      "Süratli",
+      "Sessiz",
+      "Geniş",
+      "Yavaş"
+    ],
+    "answer": "Süratli",
+    "answerLetter": "A",
+    "explanation": "Hızlı ve süratli eş anlamlıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-006",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Orta",
+    "question": "Verilenlerden hangisi terim anlamlıdır?",
+    "options": [
+      "Yarın",
+      "Kalabalık",
+      "Kök",
+      "Güzel"
+    ],
+    "answer": "Kök",
+    "answerLetter": "C",
+    "explanation": "Kök dil bilgisi ve matematikte terim olarak kullanılabilir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-007",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: aşağıdaki cümlelerin hangisinde mecaz anlam vardır?",
+    "options": [
+      "Çocuk bahçede koştu.",
+      "Bugün hava çok soğuktu.",
+      "Bu sözleriyle kalbimi kırdı.",
+      "Kitabı masaya bıraktı."
+    ],
+    "answer": "Bu sözleriyle kalbimi kırdı.",
+    "answerLetter": "C",
+    "explanation": "Kalp kırmak mecaz anlamlıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-008",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: aşağıdakilerden hangisi 'hızlı' sözcüğünün eş anlamlısıdır?",
+    "options": [
+      "Yavaş",
+      "Süratli",
+      "Sessiz",
+      "Geniş"
+    ],
+    "answer": "Süratli",
+    "answerLetter": "B",
+    "explanation": "Hızlı ve süratli eş anlamlıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-009",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: aşağıdakilerden hangisi terim anlamlıdır?",
+    "options": [
+      "Güzel",
+      "Yarın",
+      "Kalabalık",
+      "Kök"
+    ],
+    "answer": "Kök",
+    "answerLetter": "D",
+    "explanation": "Kök dil bilgisi ve matematikte terim olarak kullanılabilir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-010",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki cümlelerin hangisinde mecaz anlam vardır? (Tekrar)",
+    "options": [
+      "Kitabı masaya bıraktı.",
+      "Çocuk bahçede koştu.",
+      "Bugün hava çok soğuktu.",
+      "Bu sözleriyle kalbimi kırdı."
+    ],
+    "answer": "Bu sözleriyle kalbimi kırdı.",
+    "answerLetter": "D",
+    "explanation": "Kalp kırmak mecaz anlamlıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-011",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi 'hızlı' sözcüğünün eş anlamlısıdır? (Tekrar)",
+    "options": [
+      "Geniş",
+      "Yavaş",
+      "Süratli",
+      "Sessiz"
+    ],
+    "answer": "Süratli",
+    "answerLetter": "C",
+    "explanation": "Hızlı ve süratli eş anlamlıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-012",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi terim anlamlıdır? (Tekrar)",
+    "options": [
+      "Kök",
+      "Güzel",
+      "Yarın",
+      "Kalabalık"
+    ],
+    "answer": "Kök",
+    "answerLetter": "A",
+    "explanation": "Kök dil bilgisi ve matematikte terim olarak kullanılabilir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-013",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Orta",
+    "question": "Aşağıdaki cümlelerin hangisinde mecaz anlam vardır? (Tekrar)",
+    "options": [
+      "Bu sözleriyle kalbimi kırdı.",
+      "Kitabı masaya bıraktı.",
+      "Çocuk bahçede koştu.",
+      "Bugün hava çok soğuktu."
+    ],
+    "answer": "Bu sözleriyle kalbimi kırdı.",
+    "answerLetter": "A",
+    "explanation": "Kalp kırmak mecaz anlamlıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-014",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisi 'hızlı' sözcüğünün eş anlamlısıdır? (Tekrar)",
+    "options": [
+      "Sessiz",
+      "Geniş",
+      "Yavaş",
+      "Süratli"
+    ],
+    "answer": "Süratli",
+    "answerLetter": "D",
+    "explanation": "Hızlı ve süratli eş anlamlıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-015",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisi terim anlamlıdır? (Tekrar)",
+    "options": [
+      "Kalabalık",
+      "Kök",
+      "Güzel",
+      "Yarın"
+    ],
+    "answer": "Kök",
+    "answerLetter": "B",
+    "explanation": "Kök dil bilgisi ve matematikte terim olarak kullanılabilir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-016",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Zor",
+    "question": "Aşağıdaki cümlelerin hangisinde mecaz anlam vardır? (Tekrar)",
+    "options": [
+      "Bugün hava çok soğuktu.",
+      "Bu sözleriyle kalbimi kırdı.",
+      "Kitabı masaya bıraktı.",
+      "Çocuk bahçede koştu."
+    ],
+    "answer": "Bu sözleriyle kalbimi kırdı.",
+    "answerLetter": "B",
+    "explanation": "Kalp kırmak mecaz anlamlıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-017",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Zor",
+    "question": "Aşağıdakilerden hangisi 'hızlı' sözcüğünün eş anlamlısıdır? (Tekrar)",
+    "options": [
+      "Süratli",
+      "Sessiz",
+      "Geniş",
+      "Yavaş"
+    ],
+    "answer": "Süratli",
+    "answerLetter": "A",
+    "explanation": "Hızlı ve süratli eş anlamlıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-018",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Zor",
+    "question": "Aşağıdakilerden hangisi terim anlamlıdır? (Tekrar)",
+    "options": [
+      "Yarın",
+      "Kalabalık",
+      "Kök",
+      "Güzel"
+    ],
+    "answer": "Kök",
+    "answerLetter": "C",
+    "explanation": "Kök dil bilgisi ve matematikte terim olarak kullanılabilir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-019",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki cümlelerin hangisinde mecaz anlam vardır? (Tekrar)",
+    "options": [
+      "Çocuk bahçede koştu.",
+      "Bugün hava çok soğuktu.",
+      "Bu sözleriyle kalbimi kırdı.",
+      "Kitabı masaya bıraktı."
+    ],
+    "answer": "Bu sözleriyle kalbimi kırdı.",
+    "answerLetter": "C",
+    "explanation": "Kalp kırmak mecaz anlamlıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-020",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Sözcükte Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi 'hızlı' sözcüğünün eş anlamlısıdır? (Tekrar)",
+    "options": [
+      "Yavaş",
+      "Süratli",
+      "Sessiz",
+      "Geniş"
+    ],
+    "answer": "Süratli",
+    "answerLetter": "B",
+    "explanation": "Hızlı ve süratli eş anlamlıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-021",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi vardır?",
+    "options": [
+      "Dışarı çıkmak istiyorum.",
+      "Kitabı okuyabilirim.",
+      "Yarın gelirim.",
+      "Yağmur yağdığı için dışarı çıkmadık."
+    ],
+    "answer": "Yağmur yağdığı için dışarı çıkmadık.",
+    "answerLetter": "D",
+    "explanation": "İlk bölüm neden, ikinci bölüm sonuçtur.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-022",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisinde amaç-sonuç anlamı vardır?",
+    "options": [
+      "Hava soğuktu.",
+      "Kitap çok güzeldi.",
+      "Sınavı kazanmak için çalışıyor.",
+      "Hasta olduğu için gelmedi."
+    ],
+    "answer": "Sınavı kazanmak için çalışıyor.",
+    "answerLetter": "C",
+    "explanation": "Çalışmanın amacı sınavı kazanmaktır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-023",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki cümlelerin hangisinde karşılaştırma vardır?",
+    "options": [
+      "Ders başladı.",
+      "Bu kitap diğerinden daha anlaşılır.",
+      "Bugün okula gittim.",
+      "Kalem masadadır."
+    ],
+    "answer": "Bu kitap diğerinden daha anlaşılır.",
+    "answerLetter": "B",
+    "explanation": "Daha sözcüğü karşılaştırma yapar.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-024",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Orta",
+    "question": "Verilen cümlelerin hangisinde neden-sonuç ilişkisi vardır?",
+    "options": [
+      "Yağmur yağdığı için dışarı çıkmadık.",
+      "Dışarı çıkmak istiyorum.",
+      "Kitabı okuyabilirim.",
+      "Yarın gelirim."
+    ],
+    "answer": "Yağmur yağdığı için dışarı çıkmadık.",
+    "answerLetter": "A",
+    "explanation": "İlk bölüm neden, ikinci bölüm sonuçtur.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-025",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Orta",
+    "question": "Verilenlerden hangisinde amaç-sonuç anlamı vardır?",
+    "options": [
+      "Hasta olduğu için gelmedi.",
+      "Hava soğuktu.",
+      "Kitap çok güzeldi.",
+      "Sınavı kazanmak için çalışıyor."
+    ],
+    "answer": "Sınavı kazanmak için çalışıyor.",
+    "answerLetter": "D",
+    "explanation": "Çalışmanın amacı sınavı kazanmaktır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-026",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Orta",
+    "question": "Verilen cümlelerin hangisinde karşılaştırma vardır?",
+    "options": [
+      "Kalem masadadır.",
+      "Ders başladı.",
+      "Bu kitap diğerinden daha anlaşılır.",
+      "Bugün okula gittim."
+    ],
+    "answer": "Bu kitap diğerinden daha anlaşılır.",
+    "answerLetter": "C",
+    "explanation": "Daha sözcüğü karşılaştırma yapar.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-027",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi vardır?",
+    "options": [
+      "Yarın gelirim.",
+      "Yağmur yağdığı için dışarı çıkmadık.",
+      "Dışarı çıkmak istiyorum.",
+      "Kitabı okuyabilirim."
+    ],
+    "answer": "Yağmur yağdığı için dışarı çıkmadık.",
+    "answerLetter": "B",
+    "explanation": "İlk bölüm neden, ikinci bölüm sonuçtur.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-028",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: aşağıdakilerden hangisinde amaç-sonuç anlamı vardır?",
+    "options": [
+      "Sınavı kazanmak için çalışıyor.",
+      "Hasta olduğu için gelmedi.",
+      "Hava soğuktu.",
+      "Kitap çok güzeldi."
+    ],
+    "answer": "Sınavı kazanmak için çalışıyor.",
+    "answerLetter": "A",
+    "explanation": "Çalışmanın amacı sınavı kazanmaktır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-029",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: aşağıdaki cümlelerin hangisinde karşılaştırma vardır?",
+    "options": [
+      "Bugün okula gittim.",
+      "Kalem masadadır.",
+      "Ders başladı.",
+      "Bu kitap diğerinden daha anlaşılır."
+    ],
+    "answer": "Bu kitap diğerinden daha anlaşılır.",
+    "answerLetter": "D",
+    "explanation": "Daha sözcüğü karşılaştırma yapar.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-030",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi vardır? (Tekrar)",
+    "options": [
+      "Kitabı okuyabilirim.",
+      "Yarın gelirim.",
+      "Yağmur yağdığı için dışarı çıkmadık.",
+      "Dışarı çıkmak istiyorum."
+    ],
+    "answer": "Yağmur yağdığı için dışarı çıkmadık.",
+    "answerLetter": "C",
+    "explanation": "İlk bölüm neden, ikinci bölüm sonuçtur.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-031",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisinde amaç-sonuç anlamı vardır? (Tekrar)",
+    "options": [
+      "Kitap çok güzeldi.",
+      "Sınavı kazanmak için çalışıyor.",
+      "Hasta olduğu için gelmedi.",
+      "Hava soğuktu."
+    ],
+    "answer": "Sınavı kazanmak için çalışıyor.",
+    "answerLetter": "B",
+    "explanation": "Çalışmanın amacı sınavı kazanmaktır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-032",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki cümlelerin hangisinde karşılaştırma vardır? (Tekrar)",
+    "options": [
+      "Bu kitap diğerinden daha anlaşılır.",
+      "Bugün okula gittim.",
+      "Kalem masadadır.",
+      "Ders başladı."
+    ],
+    "answer": "Bu kitap diğerinden daha anlaşılır.",
+    "answerLetter": "A",
+    "explanation": "Daha sözcüğü karşılaştırma yapar.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-033",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Orta",
+    "question": "Aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi vardır? (Tekrar)",
+    "options": [
+      "Dışarı çıkmak istiyorum.",
+      "Kitabı okuyabilirim.",
+      "Yarın gelirim.",
+      "Yağmur yağdığı için dışarı çıkmadık."
+    ],
+    "answer": "Yağmur yağdığı için dışarı çıkmadık.",
+    "answerLetter": "D",
+    "explanation": "İlk bölüm neden, ikinci bölüm sonuçtur.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-034",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisinde amaç-sonuç anlamı vardır? (Tekrar)",
+    "options": [
+      "Hava soğuktu.",
+      "Kitap çok güzeldi.",
+      "Sınavı kazanmak için çalışıyor.",
+      "Hasta olduğu için gelmedi."
+    ],
+    "answer": "Sınavı kazanmak için çalışıyor.",
+    "answerLetter": "C",
+    "explanation": "Çalışmanın amacı sınavı kazanmaktır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-035",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Orta",
+    "question": "Aşağıdaki cümlelerin hangisinde karşılaştırma vardır? (Tekrar)",
+    "options": [
+      "Ders başladı.",
+      "Bu kitap diğerinden daha anlaşılır.",
+      "Bugün okula gittim.",
+      "Kalem masadadır."
+    ],
+    "answer": "Bu kitap diğerinden daha anlaşılır.",
+    "answerLetter": "B",
+    "explanation": "Daha sözcüğü karşılaştırma yapar.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-036",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Zor",
+    "question": "Aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi vardır? (Tekrar)",
+    "options": [
+      "Yağmur yağdığı için dışarı çıkmadık.",
+      "Dışarı çıkmak istiyorum.",
+      "Kitabı okuyabilirim.",
+      "Yarın gelirim."
+    ],
+    "answer": "Yağmur yağdığı için dışarı çıkmadık.",
+    "answerLetter": "A",
+    "explanation": "İlk bölüm neden, ikinci bölüm sonuçtur.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-037",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Zor",
+    "question": "Aşağıdakilerden hangisinde amaç-sonuç anlamı vardır? (Tekrar)",
+    "options": [
+      "Hasta olduğu için gelmedi.",
+      "Hava soğuktu.",
+      "Kitap çok güzeldi.",
+      "Sınavı kazanmak için çalışıyor."
+    ],
+    "answer": "Sınavı kazanmak için çalışıyor.",
+    "answerLetter": "D",
+    "explanation": "Çalışmanın amacı sınavı kazanmaktır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-038",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Zor",
+    "question": "Aşağıdaki cümlelerin hangisinde karşılaştırma vardır? (Tekrar)",
+    "options": [
+      "Kalem masadadır.",
+      "Ders başladı.",
+      "Bu kitap diğerinden daha anlaşılır.",
+      "Bugün okula gittim."
+    ],
+    "answer": "Bu kitap diğerinden daha anlaşılır.",
+    "answerLetter": "C",
+    "explanation": "Daha sözcüğü karşılaştırma yapar.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-039",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi vardır? (Tekrar)",
+    "options": [
+      "Yarın gelirim.",
+      "Yağmur yağdığı için dışarı çıkmadık.",
+      "Dışarı çıkmak istiyorum.",
+      "Kitabı okuyabilirim."
+    ],
+    "answer": "Yağmur yağdığı için dışarı çıkmadık.",
+    "answerLetter": "B",
+    "explanation": "İlk bölüm neden, ikinci bölüm sonuçtur.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-040",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümlede Anlam",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisinde amaç-sonuç anlamı vardır? (Tekrar)",
+    "options": [
+      "Sınavı kazanmak için çalışıyor.",
+      "Hasta olduğu için gelmedi.",
+      "Hava soğuktu.",
+      "Kitap çok güzeldi."
+    ],
+    "answer": "Sınavı kazanmak için çalışıyor.",
+    "answerLetter": "A",
+    "explanation": "Çalışmanın amacı sınavı kazanmaktır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-041",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Kolay",
+    "question": "Paragrafın ana düşüncesi neyi ifade eder?",
+    "options": [
+      "Sadece ilk kelimeyi",
+      "Yazarın adını",
+      "Noktalama işaretini",
+      "Parçada verilmek istenen temel mesajı"
+    ],
+    "answer": "Parçada verilmek istenen temel mesajı",
+    "answerLetter": "D",
+    "explanation": "Ana düşünce temel mesajdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-042",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Kolay",
+    "question": "Paragrafta başlık seçerken neye dikkat edilir?",
+    "options": [
+      "Yabancı kelime olmasına",
+      "Soru işareti içermesine",
+      "Paragrafın konusunu kapsamasına",
+      "En uzun kelime olmasına"
+    ],
+    "answer": "Paragrafın konusunu kapsamasına",
+    "answerLetter": "C",
+    "explanation": "Başlık konuyu genel olarak karşılamalıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-043",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Kolay",
+    "question": "Paragraf sorularında önce ne okunması faydalıdır?",
+    "options": [
+      "Sayfa numarası",
+      "Soru kökü",
+      "Son seçenek",
+      "Yazarın yaşı"
+    ],
+    "answer": "Soru kökü",
+    "answerLetter": "B",
+    "explanation": "Soru kökü ne aranacağını gösterir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-044",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Orta",
+    "question": "Paragrafın ana düşüncesi neyi ifade eder?",
+    "options": [
+      "Parçada verilmek istenen temel mesajı",
+      "Sadece ilk kelimeyi",
+      "Yazarın adını",
+      "Noktalama işaretini"
+    ],
+    "answer": "Parçada verilmek istenen temel mesajı",
+    "answerLetter": "A",
+    "explanation": "Ana düşünce temel mesajdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-045",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Orta",
+    "question": "Paragrafta başlık seçerken neye dikkat edilir?",
+    "options": [
+      "En uzun kelime olmasına",
+      "Yabancı kelime olmasına",
+      "Soru işareti içermesine",
+      "Paragrafın konusunu kapsamasına"
+    ],
+    "answer": "Paragrafın konusunu kapsamasına",
+    "answerLetter": "D",
+    "explanation": "Başlık konuyu genel olarak karşılamalıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-046",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Orta",
+    "question": "Paragraf sorularında önce ne okunması faydalıdır?",
+    "options": [
+      "Yazarın yaşı",
+      "Sayfa numarası",
+      "Soru kökü",
+      "Son seçenek"
+    ],
+    "answer": "Soru kökü",
+    "answerLetter": "C",
+    "explanation": "Soru kökü ne aranacağını gösterir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-047",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: paragrafın ana düşüncesi neyi ifade eder?",
+    "options": [
+      "Noktalama işaretini",
+      "Parçada verilmek istenen temel mesajı",
+      "Sadece ilk kelimeyi",
+      "Yazarın adını"
+    ],
+    "answer": "Parçada verilmek istenen temel mesajı",
+    "answerLetter": "B",
+    "explanation": "Ana düşünce temel mesajdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-048",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: paragrafta başlık seçerken neye dikkat edilir?",
+    "options": [
+      "Paragrafın konusunu kapsamasına",
+      "En uzun kelime olmasına",
+      "Yabancı kelime olmasına",
+      "Soru işareti içermesine"
+    ],
+    "answer": "Paragrafın konusunu kapsamasına",
+    "answerLetter": "A",
+    "explanation": "Başlık konuyu genel olarak karşılamalıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-049",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: paragraf sorularında önce ne okunması faydalıdır?",
+    "options": [
+      "Son seçenek",
+      "Yazarın yaşı",
+      "Sayfa numarası",
+      "Soru kökü"
+    ],
+    "answer": "Soru kökü",
+    "answerLetter": "D",
+    "explanation": "Soru kökü ne aranacağını gösterir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-050",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Kolay",
+    "question": "Paragrafın ana düşüncesi neyi ifade eder? (Tekrar)",
+    "options": [
+      "Yazarın adını",
+      "Noktalama işaretini",
+      "Parçada verilmek istenen temel mesajı",
+      "Sadece ilk kelimeyi"
+    ],
+    "answer": "Parçada verilmek istenen temel mesajı",
+    "answerLetter": "C",
+    "explanation": "Ana düşünce temel mesajdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-051",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Kolay",
+    "question": "Paragrafta başlık seçerken neye dikkat edilir? (Tekrar)",
+    "options": [
+      "Soru işareti içermesine",
+      "Paragrafın konusunu kapsamasına",
+      "En uzun kelime olmasına",
+      "Yabancı kelime olmasına"
+    ],
+    "answer": "Paragrafın konusunu kapsamasına",
+    "answerLetter": "B",
+    "explanation": "Başlık konuyu genel olarak karşılamalıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-052",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Kolay",
+    "question": "Paragraf sorularında önce ne okunması faydalıdır? (Tekrar)",
+    "options": [
+      "Soru kökü",
+      "Son seçenek",
+      "Yazarın yaşı",
+      "Sayfa numarası"
+    ],
+    "answer": "Soru kökü",
+    "answerLetter": "A",
+    "explanation": "Soru kökü ne aranacağını gösterir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-053",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Orta",
+    "question": "Paragrafın ana düşüncesi neyi ifade eder? (Tekrar)",
+    "options": [
+      "Sadece ilk kelimeyi",
+      "Yazarın adını",
+      "Noktalama işaretini",
+      "Parçada verilmek istenen temel mesajı"
+    ],
+    "answer": "Parçada verilmek istenen temel mesajı",
+    "answerLetter": "D",
+    "explanation": "Ana düşünce temel mesajdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-054",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Orta",
+    "question": "Paragrafta başlık seçerken neye dikkat edilir? (Tekrar)",
+    "options": [
+      "Yabancı kelime olmasına",
+      "Soru işareti içermesine",
+      "Paragrafın konusunu kapsamasına",
+      "En uzun kelime olmasına"
+    ],
+    "answer": "Paragrafın konusunu kapsamasına",
+    "answerLetter": "C",
+    "explanation": "Başlık konuyu genel olarak karşılamalıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-055",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Orta",
+    "question": "Paragraf sorularında önce ne okunması faydalıdır? (Tekrar)",
+    "options": [
+      "Sayfa numarası",
+      "Soru kökü",
+      "Son seçenek",
+      "Yazarın yaşı"
+    ],
+    "answer": "Soru kökü",
+    "answerLetter": "B",
+    "explanation": "Soru kökü ne aranacağını gösterir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-056",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Zor",
+    "question": "Paragrafın ana düşüncesi neyi ifade eder? (Tekrar)",
+    "options": [
+      "Parçada verilmek istenen temel mesajı",
+      "Sadece ilk kelimeyi",
+      "Yazarın adını",
+      "Noktalama işaretini"
+    ],
+    "answer": "Parçada verilmek istenen temel mesajı",
+    "answerLetter": "A",
+    "explanation": "Ana düşünce temel mesajdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-057",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Zor",
+    "question": "Paragrafta başlık seçerken neye dikkat edilir? (Tekrar)",
+    "options": [
+      "En uzun kelime olmasına",
+      "Yabancı kelime olmasına",
+      "Soru işareti içermesine",
+      "Paragrafın konusunu kapsamasına"
+    ],
+    "answer": "Paragrafın konusunu kapsamasına",
+    "answerLetter": "D",
+    "explanation": "Başlık konuyu genel olarak karşılamalıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-058",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Zor",
+    "question": "Paragraf sorularında önce ne okunması faydalıdır? (Tekrar)",
+    "options": [
+      "Yazarın yaşı",
+      "Sayfa numarası",
+      "Soru kökü",
+      "Son seçenek"
+    ],
+    "answer": "Soru kökü",
+    "answerLetter": "C",
+    "explanation": "Soru kökü ne aranacağını gösterir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-059",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Kolay",
+    "question": "Paragrafın ana düşüncesi neyi ifade eder? (Tekrar)",
+    "options": [
+      "Noktalama işaretini",
+      "Parçada verilmek istenen temel mesajı",
+      "Sadece ilk kelimeyi",
+      "Yazarın adını"
+    ],
+    "answer": "Parçada verilmek istenen temel mesajı",
+    "answerLetter": "B",
+    "explanation": "Ana düşünce temel mesajdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-060",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Paragraf",
+    "difficulty": "Kolay",
+    "question": "Paragrafta başlık seçerken neye dikkat edilir? (Tekrar)",
+    "options": [
+      "Paragrafın konusunu kapsamasına",
+      "En uzun kelime olmasına",
+      "Yabancı kelime olmasına",
+      "Soru işareti içermesine"
+    ],
+    "answer": "Paragrafın konusunu kapsamasına",
+    "answerLetter": "A",
+    "explanation": "Başlık konuyu genel olarak karşılamalıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-061",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yazım Kuralları",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır?",
+    "options": [
+      "Herkez burada toplandı.",
+      "Yarın görüşürüz.",
+      "Kitabı aldım.",
+      "Bugün okula gittim."
+    ],
+    "answer": "Herkez burada toplandı.",
+    "answerLetter": "A",
+    "explanation": "Doğru yazım 'herkes' olmalıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-062",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yazım Kuralları",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi doğru yazılmıştır?",
+    "options": [
+      "bir kaç",
+      "pek çok şeyler",
+      "hiç bir",
+      "her şey"
+    ],
+    "answer": "her şey",
+    "answerLetter": "D",
+    "explanation": "Her şey ayrı yazılır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-063",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yazım Kuralları",
+    "difficulty": "Kolay",
+    "question": "Özel adlara gelen çekim ekleri nasıl yazılır?",
+    "options": [
+      "Yazılmaz",
+      "Kesme işaretiyle ayrılır",
+      "Bitişik yazılır",
+      "Her zaman ayrı yazılır"
+    ],
+    "answer": "Kesme işaretiyle ayrılır",
+    "answerLetter": "B",
+    "explanation": "Özel adlara gelen çekim ekleri kesme işaretiyle ayrılır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-064",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yazım Kuralları",
+    "difficulty": "Orta",
+    "question": "Verilen cümlelerin hangisinde yazım yanlışı vardır?",
+    "options": [
+      "Bugün okula gittim.",
+      "Herkez burada toplandı.",
+      "Yarın görüşürüz.",
+      "Kitabı aldım."
+    ],
+    "answer": "Herkez burada toplandı.",
+    "answerLetter": "B",
+    "explanation": "Doğru yazım 'herkes' olmalıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-065",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yazım Kuralları",
+    "difficulty": "Orta",
+    "question": "Verilenlerden hangisi doğru yazılmıştır?",
+    "options": [
+      "her şey",
+      "bir kaç",
+      "pek çok şeyler",
+      "hiç bir"
+    ],
+    "answer": "her şey",
+    "answerLetter": "A",
+    "explanation": "Her şey ayrı yazılır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-066",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yazım Kuralları",
+    "difficulty": "Orta",
+    "question": "Özel adlara gelen çekim ekleri nasıl yazılır?",
+    "options": [
+      "Her zaman ayrı yazılır",
+      "Yazılmaz",
+      "Kesme işaretiyle ayrılır",
+      "Bitişik yazılır"
+    ],
+    "answer": "Kesme işaretiyle ayrılır",
+    "answerLetter": "C",
+    "explanation": "Özel adlara gelen çekim ekleri kesme işaretiyle ayrılır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-067",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yazım Kuralları",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: aşağıdaki cümlelerin hangisinde yazım yanlışı vardır?",
+    "options": [
+      "Kitabı aldım.",
+      "Bugün okula gittim.",
+      "Herkez burada toplandı.",
+      "Yarın görüşürüz."
+    ],
+    "answer": "Herkez burada toplandı.",
+    "answerLetter": "C",
+    "explanation": "Doğru yazım 'herkes' olmalıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-068",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yazım Kuralları",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: aşağıdakilerden hangisi doğru yazılmıştır?",
+    "options": [
+      "hiç bir",
+      "her şey",
+      "bir kaç",
+      "pek çok şeyler"
+    ],
+    "answer": "her şey",
+    "answerLetter": "B",
+    "explanation": "Her şey ayrı yazılır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-069",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yazım Kuralları",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: özel adlara gelen çekim ekleri nasıl yazılır?",
+    "options": [
+      "Bitişik yazılır",
+      "Her zaman ayrı yazılır",
+      "Yazılmaz",
+      "Kesme işaretiyle ayrılır"
+    ],
+    "answer": "Kesme işaretiyle ayrılır",
+    "answerLetter": "D",
+    "explanation": "Özel adlara gelen çekim ekleri kesme işaretiyle ayrılır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-070",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yazım Kuralları",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır? (Tekrar)",
+    "options": [
+      "Yarın görüşürüz.",
+      "Kitabı aldım.",
+      "Bugün okula gittim.",
+      "Herkez burada toplandı."
+    ],
+    "answer": "Herkez burada toplandı.",
+    "answerLetter": "D",
+    "explanation": "Doğru yazım 'herkes' olmalıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-071",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yazım Kuralları",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi doğru yazılmıştır? (Tekrar)",
+    "options": [
+      "pek çok şeyler",
+      "hiç bir",
+      "her şey",
+      "bir kaç"
+    ],
+    "answer": "her şey",
+    "answerLetter": "C",
+    "explanation": "Her şey ayrı yazılır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-072",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yazım Kuralları",
+    "difficulty": "Kolay",
+    "question": "Özel adlara gelen çekim ekleri nasıl yazılır? (Tekrar)",
+    "options": [
+      "Kesme işaretiyle ayrılır",
+      "Bitişik yazılır",
+      "Her zaman ayrı yazılır",
+      "Yazılmaz"
+    ],
+    "answer": "Kesme işaretiyle ayrılır",
+    "answerLetter": "A",
+    "explanation": "Özel adlara gelen çekim ekleri kesme işaretiyle ayrılır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-073",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yazım Kuralları",
+    "difficulty": "Orta",
+    "question": "Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır? (Tekrar)",
+    "options": [
+      "Herkez burada toplandı.",
+      "Yarın görüşürüz.",
+      "Kitabı aldım.",
+      "Bugün okula gittim."
+    ],
+    "answer": "Herkez burada toplandı.",
+    "answerLetter": "A",
+    "explanation": "Doğru yazım 'herkes' olmalıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-074",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yazım Kuralları",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisi doğru yazılmıştır? (Tekrar)",
+    "options": [
+      "bir kaç",
+      "pek çok şeyler",
+      "hiç bir",
+      "her şey"
+    ],
+    "answer": "her şey",
+    "answerLetter": "D",
+    "explanation": "Her şey ayrı yazılır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-075",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yazım Kuralları",
+    "difficulty": "Orta",
+    "question": "Özel adlara gelen çekim ekleri nasıl yazılır? (Tekrar)",
+    "options": [
+      "Yazılmaz",
+      "Kesme işaretiyle ayrılır",
+      "Bitişik yazılır",
+      "Her zaman ayrı yazılır"
+    ],
+    "answer": "Kesme işaretiyle ayrılır",
+    "answerLetter": "B",
+    "explanation": "Özel adlara gelen çekim ekleri kesme işaretiyle ayrılır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-076",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yazım Kuralları",
+    "difficulty": "Zor",
+    "question": "Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır? (Tekrar)",
+    "options": [
+      "Bugün okula gittim.",
+      "Herkez burada toplandı.",
+      "Yarın görüşürüz.",
+      "Kitabı aldım."
+    ],
+    "answer": "Herkez burada toplandı.",
+    "answerLetter": "B",
+    "explanation": "Doğru yazım 'herkes' olmalıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-077",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yazım Kuralları",
+    "difficulty": "Zor",
+    "question": "Aşağıdakilerden hangisi doğru yazılmıştır? (Tekrar)",
+    "options": [
+      "her şey",
+      "bir kaç",
+      "pek çok şeyler",
+      "hiç bir"
+    ],
+    "answer": "her şey",
+    "answerLetter": "A",
+    "explanation": "Her şey ayrı yazılır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-078",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yazım Kuralları",
+    "difficulty": "Zor",
+    "question": "Özel adlara gelen çekim ekleri nasıl yazılır? (Tekrar)",
+    "options": [
+      "Her zaman ayrı yazılır",
+      "Yazılmaz",
+      "Kesme işaretiyle ayrılır",
+      "Bitişik yazılır"
+    ],
+    "answer": "Kesme işaretiyle ayrılır",
+    "answerLetter": "C",
+    "explanation": "Özel adlara gelen çekim ekleri kesme işaretiyle ayrılır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-079",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yazım Kuralları",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır? (Tekrar)",
+    "options": [
+      "Kitabı aldım.",
+      "Bugün okula gittim.",
+      "Herkez burada toplandı.",
+      "Yarın görüşürüz."
+    ],
+    "answer": "Herkez burada toplandı.",
+    "answerLetter": "C",
+    "explanation": "Doğru yazım 'herkes' olmalıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-080",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yazım Kuralları",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi doğru yazılmıştır? (Tekrar)",
+    "options": [
+      "hiç bir",
+      "her şey",
+      "bir kaç",
+      "pek çok şeyler"
+    ],
+    "answer": "her şey",
+    "answerLetter": "B",
+    "explanation": "Her şey ayrı yazılır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-081",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Noktalama",
+    "difficulty": "Kolay",
+    "question": "Eş görevli sözcükleri ayırmak için hangi noktalama kullanılır?",
+    "options": [
+      "Nokta",
+      "Soru işareti",
+      "Ünlem",
+      "Virgül"
+    ],
+    "answer": "Virgül",
+    "answerLetter": "D",
+    "explanation": "Virgül eş görevli kelimeleri ayırır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-082",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Noktalama",
+    "difficulty": "Kolay",
+    "question": "Tamamlanmış cümlenin sonuna hangi işaret konur?",
+    "options": [
+      "Kısa çizgi",
+      "Kesme",
+      "Nokta",
+      "Virgül"
+    ],
+    "answer": "Nokta",
+    "answerLetter": "C",
+    "explanation": "Tamamlanmış yargı nokta ile biter.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-083",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Noktalama",
+    "difficulty": "Kolay",
+    "question": "Soru anlamı taşıyan cümlelerin sonuna ne konur?",
+    "options": [
+      "İki nokta",
+      "Soru işareti",
+      "Virgül",
+      "Nokta"
+    ],
+    "answer": "Soru işareti",
+    "answerLetter": "B",
+    "explanation": "Soru cümlelerinde soru işareti kullanılır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-084",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Noktalama",
+    "difficulty": "Orta",
+    "question": "Eş görevli sözcükleri ayırmak için hangi noktalama kullanılır?",
+    "options": [
+      "Virgül",
+      "Nokta",
+      "Soru işareti",
+      "Ünlem"
+    ],
+    "answer": "Virgül",
+    "answerLetter": "A",
+    "explanation": "Virgül eş görevli kelimeleri ayırır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-085",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Noktalama",
+    "difficulty": "Orta",
+    "question": "Tamamlanmış cümlenin sonuna hangi işaret konur?",
+    "options": [
+      "Virgül",
+      "Kısa çizgi",
+      "Kesme",
+      "Nokta"
+    ],
+    "answer": "Nokta",
+    "answerLetter": "D",
+    "explanation": "Tamamlanmış yargı nokta ile biter.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-086",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Noktalama",
+    "difficulty": "Orta",
+    "question": "Soru anlamı taşıyan cümlelerin sonuna ne konur?",
+    "options": [
+      "Nokta",
+      "İki nokta",
+      "Soru işareti",
+      "Virgül"
+    ],
+    "answer": "Soru işareti",
+    "answerLetter": "C",
+    "explanation": "Soru cümlelerinde soru işareti kullanılır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-087",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Noktalama",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: eş görevli sözcükleri ayırmak için hangi noktalama kullanılır?",
+    "options": [
+      "Ünlem",
+      "Virgül",
+      "Nokta",
+      "Soru işareti"
+    ],
+    "answer": "Virgül",
+    "answerLetter": "B",
+    "explanation": "Virgül eş görevli kelimeleri ayırır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-088",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Noktalama",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: tamamlanmış cümlenin sonuna hangi işaret konur?",
+    "options": [
+      "Nokta",
+      "Virgül",
+      "Kısa çizgi",
+      "Kesme"
+    ],
+    "answer": "Nokta",
+    "answerLetter": "A",
+    "explanation": "Tamamlanmış yargı nokta ile biter.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-089",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Noktalama",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: soru anlamı taşıyan cümlelerin sonuna ne konur?",
+    "options": [
+      "Virgül",
+      "Nokta",
+      "İki nokta",
+      "Soru işareti"
+    ],
+    "answer": "Soru işareti",
+    "answerLetter": "D",
+    "explanation": "Soru cümlelerinde soru işareti kullanılır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-090",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Noktalama",
+    "difficulty": "Kolay",
+    "question": "Eş görevli sözcükleri ayırmak için hangi noktalama kullanılır? (Tekrar)",
+    "options": [
+      "Soru işareti",
+      "Ünlem",
+      "Virgül",
+      "Nokta"
+    ],
+    "answer": "Virgül",
+    "answerLetter": "C",
+    "explanation": "Virgül eş görevli kelimeleri ayırır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-091",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Noktalama",
+    "difficulty": "Kolay",
+    "question": "Tamamlanmış cümlenin sonuna hangi işaret konur? (Tekrar)",
+    "options": [
+      "Kesme",
+      "Nokta",
+      "Virgül",
+      "Kısa çizgi"
+    ],
+    "answer": "Nokta",
+    "answerLetter": "B",
+    "explanation": "Tamamlanmış yargı nokta ile biter.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-092",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Noktalama",
+    "difficulty": "Kolay",
+    "question": "Soru anlamı taşıyan cümlelerin sonuna ne konur? (Tekrar)",
+    "options": [
+      "Soru işareti",
+      "Virgül",
+      "Nokta",
+      "İki nokta"
+    ],
+    "answer": "Soru işareti",
+    "answerLetter": "A",
+    "explanation": "Soru cümlelerinde soru işareti kullanılır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-093",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Noktalama",
+    "difficulty": "Orta",
+    "question": "Eş görevli sözcükleri ayırmak için hangi noktalama kullanılır? (Tekrar)",
+    "options": [
+      "Nokta",
+      "Soru işareti",
+      "Ünlem",
+      "Virgül"
+    ],
+    "answer": "Virgül",
+    "answerLetter": "D",
+    "explanation": "Virgül eş görevli kelimeleri ayırır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-094",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Noktalama",
+    "difficulty": "Orta",
+    "question": "Tamamlanmış cümlenin sonuna hangi işaret konur? (Tekrar)",
+    "options": [
+      "Kısa çizgi",
+      "Kesme",
+      "Nokta",
+      "Virgül"
+    ],
+    "answer": "Nokta",
+    "answerLetter": "C",
+    "explanation": "Tamamlanmış yargı nokta ile biter.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-095",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Noktalama",
+    "difficulty": "Orta",
+    "question": "Soru anlamı taşıyan cümlelerin sonuna ne konur? (Tekrar)",
+    "options": [
+      "İki nokta",
+      "Soru işareti",
+      "Virgül",
+      "Nokta"
+    ],
+    "answer": "Soru işareti",
+    "answerLetter": "B",
+    "explanation": "Soru cümlelerinde soru işareti kullanılır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-096",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Noktalama",
+    "difficulty": "Zor",
+    "question": "Eş görevli sözcükleri ayırmak için hangi noktalama kullanılır? (Tekrar)",
+    "options": [
+      "Virgül",
+      "Nokta",
+      "Soru işareti",
+      "Ünlem"
+    ],
+    "answer": "Virgül",
+    "answerLetter": "A",
+    "explanation": "Virgül eş görevli kelimeleri ayırır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-097",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Noktalama",
+    "difficulty": "Zor",
+    "question": "Tamamlanmış cümlenin sonuna hangi işaret konur? (Tekrar)",
+    "options": [
+      "Virgül",
+      "Kısa çizgi",
+      "Kesme",
+      "Nokta"
+    ],
+    "answer": "Nokta",
+    "answerLetter": "D",
+    "explanation": "Tamamlanmış yargı nokta ile biter.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-098",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Noktalama",
+    "difficulty": "Zor",
+    "question": "Soru anlamı taşıyan cümlelerin sonuna ne konur? (Tekrar)",
+    "options": [
+      "Nokta",
+      "İki nokta",
+      "Soru işareti",
+      "Virgül"
+    ],
+    "answer": "Soru işareti",
+    "answerLetter": "C",
+    "explanation": "Soru cümlelerinde soru işareti kullanılır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-099",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Noktalama",
+    "difficulty": "Kolay",
+    "question": "Eş görevli sözcükleri ayırmak için hangi noktalama kullanılır? (Tekrar)",
+    "options": [
+      "Ünlem",
+      "Virgül",
+      "Nokta",
+      "Soru işareti"
+    ],
+    "answer": "Virgül",
+    "answerLetter": "B",
+    "explanation": "Virgül eş görevli kelimeleri ayırır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-100",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Noktalama",
+    "difficulty": "Kolay",
+    "question": "Tamamlanmış cümlenin sonuna hangi işaret konur? (Tekrar)",
+    "options": [
+      "Nokta",
+      "Virgül",
+      "Kısa çizgi",
+      "Kesme"
+    ],
+    "answer": "Nokta",
+    "answerLetter": "A",
+    "explanation": "Tamamlanmış yargı nokta ile biter.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-101",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Ses Bilgisi",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisinde ünsüz yumuşaması vardır?",
+    "options": [
+      "Geliyor",
+      "Ağaçlar",
+      "Kalemler",
+      "Kitapı > kitabı"
+    ],
+    "answer": "Kitapı > kitabı",
+    "answerLetter": "D",
+    "explanation": "p sesi b'ye dönüşür.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-102",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Ses Bilgisi",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki kelimelerden hangisi ünlü düşmesine örnektir?",
+    "options": [
+      "Evde",
+      "Kitaplar",
+      "Ağızı > ağzı",
+      "Kalemler"
+    ],
+    "answer": "Ağızı > ağzı",
+    "answerLetter": "C",
+    "explanation": "İkinci hecedeki ünlü düşer.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-103",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Ses Bilgisi",
+    "difficulty": "Kolay",
+    "question": "Ünlü daralmasına örnek olan kullanım hangisidir?",
+    "options": [
+      "Kalem-im",
+      "Başla-yor > başlıyor",
+      "Kitap-lar",
+      "Ev-de"
+    ],
+    "answer": "Başla-yor > başlıyor",
+    "answerLetter": "B",
+    "explanation": "a sesi ı'ya daralır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-104",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Ses Bilgisi",
+    "difficulty": "Orta",
+    "question": "Verilenlerden hangisinde ünsüz yumuşaması vardır?",
+    "options": [
+      "Kitapı > kitabı",
+      "Geliyor",
+      "Ağaçlar",
+      "Kalemler"
+    ],
+    "answer": "Kitapı > kitabı",
+    "answerLetter": "A",
+    "explanation": "p sesi b'ye dönüşür.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-105",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Ses Bilgisi",
+    "difficulty": "Orta",
+    "question": "Verilen kelimelerden hangisi ünlü düşmesine örnektir?",
+    "options": [
+      "Kalemler",
+      "Evde",
+      "Kitaplar",
+      "Ağızı > ağzı"
+    ],
+    "answer": "Ağızı > ağzı",
+    "answerLetter": "D",
+    "explanation": "İkinci hecedeki ünlü düşer.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-106",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Ses Bilgisi",
+    "difficulty": "Orta",
+    "question": "Ünlü daralmasına örnek olan kullanım hangisidir?",
+    "options": [
+      "Ev-de",
+      "Kalem-im",
+      "Başla-yor > başlıyor",
+      "Kitap-lar"
+    ],
+    "answer": "Başla-yor > başlıyor",
+    "answerLetter": "C",
+    "explanation": "a sesi ı'ya daralır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-107",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Ses Bilgisi",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: aşağıdakilerden hangisinde ünsüz yumuşaması vardır?",
+    "options": [
+      "Kalemler",
+      "Kitapı > kitabı",
+      "Geliyor",
+      "Ağaçlar"
+    ],
+    "answer": "Kitapı > kitabı",
+    "answerLetter": "B",
+    "explanation": "p sesi b'ye dönüşür.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-108",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Ses Bilgisi",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: aşağıdaki kelimelerden hangisi ünlü düşmesine örnektir?",
+    "options": [
+      "Ağızı > ağzı",
+      "Kalemler",
+      "Evde",
+      "Kitaplar"
+    ],
+    "answer": "Ağızı > ağzı",
+    "answerLetter": "A",
+    "explanation": "İkinci hecedeki ünlü düşer.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-109",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Ses Bilgisi",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: ünlü daralmasına örnek olan kullanım hangisidir?",
+    "options": [
+      "Kitap-lar",
+      "Ev-de",
+      "Kalem-im",
+      "Başla-yor > başlıyor"
+    ],
+    "answer": "Başla-yor > başlıyor",
+    "answerLetter": "D",
+    "explanation": "a sesi ı'ya daralır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-110",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Ses Bilgisi",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisinde ünsüz yumuşaması vardır? (Tekrar)",
+    "options": [
+      "Ağaçlar",
+      "Kalemler",
+      "Kitapı > kitabı",
+      "Geliyor"
+    ],
+    "answer": "Kitapı > kitabı",
+    "answerLetter": "C",
+    "explanation": "p sesi b'ye dönüşür.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-111",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Ses Bilgisi",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki kelimelerden hangisi ünlü düşmesine örnektir? (Tekrar)",
+    "options": [
+      "Kitaplar",
+      "Ağızı > ağzı",
+      "Kalemler",
+      "Evde"
+    ],
+    "answer": "Ağızı > ağzı",
+    "answerLetter": "B",
+    "explanation": "İkinci hecedeki ünlü düşer.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-112",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Ses Bilgisi",
+    "difficulty": "Kolay",
+    "question": "Ünlü daralmasına örnek olan kullanım hangisidir? (Tekrar)",
+    "options": [
+      "Başla-yor > başlıyor",
+      "Kitap-lar",
+      "Ev-de",
+      "Kalem-im"
+    ],
+    "answer": "Başla-yor > başlıyor",
+    "answerLetter": "A",
+    "explanation": "a sesi ı'ya daralır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-113",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Ses Bilgisi",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisinde ünsüz yumuşaması vardır? (Tekrar)",
+    "options": [
+      "Geliyor",
+      "Ağaçlar",
+      "Kalemler",
+      "Kitapı > kitabı"
+    ],
+    "answer": "Kitapı > kitabı",
+    "answerLetter": "D",
+    "explanation": "p sesi b'ye dönüşür.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-114",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Ses Bilgisi",
+    "difficulty": "Orta",
+    "question": "Aşağıdaki kelimelerden hangisi ünlü düşmesine örnektir? (Tekrar)",
+    "options": [
+      "Evde",
+      "Kitaplar",
+      "Ağızı > ağzı",
+      "Kalemler"
+    ],
+    "answer": "Ağızı > ağzı",
+    "answerLetter": "C",
+    "explanation": "İkinci hecedeki ünlü düşer.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-115",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Ses Bilgisi",
+    "difficulty": "Orta",
+    "question": "Ünlü daralmasına örnek olan kullanım hangisidir? (Tekrar)",
+    "options": [
+      "Kalem-im",
+      "Başla-yor > başlıyor",
+      "Kitap-lar",
+      "Ev-de"
+    ],
+    "answer": "Başla-yor > başlıyor",
+    "answerLetter": "B",
+    "explanation": "a sesi ı'ya daralır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-116",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Ses Bilgisi",
+    "difficulty": "Zor",
+    "question": "Aşağıdakilerden hangisinde ünsüz yumuşaması vardır? (Tekrar)",
+    "options": [
+      "Kitapı > kitabı",
+      "Geliyor",
+      "Ağaçlar",
+      "Kalemler"
+    ],
+    "answer": "Kitapı > kitabı",
+    "answerLetter": "A",
+    "explanation": "p sesi b'ye dönüşür.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-117",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Ses Bilgisi",
+    "difficulty": "Zor",
+    "question": "Aşağıdaki kelimelerden hangisi ünlü düşmesine örnektir? (Tekrar)",
+    "options": [
+      "Kalemler",
+      "Evde",
+      "Kitaplar",
+      "Ağızı > ağzı"
+    ],
+    "answer": "Ağızı > ağzı",
+    "answerLetter": "D",
+    "explanation": "İkinci hecedeki ünlü düşer.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-118",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Ses Bilgisi",
+    "difficulty": "Zor",
+    "question": "Ünlü daralmasına örnek olan kullanım hangisidir? (Tekrar)",
+    "options": [
+      "Ev-de",
+      "Kalem-im",
+      "Başla-yor > başlıyor",
+      "Kitap-lar"
+    ],
+    "answer": "Başla-yor > başlıyor",
+    "answerLetter": "C",
+    "explanation": "a sesi ı'ya daralır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-119",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Ses Bilgisi",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisinde ünsüz yumuşaması vardır? (Tekrar)",
+    "options": [
+      "Kalemler",
+      "Kitapı > kitabı",
+      "Geliyor",
+      "Ağaçlar"
+    ],
+    "answer": "Kitapı > kitabı",
+    "answerLetter": "B",
+    "explanation": "p sesi b'ye dönüşür.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-120",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Ses Bilgisi",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki kelimelerden hangisi ünlü düşmesine örnektir? (Tekrar)",
+    "options": [
+      "Ağızı > ağzı",
+      "Kalemler",
+      "Evde",
+      "Kitaplar"
+    ],
+    "answer": "Ağızı > ağzı",
+    "answerLetter": "A",
+    "explanation": "İkinci hecedeki ünlü düşer.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-121",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yapı Bilgisi",
+    "difficulty": "Kolay",
+    "question": "Yapım eki için hangisi doğrudur?",
+    "options": [
+      "Sadece cümleyi bitirir",
+      "Noktalama işaretidir",
+      "Her zaman ayrı yazılır",
+      "Yeni anlamlı kelime türetir"
+    ],
+    "answer": "Yeni anlamlı kelime türetir",
+    "answerLetter": "D",
+    "explanation": "Yapım eki kelimenin anlamını değiştirir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-122",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yapı Bilgisi",
+    "difficulty": "Kolay",
+    "question": "Çekim eki ne işe yarar?",
+    "options": [
+      "Her zaman kökü siler",
+      "Noktalama oluşturur",
+      "Kelimeye cümlede görev kazandırır",
+      "Yeni kelime yapmaz"
+    ],
+    "answer": "Kelimeye cümlede görev kazandırır",
+    "answerLetter": "C",
+    "explanation": "Çekim ekleri görev ilişkisi kurar.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-123",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yapı Bilgisi",
+    "difficulty": "Kolay",
+    "question": "Bir kelimenin anlamlı en küçük birimine ne denir?",
+    "options": [
+      "Paragraf",
+      "Kök",
+      "Ek",
+      "Cümle"
+    ],
+    "answer": "Kök",
+    "answerLetter": "B",
+    "explanation": "Kök anlamlı en küçük birimdir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-124",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yapı Bilgisi",
+    "difficulty": "Orta",
+    "question": "Yapım eki için hangisi doğrudur?",
+    "options": [
+      "Yeni anlamlı kelime türetir",
+      "Sadece cümleyi bitirir",
+      "Noktalama işaretidir",
+      "Her zaman ayrı yazılır"
+    ],
+    "answer": "Yeni anlamlı kelime türetir",
+    "answerLetter": "A",
+    "explanation": "Yapım eki kelimenin anlamını değiştirir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-125",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yapı Bilgisi",
+    "difficulty": "Orta",
+    "question": "Çekim eki ne işe yarar?",
+    "options": [
+      "Yeni kelime yapmaz",
+      "Her zaman kökü siler",
+      "Noktalama oluşturur",
+      "Kelimeye cümlede görev kazandırır"
+    ],
+    "answer": "Kelimeye cümlede görev kazandırır",
+    "answerLetter": "D",
+    "explanation": "Çekim ekleri görev ilişkisi kurar.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-126",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yapı Bilgisi",
+    "difficulty": "Orta",
+    "question": "Bir kelimenin anlamlı en küçük birimine ne denir?",
+    "options": [
+      "Cümle",
+      "Paragraf",
+      "Kök",
+      "Ek"
+    ],
+    "answer": "Kök",
+    "answerLetter": "C",
+    "explanation": "Kök anlamlı en küçük birimdir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-127",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yapı Bilgisi",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: yapım eki için hangisi doğrudur?",
+    "options": [
+      "Her zaman ayrı yazılır",
+      "Yeni anlamlı kelime türetir",
+      "Sadece cümleyi bitirir",
+      "Noktalama işaretidir"
+    ],
+    "answer": "Yeni anlamlı kelime türetir",
+    "answerLetter": "B",
+    "explanation": "Yapım eki kelimenin anlamını değiştirir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-128",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yapı Bilgisi",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: çekim eki ne işe yarar?",
+    "options": [
+      "Kelimeye cümlede görev kazandırır",
+      "Yeni kelime yapmaz",
+      "Her zaman kökü siler",
+      "Noktalama oluşturur"
+    ],
+    "answer": "Kelimeye cümlede görev kazandırır",
+    "answerLetter": "A",
+    "explanation": "Çekim ekleri görev ilişkisi kurar.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-129",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yapı Bilgisi",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: bir kelimenin anlamlı en küçük birimine ne denir?",
+    "options": [
+      "Ek",
+      "Cümle",
+      "Paragraf",
+      "Kök"
+    ],
+    "answer": "Kök",
+    "answerLetter": "D",
+    "explanation": "Kök anlamlı en küçük birimdir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-130",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yapı Bilgisi",
+    "difficulty": "Kolay",
+    "question": "Yapım eki için hangisi doğrudur? (Tekrar)",
+    "options": [
+      "Noktalama işaretidir",
+      "Her zaman ayrı yazılır",
+      "Yeni anlamlı kelime türetir",
+      "Sadece cümleyi bitirir"
+    ],
+    "answer": "Yeni anlamlı kelime türetir",
+    "answerLetter": "C",
+    "explanation": "Yapım eki kelimenin anlamını değiştirir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-131",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yapı Bilgisi",
+    "difficulty": "Kolay",
+    "question": "Çekim eki ne işe yarar? (Tekrar)",
+    "options": [
+      "Noktalama oluşturur",
+      "Kelimeye cümlede görev kazandırır",
+      "Yeni kelime yapmaz",
+      "Her zaman kökü siler"
+    ],
+    "answer": "Kelimeye cümlede görev kazandırır",
+    "answerLetter": "B",
+    "explanation": "Çekim ekleri görev ilişkisi kurar.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-132",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yapı Bilgisi",
+    "difficulty": "Kolay",
+    "question": "Bir kelimenin anlamlı en küçük birimine ne denir? (Tekrar)",
+    "options": [
+      "Kök",
+      "Ek",
+      "Cümle",
+      "Paragraf"
+    ],
+    "answer": "Kök",
+    "answerLetter": "A",
+    "explanation": "Kök anlamlı en küçük birimdir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-133",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yapı Bilgisi",
+    "difficulty": "Orta",
+    "question": "Yapım eki için hangisi doğrudur? (Tekrar)",
+    "options": [
+      "Sadece cümleyi bitirir",
+      "Noktalama işaretidir",
+      "Her zaman ayrı yazılır",
+      "Yeni anlamlı kelime türetir"
+    ],
+    "answer": "Yeni anlamlı kelime türetir",
+    "answerLetter": "D",
+    "explanation": "Yapım eki kelimenin anlamını değiştirir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-134",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yapı Bilgisi",
+    "difficulty": "Orta",
+    "question": "Çekim eki ne işe yarar? (Tekrar)",
+    "options": [
+      "Her zaman kökü siler",
+      "Noktalama oluşturur",
+      "Kelimeye cümlede görev kazandırır",
+      "Yeni kelime yapmaz"
+    ],
+    "answer": "Kelimeye cümlede görev kazandırır",
+    "answerLetter": "C",
+    "explanation": "Çekim ekleri görev ilişkisi kurar.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-135",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yapı Bilgisi",
+    "difficulty": "Orta",
+    "question": "Bir kelimenin anlamlı en küçük birimine ne denir? (Tekrar)",
+    "options": [
+      "Paragraf",
+      "Kök",
+      "Ek",
+      "Cümle"
+    ],
+    "answer": "Kök",
+    "answerLetter": "B",
+    "explanation": "Kök anlamlı en küçük birimdir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-136",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yapı Bilgisi",
+    "difficulty": "Zor",
+    "question": "Yapım eki için hangisi doğrudur? (Tekrar)",
+    "options": [
+      "Yeni anlamlı kelime türetir",
+      "Sadece cümleyi bitirir",
+      "Noktalama işaretidir",
+      "Her zaman ayrı yazılır"
+    ],
+    "answer": "Yeni anlamlı kelime türetir",
+    "answerLetter": "A",
+    "explanation": "Yapım eki kelimenin anlamını değiştirir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-137",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yapı Bilgisi",
+    "difficulty": "Zor",
+    "question": "Çekim eki ne işe yarar? (Tekrar)",
+    "options": [
+      "Yeni kelime yapmaz",
+      "Her zaman kökü siler",
+      "Noktalama oluşturur",
+      "Kelimeye cümlede görev kazandırır"
+    ],
+    "answer": "Kelimeye cümlede görev kazandırır",
+    "answerLetter": "D",
+    "explanation": "Çekim ekleri görev ilişkisi kurar.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-138",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yapı Bilgisi",
+    "difficulty": "Zor",
+    "question": "Bir kelimenin anlamlı en küçük birimine ne denir? (Tekrar)",
+    "options": [
+      "Cümle",
+      "Paragraf",
+      "Kök",
+      "Ek"
+    ],
+    "answer": "Kök",
+    "answerLetter": "C",
+    "explanation": "Kök anlamlı en küçük birimdir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-139",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yapı Bilgisi",
+    "difficulty": "Kolay",
+    "question": "Yapım eki için hangisi doğrudur? (Tekrar)",
+    "options": [
+      "Her zaman ayrı yazılır",
+      "Yeni anlamlı kelime türetir",
+      "Sadece cümleyi bitirir",
+      "Noktalama işaretidir"
+    ],
+    "answer": "Yeni anlamlı kelime türetir",
+    "answerLetter": "B",
+    "explanation": "Yapım eki kelimenin anlamını değiştirir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-140",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Yapı Bilgisi",
+    "difficulty": "Kolay",
+    "question": "Çekim eki ne işe yarar? (Tekrar)",
+    "options": [
+      "Kelimeye cümlede görev kazandırır",
+      "Yeni kelime yapmaz",
+      "Her zaman kökü siler",
+      "Noktalama oluşturur"
+    ],
+    "answer": "Kelimeye cümlede görev kazandırır",
+    "answerLetter": "A",
+    "explanation": "Çekim ekleri görev ilişkisi kurar.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-141",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Fiiller",
+    "difficulty": "Kolay",
+    "question": "Fiiller ne bildirir?",
+    "options": [
+      "Sadece nesne adı",
+      "Sadece renk",
+      "Sadece sayı",
+      "İş, oluş veya durum"
+    ],
+    "answer": "İş, oluş veya durum",
+    "answerLetter": "D",
+    "explanation": "Fiiller hareket veya durum bildirir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-142",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Fiiller",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi fiildir?",
+    "options": [
+      "Güzel",
+      "Kırmızı",
+      "Koşmak",
+      "Masa"
+    ],
+    "answer": "Koşmak",
+    "answerLetter": "C",
+    "explanation": "Koşmak iş bildiren fiildir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-143",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Fiiller",
+    "difficulty": "Kolay",
+    "question": "Fiil çekiminde hangi unsur bulunabilir?",
+    "options": [
+      "Sadece paragraf",
+      "Kip ve kişi eki",
+      "Sadece nokta",
+      "Sadece başlık"
+    ],
+    "answer": "Kip ve kişi eki",
+    "answerLetter": "B",
+    "explanation": "Fiiller kip ve kişi eki alır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-144",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Fiiller",
+    "difficulty": "Orta",
+    "question": "Fiiller ne bildirir?",
+    "options": [
+      "İş, oluş veya durum",
+      "Sadece nesne adı",
+      "Sadece renk",
+      "Sadece sayı"
+    ],
+    "answer": "İş, oluş veya durum",
+    "answerLetter": "A",
+    "explanation": "Fiiller hareket veya durum bildirir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-145",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Fiiller",
+    "difficulty": "Orta",
+    "question": "Verilenlerden hangisi fiildir?",
+    "options": [
+      "Masa",
+      "Güzel",
+      "Kırmızı",
+      "Koşmak"
+    ],
+    "answer": "Koşmak",
+    "answerLetter": "D",
+    "explanation": "Koşmak iş bildiren fiildir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-146",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Fiiller",
+    "difficulty": "Orta",
+    "question": "Fiil çekiminde hangi unsur bulunabilir?",
+    "options": [
+      "Sadece başlık",
+      "Sadece paragraf",
+      "Kip ve kişi eki",
+      "Sadece nokta"
+    ],
+    "answer": "Kip ve kişi eki",
+    "answerLetter": "C",
+    "explanation": "Fiiller kip ve kişi eki alır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-147",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Fiiller",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: fiiller ne bildirir?",
+    "options": [
+      "Sadece sayı",
+      "İş, oluş veya durum",
+      "Sadece nesne adı",
+      "Sadece renk"
+    ],
+    "answer": "İş, oluş veya durum",
+    "answerLetter": "B",
+    "explanation": "Fiiller hareket veya durum bildirir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-148",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Fiiller",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: aşağıdakilerden hangisi fiildir?",
+    "options": [
+      "Koşmak",
+      "Masa",
+      "Güzel",
+      "Kırmızı"
+    ],
+    "answer": "Koşmak",
+    "answerLetter": "A",
+    "explanation": "Koşmak iş bildiren fiildir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-149",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Fiiller",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: fiil çekiminde hangi unsur bulunabilir?",
+    "options": [
+      "Sadece nokta",
+      "Sadece başlık",
+      "Sadece paragraf",
+      "Kip ve kişi eki"
+    ],
+    "answer": "Kip ve kişi eki",
+    "answerLetter": "D",
+    "explanation": "Fiiller kip ve kişi eki alır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-150",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Fiiller",
+    "difficulty": "Kolay",
+    "question": "Fiiller ne bildirir? (Tekrar)",
+    "options": [
+      "Sadece renk",
+      "Sadece sayı",
+      "İş, oluş veya durum",
+      "Sadece nesne adı"
+    ],
+    "answer": "İş, oluş veya durum",
+    "answerLetter": "C",
+    "explanation": "Fiiller hareket veya durum bildirir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-151",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Fiiller",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi fiildir? (Tekrar)",
+    "options": [
+      "Kırmızı",
+      "Koşmak",
+      "Masa",
+      "Güzel"
+    ],
+    "answer": "Koşmak",
+    "answerLetter": "B",
+    "explanation": "Koşmak iş bildiren fiildir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-152",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Fiiller",
+    "difficulty": "Kolay",
+    "question": "Fiil çekiminde hangi unsur bulunabilir? (Tekrar)",
+    "options": [
+      "Kip ve kişi eki",
+      "Sadece nokta",
+      "Sadece başlık",
+      "Sadece paragraf"
+    ],
+    "answer": "Kip ve kişi eki",
+    "answerLetter": "A",
+    "explanation": "Fiiller kip ve kişi eki alır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-153",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Fiiller",
+    "difficulty": "Orta",
+    "question": "Fiiller ne bildirir? (Tekrar)",
+    "options": [
+      "Sadece nesne adı",
+      "Sadece renk",
+      "Sadece sayı",
+      "İş, oluş veya durum"
+    ],
+    "answer": "İş, oluş veya durum",
+    "answerLetter": "D",
+    "explanation": "Fiiller hareket veya durum bildirir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-154",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Fiiller",
+    "difficulty": "Orta",
+    "question": "Aşağıdakilerden hangisi fiildir? (Tekrar)",
+    "options": [
+      "Güzel",
+      "Kırmızı",
+      "Koşmak",
+      "Masa"
+    ],
+    "answer": "Koşmak",
+    "answerLetter": "C",
+    "explanation": "Koşmak iş bildiren fiildir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-155",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Fiiller",
+    "difficulty": "Orta",
+    "question": "Fiil çekiminde hangi unsur bulunabilir? (Tekrar)",
+    "options": [
+      "Sadece paragraf",
+      "Kip ve kişi eki",
+      "Sadece nokta",
+      "Sadece başlık"
+    ],
+    "answer": "Kip ve kişi eki",
+    "answerLetter": "B",
+    "explanation": "Fiiller kip ve kişi eki alır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-156",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Fiiller",
+    "difficulty": "Zor",
+    "question": "Fiiller ne bildirir? (Tekrar)",
+    "options": [
+      "İş, oluş veya durum",
+      "Sadece nesne adı",
+      "Sadece renk",
+      "Sadece sayı"
+    ],
+    "answer": "İş, oluş veya durum",
+    "answerLetter": "A",
+    "explanation": "Fiiller hareket veya durum bildirir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-157",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Fiiller",
+    "difficulty": "Zor",
+    "question": "Aşağıdakilerden hangisi fiildir? (Tekrar)",
+    "options": [
+      "Masa",
+      "Güzel",
+      "Kırmızı",
+      "Koşmak"
+    ],
+    "answer": "Koşmak",
+    "answerLetter": "D",
+    "explanation": "Koşmak iş bildiren fiildir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-158",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Fiiller",
+    "difficulty": "Zor",
+    "question": "Fiil çekiminde hangi unsur bulunabilir? (Tekrar)",
+    "options": [
+      "Sadece başlık",
+      "Sadece paragraf",
+      "Kip ve kişi eki",
+      "Sadece nokta"
+    ],
+    "answer": "Kip ve kişi eki",
+    "answerLetter": "C",
+    "explanation": "Fiiller kip ve kişi eki alır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-159",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Fiiller",
+    "difficulty": "Kolay",
+    "question": "Fiiller ne bildirir? (Tekrar)",
+    "options": [
+      "Sadece sayı",
+      "İş, oluş veya durum",
+      "Sadece nesne adı",
+      "Sadece renk"
+    ],
+    "answer": "İş, oluş veya durum",
+    "answerLetter": "B",
+    "explanation": "Fiiller hareket veya durum bildirir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-160",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Fiiller",
+    "difficulty": "Kolay",
+    "question": "Aşağıdakilerden hangisi fiildir? (Tekrar)",
+    "options": [
+      "Koşmak",
+      "Masa",
+      "Güzel",
+      "Kırmızı"
+    ],
+    "answer": "Koşmak",
+    "answerLetter": "A",
+    "explanation": "Koşmak iş bildiren fiildir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-161",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümle Türleri",
+    "difficulty": "Kolay",
+    "question": "Yüklemi fiil olan cümleye ne denir?",
+    "options": [
+      "İsim cümlesi",
+      "Paragraf",
+      "Deyim",
+      "Fiil cümlesi"
+    ],
+    "answer": "Fiil cümlesi",
+    "answerLetter": "D",
+    "explanation": "Yüklem fiilse fiil cümlesidir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-162",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümle Türleri",
+    "difficulty": "Kolay",
+    "question": "Yüklemi sonda olan cümle hangisidir?",
+    "options": [
+      "Eksiltili cümle",
+      "Soru cümlesi",
+      "Kurallı cümle",
+      "Devrik cümle"
+    ],
+    "answer": "Kurallı cümle",
+    "answerLetter": "C",
+    "explanation": "Türkçede yüklem sonda ise cümle kurallıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-163",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümle Türleri",
+    "difficulty": "Kolay",
+    "question": "Olumsuz cümle için hangisi doğrudur?",
+    "options": [
+      "Yüklemsizdir",
+      "Yargının gerçekleşmediğini bildirir",
+      "Her zaman soru sorar",
+      "Her zaman emir verir"
+    ],
+    "answer": "Yargının gerçekleşmediğini bildirir",
+    "answerLetter": "B",
+    "explanation": "Olumsuzluk eylemin yapılmadığını gösterir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-164",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümle Türleri",
+    "difficulty": "Orta",
+    "question": "Yüklemi fiil olan cümleye ne denir?",
+    "options": [
+      "Fiil cümlesi",
+      "İsim cümlesi",
+      "Paragraf",
+      "Deyim"
+    ],
+    "answer": "Fiil cümlesi",
+    "answerLetter": "A",
+    "explanation": "Yüklem fiilse fiil cümlesidir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-165",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümle Türleri",
+    "difficulty": "Orta",
+    "question": "Yüklemi sonda olan cümle hangisidir?",
+    "options": [
+      "Devrik cümle",
+      "Eksiltili cümle",
+      "Soru cümlesi",
+      "Kurallı cümle"
+    ],
+    "answer": "Kurallı cümle",
+    "answerLetter": "D",
+    "explanation": "Türkçede yüklem sonda ise cümle kurallıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-166",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümle Türleri",
+    "difficulty": "Orta",
+    "question": "Olumsuz cümle için hangisi doğrudur?",
+    "options": [
+      "Her zaman emir verir",
+      "Yüklemsizdir",
+      "Yargının gerçekleşmediğini bildirir",
+      "Her zaman soru sorar"
+    ],
+    "answer": "Yargının gerçekleşmediğini bildirir",
+    "answerLetter": "C",
+    "explanation": "Olumsuzluk eylemin yapılmadığını gösterir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-167",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümle Türleri",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: yüklemi fiil olan cümleye ne denir?",
+    "options": [
+      "Deyim",
+      "Fiil cümlesi",
+      "İsim cümlesi",
+      "Paragraf"
+    ],
+    "answer": "Fiil cümlesi",
+    "answerLetter": "B",
+    "explanation": "Yüklem fiilse fiil cümlesidir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-168",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümle Türleri",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: yüklemi sonda olan cümle hangisidir?",
+    "options": [
+      "Kurallı cümle",
+      "Devrik cümle",
+      "Eksiltili cümle",
+      "Soru cümlesi"
+    ],
+    "answer": "Kurallı cümle",
+    "answerLetter": "A",
+    "explanation": "Türkçede yüklem sonda ise cümle kurallıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-169",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümle Türleri",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: olumsuz cümle için hangisi doğrudur?",
+    "options": [
+      "Her zaman soru sorar",
+      "Her zaman emir verir",
+      "Yüklemsizdir",
+      "Yargının gerçekleşmediğini bildirir"
+    ],
+    "answer": "Yargının gerçekleşmediğini bildirir",
+    "answerLetter": "D",
+    "explanation": "Olumsuzluk eylemin yapılmadığını gösterir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-170",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümle Türleri",
+    "difficulty": "Kolay",
+    "question": "Yüklemi fiil olan cümleye ne denir? (Tekrar)",
+    "options": [
+      "Paragraf",
+      "Deyim",
+      "Fiil cümlesi",
+      "İsim cümlesi"
+    ],
+    "answer": "Fiil cümlesi",
+    "answerLetter": "C",
+    "explanation": "Yüklem fiilse fiil cümlesidir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-171",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümle Türleri",
+    "difficulty": "Kolay",
+    "question": "Yüklemi sonda olan cümle hangisidir? (Tekrar)",
+    "options": [
+      "Soru cümlesi",
+      "Kurallı cümle",
+      "Devrik cümle",
+      "Eksiltili cümle"
+    ],
+    "answer": "Kurallı cümle",
+    "answerLetter": "B",
+    "explanation": "Türkçede yüklem sonda ise cümle kurallıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-172",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümle Türleri",
+    "difficulty": "Kolay",
+    "question": "Olumsuz cümle için hangisi doğrudur? (Tekrar)",
+    "options": [
+      "Yargının gerçekleşmediğini bildirir",
+      "Her zaman soru sorar",
+      "Her zaman emir verir",
+      "Yüklemsizdir"
+    ],
+    "answer": "Yargının gerçekleşmediğini bildirir",
+    "answerLetter": "A",
+    "explanation": "Olumsuzluk eylemin yapılmadığını gösterir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-173",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümle Türleri",
+    "difficulty": "Orta",
+    "question": "Yüklemi fiil olan cümleye ne denir? (Tekrar)",
+    "options": [
+      "İsim cümlesi",
+      "Paragraf",
+      "Deyim",
+      "Fiil cümlesi"
+    ],
+    "answer": "Fiil cümlesi",
+    "answerLetter": "D",
+    "explanation": "Yüklem fiilse fiil cümlesidir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-174",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümle Türleri",
+    "difficulty": "Orta",
+    "question": "Yüklemi sonda olan cümle hangisidir? (Tekrar)",
+    "options": [
+      "Eksiltili cümle",
+      "Soru cümlesi",
+      "Kurallı cümle",
+      "Devrik cümle"
+    ],
+    "answer": "Kurallı cümle",
+    "answerLetter": "C",
+    "explanation": "Türkçede yüklem sonda ise cümle kurallıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-175",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümle Türleri",
+    "difficulty": "Orta",
+    "question": "Olumsuz cümle için hangisi doğrudur? (Tekrar)",
+    "options": [
+      "Yüklemsizdir",
+      "Yargının gerçekleşmediğini bildirir",
+      "Her zaman soru sorar",
+      "Her zaman emir verir"
+    ],
+    "answer": "Yargının gerçekleşmediğini bildirir",
+    "answerLetter": "B",
+    "explanation": "Olumsuzluk eylemin yapılmadığını gösterir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-176",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümle Türleri",
+    "difficulty": "Zor",
+    "question": "Yüklemi fiil olan cümleye ne denir? (Tekrar)",
+    "options": [
+      "Fiil cümlesi",
+      "İsim cümlesi",
+      "Paragraf",
+      "Deyim"
+    ],
+    "answer": "Fiil cümlesi",
+    "answerLetter": "A",
+    "explanation": "Yüklem fiilse fiil cümlesidir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-177",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümle Türleri",
+    "difficulty": "Zor",
+    "question": "Yüklemi sonda olan cümle hangisidir? (Tekrar)",
+    "options": [
+      "Devrik cümle",
+      "Eksiltili cümle",
+      "Soru cümlesi",
+      "Kurallı cümle"
+    ],
+    "answer": "Kurallı cümle",
+    "answerLetter": "D",
+    "explanation": "Türkçede yüklem sonda ise cümle kurallıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-178",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümle Türleri",
+    "difficulty": "Zor",
+    "question": "Olumsuz cümle için hangisi doğrudur? (Tekrar)",
+    "options": [
+      "Her zaman emir verir",
+      "Yüklemsizdir",
+      "Yargının gerçekleşmediğini bildirir",
+      "Her zaman soru sorar"
+    ],
+    "answer": "Yargının gerçekleşmediğini bildirir",
+    "answerLetter": "C",
+    "explanation": "Olumsuzluk eylemin yapılmadığını gösterir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-179",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümle Türleri",
+    "difficulty": "Kolay",
+    "question": "Yüklemi fiil olan cümleye ne denir? (Tekrar)",
+    "options": [
+      "Deyim",
+      "Fiil cümlesi",
+      "İsim cümlesi",
+      "Paragraf"
+    ],
+    "answer": "Fiil cümlesi",
+    "answerLetter": "B",
+    "explanation": "Yüklem fiilse fiil cümlesidir.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-180",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Cümle Türleri",
+    "difficulty": "Kolay",
+    "question": "Yüklemi sonda olan cümle hangisidir? (Tekrar)",
+    "options": [
+      "Kurallı cümle",
+      "Devrik cümle",
+      "Eksiltili cümle",
+      "Soru cümlesi"
+    ],
+    "answer": "Kurallı cümle",
+    "answerLetter": "A",
+    "explanation": "Türkçede yüklem sonda ise cümle kurallıdır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-181",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki cümledeki bozukluk türü nedir: 'Geri iade ettim.'",
+    "options": [
+      "Özne eksikliği",
+      "Noktalama yanlışı",
+      "Fiilimsi eksikliği",
+      "Gereksiz sözcük kullanımı"
+    ],
+    "answer": "Gereksiz sözcük kullanımı",
+    "answerLetter": "D",
+    "explanation": "İade zaten geri verme anlamı taşır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-182",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": "Kolay",
+    "question": "Anlatım bozukluğunun temel nedeni hangisi olabilir?",
+    "options": [
+      "Cümlenin kısa olması",
+      "Nokta kullanılması",
+      "Anlam veya dil bilgisi yanlışlığı",
+      "Yazının güzel olması"
+    ],
+    "answer": "Anlam veya dil bilgisi yanlışlığı",
+    "answerLetter": "C",
+    "explanation": "Anlatım bozukluğu anlam veya yapı hatasından doğar.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-183",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki cümlelerin hangisi anlatımca doğrudur?",
+    "options": [
+      "Toplantıya geri tekrar katıldı.",
+      "Toplantıya herkes katıldı.",
+      "Toplantıya herkesler katıldı.",
+      "Toplantıya bütün herkes katıldı."
+    ],
+    "answer": "Toplantıya herkes katıldı.",
+    "answerLetter": "B",
+    "explanation": "Diğer seçeneklerde gereksiz sözcük vardır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-184",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": "Orta",
+    "question": "Verilen cümledeki bozukluk türü nedir: 'Geri iade ettim.'",
+    "options": [
+      "Gereksiz sözcük kullanımı",
+      "Özne eksikliği",
+      "Noktalama yanlışı",
+      "Fiilimsi eksikliği"
+    ],
+    "answer": "Gereksiz sözcük kullanımı",
+    "answerLetter": "A",
+    "explanation": "İade zaten geri verme anlamı taşır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-185",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": "Orta",
+    "question": "Anlatım bozukluğunun temel nedeni hangisi olabilir?",
+    "options": [
+      "Yazının güzel olması",
+      "Cümlenin kısa olması",
+      "Nokta kullanılması",
+      "Anlam veya dil bilgisi yanlışlığı"
+    ],
+    "answer": "Anlam veya dil bilgisi yanlışlığı",
+    "answerLetter": "D",
+    "explanation": "Anlatım bozukluğu anlam veya yapı hatasından doğar.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-186",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": "Orta",
+    "question": "Verilen cümlelerin hangisi anlatımca doğrudur?",
+    "options": [
+      "Toplantıya bütün herkes katıldı.",
+      "Toplantıya geri tekrar katıldı.",
+      "Toplantıya herkes katıldı.",
+      "Toplantıya herkesler katıldı."
+    ],
+    "answer": "Toplantıya herkes katıldı.",
+    "answerLetter": "C",
+    "explanation": "Diğer seçeneklerde gereksiz sözcük vardır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-187",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: aşağıdaki cümledeki bozukluk türü nedir: 'Geri iade ettim.'",
+    "options": [
+      "Fiilimsi eksikliği",
+      "Gereksiz sözcük kullanımı",
+      "Özne eksikliği",
+      "Noktalama yanlışı"
+    ],
+    "answer": "Gereksiz sözcük kullanımı",
+    "answerLetter": "B",
+    "explanation": "İade zaten geri verme anlamı taşır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-188",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: anlatım bozukluğunun temel nedeni hangisi olabilir?",
+    "options": [
+      "Anlam veya dil bilgisi yanlışlığı",
+      "Yazının güzel olması",
+      "Cümlenin kısa olması",
+      "Nokta kullanılması"
+    ],
+    "answer": "Anlam veya dil bilgisi yanlışlığı",
+    "answerLetter": "A",
+    "explanation": "Anlatım bozukluğu anlam veya yapı hatasından doğar.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-189",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": "Zor",
+    "question": "Türkçe çalışmasında: aşağıdaki cümlelerin hangisi anlatımca doğrudur?",
+    "options": [
+      "Toplantıya herkesler katıldı.",
+      "Toplantıya bütün herkes katıldı.",
+      "Toplantıya geri tekrar katıldı.",
+      "Toplantıya herkes katıldı."
+    ],
+    "answer": "Toplantıya herkes katıldı.",
+    "answerLetter": "D",
+    "explanation": "Diğer seçeneklerde gereksiz sözcük vardır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-190",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki cümledeki bozukluk türü nedir: 'Geri iade ettim.' (Tekrar)",
+    "options": [
+      "Noktalama yanlışı",
+      "Fiilimsi eksikliği",
+      "Gereksiz sözcük kullanımı",
+      "Özne eksikliği"
+    ],
+    "answer": "Gereksiz sözcük kullanımı",
+    "answerLetter": "C",
+    "explanation": "İade zaten geri verme anlamı taşır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-191",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": "Kolay",
+    "question": "Anlatım bozukluğunun temel nedeni hangisi olabilir? (Tekrar)",
+    "options": [
+      "Nokta kullanılması",
+      "Anlam veya dil bilgisi yanlışlığı",
+      "Yazının güzel olması",
+      "Cümlenin kısa olması"
+    ],
+    "answer": "Anlam veya dil bilgisi yanlışlığı",
+    "answerLetter": "B",
+    "explanation": "Anlatım bozukluğu anlam veya yapı hatasından doğar.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-192",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki cümlelerin hangisi anlatımca doğrudur? (Tekrar)",
+    "options": [
+      "Toplantıya herkes katıldı.",
+      "Toplantıya herkesler katıldı.",
+      "Toplantıya bütün herkes katıldı.",
+      "Toplantıya geri tekrar katıldı."
+    ],
+    "answer": "Toplantıya herkes katıldı.",
+    "answerLetter": "A",
+    "explanation": "Diğer seçeneklerde gereksiz sözcük vardır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-193",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": "Orta",
+    "question": "Aşağıdaki cümledeki bozukluk türü nedir: 'Geri iade ettim.' (Tekrar)",
+    "options": [
+      "Özne eksikliği",
+      "Noktalama yanlışı",
+      "Fiilimsi eksikliği",
+      "Gereksiz sözcük kullanımı"
+    ],
+    "answer": "Gereksiz sözcük kullanımı",
+    "answerLetter": "D",
+    "explanation": "İade zaten geri verme anlamı taşır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-194",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": "Orta",
+    "question": "Anlatım bozukluğunun temel nedeni hangisi olabilir? (Tekrar)",
+    "options": [
+      "Cümlenin kısa olması",
+      "Nokta kullanılması",
+      "Anlam veya dil bilgisi yanlışlığı",
+      "Yazının güzel olması"
+    ],
+    "answer": "Anlam veya dil bilgisi yanlışlığı",
+    "answerLetter": "C",
+    "explanation": "Anlatım bozukluğu anlam veya yapı hatasından doğar.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-195",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": "Orta",
+    "question": "Aşağıdaki cümlelerin hangisi anlatımca doğrudur? (Tekrar)",
+    "options": [
+      "Toplantıya geri tekrar katıldı.",
+      "Toplantıya herkes katıldı.",
+      "Toplantıya herkesler katıldı.",
+      "Toplantıya bütün herkes katıldı."
+    ],
+    "answer": "Toplantıya herkes katıldı.",
+    "answerLetter": "B",
+    "explanation": "Diğer seçeneklerde gereksiz sözcük vardır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-196",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": "Zor",
+    "question": "Aşağıdaki cümledeki bozukluk türü nedir: 'Geri iade ettim.' (Tekrar)",
+    "options": [
+      "Gereksiz sözcük kullanımı",
+      "Özne eksikliği",
+      "Noktalama yanlışı",
+      "Fiilimsi eksikliği"
+    ],
+    "answer": "Gereksiz sözcük kullanımı",
+    "answerLetter": "A",
+    "explanation": "İade zaten geri verme anlamı taşır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-197",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": "Zor",
+    "question": "Anlatım bozukluğunun temel nedeni hangisi olabilir? (Tekrar)",
+    "options": [
+      "Yazının güzel olması",
+      "Cümlenin kısa olması",
+      "Nokta kullanılması",
+      "Anlam veya dil bilgisi yanlışlığı"
+    ],
+    "answer": "Anlam veya dil bilgisi yanlışlığı",
+    "answerLetter": "D",
+    "explanation": "Anlatım bozukluğu anlam veya yapı hatasından doğar.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-198",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": "Zor",
+    "question": "Aşağıdaki cümlelerin hangisi anlatımca doğrudur? (Tekrar)",
+    "options": [
+      "Toplantıya bütün herkes katıldı.",
+      "Toplantıya geri tekrar katıldı.",
+      "Toplantıya herkes katıldı.",
+      "Toplantıya herkesler katıldı."
+    ],
+    "answer": "Toplantıya herkes katıldı.",
+    "answerLetter": "C",
+    "explanation": "Diğer seçeneklerde gereksiz sözcük vardır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-199",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": "Kolay",
+    "question": "Aşağıdaki cümledeki bozukluk türü nedir: 'Geri iade ettim.' (Tekrar)",
+    "options": [
+      "Fiilimsi eksikliği",
+      "Gereksiz sözcük kullanımı",
+      "Özne eksikliği",
+      "Noktalama yanlışı"
+    ],
+    "answer": "Gereksiz sözcük kullanımı",
+    "answerLetter": "B",
+    "explanation": "İade zaten geri verme anlamı taşır.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "tr-200",
+    "testGroup": "Türkçe",
+    "category": "Türkçe",
+    "topic": "Anlatım Bozuklukları",
+    "difficulty": "Kolay",
+    "question": "Anlatım bozukluğunun temel nedeni hangisi olabilir? (Tekrar)",
+    "options": [
+      "Anlam veya dil bilgisi yanlışlığı",
+      "Yazının güzel olması",
+      "Cümlenin kısa olması",
+      "Nokta kullanılması"
+    ],
+    "answer": "Anlam veya dil bilgisi yanlışlığı",
+    "answerLetter": "A",
+    "explanation": "Anlatım bozukluğu anlam veya yapı hatasından doğar.",
+    "source": "Türkçe lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-001",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Kolay",
+    "question": "3 + 5 × 2 işleminin sonucu kaçtır?",
+    "options": [
+      "13",
+      "10",
+      "11",
+      "16"
+    ],
+    "answer": "13",
+    "answerLetter": "A",
+    "explanation": "Çarpma önce yapılır: 5×2=10, 3+10=13.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-002",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Kolay",
+    "question": "(12 - 4) ÷ 2 sonucu kaçtır?",
+    "options": [
+      "6",
+      "8",
+      "2",
+      "4"
+    ],
+    "answer": "4",
+    "answerLetter": "D",
+    "explanation": "Parantez önce yapılır: 8÷2=4.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-003",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Kolay",
+    "question": "7 × 6 - 10 sonucu kaçtır?",
+    "options": [
+      "30",
+      "32",
+      "42",
+      "52"
+    ],
+    "answer": "32",
+    "answerLetter": "B",
+    "explanation": "7×6=42, 42-10=32.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-004",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Orta",
+    "question": "3 + 5 × 2 işleminin sonucu kaç olarak bulunur?",
+    "options": [
+      "16",
+      "13",
+      "10",
+      "11"
+    ],
+    "answer": "13",
+    "answerLetter": "B",
+    "explanation": "Çarpma önce yapılır: 5×2=10, 3+10=13.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-005",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Orta",
+    "question": "(12 - 4) ÷ 2 sonucu kaç olarak bulunur?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "2"
+    ],
+    "answer": "4",
+    "answerLetter": "A",
+    "explanation": "Parantez önce yapılır: 8÷2=4.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-006",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Orta",
+    "question": "7 × 6 - 10 sonucu kaç olarak bulunur?",
+    "options": [
+      "52",
+      "30",
+      "32",
+      "42"
+    ],
+    "answer": "32",
+    "answerLetter": "C",
+    "explanation": "7×6=42, 42-10=32.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-007",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: 3 + 5 × 2 işleminin sonucu kaçtır?",
+    "options": [
+      "11",
+      "16",
+      "13",
+      "10"
+    ],
+    "answer": "13",
+    "answerLetter": "C",
+    "explanation": "Çarpma önce yapılır: 5×2=10, 3+10=13.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-008",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: (12 - 4) ÷ 2 sonucu kaçtır?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "4",
+    "answerLetter": "B",
+    "explanation": "Parantez önce yapılır: 8÷2=4.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-009",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: 7 × 6 - 10 sonucu kaçtır?",
+    "options": [
+      "42",
+      "52",
+      "30",
+      "32"
+    ],
+    "answer": "32",
+    "answerLetter": "D",
+    "explanation": "7×6=42, 42-10=32.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-010",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Kolay",
+    "question": "3 + 5 × 2 işleminin sonucu kaçtır? (Tekrar)",
+    "options": [
+      "10",
+      "11",
+      "16",
+      "13"
+    ],
+    "answer": "13",
+    "answerLetter": "D",
+    "explanation": "Çarpma önce yapılır: 5×2=10, 3+10=13.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-011",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Kolay",
+    "question": "(12 - 4) ÷ 2 sonucu kaçtır? (Tekrar)",
+    "options": [
+      "8",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": "4",
+    "answerLetter": "C",
+    "explanation": "Parantez önce yapılır: 8÷2=4.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-012",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Kolay",
+    "question": "7 × 6 - 10 sonucu kaçtır? (Tekrar)",
+    "options": [
+      "32",
+      "42",
+      "52",
+      "30"
+    ],
+    "answer": "32",
+    "answerLetter": "A",
+    "explanation": "7×6=42, 42-10=32.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-013",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Orta",
+    "question": "3 + 5 × 2 işleminin sonucu kaçtır? (Tekrar)",
+    "options": [
+      "13",
+      "10",
+      "11",
+      "16"
+    ],
+    "answer": "13",
+    "answerLetter": "A",
+    "explanation": "Çarpma önce yapılır: 5×2=10, 3+10=13.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-014",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Orta",
+    "question": "(12 - 4) ÷ 2 sonucu kaçtır? (Tekrar)",
+    "options": [
+      "6",
+      "8",
+      "2",
+      "4"
+    ],
+    "answer": "4",
+    "answerLetter": "D",
+    "explanation": "Parantez önce yapılır: 8÷2=4.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-015",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Orta",
+    "question": "7 × 6 - 10 sonucu kaçtır? (Tekrar)",
+    "options": [
+      "30",
+      "32",
+      "42",
+      "52"
+    ],
+    "answer": "32",
+    "answerLetter": "B",
+    "explanation": "7×6=42, 42-10=32.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-016",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Zor",
+    "question": "3 + 5 × 2 işleminin sonucu kaçtır? (Tekrar)",
+    "options": [
+      "16",
+      "13",
+      "10",
+      "11"
+    ],
+    "answer": "13",
+    "answerLetter": "B",
+    "explanation": "Çarpma önce yapılır: 5×2=10, 3+10=13.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-017",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Zor",
+    "question": "(12 - 4) ÷ 2 sonucu kaçtır? (Tekrar)",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "2"
+    ],
+    "answer": "4",
+    "answerLetter": "A",
+    "explanation": "Parantez önce yapılır: 8÷2=4.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-018",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Zor",
+    "question": "7 × 6 - 10 sonucu kaçtır? (Tekrar)",
+    "options": [
+      "52",
+      "30",
+      "32",
+      "42"
+    ],
+    "answer": "32",
+    "answerLetter": "C",
+    "explanation": "7×6=42, 42-10=32.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-019",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Kolay",
+    "question": "3 + 5 × 2 işleminin sonucu kaçtır? (Tekrar)",
+    "options": [
+      "11",
+      "16",
+      "13",
+      "10"
+    ],
+    "answer": "13",
+    "answerLetter": "C",
+    "explanation": "Çarpma önce yapılır: 5×2=10, 3+10=13.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-020",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Temel İşlemler",
+    "difficulty": "Kolay",
+    "question": "(12 - 4) ÷ 2 sonucu kaçtır? (Tekrar)",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "4",
+    "answerLetter": "B",
+    "explanation": "Parantez önce yapılır: 8÷2=4.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-021",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Kolay",
+    "question": "Bir sayının 3 ile bölünebilmesi için hangi şart gerekir?",
+    "options": [
+      "Son basamağı 0 olmalıdır",
+      "Çift olmalıdır",
+      "İlk rakamı 3 olmalıdır",
+      "Rakamları toplamı 3'ün katı olmalıdır"
+    ],
+    "answer": "Rakamları toplamı 3'ün katı olmalıdır",
+    "answerLetter": "D",
+    "explanation": "3 ile bölünebilmede rakamlar toplamına bakılır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-022",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Kolay",
+    "question": "Bir sayının 5 ile bölünebilmesi için son basamağı ne olmalıdır?",
+    "options": [
+      "1 veya 3",
+      "6 veya 8",
+      "0 veya 5",
+      "2 veya 4"
+    ],
+    "answer": "0 veya 5",
+    "answerLetter": "C",
+    "explanation": "5 ile bölünebilme son basamağa bağlıdır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-023",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Kolay",
+    "question": "246 sayısı 2 ile bölünebilir mi?",
+    "options": [
+      "Hayır, üç basamaklıdır",
+      "Evet, çünkü çift sayıdır",
+      "Hayır, tek sayıdır",
+      "Evet, sonu 5'tir"
+    ],
+    "answer": "Evet, çünkü çift sayıdır",
+    "answerLetter": "B",
+    "explanation": "Çift sayılar 2 ile bölünür.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-024",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Orta",
+    "question": "Bir sayının 3 ile bölünebilmesi için hangi şart gerekir?",
+    "options": [
+      "Rakamları toplamı 3'ün katı olmalıdır",
+      "Son basamağı 0 olmalıdır",
+      "Çift olmalıdır",
+      "İlk rakamı 3 olmalıdır"
+    ],
+    "answer": "Rakamları toplamı 3'ün katı olmalıdır",
+    "answerLetter": "A",
+    "explanation": "3 ile bölünebilmede rakamlar toplamına bakılır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-025",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Orta",
+    "question": "Bir sayının 5 ile bölünebilmesi için son basamağı ne olmalıdır?",
+    "options": [
+      "2 veya 4",
+      "1 veya 3",
+      "6 veya 8",
+      "0 veya 5"
+    ],
+    "answer": "0 veya 5",
+    "answerLetter": "D",
+    "explanation": "5 ile bölünebilme son basamağa bağlıdır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-026",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Orta",
+    "question": "246 sayısı 2 ile bölünebilir mi?",
+    "options": [
+      "Evet, sonu 5'tir",
+      "Hayır, üç basamaklıdır",
+      "Evet, çünkü çift sayıdır",
+      "Hayır, tek sayıdır"
+    ],
+    "answer": "Evet, çünkü çift sayıdır",
+    "answerLetter": "C",
+    "explanation": "Çift sayılar 2 ile bölünür.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-027",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: bir sayının 3 ile bölünebilmesi için hangi şart gerekir?",
+    "options": [
+      "İlk rakamı 3 olmalıdır",
+      "Rakamları toplamı 3'ün katı olmalıdır",
+      "Son basamağı 0 olmalıdır",
+      "Çift olmalıdır"
+    ],
+    "answer": "Rakamları toplamı 3'ün katı olmalıdır",
+    "answerLetter": "B",
+    "explanation": "3 ile bölünebilmede rakamlar toplamına bakılır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-028",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: bir sayının 5 ile bölünebilmesi için son basamağı ne olmalıdır?",
+    "options": [
+      "0 veya 5",
+      "2 veya 4",
+      "1 veya 3",
+      "6 veya 8"
+    ],
+    "answer": "0 veya 5",
+    "answerLetter": "A",
+    "explanation": "5 ile bölünebilme son basamağa bağlıdır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-029",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: 246 sayısı 2 ile bölünebilir mi?",
+    "options": [
+      "Hayır, tek sayıdır",
+      "Evet, sonu 5'tir",
+      "Hayır, üç basamaklıdır",
+      "Evet, çünkü çift sayıdır"
+    ],
+    "answer": "Evet, çünkü çift sayıdır",
+    "answerLetter": "D",
+    "explanation": "Çift sayılar 2 ile bölünür.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-030",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Kolay",
+    "question": "Bir sayının 3 ile bölünebilmesi için hangi şart gerekir? (Tekrar)",
+    "options": [
+      "Çift olmalıdır",
+      "İlk rakamı 3 olmalıdır",
+      "Rakamları toplamı 3'ün katı olmalıdır",
+      "Son basamağı 0 olmalıdır"
+    ],
+    "answer": "Rakamları toplamı 3'ün katı olmalıdır",
+    "answerLetter": "C",
+    "explanation": "3 ile bölünebilmede rakamlar toplamına bakılır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-031",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Kolay",
+    "question": "Bir sayının 5 ile bölünebilmesi için son basamağı ne olmalıdır? (Tekrar)",
+    "options": [
+      "6 veya 8",
+      "0 veya 5",
+      "2 veya 4",
+      "1 veya 3"
+    ],
+    "answer": "0 veya 5",
+    "answerLetter": "B",
+    "explanation": "5 ile bölünebilme son basamağa bağlıdır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-032",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Kolay",
+    "question": "246 sayısı 2 ile bölünebilir mi? (Tekrar)",
+    "options": [
+      "Evet, çünkü çift sayıdır",
+      "Hayır, tek sayıdır",
+      "Evet, sonu 5'tir",
+      "Hayır, üç basamaklıdır"
+    ],
+    "answer": "Evet, çünkü çift sayıdır",
+    "answerLetter": "A",
+    "explanation": "Çift sayılar 2 ile bölünür.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-033",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Orta",
+    "question": "Bir sayının 3 ile bölünebilmesi için hangi şart gerekir? (Tekrar)",
+    "options": [
+      "Son basamağı 0 olmalıdır",
+      "Çift olmalıdır",
+      "İlk rakamı 3 olmalıdır",
+      "Rakamları toplamı 3'ün katı olmalıdır"
+    ],
+    "answer": "Rakamları toplamı 3'ün katı olmalıdır",
+    "answerLetter": "D",
+    "explanation": "3 ile bölünebilmede rakamlar toplamına bakılır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-034",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Orta",
+    "question": "Bir sayının 5 ile bölünebilmesi için son basamağı ne olmalıdır? (Tekrar)",
+    "options": [
+      "1 veya 3",
+      "6 veya 8",
+      "0 veya 5",
+      "2 veya 4"
+    ],
+    "answer": "0 veya 5",
+    "answerLetter": "C",
+    "explanation": "5 ile bölünebilme son basamağa bağlıdır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-035",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Orta",
+    "question": "246 sayısı 2 ile bölünebilir mi? (Tekrar)",
+    "options": [
+      "Hayır, üç basamaklıdır",
+      "Evet, çünkü çift sayıdır",
+      "Hayır, tek sayıdır",
+      "Evet, sonu 5'tir"
+    ],
+    "answer": "Evet, çünkü çift sayıdır",
+    "answerLetter": "B",
+    "explanation": "Çift sayılar 2 ile bölünür.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-036",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Zor",
+    "question": "Bir sayının 3 ile bölünebilmesi için hangi şart gerekir? (Tekrar)",
+    "options": [
+      "Rakamları toplamı 3'ün katı olmalıdır",
+      "Son basamağı 0 olmalıdır",
+      "Çift olmalıdır",
+      "İlk rakamı 3 olmalıdır"
+    ],
+    "answer": "Rakamları toplamı 3'ün katı olmalıdır",
+    "answerLetter": "A",
+    "explanation": "3 ile bölünebilmede rakamlar toplamına bakılır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-037",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Zor",
+    "question": "Bir sayının 5 ile bölünebilmesi için son basamağı ne olmalıdır? (Tekrar)",
+    "options": [
+      "2 veya 4",
+      "1 veya 3",
+      "6 veya 8",
+      "0 veya 5"
+    ],
+    "answer": "0 veya 5",
+    "answerLetter": "D",
+    "explanation": "5 ile bölünebilme son basamağa bağlıdır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-038",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Zor",
+    "question": "246 sayısı 2 ile bölünebilir mi? (Tekrar)",
+    "options": [
+      "Evet, sonu 5'tir",
+      "Hayır, üç basamaklıdır",
+      "Evet, çünkü çift sayıdır",
+      "Hayır, tek sayıdır"
+    ],
+    "answer": "Evet, çünkü çift sayıdır",
+    "answerLetter": "C",
+    "explanation": "Çift sayılar 2 ile bölünür.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-039",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Kolay",
+    "question": "Bir sayının 3 ile bölünebilmesi için hangi şart gerekir? (Tekrar)",
+    "options": [
+      "İlk rakamı 3 olmalıdır",
+      "Rakamları toplamı 3'ün katı olmalıdır",
+      "Son basamağı 0 olmalıdır",
+      "Çift olmalıdır"
+    ],
+    "answer": "Rakamları toplamı 3'ün katı olmalıdır",
+    "answerLetter": "B",
+    "explanation": "3 ile bölünebilmede rakamlar toplamına bakılır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-040",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Bölünebilme",
+    "difficulty": "Kolay",
+    "question": "Bir sayının 5 ile bölünebilmesi için son basamağı ne olmalıdır? (Tekrar)",
+    "options": [
+      "0 veya 5",
+      "2 veya 4",
+      "1 veya 3",
+      "6 veya 8"
+    ],
+    "answer": "0 veya 5",
+    "answerLetter": "A",
+    "explanation": "5 ile bölünebilme son basamağa bağlıdır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-041",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Kolay",
+    "question": "12 ve 18'in OBEB'i kaçtır?",
+    "options": [
+      "12",
+      "18",
+      "36",
+      "6"
+    ],
+    "answer": "6",
+    "answerLetter": "D",
+    "explanation": "Ortak bölenlerin en büyüğü 6'dır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-042",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Kolay",
+    "question": "4 ve 6'nın OKEK'i kaçtır?",
+    "options": [
+      "24",
+      "6",
+      "10",
+      "12"
+    ],
+    "answer": "12",
+    "answerLetter": "D",
+    "explanation": "4 ve 6'nın ortak katlarının en küçüğü 12'dir.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-043",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Kolay",
+    "question": "Paylaştırma problemlerinde genellikle hangisi kullanılır?",
+    "options": [
+      "Denklem",
+      "OBEB",
+      "OKEK",
+      "Yüzde"
+    ],
+    "answer": "OBEB",
+    "answerLetter": "B",
+    "explanation": "En büyük eş parçalara ayırma OBEB ile ilgilidir.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-044",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Orta",
+    "question": "12 ve 18'in OBEB'i kaç olarak bulunur?",
+    "options": [
+      "6",
+      "12",
+      "18",
+      "36"
+    ],
+    "answer": "6",
+    "answerLetter": "A",
+    "explanation": "Ortak bölenlerin en büyüğü 6'dır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-045",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Orta",
+    "question": "4 ve 6'nın OKEK'i kaç olarak bulunur?",
+    "options": [
+      "12",
+      "24",
+      "6",
+      "10"
+    ],
+    "answer": "12",
+    "answerLetter": "A",
+    "explanation": "4 ve 6'nın ortak katlarının en küçüğü 12'dir.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-046",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Orta",
+    "question": "Paylaştırma problemlerinde genellikle hangisi kullanılır?",
+    "options": [
+      "Yüzde",
+      "Denklem",
+      "OBEB",
+      "OKEK"
+    ],
+    "answer": "OBEB",
+    "answerLetter": "C",
+    "explanation": "En büyük eş parçalara ayırma OBEB ile ilgilidir.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-047",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: 12 ve 18'in OBEB'i kaçtır?",
+    "options": [
+      "36",
+      "6",
+      "12",
+      "18"
+    ],
+    "answer": "6",
+    "answerLetter": "B",
+    "explanation": "Ortak bölenlerin en büyüğü 6'dır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-048",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: 4 ve 6'nın OKEK'i kaçtır?",
+    "options": [
+      "10",
+      "12",
+      "24",
+      "6"
+    ],
+    "answer": "12",
+    "answerLetter": "B",
+    "explanation": "4 ve 6'nın ortak katlarının en küçüğü 12'dir.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-049",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: paylaştırma problemlerinde genellikle hangisi kullanılır?",
+    "options": [
+      "OKEK",
+      "Yüzde",
+      "Denklem",
+      "OBEB"
+    ],
+    "answer": "OBEB",
+    "answerLetter": "D",
+    "explanation": "En büyük eş parçalara ayırma OBEB ile ilgilidir.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-050",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Kolay",
+    "question": "12 ve 18'in OBEB'i kaçtır? (Tekrar)",
+    "options": [
+      "18",
+      "36",
+      "6",
+      "12"
+    ],
+    "answer": "6",
+    "answerLetter": "C",
+    "explanation": "Ortak bölenlerin en büyüğü 6'dır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-051",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Kolay",
+    "question": "4 ve 6'nın OKEK'i kaçtır? (Tekrar)",
+    "options": [
+      "6",
+      "10",
+      "12",
+      "24"
+    ],
+    "answer": "12",
+    "answerLetter": "C",
+    "explanation": "4 ve 6'nın ortak katlarının en küçüğü 12'dir.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-052",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Kolay",
+    "question": "Paylaştırma problemlerinde genellikle hangisi kullanılır? (Tekrar)",
+    "options": [
+      "OBEB",
+      "OKEK",
+      "Yüzde",
+      "Denklem"
+    ],
+    "answer": "OBEB",
+    "answerLetter": "A",
+    "explanation": "En büyük eş parçalara ayırma OBEB ile ilgilidir.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-053",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Orta",
+    "question": "12 ve 18'in OBEB'i kaçtır? (Tekrar)",
+    "options": [
+      "12",
+      "18",
+      "36",
+      "6"
+    ],
+    "answer": "6",
+    "answerLetter": "D",
+    "explanation": "Ortak bölenlerin en büyüğü 6'dır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-054",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Orta",
+    "question": "4 ve 6'nın OKEK'i kaçtır? (Tekrar)",
+    "options": [
+      "24",
+      "6",
+      "10",
+      "12"
+    ],
+    "answer": "12",
+    "answerLetter": "D",
+    "explanation": "4 ve 6'nın ortak katlarının en küçüğü 12'dir.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-055",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Orta",
+    "question": "Paylaştırma problemlerinde genellikle hangisi kullanılır? (Tekrar)",
+    "options": [
+      "Denklem",
+      "OBEB",
+      "OKEK",
+      "Yüzde"
+    ],
+    "answer": "OBEB",
+    "answerLetter": "B",
+    "explanation": "En büyük eş parçalara ayırma OBEB ile ilgilidir.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-056",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Zor",
+    "question": "12 ve 18'in OBEB'i kaçtır? (Tekrar)",
+    "options": [
+      "6",
+      "12",
+      "18",
+      "36"
+    ],
+    "answer": "6",
+    "answerLetter": "A",
+    "explanation": "Ortak bölenlerin en büyüğü 6'dır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-057",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Zor",
+    "question": "4 ve 6'nın OKEK'i kaçtır? (Tekrar)",
+    "options": [
+      "12",
+      "24",
+      "6",
+      "10"
+    ],
+    "answer": "12",
+    "answerLetter": "A",
+    "explanation": "4 ve 6'nın ortak katlarının en küçüğü 12'dir.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-058",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Zor",
+    "question": "Paylaştırma problemlerinde genellikle hangisi kullanılır? (Tekrar)",
+    "options": [
+      "Yüzde",
+      "Denklem",
+      "OBEB",
+      "OKEK"
+    ],
+    "answer": "OBEB",
+    "answerLetter": "C",
+    "explanation": "En büyük eş parçalara ayırma OBEB ile ilgilidir.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-059",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Kolay",
+    "question": "12 ve 18'in OBEB'i kaçtır? (Tekrar)",
+    "options": [
+      "36",
+      "6",
+      "12",
+      "18"
+    ],
+    "answer": "6",
+    "answerLetter": "B",
+    "explanation": "Ortak bölenlerin en büyüğü 6'dır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-060",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "OBEB-OKEK",
+    "difficulty": "Kolay",
+    "question": "4 ve 6'nın OKEK'i kaçtır? (Tekrar)",
+    "options": [
+      "10",
+      "12",
+      "24",
+      "6"
+    ],
+    "answer": "12",
+    "answerLetter": "B",
+    "explanation": "4 ve 6'nın ortak katlarının en küçüğü 12'dir.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-061",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Rasyonel Sayılar",
+    "difficulty": "Kolay",
+    "question": "1/2 + 1/4 sonucu kaçtır?",
+    "options": [
+      "2/6",
+      "1/8",
+      "1/4",
+      "3/4"
+    ],
+    "answer": "3/4",
+    "answerLetter": "D",
+    "explanation": "Ortak payda 4 alınır: 2/4+1/4=3/4.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-062",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Rasyonel Sayılar",
+    "difficulty": "Kolay",
+    "question": "0,5 sayısı kesir olarak hangisine eşittir?",
+    "options": [
+      "5/1",
+      "2/5",
+      "1/2",
+      "1/5"
+    ],
+    "answer": "1/2",
+    "answerLetter": "C",
+    "explanation": "0,5 yarım demektir.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-063",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Rasyonel Sayılar",
+    "difficulty": "Kolay",
+    "question": "2/3 ile 1/3 toplamı kaçtır?",
+    "options": [
+      "1/3",
+      "1",
+      "3/6",
+      "2/6"
+    ],
+    "answer": "1",
+    "answerLetter": "B",
+    "explanation": "Paydalar aynıysa paylar toplanır: 3/3=1.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-064",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Rasyonel Sayılar",
+    "difficulty": "Orta",
+    "question": "1/2 + 1/4 sonucu kaç olarak bulunur?",
+    "options": [
+      "3/4",
+      "2/6",
+      "1/8",
+      "1/4"
+    ],
+    "answer": "3/4",
+    "answerLetter": "A",
+    "explanation": "Ortak payda 4 alınır: 2/4+1/4=3/4.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-065",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Rasyonel Sayılar",
+    "difficulty": "Orta",
+    "question": "0,5 sayısı kesir olarak hangisine eşittir?",
+    "options": [
+      "1/5",
+      "5/1",
+      "2/5",
+      "1/2"
+    ],
+    "answer": "1/2",
+    "answerLetter": "D",
+    "explanation": "0,5 yarım demektir.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-066",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Rasyonel Sayılar",
+    "difficulty": "Orta",
+    "question": "2/3 ile 1/3 toplamı kaç olarak bulunur?",
+    "options": [
+      "2/6",
+      "1/3",
+      "1",
+      "3/6"
+    ],
+    "answer": "1",
+    "answerLetter": "C",
+    "explanation": "Paydalar aynıysa paylar toplanır: 3/3=1.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-067",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Rasyonel Sayılar",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: 1/2 + 1/4 sonucu kaçtır?",
+    "options": [
+      "1/4",
+      "3/4",
+      "2/6",
+      "1/8"
+    ],
+    "answer": "3/4",
+    "answerLetter": "B",
+    "explanation": "Ortak payda 4 alınır: 2/4+1/4=3/4.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-068",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Rasyonel Sayılar",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: 0,5 sayısı kesir olarak hangisine eşittir?",
+    "options": [
+      "1/2",
+      "1/5",
+      "5/1",
+      "2/5"
+    ],
+    "answer": "1/2",
+    "answerLetter": "A",
+    "explanation": "0,5 yarım demektir.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-069",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Rasyonel Sayılar",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: 2/3 ile 1/3 toplamı kaçtır?",
+    "options": [
+      "3/6",
+      "2/6",
+      "1/3",
+      "1"
+    ],
+    "answer": "1",
+    "answerLetter": "D",
+    "explanation": "Paydalar aynıysa paylar toplanır: 3/3=1.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-070",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Rasyonel Sayılar",
+    "difficulty": "Kolay",
+    "question": "1/2 + 1/4 sonucu kaçtır? (Tekrar)",
+    "options": [
+      "1/8",
+      "1/4",
+      "3/4",
+      "2/6"
+    ],
+    "answer": "3/4",
+    "answerLetter": "C",
+    "explanation": "Ortak payda 4 alınır: 2/4+1/4=3/4.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-071",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Rasyonel Sayılar",
+    "difficulty": "Kolay",
+    "question": "0,5 sayısı kesir olarak hangisine eşittir? (Tekrar)",
+    "options": [
+      "2/5",
+      "1/2",
+      "1/5",
+      "5/1"
+    ],
+    "answer": "1/2",
+    "answerLetter": "B",
+    "explanation": "0,5 yarım demektir.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-072",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Rasyonel Sayılar",
+    "difficulty": "Kolay",
+    "question": "2/3 ile 1/3 toplamı kaçtır? (Tekrar)",
+    "options": [
+      "1",
+      "3/6",
+      "2/6",
+      "1/3"
+    ],
+    "answer": "1",
+    "answerLetter": "A",
+    "explanation": "Paydalar aynıysa paylar toplanır: 3/3=1.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-073",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Rasyonel Sayılar",
+    "difficulty": "Orta",
+    "question": "1/2 + 1/4 sonucu kaçtır? (Tekrar)",
+    "options": [
+      "2/6",
+      "1/8",
+      "1/4",
+      "3/4"
+    ],
+    "answer": "3/4",
+    "answerLetter": "D",
+    "explanation": "Ortak payda 4 alınır: 2/4+1/4=3/4.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-074",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Rasyonel Sayılar",
+    "difficulty": "Orta",
+    "question": "0,5 sayısı kesir olarak hangisine eşittir? (Tekrar)",
+    "options": [
+      "5/1",
+      "2/5",
+      "1/2",
+      "1/5"
+    ],
+    "answer": "1/2",
+    "answerLetter": "C",
+    "explanation": "0,5 yarım demektir.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-075",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Rasyonel Sayılar",
+    "difficulty": "Orta",
+    "question": "2/3 ile 1/3 toplamı kaçtır? (Tekrar)",
+    "options": [
+      "1/3",
+      "1",
+      "3/6",
+      "2/6"
+    ],
+    "answer": "1",
+    "answerLetter": "B",
+    "explanation": "Paydalar aynıysa paylar toplanır: 3/3=1.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-076",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Rasyonel Sayılar",
+    "difficulty": "Zor",
+    "question": "1/2 + 1/4 sonucu kaçtır? (Tekrar)",
+    "options": [
+      "3/4",
+      "2/6",
+      "1/8",
+      "1/4"
+    ],
+    "answer": "3/4",
+    "answerLetter": "A",
+    "explanation": "Ortak payda 4 alınır: 2/4+1/4=3/4.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-077",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Rasyonel Sayılar",
+    "difficulty": "Zor",
+    "question": "0,5 sayısı kesir olarak hangisine eşittir? (Tekrar)",
+    "options": [
+      "1/5",
+      "5/1",
+      "2/5",
+      "1/2"
+    ],
+    "answer": "1/2",
+    "answerLetter": "D",
+    "explanation": "0,5 yarım demektir.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-078",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Rasyonel Sayılar",
+    "difficulty": "Zor",
+    "question": "2/3 ile 1/3 toplamı kaçtır? (Tekrar)",
+    "options": [
+      "2/6",
+      "1/3",
+      "1",
+      "3/6"
+    ],
+    "answer": "1",
+    "answerLetter": "C",
+    "explanation": "Paydalar aynıysa paylar toplanır: 3/3=1.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-079",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Rasyonel Sayılar",
+    "difficulty": "Kolay",
+    "question": "1/2 + 1/4 sonucu kaçtır? (Tekrar)",
+    "options": [
+      "1/4",
+      "3/4",
+      "2/6",
+      "1/8"
+    ],
+    "answer": "3/4",
+    "answerLetter": "B",
+    "explanation": "Ortak payda 4 alınır: 2/4+1/4=3/4.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-080",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Rasyonel Sayılar",
+    "difficulty": "Kolay",
+    "question": "0,5 sayısı kesir olarak hangisine eşittir? (Tekrar)",
+    "options": [
+      "1/2",
+      "1/5",
+      "5/1",
+      "2/5"
+    ],
+    "answer": "1/2",
+    "answerLetter": "A",
+    "explanation": "0,5 yarım demektir.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-081",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": "Kolay",
+    "question": "2³ değeri kaçtır?",
+    "options": [
+      "8",
+      "9",
+      "4",
+      "6"
+    ],
+    "answer": "8",
+    "answerLetter": "A",
+    "explanation": "2×2×2=8.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-082",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": "Kolay",
+    "question": "3² + 1 sonucu kaçtır?",
+    "options": [
+      "9",
+      "6",
+      "7",
+      "10"
+    ],
+    "answer": "10",
+    "answerLetter": "D",
+    "explanation": "3²=9, 9+1=10.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-083",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": "Kolay",
+    "question": "Aynı tabanlı üslü ifadeler çarpılırken üsler ne yapılır?",
+    "options": [
+      "Bölünür",
+      "Toplanır",
+      "Çıkarılır",
+      "Çarpılır"
+    ],
+    "answer": "Toplanır",
+    "answerLetter": "B",
+    "explanation": "a^m × a^n = a^(m+n).",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-084",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": "Orta",
+    "question": "2³ değeri kaç olarak bulunur?",
+    "options": [
+      "6",
+      "8",
+      "9",
+      "4"
+    ],
+    "answer": "8",
+    "answerLetter": "B",
+    "explanation": "2×2×2=8.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-085",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": "Orta",
+    "question": "3² + 1 sonucu kaç olarak bulunur?",
+    "options": [
+      "10",
+      "9",
+      "6",
+      "7"
+    ],
+    "answer": "10",
+    "answerLetter": "A",
+    "explanation": "3²=9, 9+1=10.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-086",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": "Orta",
+    "question": "Aynı tabanlı üslü ifadeler çarpılırken üsler ne yapılır?",
+    "options": [
+      "Çarpılır",
+      "Bölünür",
+      "Toplanır",
+      "Çıkarılır"
+    ],
+    "answer": "Toplanır",
+    "answerLetter": "C",
+    "explanation": "a^m × a^n = a^(m+n).",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-087",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: 2³ değeri kaçtır?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer": "8",
+    "answerLetter": "C",
+    "explanation": "2×2×2=8.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-088",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: 3² + 1 sonucu kaçtır?",
+    "options": [
+      "7",
+      "10",
+      "9",
+      "6"
+    ],
+    "answer": "10",
+    "answerLetter": "B",
+    "explanation": "3²=9, 9+1=10.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-089",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: aynı tabanlı üslü ifadeler çarpılırken üsler ne yapılır?",
+    "options": [
+      "Çıkarılır",
+      "Çarpılır",
+      "Bölünür",
+      "Toplanır"
+    ],
+    "answer": "Toplanır",
+    "answerLetter": "D",
+    "explanation": "a^m × a^n = a^(m+n).",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-090",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": "Kolay",
+    "question": "2³ değeri kaçtır? (Tekrar)",
+    "options": [
+      "9",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "8",
+    "answerLetter": "D",
+    "explanation": "2×2×2=8.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-091",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": "Kolay",
+    "question": "3² + 1 sonucu kaçtır? (Tekrar)",
+    "options": [
+      "6",
+      "7",
+      "10",
+      "9"
+    ],
+    "answer": "10",
+    "answerLetter": "C",
+    "explanation": "3²=9, 9+1=10.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-092",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": "Kolay",
+    "question": "Aynı tabanlı üslü ifadeler çarpılırken üsler ne yapılır? (Tekrar)",
+    "options": [
+      "Toplanır",
+      "Çıkarılır",
+      "Çarpılır",
+      "Bölünür"
+    ],
+    "answer": "Toplanır",
+    "answerLetter": "A",
+    "explanation": "a^m × a^n = a^(m+n).",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-093",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": "Orta",
+    "question": "2³ değeri kaçtır? (Tekrar)",
+    "options": [
+      "8",
+      "9",
+      "4",
+      "6"
+    ],
+    "answer": "8",
+    "answerLetter": "A",
+    "explanation": "2×2×2=8.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-094",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": "Orta",
+    "question": "3² + 1 sonucu kaçtır? (Tekrar)",
+    "options": [
+      "9",
+      "6",
+      "7",
+      "10"
+    ],
+    "answer": "10",
+    "answerLetter": "D",
+    "explanation": "3²=9, 9+1=10.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-095",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": "Orta",
+    "question": "Aynı tabanlı üslü ifadeler çarpılırken üsler ne yapılır? (Tekrar)",
+    "options": [
+      "Bölünür",
+      "Toplanır",
+      "Çıkarılır",
+      "Çarpılır"
+    ],
+    "answer": "Toplanır",
+    "answerLetter": "B",
+    "explanation": "a^m × a^n = a^(m+n).",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-096",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": "Zor",
+    "question": "2³ değeri kaçtır? (Tekrar)",
+    "options": [
+      "6",
+      "8",
+      "9",
+      "4"
+    ],
+    "answer": "8",
+    "answerLetter": "B",
+    "explanation": "2×2×2=8.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-097",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": "Zor",
+    "question": "3² + 1 sonucu kaçtır? (Tekrar)",
+    "options": [
+      "10",
+      "9",
+      "6",
+      "7"
+    ],
+    "answer": "10",
+    "answerLetter": "A",
+    "explanation": "3²=9, 9+1=10.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-098",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": "Zor",
+    "question": "Aynı tabanlı üslü ifadeler çarpılırken üsler ne yapılır? (Tekrar)",
+    "options": [
+      "Çarpılır",
+      "Bölünür",
+      "Toplanır",
+      "Çıkarılır"
+    ],
+    "answer": "Toplanır",
+    "answerLetter": "C",
+    "explanation": "a^m × a^n = a^(m+n).",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-099",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": "Kolay",
+    "question": "2³ değeri kaçtır? (Tekrar)",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer": "8",
+    "answerLetter": "C",
+    "explanation": "2×2×2=8.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-100",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Üslü Sayılar",
+    "difficulty": "Kolay",
+    "question": "3² + 1 sonucu kaçtır? (Tekrar)",
+    "options": [
+      "7",
+      "10",
+      "9",
+      "6"
+    ],
+    "answer": "10",
+    "answerLetter": "B",
+    "explanation": "3²=9, 9+1=10.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-101",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": "Kolay",
+    "question": "√16 kaçtır?",
+    "options": [
+      "4",
+      "8",
+      "16",
+      "2"
+    ],
+    "answer": "4",
+    "answerLetter": "A",
+    "explanation": "4×4=16.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-102",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": "Kolay",
+    "question": "√25 + √9 sonucu kaçtır?",
+    "options": [
+      "10",
+      "14",
+      "5",
+      "8"
+    ],
+    "answer": "8",
+    "answerLetter": "D",
+    "explanation": "√25=5, √9=3, toplam 8.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-103",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": "Kolay",
+    "question": "√49 kaçtır?",
+    "options": [
+      "9",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "7",
+    "answerLetter": "C",
+    "explanation": "7×7=49.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-104",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": "Orta",
+    "question": "√16 kaç olarak bulunur?",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "16"
+    ],
+    "answer": "4",
+    "answerLetter": "B",
+    "explanation": "4×4=16.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-105",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": "Orta",
+    "question": "√25 + √9 sonucu kaç olarak bulunur?",
+    "options": [
+      "8",
+      "10",
+      "14",
+      "5"
+    ],
+    "answer": "8",
+    "answerLetter": "A",
+    "explanation": "√25=5, √9=3, toplam 8.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-106",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": "Orta",
+    "question": "√49 kaç olarak bulunur?",
+    "options": [
+      "8",
+      "9",
+      "6",
+      "7"
+    ],
+    "answer": "7",
+    "answerLetter": "D",
+    "explanation": "7×7=49.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-107",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: √16 kaçtır?",
+    "options": [
+      "16",
+      "2",
+      "4",
+      "8"
+    ],
+    "answer": "4",
+    "answerLetter": "C",
+    "explanation": "4×4=16.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-108",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: √25 + √9 sonucu kaçtır?",
+    "options": [
+      "5",
+      "8",
+      "10",
+      "14"
+    ],
+    "answer": "8",
+    "answerLetter": "B",
+    "explanation": "√25=5, √9=3, toplam 8.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-109",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: √49 kaçtır?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "6"
+    ],
+    "answer": "7",
+    "answerLetter": "A",
+    "explanation": "7×7=49.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-110",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": "Kolay",
+    "question": "√16 kaçtır? (Tekrar)",
+    "options": [
+      "8",
+      "16",
+      "2",
+      "4"
+    ],
+    "answer": "4",
+    "answerLetter": "D",
+    "explanation": "4×4=16.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-111",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": "Kolay",
+    "question": "√25 + √9 sonucu kaçtır? (Tekrar)",
+    "options": [
+      "14",
+      "5",
+      "8",
+      "10"
+    ],
+    "answer": "8",
+    "answerLetter": "C",
+    "explanation": "√25=5, √9=3, toplam 8.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-112",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": "Kolay",
+    "question": "√49 kaçtır? (Tekrar)",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "7",
+    "answerLetter": "B",
+    "explanation": "7×7=49.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-113",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": "Orta",
+    "question": "√16 kaçtır? (Tekrar)",
+    "options": [
+      "4",
+      "8",
+      "16",
+      "2"
+    ],
+    "answer": "4",
+    "answerLetter": "A",
+    "explanation": "4×4=16.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-114",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": "Orta",
+    "question": "√25 + √9 sonucu kaçtır? (Tekrar)",
+    "options": [
+      "10",
+      "14",
+      "5",
+      "8"
+    ],
+    "answer": "8",
+    "answerLetter": "D",
+    "explanation": "√25=5, √9=3, toplam 8.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-115",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": "Orta",
+    "question": "√49 kaçtır? (Tekrar)",
+    "options": [
+      "9",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "7",
+    "answerLetter": "C",
+    "explanation": "7×7=49.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-116",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": "Zor",
+    "question": "√16 kaçtır? (Tekrar)",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "16"
+    ],
+    "answer": "4",
+    "answerLetter": "B",
+    "explanation": "4×4=16.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-117",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": "Zor",
+    "question": "√25 + √9 sonucu kaçtır? (Tekrar)",
+    "options": [
+      "8",
+      "10",
+      "14",
+      "5"
+    ],
+    "answer": "8",
+    "answerLetter": "A",
+    "explanation": "√25=5, √9=3, toplam 8.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-118",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": "Zor",
+    "question": "√49 kaçtır? (Tekrar)",
+    "options": [
+      "8",
+      "9",
+      "6",
+      "7"
+    ],
+    "answer": "7",
+    "answerLetter": "D",
+    "explanation": "7×7=49.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-119",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": "Kolay",
+    "question": "√16 kaçtır? (Tekrar)",
+    "options": [
+      "16",
+      "2",
+      "4",
+      "8"
+    ],
+    "answer": "4",
+    "answerLetter": "C",
+    "explanation": "4×4=16.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-120",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Köklü Sayılar",
+    "difficulty": "Kolay",
+    "question": "√25 + √9 sonucu kaçtır? (Tekrar)",
+    "options": [
+      "5",
+      "8",
+      "10",
+      "14"
+    ],
+    "answer": "8",
+    "answerLetter": "B",
+    "explanation": "√25=5, √9=3, toplam 8.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-121",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Kolay",
+    "question": "x + 5 = 12 ise x kaçtır?",
+    "options": [
+      "7",
+      "12",
+      "17",
+      "5"
+    ],
+    "answer": "7",
+    "answerLetter": "A",
+    "explanation": "Her iki taraftan 5 çıkarılır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-122",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Kolay",
+    "question": "2x = 18 ise x kaçtır?",
+    "options": [
+      "18",
+      "20",
+      "6",
+      "9"
+    ],
+    "answer": "9",
+    "answerLetter": "D",
+    "explanation": "Her iki taraf 2'ye bölünür.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-123",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Kolay",
+    "question": "3x - 6 = 12 ise x kaçtır?",
+    "options": [
+      "8",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "6",
+    "answerLetter": "D",
+    "explanation": "3x=18, x=6.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-124",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Orta",
+    "question": "x + 5 = 12 ise x kaç olarak bulunur?",
+    "options": [
+      "5",
+      "7",
+      "12",
+      "17"
+    ],
+    "answer": "7",
+    "answerLetter": "B",
+    "explanation": "Her iki taraftan 5 çıkarılır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-125",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Orta",
+    "question": "2x = 18 ise x kaç olarak bulunur?",
+    "options": [
+      "9",
+      "18",
+      "20",
+      "6"
+    ],
+    "answer": "9",
+    "answerLetter": "A",
+    "explanation": "Her iki taraf 2'ye bölünür.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-126",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Orta",
+    "question": "3x - 6 = 12 ise x kaç olarak bulunur?",
+    "options": [
+      "6",
+      "8",
+      "4",
+      "5"
+    ],
+    "answer": "6",
+    "answerLetter": "A",
+    "explanation": "3x=18, x=6.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-127",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: x + 5 = 12 ise x kaçtır?",
+    "options": [
+      "17",
+      "5",
+      "7",
+      "12"
+    ],
+    "answer": "7",
+    "answerLetter": "C",
+    "explanation": "Her iki taraftan 5 çıkarılır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-128",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: 2x = 18 ise x kaçtır?",
+    "options": [
+      "6",
+      "9",
+      "18",
+      "20"
+    ],
+    "answer": "9",
+    "answerLetter": "B",
+    "explanation": "Her iki taraf 2'ye bölünür.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-129",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: 3x - 6 = 12 ise x kaçtır?",
+    "options": [
+      "5",
+      "6",
+      "8",
+      "4"
+    ],
+    "answer": "6",
+    "answerLetter": "B",
+    "explanation": "3x=18, x=6.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-130",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Kolay",
+    "question": "x + 5 = 12 ise x kaçtır? (Tekrar)",
+    "options": [
+      "12",
+      "17",
+      "5",
+      "7"
+    ],
+    "answer": "7",
+    "answerLetter": "D",
+    "explanation": "Her iki taraftan 5 çıkarılır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-131",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Kolay",
+    "question": "2x = 18 ise x kaçtır? (Tekrar)",
+    "options": [
+      "20",
+      "6",
+      "9",
+      "18"
+    ],
+    "answer": "9",
+    "answerLetter": "C",
+    "explanation": "Her iki taraf 2'ye bölünür.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-132",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Kolay",
+    "question": "3x - 6 = 12 ise x kaçtır? (Tekrar)",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": "6",
+    "answerLetter": "C",
+    "explanation": "3x=18, x=6.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-133",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Orta",
+    "question": "x + 5 = 12 ise x kaçtır? (Tekrar)",
+    "options": [
+      "7",
+      "12",
+      "17",
+      "5"
+    ],
+    "answer": "7",
+    "answerLetter": "A",
+    "explanation": "Her iki taraftan 5 çıkarılır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-134",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Orta",
+    "question": "2x = 18 ise x kaçtır? (Tekrar)",
+    "options": [
+      "18",
+      "20",
+      "6",
+      "9"
+    ],
+    "answer": "9",
+    "answerLetter": "D",
+    "explanation": "Her iki taraf 2'ye bölünür.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-135",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Orta",
+    "question": "3x - 6 = 12 ise x kaçtır? (Tekrar)",
+    "options": [
+      "8",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "6",
+    "answerLetter": "D",
+    "explanation": "3x=18, x=6.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-136",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Zor",
+    "question": "x + 5 = 12 ise x kaçtır? (Tekrar)",
+    "options": [
+      "5",
+      "7",
+      "12",
+      "17"
+    ],
+    "answer": "7",
+    "answerLetter": "B",
+    "explanation": "Her iki taraftan 5 çıkarılır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-137",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Zor",
+    "question": "2x = 18 ise x kaçtır? (Tekrar)",
+    "options": [
+      "9",
+      "18",
+      "20",
+      "6"
+    ],
+    "answer": "9",
+    "answerLetter": "A",
+    "explanation": "Her iki taraf 2'ye bölünür.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-138",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Zor",
+    "question": "3x - 6 = 12 ise x kaçtır? (Tekrar)",
+    "options": [
+      "6",
+      "8",
+      "4",
+      "5"
+    ],
+    "answer": "6",
+    "answerLetter": "A",
+    "explanation": "3x=18, x=6.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-139",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Kolay",
+    "question": "x + 5 = 12 ise x kaçtır? (Tekrar)",
+    "options": [
+      "17",
+      "5",
+      "7",
+      "12"
+    ],
+    "answer": "7",
+    "answerLetter": "C",
+    "explanation": "Her iki taraftan 5 çıkarılır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-140",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Denklem Çözme",
+    "difficulty": "Kolay",
+    "question": "2x = 18 ise x kaçtır? (Tekrar)",
+    "options": [
+      "6",
+      "9",
+      "18",
+      "20"
+    ],
+    "answer": "9",
+    "answerLetter": "B",
+    "explanation": "Her iki taraf 2'ye bölünür.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-141",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Problemler",
+    "difficulty": "Kolay",
+    "question": "Ali'nin 20 TL'si vardı, 7 TL harcadı. Kaç TL kaldı?",
+    "options": [
+      "14",
+      "15",
+      "27",
+      "13"
+    ],
+    "answer": "13",
+    "answerLetter": "D",
+    "explanation": "20-7=13.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-142",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Problemler",
+    "difficulty": "Kolay",
+    "question": "Bir araç saatte 60 km hızla 3 saatte kaç km gider?",
+    "options": [
+      "180",
+      "200",
+      "120",
+      "150"
+    ],
+    "answer": "180",
+    "answerLetter": "A",
+    "explanation": "Yol=hız×zaman=60×3=180.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-143",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Problemler",
+    "difficulty": "Kolay",
+    "question": "5 kalem 25 TL ise 1 kalem kaç TL'dir?",
+    "options": [
+      "10",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "5",
+    "answerLetter": "C",
+    "explanation": "25÷5=5.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-144",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Problemler",
+    "difficulty": "Orta",
+    "question": "Ali'nin 20 TL'si vardı, 7 TL harcadı. Kaç TL kaldı?",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "27"
+    ],
+    "answer": "13",
+    "answerLetter": "A",
+    "explanation": "20-7=13.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-145",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Problemler",
+    "difficulty": "Orta",
+    "question": "Bir araç saatte 60 km hızla 3 saatte kaç km gider?",
+    "options": [
+      "150",
+      "180",
+      "200",
+      "120"
+    ],
+    "answer": "180",
+    "answerLetter": "B",
+    "explanation": "Yol=hız×zaman=60×3=180.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-146",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Problemler",
+    "difficulty": "Orta",
+    "question": "5 kalem 25 TL ise 1 kalem kaç TL'dir?",
+    "options": [
+      "6",
+      "10",
+      "4",
+      "5"
+    ],
+    "answer": "5",
+    "answerLetter": "D",
+    "explanation": "25÷5=5.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-147",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Problemler",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: ali'nin 20 TL'si vardı, 7 TL harcadı. Kaç TL kaldı?",
+    "options": [
+      "27",
+      "13",
+      "14",
+      "15"
+    ],
+    "answer": "13",
+    "answerLetter": "B",
+    "explanation": "20-7=13.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-148",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Problemler",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: bir araç saatte 60 km hızla 3 saatte kaç km gider?",
+    "options": [
+      "120",
+      "150",
+      "180",
+      "200"
+    ],
+    "answer": "180",
+    "answerLetter": "C",
+    "explanation": "Yol=hız×zaman=60×3=180.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-149",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Problemler",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: 5 kalem 25 TL ise 1 kalem kaç TL'dir?",
+    "options": [
+      "5",
+      "6",
+      "10",
+      "4"
+    ],
+    "answer": "5",
+    "answerLetter": "A",
+    "explanation": "25÷5=5.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-150",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Problemler",
+    "difficulty": "Kolay",
+    "question": "Ali'nin 20 TL'si vardı, 7 TL harcadı. Kaç TL kaldı? (Tekrar)",
+    "options": [
+      "15",
+      "27",
+      "13",
+      "14"
+    ],
+    "answer": "13",
+    "answerLetter": "C",
+    "explanation": "20-7=13.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-151",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Problemler",
+    "difficulty": "Kolay",
+    "question": "Bir araç saatte 60 km hızla 3 saatte kaç km gider? (Tekrar)",
+    "options": [
+      "200",
+      "120",
+      "150",
+      "180"
+    ],
+    "answer": "180",
+    "answerLetter": "D",
+    "explanation": "Yol=hız×zaman=60×3=180.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-152",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Problemler",
+    "difficulty": "Kolay",
+    "question": "5 kalem 25 TL ise 1 kalem kaç TL'dir? (Tekrar)",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "10"
+    ],
+    "answer": "5",
+    "answerLetter": "B",
+    "explanation": "25÷5=5.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-153",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Problemler",
+    "difficulty": "Orta",
+    "question": "Ali'nin 20 TL'si vardı, 7 TL harcadı. Kaç TL kaldı? (Tekrar)",
+    "options": [
+      "14",
+      "15",
+      "27",
+      "13"
+    ],
+    "answer": "13",
+    "answerLetter": "D",
+    "explanation": "20-7=13.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-154",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Problemler",
+    "difficulty": "Orta",
+    "question": "Bir araç saatte 60 km hızla 3 saatte kaç km gider? (Tekrar)",
+    "options": [
+      "180",
+      "200",
+      "120",
+      "150"
+    ],
+    "answer": "180",
+    "answerLetter": "A",
+    "explanation": "Yol=hız×zaman=60×3=180.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-155",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Problemler",
+    "difficulty": "Orta",
+    "question": "5 kalem 25 TL ise 1 kalem kaç TL'dir? (Tekrar)",
+    "options": [
+      "10",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "5",
+    "answerLetter": "C",
+    "explanation": "25÷5=5.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-156",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Problemler",
+    "difficulty": "Zor",
+    "question": "Ali'nin 20 TL'si vardı, 7 TL harcadı. Kaç TL kaldı? (Tekrar)",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "27"
+    ],
+    "answer": "13",
+    "answerLetter": "A",
+    "explanation": "20-7=13.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-157",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Problemler",
+    "difficulty": "Zor",
+    "question": "Bir araç saatte 60 km hızla 3 saatte kaç km gider? (Tekrar)",
+    "options": [
+      "150",
+      "180",
+      "200",
+      "120"
+    ],
+    "answer": "180",
+    "answerLetter": "B",
+    "explanation": "Yol=hız×zaman=60×3=180.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-158",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Problemler",
+    "difficulty": "Zor",
+    "question": "5 kalem 25 TL ise 1 kalem kaç TL'dir? (Tekrar)",
+    "options": [
+      "6",
+      "10",
+      "4",
+      "5"
+    ],
+    "answer": "5",
+    "answerLetter": "D",
+    "explanation": "25÷5=5.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-159",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Problemler",
+    "difficulty": "Kolay",
+    "question": "Ali'nin 20 TL'si vardı, 7 TL harcadı. Kaç TL kaldı? (Tekrar)",
+    "options": [
+      "27",
+      "13",
+      "14",
+      "15"
+    ],
+    "answer": "13",
+    "answerLetter": "B",
+    "explanation": "20-7=13.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-160",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Problemler",
+    "difficulty": "Kolay",
+    "question": "Bir araç saatte 60 km hızla 3 saatte kaç km gider? (Tekrar)",
+    "options": [
+      "120",
+      "150",
+      "180",
+      "200"
+    ],
+    "answer": "180",
+    "answerLetter": "C",
+    "explanation": "Yol=hız×zaman=60×3=180.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-161",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Kolay",
+    "question": "2 kalem 10 TL ise 4 kalem kaç TL'dir?",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "15"
+    ],
+    "answer": "20",
+    "answerLetter": "A",
+    "explanation": "Kalem sayısı iki katına çıktığı için fiyat da iki katına çıkar.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-162",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Kolay",
+    "question": "3 işçi bir işi 6 günde bitirirse, 6 işçi aynı işi kaç günde bitirir?",
+    "options": [
+      "6",
+      "12",
+      "2",
+      "3"
+    ],
+    "answer": "3",
+    "answerLetter": "D",
+    "explanation": "İşçi sayısı artarsa süre azalır; ters orantı vardır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-163",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Kolay",
+    "question": "1/2 oranı yüzde kaçtır?",
+    "options": [
+      "100",
+      "25",
+      "50",
+      "75"
+    ],
+    "answer": "50",
+    "answerLetter": "C",
+    "explanation": "1/2 = 0,5 = %50.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-164",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Orta",
+    "question": "2 kalem 10 TL ise 4 kalem kaç TL'dir?",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "answer": "20",
+    "answerLetter": "B",
+    "explanation": "Kalem sayısı iki katına çıktığı için fiyat da iki katına çıkar.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-165",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Orta",
+    "question": "3 işçi bir işi 6 günde bitirirse, 6 işçi aynı işi kaç günde bitirir?",
+    "options": [
+      "3",
+      "6",
+      "12",
+      "2"
+    ],
+    "answer": "3",
+    "answerLetter": "A",
+    "explanation": "İşçi sayısı artarsa süre azalır; ters orantı vardır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-166",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Orta",
+    "question": "1/2 oranı yüzde kaç olarak bulunur?",
+    "options": [
+      "75",
+      "100",
+      "25",
+      "50"
+    ],
+    "answer": "50",
+    "answerLetter": "D",
+    "explanation": "1/2 = 0,5 = %50.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-167",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: 2 kalem 10 TL ise 4 kalem kaç TL'dir?",
+    "options": [
+      "30",
+      "15",
+      "20",
+      "25"
+    ],
+    "answer": "20",
+    "answerLetter": "C",
+    "explanation": "Kalem sayısı iki katına çıktığı için fiyat da iki katına çıkar.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-168",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: 3 işçi bir işi 6 günde bitirirse, 6 işçi aynı işi kaç günde bitirir?",
+    "options": [
+      "2",
+      "3",
+      "6",
+      "12"
+    ],
+    "answer": "3",
+    "answerLetter": "B",
+    "explanation": "İşçi sayısı artarsa süre azalır; ters orantı vardır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-169",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: 1/2 oranı yüzde kaçtır?",
+    "options": [
+      "50",
+      "75",
+      "100",
+      "25"
+    ],
+    "answer": "50",
+    "answerLetter": "A",
+    "explanation": "1/2 = 0,5 = %50.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-170",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Kolay",
+    "question": "2 kalem 10 TL ise 4 kalem kaç TL'dir? (Tekrar)",
+    "options": [
+      "25",
+      "30",
+      "15",
+      "20"
+    ],
+    "answer": "20",
+    "answerLetter": "D",
+    "explanation": "Kalem sayısı iki katına çıktığı için fiyat da iki katına çıkar.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-171",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Kolay",
+    "question": "3 işçi bir işi 6 günde bitirirse, 6 işçi aynı işi kaç günde bitirir? (Tekrar)",
+    "options": [
+      "12",
+      "2",
+      "3",
+      "6"
+    ],
+    "answer": "3",
+    "answerLetter": "C",
+    "explanation": "İşçi sayısı artarsa süre azalır; ters orantı vardır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-172",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Kolay",
+    "question": "1/2 oranı yüzde kaçtır? (Tekrar)",
+    "options": [
+      "25",
+      "50",
+      "75",
+      "100"
+    ],
+    "answer": "50",
+    "answerLetter": "B",
+    "explanation": "1/2 = 0,5 = %50.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-173",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Orta",
+    "question": "2 kalem 10 TL ise 4 kalem kaç TL'dir? (Tekrar)",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "15"
+    ],
+    "answer": "20",
+    "answerLetter": "A",
+    "explanation": "Kalem sayısı iki katına çıktığı için fiyat da iki katına çıkar.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-174",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Orta",
+    "question": "3 işçi bir işi 6 günde bitirirse, 6 işçi aynı işi kaç günde bitirir? (Tekrar)",
+    "options": [
+      "6",
+      "12",
+      "2",
+      "3"
+    ],
+    "answer": "3",
+    "answerLetter": "D",
+    "explanation": "İşçi sayısı artarsa süre azalır; ters orantı vardır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-175",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Orta",
+    "question": "1/2 oranı yüzde kaçtır? (Tekrar)",
+    "options": [
+      "100",
+      "25",
+      "50",
+      "75"
+    ],
+    "answer": "50",
+    "answerLetter": "C",
+    "explanation": "1/2 = 0,5 = %50.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-176",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Zor",
+    "question": "2 kalem 10 TL ise 4 kalem kaç TL'dir? (Tekrar)",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "answer": "20",
+    "answerLetter": "B",
+    "explanation": "Kalem sayısı iki katına çıktığı için fiyat da iki katına çıkar.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-177",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Zor",
+    "question": "3 işçi bir işi 6 günde bitirirse, 6 işçi aynı işi kaç günde bitirir? (Tekrar)",
+    "options": [
+      "3",
+      "6",
+      "12",
+      "2"
+    ],
+    "answer": "3",
+    "answerLetter": "A",
+    "explanation": "İşçi sayısı artarsa süre azalır; ters orantı vardır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-178",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Zor",
+    "question": "1/2 oranı yüzde kaçtır? (Tekrar)",
+    "options": [
+      "75",
+      "100",
+      "25",
+      "50"
+    ],
+    "answer": "50",
+    "answerLetter": "D",
+    "explanation": "1/2 = 0,5 = %50.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-179",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Kolay",
+    "question": "2 kalem 10 TL ise 4 kalem kaç TL'dir? (Tekrar)",
+    "options": [
+      "30",
+      "15",
+      "20",
+      "25"
+    ],
+    "answer": "20",
+    "answerLetter": "C",
+    "explanation": "Kalem sayısı iki katına çıktığı için fiyat da iki katına çıkar.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-180",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Oran-Orantı",
+    "difficulty": "Kolay",
+    "question": "3 işçi bir işi 6 günde bitirirse, 6 işçi aynı işi kaç günde bitirir? (Tekrar)",
+    "options": [
+      "2",
+      "3",
+      "6",
+      "12"
+    ],
+    "answer": "3",
+    "answerLetter": "B",
+    "explanation": "İşçi sayısı artarsa süre azalır; ters orantı vardır.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-181",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Kolay",
+    "question": "100 TL'nin %20'si kaç TL'dir?",
+    "options": [
+      "20",
+      "25",
+      "50",
+      "10"
+    ],
+    "answer": "20",
+    "answerLetter": "A",
+    "explanation": "100×20/100=20.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-182",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Kolay",
+    "question": "80 TL'ye alınan ürün 100 TL'ye satılırsa kâr kaç TL'dir?",
+    "options": [
+      "30",
+      "40",
+      "10",
+      "20"
+    ],
+    "answer": "20",
+    "answerLetter": "D",
+    "explanation": "100-80=20.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-183",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Kolay",
+    "question": "200 TL'nin %10 indirimli fiyatı kaç TL'dir?",
+    "options": [
+      "210",
+      "180",
+      "190",
+      "200"
+    ],
+    "answer": "180",
+    "answerLetter": "B",
+    "explanation": "%10 indirim 20 TL'dir; 200-20=180.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-184",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Orta",
+    "question": "100 TL'nin %20'si kaç TL'dir?",
+    "options": [
+      "10",
+      "20",
+      "25",
+      "50"
+    ],
+    "answer": "20",
+    "answerLetter": "B",
+    "explanation": "100×20/100=20.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-185",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Orta",
+    "question": "80 TL'ye alınan ürün 100 TL'ye satılırsa kâr kaç TL'dir?",
+    "options": [
+      "20",
+      "30",
+      "40",
+      "10"
+    ],
+    "answer": "20",
+    "answerLetter": "A",
+    "explanation": "100-80=20.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-186",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Orta",
+    "question": "200 TL'nin %10 indirimli fiyatı kaç TL'dir?",
+    "options": [
+      "200",
+      "210",
+      "180",
+      "190"
+    ],
+    "answer": "180",
+    "answerLetter": "C",
+    "explanation": "%10 indirim 20 TL'dir; 200-20=180.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-187",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: 100 TL'nin %20'si kaç TL'dir?",
+    "options": [
+      "50",
+      "10",
+      "20",
+      "25"
+    ],
+    "answer": "20",
+    "answerLetter": "C",
+    "explanation": "100×20/100=20.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-188",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: 80 TL'ye alınan ürün 100 TL'ye satılırsa kâr kaç TL'dir?",
+    "options": [
+      "10",
+      "20",
+      "30",
+      "40"
+    ],
+    "answer": "20",
+    "answerLetter": "B",
+    "explanation": "100-80=20.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-189",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Zor",
+    "question": "Matematik çalışmasında: 200 TL'nin %10 indirimli fiyatı kaç TL'dir?",
+    "options": [
+      "190",
+      "200",
+      "210",
+      "180"
+    ],
+    "answer": "180",
+    "answerLetter": "D",
+    "explanation": "%10 indirim 20 TL'dir; 200-20=180.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-190",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Kolay",
+    "question": "100 TL'nin %20'si kaç TL'dir? (Tekrar)",
+    "options": [
+      "25",
+      "50",
+      "10",
+      "20"
+    ],
+    "answer": "20",
+    "answerLetter": "D",
+    "explanation": "100×20/100=20.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-191",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Kolay",
+    "question": "80 TL'ye alınan ürün 100 TL'ye satılırsa kâr kaç TL'dir? (Tekrar)",
+    "options": [
+      "40",
+      "10",
+      "20",
+      "30"
+    ],
+    "answer": "20",
+    "answerLetter": "C",
+    "explanation": "100-80=20.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-192",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Kolay",
+    "question": "200 TL'nin %10 indirimli fiyatı kaç TL'dir? (Tekrar)",
+    "options": [
+      "180",
+      "190",
+      "200",
+      "210"
+    ],
+    "answer": "180",
+    "answerLetter": "A",
+    "explanation": "%10 indirim 20 TL'dir; 200-20=180.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-193",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Orta",
+    "question": "100 TL'nin %20'si kaç TL'dir? (Tekrar)",
+    "options": [
+      "20",
+      "25",
+      "50",
+      "10"
+    ],
+    "answer": "20",
+    "answerLetter": "A",
+    "explanation": "100×20/100=20.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-194",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Orta",
+    "question": "80 TL'ye alınan ürün 100 TL'ye satılırsa kâr kaç TL'dir? (Tekrar)",
+    "options": [
+      "30",
+      "40",
+      "10",
+      "20"
+    ],
+    "answer": "20",
+    "answerLetter": "D",
+    "explanation": "100-80=20.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-195",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Orta",
+    "question": "200 TL'nin %10 indirimli fiyatı kaç TL'dir? (Tekrar)",
+    "options": [
+      "210",
+      "180",
+      "190",
+      "200"
+    ],
+    "answer": "180",
+    "answerLetter": "B",
+    "explanation": "%10 indirim 20 TL'dir; 200-20=180.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-196",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Zor",
+    "question": "100 TL'nin %20'si kaç TL'dir? (Tekrar)",
+    "options": [
+      "10",
+      "20",
+      "25",
+      "50"
+    ],
+    "answer": "20",
+    "answerLetter": "B",
+    "explanation": "100×20/100=20.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-197",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Zor",
+    "question": "80 TL'ye alınan ürün 100 TL'ye satılırsa kâr kaç TL'dir? (Tekrar)",
+    "options": [
+      "20",
+      "30",
+      "40",
+      "10"
+    ],
+    "answer": "20",
+    "answerLetter": "A",
+    "explanation": "100-80=20.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-198",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Zor",
+    "question": "200 TL'nin %10 indirimli fiyatı kaç TL'dir? (Tekrar)",
+    "options": [
+      "200",
+      "210",
+      "180",
+      "190"
+    ],
+    "answer": "180",
+    "answerLetter": "C",
+    "explanation": "%10 indirim 20 TL'dir; 200-20=180.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-199",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Kolay",
+    "question": "100 TL'nin %20'si kaç TL'dir? (Tekrar)",
+    "options": [
+      "50",
+      "10",
+      "20",
+      "25"
+    ],
+    "answer": "20",
+    "answerLetter": "C",
+    "explanation": "100×20/100=20.",
+    "source": "Matematik lise düzeyi soru havuzu"
+  },
+  {
+    "id": "mt-200",
+    "testGroup": "Matematik",
+    "category": "Matematik",
+    "topic": "Yüzde-Kar-Zarar",
+    "difficulty": "Kolay",
+    "question": "80 TL'ye alınan ürün 100 TL'ye satılırsa kâr kaç TL'dir? (Tekrar)",
+    "options": [
+      "10",
+      "20",
+      "30",
+      "40"
+    ],
+    "answer": "20",
+    "answerLetter": "B",
+    "explanation": "100-80=20.",
+    "source": "Matematik lise düzeyi soru havuzu"
   }
 ];

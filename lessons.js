@@ -1224,5 +1224,345 @@ window.LESSONS = [
       "Yasama, yürütme ve yargı ayrımı karıştırılmamalıdır."
     ],
     "examNote": "Bu başlıkta tanım, yetki ve kurum eşleştirmelerine dikkat edilmelidir."
+  },
+  {
+    "id": "tr-001",
+    "module": "Türkçe",
+    "category": "Türkçe",
+    "title": "Sözcükte Anlam",
+    "emoji": "🇹🇷",
+    "minutes": 3,
+    "content": [
+      "Sözcüklerin gerçek, mecaz ve terim anlamları vardır. Bir kelimenin cümledeki görevi bağlama göre değişebilir. Sınavlarda özellikle mecaz anlam, eş anlam, zıt anlam ve deyim anlamı sorulur.",
+      "Bu konu lise düzeyi ve kamu sınavı mantığına uygun şekilde kısa tekrar için hazırlanmıştır."
+    ],
+    "remember": [
+      "Kelime anlamı cümleye göre belirlenir.",
+      "Soru kökü dikkatli okunmalıdır."
+    ],
+    "examNote": "Türkçe sorularında anlam ve kural birlikte değerlendirilmelidir."
+  },
+  {
+    "id": "tr-002",
+    "module": "Türkçe",
+    "category": "Türkçe",
+    "title": "Cümlede Anlam",
+    "emoji": "🧠",
+    "minutes": 3,
+    "content": [
+      "Cümlede anlam soruları, yargı, neden-sonuç, amaç-sonuç, koşul, karşılaştırma ve çıkarım ilişkilerini ölçer. Ana fikir cümlenin vermek istediği temel mesajdır.",
+      "Bu konu lise düzeyi ve kamu sınavı mantığına uygun şekilde kısa tekrar için hazırlanmıştır."
+    ],
+    "remember": [
+      "Cümledeki ilişki türünü bulmak önemlidir.",
+      "Soru kökü dikkatli okunmalıdır."
+    ],
+    "examNote": "Türkçe sorularında anlam ve kural birlikte değerlendirilmelidir."
+  },
+  {
+    "id": "tr-003",
+    "module": "Türkçe",
+    "category": "Türkçe",
+    "title": "Paragraf",
+    "emoji": "📖",
+    "minutes": 3,
+    "content": [
+      "Paragraf sorularında ana düşünce, yardımcı düşünce, konu, başlık ve anlatım akışı sorgulanır. Önce soru kökü, sonra paragraf okunmalıdır.",
+      "Bu konu lise düzeyi ve kamu sınavı mantığına uygun şekilde kısa tekrar için hazırlanmıştır."
+    ],
+    "remember": [
+      "Paragrafın ana düşüncesi genellikle genelleyici cümledir.",
+      "Soru kökü dikkatli okunmalıdır."
+    ],
+    "examNote": "Türkçe sorularında anlam ve kural birlikte değerlendirilmelidir."
+  },
+  {
+    "id": "tr-004",
+    "module": "Türkçe",
+    "category": "Türkçe",
+    "title": "Yazım Kuralları",
+    "emoji": "✍️",
+    "minutes": 3,
+    "content": [
+      "Büyük harflerin kullanımı, birleşik kelimeler, sayıların yazımı, kısaltmalar ve eklerin yazımı temel yazım konularıdır.",
+      "Bu konu lise düzeyi ve kamu sınavı mantığına uygun şekilde kısa tekrar için hazırlanmıştır."
+    ],
+    "remember": [
+      "Yazımda TDK kuralları esas alınır.",
+      "Soru kökü dikkatli okunmalıdır."
+    ],
+    "examNote": "Türkçe sorularında anlam ve kural birlikte değerlendirilmelidir."
+  },
+  {
+    "id": "tr-005",
+    "module": "Türkçe",
+    "category": "Türkçe",
+    "title": "Noktalama İşaretleri",
+    "emoji": "❗",
+    "minutes": 3,
+    "content": [
+      "Virgül, nokta, noktalı virgül, iki nokta, tırnak ve kesme işareti sınavlarda sık sorulur. Noktalama cümlenin anlamını doğrudan etkileyebilir.",
+      "Bu konu lise düzeyi ve kamu sınavı mantığına uygun şekilde kısa tekrar için hazırlanmıştır."
+    ],
+    "remember": [
+      "Noktalama anlam karışıklığını önler.",
+      "Soru kökü dikkatli okunmalıdır."
+    ],
+    "examNote": "Türkçe sorularında anlam ve kural birlikte değerlendirilmelidir."
+  },
+  {
+    "id": "tr-006",
+    "module": "Türkçe",
+    "category": "Türkçe",
+    "title": "Ses Bilgisi",
+    "emoji": "🔊",
+    "minutes": 3,
+    "content": [
+      "Ünlü düşmesi, ünlü daralması, ünsüz benzeşmesi, ünsüz yumuşaması ve kaynaştırma harfleri ses bilgisi içinde değerlendirilir.",
+      "Bu konu lise düzeyi ve kamu sınavı mantığına uygun şekilde kısa tekrar için hazırlanmıştır."
+    ],
+    "remember": [
+      "Ses olayları kelimeye ek geldiğinde ortaya çıkar.",
+      "Soru kökü dikkatli okunmalıdır."
+    ],
+    "examNote": "Türkçe sorularında anlam ve kural birlikte değerlendirilmelidir."
+  },
+  {
+    "id": "tr-007",
+    "module": "Türkçe",
+    "category": "Türkçe",
+    "title": "Yapı Bilgisi",
+    "emoji": "🧩",
+    "minutes": 3,
+    "content": [
+      "Kök, gövde, yapım eki ve çekim eki yapı bilgisinin temelidir. Yapım eki kelimenin anlamını değiştirir, çekim eki cümlede görev kazandırır.",
+      "Bu konu lise düzeyi ve kamu sınavı mantığına uygun şekilde kısa tekrar için hazırlanmıştır."
+    ],
+    "remember": [
+      "Yapım eki yeni kelime yapar.",
+      "Soru kökü dikkatli okunmalıdır."
+    ],
+    "examNote": "Türkçe sorularında anlam ve kural birlikte değerlendirilmelidir."
+  },
+  {
+    "id": "tr-008",
+    "module": "Türkçe",
+    "category": "Türkçe",
+    "title": "Fiiller",
+    "emoji": "🏃",
+    "minutes": 3,
+    "content": [
+      "Fiiller iş, oluş ve durum bildirir. Kip, kişi ve zaman ekleriyle çekimlenir. Fiilimsi ise fiilden türemesine rağmen tam fiil gibi çekimlenmez.",
+      "Bu konu lise düzeyi ve kamu sınavı mantığına uygun şekilde kısa tekrar için hazırlanmıştır."
+    ],
+    "remember": [
+      "Fiiller kip ve kişi eki alabilir.",
+      "Soru kökü dikkatli okunmalıdır."
+    ],
+    "examNote": "Türkçe sorularında anlam ve kural birlikte değerlendirilmelidir."
+  },
+  {
+    "id": "tr-009",
+    "module": "Türkçe",
+    "category": "Türkçe",
+    "title": "Cümle Türleri",
+    "emoji": "🧱",
+    "minutes": 3,
+    "content": [
+      "Cümleler yüklemin türüne, yerine, anlamına ve yapısına göre sınıflandırılır. İsim cümlesi, fiil cümlesi, olumlu, olumsuz, soru, basit, birleşik gibi türler vardır.",
+      "Bu konu lise düzeyi ve kamu sınavı mantığına uygun şekilde kısa tekrar için hazırlanmıştır."
+    ],
+    "remember": [
+      "Cümle türünü bulmak için yükleme bakılır.",
+      "Soru kökü dikkatli okunmalıdır."
+    ],
+    "examNote": "Türkçe sorularında anlam ve kural birlikte değerlendirilmelidir."
+  },
+  {
+    "id": "tr-010",
+    "module": "Türkçe",
+    "category": "Türkçe",
+    "title": "Anlatım Bozuklukları",
+    "emoji": "⚠️",
+    "minutes": 3,
+    "content": [
+      "Gereksiz sözcük, anlam belirsizliği, yanlış sözcük kullanımı, özne-yüklem uyumsuzluğu ve ek yanlışları anlatım bozukluğu oluşturur.",
+      "Bu konu lise düzeyi ve kamu sınavı mantığına uygun şekilde kısa tekrar için hazırlanmıştır."
+    ],
+    "remember": [
+      "Anlatım açık, doğru ve tutarlı olmalıdır.",
+      "Soru kökü dikkatli okunmalıdır."
+    ],
+    "examNote": "Türkçe sorularında anlam ve kural birlikte değerlendirilmelidir."
+  },
+  {
+    "id": "mt-001",
+    "module": "Matematik",
+    "category": "Matematik",
+    "title": "Temel İşlemler",
+    "emoji": "➕",
+    "minutes": 3,
+    "content": [
+      "Dört işlemde işlem önceliği önemlidir. Parantez içi, üslü ifadeler, çarpma-bölme ve toplama-çıkarma sırası takip edilir.",
+      "Bu konu lise düzeyi temel matematik için kısa tekrar amacıyla hazırlanmıştır."
+    ],
+    "remember": [
+      "İşlem önceliği doğru sonuç için şarttır.",
+      "İşlem adımları düzenli yazılmalıdır."
+    ],
+    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir."
+  },
+  {
+    "id": "mt-002",
+    "module": "Matematik",
+    "category": "Matematik",
+    "title": "Bölünebilme Kuralları",
+    "emoji": "🔢",
+    "minutes": 3,
+    "content": [
+      "2,3,4,5,6,8,9,10 ve 11 ile bölünebilme kuralları sayı sorularında hız kazandırır. Rakamlar toplamı 3 ve 9 için önemlidir.",
+      "Bu konu lise düzeyi temel matematik için kısa tekrar amacıyla hazırlanmıştır."
+    ],
+    "remember": [
+      "Bölünebilme kuralları pratik çözüm sağlar.",
+      "İşlem adımları düzenli yazılmalıdır."
+    ],
+    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir."
+  },
+  {
+    "id": "mt-003",
+    "module": "Matematik",
+    "category": "Matematik",
+    "title": "OBEB ve OKEK",
+    "emoji": "🧮",
+    "minutes": 3,
+    "content": [
+      "OBEB ortak bölenlerin en büyüğü, OKEK ortak katların en küçüğüdür. Paylaştırma ve birlikte tekrar etme problemlerinde kullanılır.",
+      "Bu konu lise düzeyi temel matematik için kısa tekrar amacıyla hazırlanmıştır."
+    ],
+    "remember": [
+      "Paylaştırma OBEB, tekrar OKEK çağrıştırır.",
+      "İşlem adımları düzenli yazılmalıdır."
+    ],
+    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir."
+  },
+  {
+    "id": "mt-004",
+    "module": "Matematik",
+    "category": "Matematik",
+    "title": "Rasyonel Sayılar",
+    "emoji": "½",
+    "minutes": 3,
+    "content": [
+      "Kesirler, ondalık sayılar ve oranlar rasyonel sayılar içinde yer alır. Payda eşitleme ve sadeleştirme temel işlemlerdir.",
+      "Bu konu lise düzeyi temel matematik için kısa tekrar amacıyla hazırlanmıştır."
+    ],
+    "remember": [
+      "Kesirlerde ortak payda önemlidir.",
+      "İşlem adımları düzenli yazılmalıdır."
+    ],
+    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir."
+  },
+  {
+    "id": "mt-005",
+    "module": "Matematik",
+    "category": "Matematik",
+    "title": "Üslü Sayılar",
+    "emoji": "²",
+    "minutes": 3,
+    "content": [
+      "Üslü ifadelerde taban ve üs kuralları kullanılır. Aynı tabanlı çarpımda üsler toplanır, bölümde üsler çıkarılır.",
+      "Bu konu lise düzeyi temel matematik için kısa tekrar amacıyla hazırlanmıştır."
+    ],
+    "remember": [
+      "Aynı tabanda üs kuralları uygulanır.",
+      "İşlem adımları düzenli yazılmalıdır."
+    ],
+    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir."
+  },
+  {
+    "id": "mt-006",
+    "module": "Matematik",
+    "category": "Matematik",
+    "title": "Köklü Sayılar",
+    "emoji": "√",
+    "minutes": 3,
+    "content": [
+      "Köklü ifadelerde kök dışına çıkarma, kök içinde sadeleştirme ve benzer kökleri toplama temel becerilerdir.",
+      "Bu konu lise düzeyi temel matematik için kısa tekrar amacıyla hazırlanmıştır."
+    ],
+    "remember": [
+      "Benzer kökler toplanabilir.",
+      "İşlem adımları düzenli yazılmalıdır."
+    ],
+    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir."
+  },
+  {
+    "id": "mt-007",
+    "module": "Matematik",
+    "category": "Matematik",
+    "title": "Denklem Çözme",
+    "emoji": "🟰",
+    "minutes": 3,
+    "content": [
+      "Bilinmeyenli eşitliklerde amaç bilinmeyeni yalnız bırakmaktır. Her iki tarafa aynı işlem uygulanarak eşitlik korunur.",
+      "Bu konu lise düzeyi temel matematik için kısa tekrar amacıyla hazırlanmıştır."
+    ],
+    "remember": [
+      "Denklemde denge korunmalıdır.",
+      "İşlem adımları düzenli yazılmalıdır."
+    ],
+    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir."
+  },
+  {
+    "id": "mt-008",
+    "module": "Matematik",
+    "category": "Matematik",
+    "title": "Problemler",
+    "emoji": "🧾",
+    "minutes": 3,
+    "content": [
+      "Yaş, işçi, havuz, hareket, kar-zarar ve yüzde problemleri lise düzeyinde sık gelir. Veriler tabloya dökülürse çözüm kolaylaşır.",
+      "Bu konu lise düzeyi temel matematik için kısa tekrar amacıyla hazırlanmıştır."
+    ],
+    "remember": [
+      "Problemlerde önce verilenler yazılmalıdır.",
+      "İşlem adımları düzenli yazılmalıdır."
+    ],
+    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir."
+  },
+  {
+    "id": "mt-009",
+    "module": "Matematik",
+    "category": "Matematik",
+    "title": "Oran-Orantı",
+    "emoji": "📐",
+    "minutes": 3,
+    "content": [
+      "Oran iki çokluğun karşılaştırılmasıdır. Doğru orantıda biri artarken diğeri artar, ters orantıda biri artarken diğeri azalır.",
+      "Bu konu lise düzeyi temel matematik için kısa tekrar amacıyla hazırlanmıştır."
+    ],
+    "remember": [
+      "Doğru ve ters orantı ayrımı önemlidir.",
+      "İşlem adımları düzenli yazılmalıdır."
+    ],
+    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir."
+  },
+  {
+    "id": "mt-010",
+    "module": "Matematik",
+    "category": "Matematik",
+    "title": "Yüzde, Kâr ve Zarar",
+    "emoji": "%",
+    "minutes": 3,
+    "content": [
+      "Yüzde problemlerinde temel değer 100 kabul edilir. Kâr satış fiyatının maliyetten fazla, zarar ise az olmasıdır.",
+      "Bu konu lise düzeyi temel matematik için kısa tekrar amacıyla hazırlanmıştır."
+    ],
+    "remember": [
+      "Yüzde sorularında başlangıç değeri doğru alınmalıdır.",
+      "İşlem adımları düzenli yazılmalıdır."
+    ],
+    "examNote": "Matematikte hızlı çözüm için temel kurallar ezberlenmelidir."
   }
 ];

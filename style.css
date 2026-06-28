@@ -389,3 +389,29 @@
     display:none;
   }
 }
+
+/* TURKCE MATEMATIK MODULE */
+.final-modules.five,
+.final-test-grid.five{
+  grid-template-columns:repeat(5,1fr);
+}
+.test-card-red{
+  border-color:rgba(239,68,68,.38) !important;
+  background:linear-gradient(135deg,rgba(239,68,68,.13),rgba(255,255,255,.035)) !important;
+}
+.test-card-green{
+  border-color:rgba(34,197,94,.38) !important;
+  background:linear-gradient(135deg,rgba(34,197,94,.13),rgba(255,255,255,.035)) !important;
+}
+@media(max-width:1050px){
+  .final-modules.five,
+  .final-test-grid.five{
+    grid-template-columns:repeat(2,1fr);
+  }
+}
+@media(max-width:780px){
+  .final-modules.five,
+  .final-test-grid.five{
+    grid-template-columns:1fr;
+  }
+}
